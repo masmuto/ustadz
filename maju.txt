@@ -1,8 +1,7 @@
 #EXTM3U
 
 //Vidio
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="Vidio NEW",DONASI OVO/DANA/LINKAJA : 081277636082
-https://riyancoday.xyz/coday.mp4?coday=76
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/luOi_zazH1vtQCkgL6IHPw5dWGI=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="Vidio NEW",RCTI (Auto Set Quality)  
 		https://etslive-2-vidio-com.akamaized.net/exp=1599494795~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=a65b5478505d6482c271771a68579e5bd1551d20f650d3180622dc38820c2e4e/vp9/665_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Iv_VvQ4NLScFawNiXCti8To_zmk=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Vidio NEW",MNCTV (Auto Set Quality)  
