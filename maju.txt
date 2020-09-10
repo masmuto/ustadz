@@ -1,11 +1,7 @@
 
 #EXTM3U
 
-//Vidio
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="Vidio NEW",DONASI OVO/DANA/LINKAJA : 081277636082
-https://riyancoday.xyz/coday.mp4?coday=45
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/luOi_zazH1vtQCkgL6IHPw5dWGI=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="Vidio NEW",RCTI (Auto Set Quality)  
-		https://etslive-2-vidio-com.akamaized.net/exp=1599730615~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=3abe1d5862ace9b26238e84a51b354caf812bb2b459c1329a8a226964a52f6d2/vp9/665_stream.mpd
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Iv_VvQ4NLScFawNiXCti8To_zmk=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Vidio NEW",MNCTV (Auto Set Quality)  
 		https://etslive-2-vidio-com.akamaized.net/exp=1599730615~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=631b6953c3f1c862cb1c23acb2174ffd80a6985373b09cfe8ba06d5221625c5a/vp9/870_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KGbPFlq9aWJ15qfAtZeg15gpR6Q=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Vidio NEW",GLOBAL TV (Auto Set Quality)  
