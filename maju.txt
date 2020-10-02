@@ -1,298 +1,296 @@
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/luOi_zazH1vtQCkgL6IHPw5dWGI=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="Vidio NEW",RCTI (Auto Set Quality)  
-		https://etslive-2-vidio-com.akamaized.net/exp=1601213815~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=4cd6da3e6273779710227ccb395c12f25bfb7ea17be4637873223012a5cb7fab/vp9/665_stream.mpd
+		https://etslive-2-vidio-com.akamaized.net/exp=1601645815~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=70e52103ec9a60b5d3baaa4b6c12ecb7adc097bd02fd470aa97409e51a05dc96/vp9/665_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Iv_VvQ4NLScFawNiXCti8To_zmk=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Vidio NEW",MNCTV (Auto Set Quality)  
-		https://etslive-2-vidio-com.akamaized.net/exp=1601213815~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=9e88394fc9d3d895e08e306e848efb255879f6bf94f62af28ba688fb2e1b8d2a/vp9/870_stream.mpd
+		https://etslive-2-vidio-com.akamaized.net/exp=1601645815~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=8f2828ebcb63b31eb046d74891e9cebd7b2eaf4a121727bfc2a368054da28d39/vp9/870_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KGbPFlq9aWJ15qfAtZeg15gpR6Q=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Vidio NEW",GLOBAL TV (Auto Set Quality)  
-		https://etslive-2-vidio-com.akamaized.net/exp=1601213815~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=e383425d24e256f3f901e12d2bccd2502db89eeb87d424f3b857dfd31a7077c6/vp9/778_stream.mpd
+		https://etslive-2-vidio-com.akamaized.net/exp=1601645815~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=d01fd40e123c8c2f73eff55170ba0a0092572ec3b0b4ec9ff62854f0cf2b3e85/vp9/778_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/cffn2W9NOiJ-NOMlxvOdKCDN0h0=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="Vidio NEW",NET TV (Auto Set Quality)  
-		https://etslive-2-vidio-com.akamaized.net/exp=1601213815~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=dd1468e684259e1456ea961b1eaf0d91bd57f68cde225c805164843636a6d565/vp9/875_stream.mpd
+		https://etslive-2-vidio-com.akamaized.net/exp=1601645815~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=f3b87d082ef6646760db676ed5f0f620c5491f1ca82d379b0d83dd2cd14ca4ba/vp9/875_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/iAINbdQHeI3X4QDzdaN4eNNaVwg=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="Vidio NEW",TRANS7 (Auto Set Quality)  
-		https://etslive-2-vidio-com.akamaized.net/exp=1601213815~acl=/vp9/734_stream.mpd!/vp9/734/*~hmac=40fbe300c7ebac207c51f7168102d5689c7a96b9626fc4f7fd643693071f5d4d/vp9/734_stream.mpd
+		https://etslive-2-vidio-com.akamaized.net/exp=1601645815~acl=/vp9/734_stream.mpd!/vp9/734/*~hmac=8715e31d03fb26ea45bf190206d434cfe769c565b6bf2c41933fc9f7d0fbd186/vp9/734_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tcUmQVAAtUoBIC0CXNRAD7I6AA8=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="Vidio NEW",TRANS TV (Auto Set Quality)  
-		https://etslive-2-vidio-com.akamaized.net/exp=1601213815~acl=/vp9/733_stream.mpd!/vp9/733/*~hmac=9f73aca1cafcc4449331903bc320f2b9affaf6326f9d1572aa6a0b9d13bf23cd/vp9/733_stream.mpd
+		https://etslive-2-vidio-com.akamaized.net/exp=1601645815~acl=/vp9/733_stream.mpd!/vp9/733/*~hmac=045b7dd7c94d8e5b26f88d7b9719f93acdb84f427e32084e4593e9bedbe29ee8/vp9/733_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/t_3TP4_tXIqeNnSpW7-ZPc-gz3o=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-e17be3.jpg" group-title="Vidio NEW",SCTV (Auto Set Quality)  
-		https://etslive-2-vidio-com.akamaized.net/exp=1601213815~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=7b85850f3ddebc9e15ca3454a121f56f13c935a940e1e1840c8dd2a5da453145/vp9/204_stream.mpd
+		https://etslive-2-vidio-com.akamaized.net/exp=1601645815~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=eef8e68a35f4b7eafd326e00d2864b1eff63d41bbafa94aa00d715d86e22a193/vp9/204_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/cw7Fq78LeELJ6EmVm2_TJ5Kr6l0=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-73afc4.jpg" group-title="Vidio NEW",INDOSIAR (Auto Set Quality)  
-		https://etslive-2-vidio-com.akamaized.net/exp=1601213815~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=a237d341e1634d787ab10c426a7928b1ea29ca9597d1577583d7475dd7f0c6e6/vp9/205_stream.mpd
+		https://etslive-2-vidio-com.akamaized.net/exp=1601645815~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=863df70c2a03729b25474006dfb7f1a341d3ebb2fd4798c90601d869fa43ca9a/vp9/205_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8MCjlvazplrOxbxsTFEMPy0N4YA=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="Vidio NEW",TVRI HD  CODAY !
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/F2HOhV4Zm1vQxlOw347qiH777YA=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" group-title="Vidio NEW",KOMPAS TV 
-		https://etslive-2-vidio-com.akamaized.net/exp=1601213815~acl=/vp9/874_stream.mpd!/vp9/874/*~hmac=9362dc192be565a3a5b605229a62d4fa189073713fc66e1f3b3d9590b5c528c9/vp9/874_stream.mpd
+		https://etslive-2-vidio-com.akamaized.net/exp=1601645816~acl=/vp9/874_stream.mpd!/vp9/874/*~hmac=0d4998e1ee2d417e1fbfd57bdc558d2caeb953ccca247f20d0f5d912f32c734c/vp9/874_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/08YofwZWRK0ZX1DaARlcILNicNs=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-362808.jpg" group-title="Vidio NEW",METRO TV HD  
-		https://etslive-2-vidio-com.akamaized.net/exp=1601213816~acl=/vp9/777_stream.mpd!/vp9/777/*~hmac=a3a8f217f8919359ad0275301c983dce0aaebc0aa74ce69af5aedbf07de66741/vp9/777_stream.mpd
+		https://etslive-2-vidio-com.akamaized.net/exp=1601645816~acl=/vp9/777_stream.mpd!/vp9/777/*~hmac=999e41a3c4be65ea2413b648e9ceb4bf78995b0a343e2c5e4c4a60b055157c82/vp9/777_stream.mpd
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_fC2eBJvZbrdn63yJHkgGH_bYqw=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="Vidio NEW",BERITA SATU HD  
-https://etslive-2-vidio-com.akamaized.net/exp=1601213816~acl=/hls-p/ingest_6165_*/*~hmac=9b01d10a3f6d9c659b6d5d12636b7fac756403d2f5bc33dd2c24887cb0f12a66/hls-p/ingest_6165_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1601645816~acl=/hls-p/ingest_6165_*/*~hmac=f30e9a312adb2ee224ee2403f3ab11f91d1eb693b03d19877f78311844c2102b/hls-p/ingest_6165_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dLEaPmvkGaM-Sor_19IDRHUvsVU=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" group-title="Vidio NEW",JAKTV HD  
-https://etslive-2-vidio-com.akamaized.net/exp=1601213816~acl=/hls-p/ingest_5415_*/*~hmac=6bd8fa52e66d051227e2bf7aa5be726bfac7b6e33946db012b00a8e596ca9c05/hls-p/ingest_5415_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1601645816~acl=/hls-p/ingest_5415_*/*~hmac=67e14dd1174e5d160468d9347f298c8a62f534edb1a1055a199db09646ed90a2/hls-p/ingest_5415_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/A2RM-UsyPaaDg06uJSpBCKLavs0=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" gfroup-title="Vidio NEW",RAJAWALI TV HD  
-https://etslive-2-vidio-com.akamaized.net/exp=1601213816~acl=/hls-p/ingest_geo_1561_*/*~hmac=537916e073e790141238aeb4108ec4cbbca06c93889b70414a35937aade6f053/hls-p/ingest_geo_1561_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1601645816~acl=/hls-p/ingest_geo_1561_*/*~hmac=5615d49aa62c0ff77fbcbbb54e4517f2b5bcaedb9ce292755601217c51557e8a/hls-p/ingest_geo_1561_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/h3Z5VdjrN1OGQQI-QmGakiPg22M=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="Vidio NEW",INEWS TV HD  
-https://etslive-2-vidio-com.akamaized.net/exp=1601213816~acl=/hls-p/ingest_5409_*/*~hmac=6dcf75c510cbcc082ea32edb839e1fe5be48dd481d6108464d3207ce9c7e4dec/hls-p/ingest_5409_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1601645816~acl=/hls-p/ingest_5409_*/*~hmac=cff4633def1df41782d57de91d74fd1043d4f0520e2f74dba8f5c51721989099/hls-p/ingest_5409_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7947QUxKOxXVIhH8dXK28GGUwOg=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-4823b3.jpg" group-title="Vidio NEW",REFORMED 21 TV HD  
-https://etslive-2-vidio-com.akamaized.net/exp=1601213816~acl=/hls-p/ingest_6853_*/*~hmac=edfb5073f88293f69e2d669412f1b610dd81881fba881eb53f5b0e7379edef3e/hls-p/ingest_6853_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1601645816~acl=/hls-p/ingest_6853_*/*~hmac=744d653462ed6f19a12ba9b002de622d677b77a7c95d1ad14e1bd0d04b578c05/hls-p/ingest_6853_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BEf8MDKshKYNKnDaeGnM0EGq33M=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Vidio NEW",Al QURAN AL KAREEM TV HD  
-https://etslive-2-vidio-com.akamaized.net/exp=1601213816~acl=/hls-p/ingest_6852_*/*~hmac=8254d054897d4a8f8aa6cf2b91c0159bbf921bcd7b2cd7cd031a0a550d1bb73b/hls-p/ingest_6852_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1601645816~acl=/hls-p/ingest_6852_*/*~hmac=b32a837929fbd91e9f9635ccd749d8515a24bed1e4f67df808f67625a39ef66a/hls-p/ingest_6852_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Wh5Dp6_alAr4t8P798e7fNckxig=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-fd9040.jpg" group-title="Vidio NEW",O-CHANNEL HD  
-https://etslive-2-vidio-com.akamaized.net/exp=1601213816~acl=/hls-p/ingest_206_*/*~hmac=662a53e9d77bef79c90114552cf1e591dbdab94406f731d67f8105005ad8bb80/hls-p/ingest_206_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1601645816~acl=/hls-p/ingest_206_*/*~hmac=a4221fd030e8978bb584f6e2f876528669e6934a85dd1cd10293ad509ad0bffb/hls-p/ingest_206_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZUBLyg0_6DvaZ_w1ETMY0Tr-jgs=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" group-title="Vidio NEW",TV EDUKASI HD  
-https://etslive-2-vidio-com.akamaized.net/exp=1601213816~acl=/hls-p/ingest_6838_*/*~hmac=88e3d8a84ab9c515ef3323390ccfefdfc0a544dbde0ed6c028de4e6b5db74cd2/hls-p/ingest_6838_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1601645816~acl=/hls-p/ingest_6838_*/*~hmac=a47ecabd6499821d88c747b8ca013e79ebde88914d1ad9cb4617ad284a1505c4/hls-p/ingest_6838_720p/index.m3u8
 
 
 //LOCAL
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Trans7
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=trans7
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] TransTV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=transtv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Indosiar
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=indosiar
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] SCTV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=sctv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Net.
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=net
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Ruang Trampil
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=useeinfo
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Usee Photo
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=useephoto
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] UseePrime
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=useeprime
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Insert
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=insert
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Idku
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=idku
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] TVRI
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=tvri
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?id=8" group-title="LOCAL (USEETV)",[CODAY] JITV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=jitv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Kompas TV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=kompastv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Rajawali TV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=rtv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] RRI NET
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=rrinet
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Antara
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=antara
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Bali TV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=balitv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Berita Satu
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=beritasatu
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] JakTV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=jaktv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] JTV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=jtv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?id=8" group-title="LOCAL (USEETV)",[CODAY] MyTV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=mytv
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] TV Edukasi
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=tvedukasi
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?id=8" group-title="LOCAL (USEETV)",[CODAY] Daai TV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=daaitv
-4718
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] Trans7
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=trans7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] TransTV
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=transtv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] Indosiar
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=indosiar
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] SCTV
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=sctv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] Net.
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=net
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?id=8" group-title="LOCAL (USEETV)",[CDY] Ruang Trampil
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=useeinfo
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?id=8" group-title="LOCAL (USEETV)",[CDY] Usee Photo
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=useephoto
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] UseePrime
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=useeprime
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] Insert
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=insert
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png?id=8" group-title="LOCAL (USEETV)",[CDY] Idku
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=idku
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] TVRI
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=tvri
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?id=8" group-title="LOCAL (USEETV)",[CDY] JITV
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=jitv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?id=8" group-title="LOCAL (USEETV)",[CDY] Kompas TV
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=kompastv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] Rajawali TV
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=rtv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] RRI NET
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=rrinet
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] Antara
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=antara
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] Bali TV
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=balitv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] Berita Satu
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=beritasatu
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] JakTV
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=jaktv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] JTV
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=jtv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?id=8" group-title="LOCAL (USEETV)",[CDY] MyTV
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=mytv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] TV Edukasi
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=tvedukasi
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?id=8" group-title="LOCAL (USEETV)",[CDY] Daai TV
+   http://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=daaitv
+4649
 //KIDS
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png?id=8" group-title="KIDS (USEETV)",[CODAY] Baby First
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=babyfirst
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=babyfirst
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?id=8" group-title="KIDS (USEETV)",[CODAY] Horee
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=horee
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=horee
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?id=8" group-title="KIDS (USEETV)",[CODAY] Duck TV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=ducktv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=ducktv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png?id=8" group-title="KIDS (USEETV)",[CODAY] Boomerang
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=boomerang
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=boomerang
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png?id=8" group-title="KIDS (USEETV)",[CODAY] Cartoon Network
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=cartoonnetwork
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?id=8" group-title="KIDS (USEETV)",[CODAY] Dunia anak
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=duniaanak
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=duniaanak
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png?id=8" group-title="KIDS (USEETV)",[CODAY] Nick Junior
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=nickjr
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=nickjr
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png?id=8" group-title="KIDS (USEETV)",[CODAY] Nickelodeon
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=nickelodeon
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=nickelodeon
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?id=8" group-title="KIDS (USEETV)",[CODAY] Da Vinci Learning
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=davinci
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=davinci
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png?id=8" group-title="KIDS (USEETV)",[CODAY] My Kids
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=mykids
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=mykids
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?id=8" group-title="KIDS (USEETV)",[CODAY] Dreamworks
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=dreamworks
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=dreamworks
 2330
 // NEWS
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?id=8" group-title="NEWS (USEETV)",[CODAY] Metro TV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=metrotv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=metrotv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png?id=8" group-title="NEWS (USEETV)",[CODAY] CNBC Indonesia
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=cnbcindonesia
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=cnbcindonesia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?id=8" group-title="NEWS (USEETV)",[CODAY] Aljazeera
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=aljazeera
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=aljazeera
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png?id=8" group-title="NEWS (USEETV)",[CODAY] IDX
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=idx
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=idx
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?id=8" group-title="NEWS (USEETV)",[CODAY] DW (English)
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=dwtv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=dwtv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?id=8" group-title="NEWS (USEETV)",[CODAY] France 24
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=france24
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=france24
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?id=8" group-title="NEWS (USEETV)",CODAY WAS HERE!
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png?id=8" group-title="NEWS (USEETV)",[CODAY] TRT World
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=trtworld
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=trtworld
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?id=8" group-title="NEWS (USEETV)",[CODAY] CNN Indonesia
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=cnnindonesia
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=cnnindonesia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png?id=8" group-title="NEWS (USEETV)",[CODAY] CNN International
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=cnninternational
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=cnninternational
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?id=8" group-title="NEWS (USEETV)",[CODAY] Bloomberg
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=bloomberg
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=bloomberg
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?id=8" group-title="NEWS (USEETV)",[CODAY] Euronews
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=euronews
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=euronews
 
 // MUSIC
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ikonser_small.png?id=8" group-title="MUSIC (USEETV)",CODAY WAS HERE!
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png?id=8" group-title="MUSIC (USEETV)",[CODAY] MTV Live
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=mtvlive
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=mtvlive
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png?id=8" group-title="MUSIC (USEETV)",[CODAY] Citra Dangdut
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=citradangdut
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=citradangdut
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?id=8" group-title="MUSIC (USEETV)",[CODAY] Prambors
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=pramborstv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=pramborstv
 3269
 // SPORTS
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?id=8" group-title="SPORTS (USEETV)",[CODAY] beIN Sport 1
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=bein1
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=bein1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?id=8" group-title="SPORTS (USEETV)",[CODAY] beIN Sport 2
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=bein2
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=bein2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?id=8" group-title="SPORTS (USEETV)",[CODAY] NBA
-https://streaming.useetv.com/dass/15/nba/manifest_wuseetv.mpd?enc=1fzY9ozKRJIX4dm-z5pBiw&exp=1601197951&encp=CjVghSZ9R89b3k5PoR4SBw&expp=1601208451&id=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=
+https://streaming.useetv.com/dass/15/nba/manifest_wuseetv.mpd?enc=tqU2q4xSpec1vJpesryhEw&exp=1601629951&encp=7f1J3tMKo6WDtHzVkxx5Gw&expp=1601640451&id=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8" group-title="SPORTS (USEETV)",[CODAY] Champion TV 1
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=champion1
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=champion1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8" group-title="SPORTS (USEETV)",[CODAY] Champion TV 2
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=champion2
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=champion2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?id=8" group-title="SPORTS (USEETV)",[CODAY] Fox Sport 1
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=foxsport1
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=foxsport1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?id=8" group-title="SPORTS (USEETV)",[CODAY] Fox Sport 2
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=foxsport2
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=foxsport2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?id=8" group-title="SPORTS (USEETV)",[CODAY] Fox Sport 3
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=foxsport3
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=foxsport3
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?id=8" group-title="SPORTS (USEETV)",[CODAY] Golf
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=golfplus
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=golfplus
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?id=8" group-title="SPORTS (USEETV)",[CODAY] UseeSports
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=useesport
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=useesport
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?id=8" group-title="SPORTS (USEETV)",[CODAY] UseeSports2
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=useesports2
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=useesports2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?id=8" group-title="SPORTS (USEETV)",[CODAY] egg network
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=egg
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=egg
 2675
 // MOVIES
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?id=8" group-title="MOVIES (USEETV)",[CODAY] ZBioskop
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=zbioskop
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=zbioskop
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png?id=8" group-title="MOVIES (USEETV)",[CODAY] Thrill
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=thrill
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=thrill
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png?id=8" group-title="MOVIES (USEETV)",[CODAY] TVN Movies
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=tvnmovies
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=tvnmovies
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?id=8" group-title="MOVIES (USEETV)",[CODAY] Bioskop Indonesia
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=bioskopindonesia
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=bioskopindonesia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png?id=8" group-title="MOVIES (USEETV)",[CODAY] Celestial Movie
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=celestialmovie
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=celestialmovie
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png?id=8" group-title="MOVIES (USEETV)",[CODAY] Cinema World
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=cinemaworld
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=cinemaworld
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?id=8" group-title="MOVIES (USEETV)",[CODAY] Flik
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=flik
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=flik
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png?id=8" group-title="MOVIES (USEETV)",[CODAY] Galaxy Premium
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=galaxypremium
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=galaxypremium
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?id=8" group-title="MOVIES (USEETV)",[CODAY] Galaxy
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=galaxy
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=galaxy
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8" group-title="MOVIES (USEETV)",[CODAY] IMC
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=imc
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=imc
 
 // KNOWLEDGE
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] Nat Geo
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=natgeo
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=natgeo
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] Nat Geo People
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=natgeopeople
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=natgeopeople
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] Nat Geo Wild
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=natgeowild
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=natgeowild
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] Discovery Channel
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=disco
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=disco
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] Crime Investigation
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=crimeinvestigation
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=crimeinvestigation
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] CGTN Documentary
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=cgtndocumentary
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=cgtndocumentary
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] Lingua
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=lingua
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=lingua
 3728
 // ENTERTAIMENT
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] AXN
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=axn
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=axn
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Citra Drama 
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=cdrama
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=cdrama
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Dunia Lain
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=dunialain
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=dunialain
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Arirang
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=arirang
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=arirang
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Animax
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=animax
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=animax
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] TVN
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=tvn
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=tvn
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] KBS World
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=kbsworld
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=kbsworld
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Blue Ant
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=blueant
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=blueant
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Blue Ant Extreme
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=blueantextreme
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=blueantextreme
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] ABC Australia
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=abcaustralia
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=abcaustralia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworldpremium_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] NHK World Premium
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=nhkpremium
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=nhkpremium
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Chinese Drama
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=chinesedrama
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=chinesedrama
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Lifetime
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=lifetime
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=lifetime
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] History
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=history
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=history
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Kix
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=kix
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=kix
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Waku Waku Japan
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=wakuwaku
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=wakuwaku
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Warner
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=warner
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=warner
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] ANIPlus
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=aniplus
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=aniplus
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] CCTV4
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=cctv4
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=cctv4
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] nhk world Japan
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=nhkworld
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=nhkworld
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] SGEM
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=sgem
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=sgem
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] SONE
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=sone
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=sone
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] Kplus
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=kplus
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=kplus
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?id=8" group-title="ENTERTAIMENT (USEETV)",[CODAY] TV5Monde
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=tv5monde
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=tv5monde
 
 5180
 // LIFESTYLE
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mshop_small.png?id=8" group-title="LIFESTYLE (USEETV)",[CODAY] M Shop
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=mncshop
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=mncshop
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?id=8" group-title="LIFESTYLE (USEETV)",[CODAY] Eat & Go
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=eatgo
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=eatgo
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashionone_small1.png?id=8" group-title="LIFESTYLE (USEETV)",[CODAY] Fashion One
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=fashionone
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=fashionone
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?id=8" group-title="LIFESTYLE (USEETV)",[CODAY] FashionTV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=fashiontv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=fashiontv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png?id=8" group-title="LIFESTYLE (USEETV)",[CODAY] HGTV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=hgtv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=hgtv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?id=8" group-title="LIFESTYLE (USEETV)",[CODAY] Asian Food Network
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=afc
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=afc
 
 // RELIGIOUS
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?id=8" group-title="RELIGIOUS (USEETV)",[CODAY] Rodja TV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=rodjatv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=rodjatv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_uchannel_small1.png?id=8" group-title="RELIGIOUS (USEETV)",[CODAY] UChannel
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=uchannel
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=uchannel
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png?id=8" group-title="RELIGIOUS (USEETV)",[CODAY] Tawaf TV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=tawaftv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=tawaftv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?id=8" group-title="RELIGIOUS (USEETV)",[CODAY] MTATV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=mtatv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=mtatv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_khazanah_small1.png?id=8" group-title="RELIGIOUS (USEETV)",CODAY WAS HERE!
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?id=8" group-title="RELIGIOUS (USEETV)",[CODAY] MUI TV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=muitv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=muitv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?id=8" group-title="RELIGIOUS (USEETV)",[CODAY] AlQuran Kareem
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=alquran
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=alquran
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?id=8" group-title="RELIGIOUS (USEETV)",[CODAY] MQTV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=mqtv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=mqtv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?id=8" group-title="RELIGIOUS (USEETV)",[CODAY] TV9 NU
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=tv9
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=tv9
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?id=8" group-title="RELIGIOUS (USEETV)",[CODAY] Muhammadiyah TV
-   https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=muhammadiyahtv
+   https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=muhammadiyahtv
 3342
