@@ -1,0 +1,1944 @@
+#EXTM3U Albdroid TV
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",Trans TV 
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC 
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI 
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8	
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBALTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8  
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",INEWS HD
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
+http://45.126.83.51/session/d80df878-8cad-11ea-bfcb-b2cb8b1764b3/qwr9ew/s/s03/01.m3u8  
+#EXTINF:0 tvg-id="" tvtvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
+http://210.210.155.35/session/10778122-f3fe-11ea-aa6b-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#http://210.210.155.35/session/1660d5f4-d8b8-11ea-934d-b82a72d63267/qwr9ew/s/s105/02.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu",Kompas Tv
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu",KOMPAS TV+
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png",Berita satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png",BERITA SATU+
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png",CNBC+
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png" group-title="TV Nasional",TV One
+http://210.210.155.35/session/0d145e4a-33b6-11eb-a112-b82a72d63267/qwr9ew/s/s105/index3.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV Nasional",ANTV
+http://210.210.155.35/session/a19bb9a0-c886-11ea-934d-b82a72d63267/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_big1.png" group-title="TV Nasional",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="TV Nasional",NET TV 
+http://210.210.155.35/session/01829194-c30b-11ea-b1f3-c81f66f89318/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="TV Nasional",Rajawali TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(b84c57ee-7936-4c81-a9f5-29714084ce5b)/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="TV Nasional",Kompas TV 
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/TVRI.png" group-title="TV Nasional",TVRI 
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="TV Nasional",Berita Satu News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="TV Nasional",CNN Indonesia HD	
+#EXTVLCOPT:network-caching=1000	
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w242732416_b384000_sleng.m3u8	
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="TV Nasional",CNBC Indonesia HD HD	
+#EXTVLCOPT:network-caching=1000	
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+###malay test 
+#EXTM3U 
+#EXTINF: -1 tvg-name="-= Malaysia =-" group-title="ZALCODE-MY [TEST]", -= Malaysia =-
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40749
+#EXTINF: -1 tvg-name="Animax MY" group-title="ZALCODE-MY [TEST]", Animax MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40750
+#EXTINF: -1 tvg-name="beIN Sports HD MY" group-title="ZALCODE-MY [TEST]", beIN Sports HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/42574
+#EXTINF: -1 tvg-name="beIN Max HD MY" group-title="ZALCODE-MY [TEST]", beIN Max HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85681
+#EXTINF: -1 tvg-name="Cinema World  HD MY" group-title="ZALCODE-MY [TEST]", Cinema World  HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40757
+#EXTINF: -1 tvg-name="HBO FHD MY" group-title="ZALCODE-MY [TEST]", HBO FHD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40763
+#EXTINF: -1 tvg-name="HBO Red FHD MY" group-title="ZALCODE-MY [TEST]", HBO Red FHD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40762
+#EXTINF: -1 tvg-name="Hypp Flicks Plus HD MY" group-title="ZALCODE-MY [TEST]", Hypp Flicks Plus HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40758
+#EXTINF: -1 tvg-name="Now Jelli MY" group-title="ZALCODE-MY [TEST]", Now Jelli MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40764
+#EXTINF: -1 tvg-name="NTV 7 MY" group-title="ZALCODE-MY [TEST]", NTV 7 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40760
+#EXTINF: -1 tvg-name="SCM Legend HD MY" group-title="ZALCODE-MY [TEST]", SCM Legend HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40759
+#EXTINF: -1 tvg-name="TV1 MY" group-title="ZALCODE-MY [TEST]", TV1 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40752
+#EXTINF: -1 tvg-name="TV2 MY" group-title="ZALCODE-MY [TEST]", TV2 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40751
+#EXTINF: -1 tvg-name="TV3 MY" group-title="ZALCODE-MY [TEST]", TV3 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40761
+#EXTINF: -1 tvg-name="TV8 MY" group-title="ZALCODE-MY [TEST]", TV8 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40766
+#EXTINF: -1 tvg-name="TV9 MY" group-title="ZALCODE-MY [TEST]", TV9 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40765
+#EXTINF: -1 tvg-name="Arena HD MY" group-title="ZALCODE-MY [TEST]", Arena HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85680
+#EXTINF: -1 tvg-name="Astro Cricket HD MY" group-title="ZALCODE-MY [TEST]", Astro Cricket HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/40966
+#EXTINF: -1 tvg-name="Astro SuperSport 1 HD MY" group-title="ZALCODE-MY [TEST]", Astro SuperSport 1 HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/59424
+#EXTINF: -1 tvg-name="Astro SuperSport 2 HD MY" group-title="ZALCODE-MY [TEST]", Astro SuperSport 2 HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/59423
+#EXTINF: -1 tvg-name="Astro SuperSport 3 HD MY" group-title="ZALCODE-MY [TEST]", Astro SuperSport 3 HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/59422
+#EXTINF: -1 tvg-name="Astro SuperSport 4 HD MY" group-title="ZALCODE-MY [TEST]", Astro SuperSport 4 HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/59421
+#EXTINF: -1 tvg-name="Astro SuperSport Event 1 HD MY" group-title="ZALCODE-MY [TEST]", Astro SuperSport Event 1 HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85687
+#EXTINF: -1 tvg-name="Astro SuperSport Event 2 HD MY" group-title="ZALCODE-MY [TEST]", Astro SuperSport Event 2 HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85691
+#EXTINF: -1 tvg-name="Astro SuperSport Plus HD MY" group-title="ZALCODE-MY [TEST]", Astro SuperSport Plus HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85679
+#EXTINF: -1 tvg-name="Astro EPL 1 HD MY" group-title="ZALCODE-MY [TEST]", Astro EPL 1 HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85688
+#EXTINF: -1 tvg-name="Astro EPL 2 HD MY" group-title="ZALCODE-MY [TEST]", Astro EPL 2 HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85689
+#EXTINF: -1 tvg-name="Eurosport HD MY" group-title="ZALCODE-MY [TEST]", Eurosport HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85690
+#EXTINF: -1 tvg-name="Rugby Pass HD MY" group-title="ZALCODE-MY [TEST]", Rugby Pass HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85686
+#EXTINF: -1 tvg-name="Golf Channel HD MY" group-title="ZALCODE-MY [TEST]", Golf Channel HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85682
+#EXTINF: -1 tvg-name="Fox Sports HD MY" group-title="ZALCODE-MY [TEST]", Fox Sports HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85683
+#EXTINF: -1 tvg-name="Fox Sports 2 HD MY" group-title="ZALCODE-MY [TEST]", Fox Sports 2 HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85684
+#EXTINF: -1 tvg-name="Fox Sports 3 HD MY" group-title="ZALCODE-MY [TEST]", Fox Sports 3 HD MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85685
+#EXTINF: -1 tvg-name="Unifi Sports 1 MY" group-title="ZALCODE-MY [TEST]", Unifi Sports 1 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85692
+#EXTINF: -1 tvg-name="Unifi Sports 2 MY" group-title="ZALCODE-MY [TEST]", Unifi Sports 2 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85693
+#EXTINF: -1 tvg-name="Unifi Sports 3 MY" group-title="ZALCODE-MY [TEST]", Unifi Sports 3 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85694
+#EXTINF: -1 tvg-name="Unifi Sports 4 MY" group-title="ZALCODE-MY [TEST]", Unifi Sports 4 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85695
+#EXTINF: -1 tvg-name="Unifi Sports 5 MY" group-title="ZALCODE-MY [TEST]", Unifi Sports 5 MY
+http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/85696
+
+#EXTINF:-1  group-title="ZALCODE-TEST",Animax
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28814
+#EXTINF:-1  group-title="ZALCODE-TEST",ANIPLUS
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/18550
+#EXTINF:-1  group-title="ZALCODE-TEST",AXN
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28816
+#EXTINF:-1  group-title="ZALCODE-TEST",CCM
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28802
+#EXTINF:-1  group-title="ZALCODE-TEST",Celestial Movies
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28797
+#EXTINF:-1  group-title="ZALCODE-TEST",Cinema World
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6750
+#EXTINF:-1  group-title="ZALCODE-TEST",Citra TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28728
+#EXTINF:-1  group-title="ZALCODE-TEST",DIVA
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28793
+#EXTINF:-1  group-title="ZALCODE-TEST",Drama Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28787
+#EXTINF:-1  group-title="ZALCODE-TEST",E!
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28786
+#EXTINF:-1  group-title="ZALCODE-TEST",FMN
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28783
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28777
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Crime
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28779
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Family Movies
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28778
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Life
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28776
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Movies
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28774
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Movies Action
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28775
+#EXTINF:-1  group-title="ZALCODE-TEST",FX
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28782
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/45767
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/45765
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO HITS
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/45764
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO RED
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/45766
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/45763
+#EXTINF:-1  group-title="ZALCODE-TEST",Hits
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28766
+#EXTINF:-1  group-title="ZALCODE-TEST",Hits Movies
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28765
+#EXTINF:-1  group-title="ZALCODE-TEST",K+ HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6744
+#EXTINF:-1  group-title="ZALCODE-TEST",Kids Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28760
+#EXTINF:-1  group-title="ZALCODE-TEST",KIX
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28761
+#EXTINF:-1  group-title="ZALCODE-TEST",MGSTV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28724
+#EXTINF:-1  group-title="ZALCODE-TEST",MNC Entertainment
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28756
+#EXTINF:-1  group-title="ZALCODE-TEST",Movie Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28754
+#EXTINF:-1  group-title="ZALCODE-TEST",MTA TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28723
+#EXTINF:-1  group-title="ZALCODE-TEST",MyTV HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/18546
+#EXTINF:-1  group-title="ZALCODE-TEST",Premiere
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28746
+#EXTINF:-1  group-title="ZALCODE-TEST",SCM
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28744
+#EXTINF:-1  group-title="ZALCODE-TEST",SCM Legend
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28743
+#EXTINF:-1  group-title="ZALCODE-TEST",Sony ONE
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/18547
+#EXTINF:-1  group-title="ZALCODE-TEST",Thrill
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/18549
+#EXTINF:-1  group-title="ZALCODE-TEST",TVN
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28739
+#EXTINF:-1  group-title="ZALCODE-TEST",TVN Movies
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28738
+#EXTINF:-1  group-title="ZALCODE-TEST",Waku Waku Japan
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28734
+#EXTINF:-1  group-title="ZALCODE-TEST",Warner TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28733
+#EXTINF:-1  group-title="ZALCODE-TEST",Baby TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28807
+#EXTINF:-1  group-title="ZALCODE-TEST",BBC Cbeebies
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28810
+#EXTINF:-1  group-title="ZALCODE-TEST",Besmart
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28805
+#EXTINF:-1  group-title="ZALCODE-TEST",Boomerang
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28803
+#EXTINF:-1  group-title="ZALCODE-TEST",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28798
+#EXTINF:-1  group-title="ZALCODE-TEST",Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28790
+#EXTINF:-1  group-title="ZALCODE-TEST",Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28789
+#EXTINF:-1  group-title="ZALCODE-TEST",Disney XD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28788
+#EXTINF:-1  group-title="ZALCODE-TEST",MiaoMI
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28755
+#EXTINF:-1  group-title="ZALCODE-TEST",Nick
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28748
+#EXTINF:-1  group-title="ZALCODE-TEST",Nick JR
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28747
+#EXTINF:-1  group-title="ZALCODE-TEST",Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28815
+#EXTINF:-1  group-title="ZALCODE-TEST",Asian Food Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28812
+#EXTINF:-1  group-title="ZALCODE-TEST",BBC Earth
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28809
+#EXTINF:-1  group-title="ZALCODE-TEST",Crime Investigation
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28794
+#EXTINF:-1  group-title="ZALCODE-TEST",Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28791
+#EXTINF:-1  group-title="ZALCODE-TEST",Food Network
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28780
+#EXTINF:-1  group-title="ZALCODE-TEST",HGTV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28769
+#EXTINF:-1  group-title="ZALCODE-TEST",History
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28767
+#EXTINF:-1  group-title="ZALCODE-TEST",Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28752
+#EXTINF:-1  group-title="ZALCODE-TEST",Nat Geo People
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28751
+#EXTINF:-1  group-title="ZALCODE-TEST",Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28750
+#EXTINF:-1  group-title="ZALCODE-TEST",TLC
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28741
+#EXTINF:-1  group-title="ZALCODE-TEST",Bali TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6757
+#EXTINF:-1  group-title="ZALCODE-TEST",Comedy Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28795
+#EXTINF:-1  group-title="ZALCODE-TEST",DIGDAYATV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28726
+#EXTINF:-1  group-title="ZALCODE-TEST",Infotainment
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28763
+#EXTINF:-1  group-title="ZALCODE-TEST",Insan TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28725
+#EXTINF:-1  group-title="ZALCODE-TEST",Jak TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28762
+#EXTINF:-1  group-title="ZALCODE-TEST",JTV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/18544
+#EXTINF:-1  group-title="ZALCODE-TEST",Life Style Fashion
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28758
+#EXTINF:-1  group-title="ZALCODE-TEST",Life Time
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28757
+#EXTINF:-1  group-title="ZALCODE-TEST",MIVO TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/45762
+#EXTINF:-1  group-title="ZALCODE-TEST",MNC Shop
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6746
+#EXTINF:-1  group-title="ZALCODE-TEST",MNC SPORT HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6745
+#EXTINF:-1  group-title="ZALCODE-TEST",Music Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28753
+#EXTINF:-1  group-title="ZALCODE-TEST",Padang TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28722
+#EXTINF:-1  group-title="ZALCODE-TEST",PADANJTV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28721
+#EXTINF:-1  group-title="ZALCODE-TEST",The Indonesia Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28712
+#EXTINF:-1  group-title="ZALCODE-TEST",Travel Home
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28737
+#EXTINF:-1  group-title="ZALCODE-TEST",Trial Clubbing TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28736
+#EXTINF:-1  group-title="ZALCODE-TEST",TV Edukasi
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28711
+#EXTINF:-1  group-title="ZALCODE-TEST",TVKU TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28710
+#EXTINF:-1  group-title="ZALCODE-TEST",UseePhoto
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33186
+#EXTINF:-1  group-title="ZALCODE-TEST",UseePrime
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33187
+#EXTINF:-1  group-title="ZALCODE-TEST",V Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28735
+#EXTINF:-1  group-title="ZALCODE-TEST",Wesal TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28709
+#EXTINF:-1  group-title="ZALCODE-TEST",ABC Australia
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28817
+#EXTINF:-1  group-title="ZALCODE-TEST",ANTV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6763
+#EXTINF:-1  group-title="ZALCODE-TEST",Arirang Korea
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28813
+#EXTINF:-1  group-title="ZALCODE-TEST",BBC World News
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28808
+#EXTINF:-1  group-title="ZALCODE-TEST",Berita Satu
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28806
+#EXTINF:-1  group-title="ZALCODE-TEST",Bloomberg
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28804
+#EXTINF:-1  group-title="ZALCODE-TEST",CCTV4
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28801
+#EXTINF:-1  group-title="ZALCODE-TEST",CNBC
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28800
+#EXTINF:-1  group-title="ZALCODE-TEST",CNN
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28799
+#EXTINF:-1  group-title="ZALCODE-TEST",CNN Indonesia
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28727
+#EXTINF:-1  group-title="ZALCODE-TEST",Euronews
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28784
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox News
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28773
+#EXTINF:-1  group-title="ZALCODE-TEST",GLOBAL TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6765
+#EXTINF:-1  group-title="ZALCODE-TEST",i NEWS
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6762
+#EXTINF:-1  group-title="ZALCODE-TEST",IDX
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28764
+#EXTINF:-1  group-title="ZALCODE-TEST",Indosiar TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6764
+#EXTINF:-1  group-title="ZALCODE-TEST",Kompas TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/18554
+#EXTINF:-1  group-title="ZALCODE-TEST",Metro
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6758
+#EXTINF:-1  group-title="ZALCODE-TEST",MNC News
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6748
+#EXTINF:-1  group-title="ZALCODE-TEST",MNC TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6760
+#EXTINF:-1  group-title="ZALCODE-TEST",NET
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6754
+#EXTINF:-1  group-title="ZALCODE-TEST",News Asia Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28749
+#EXTINF:-1  group-title="ZALCODE-TEST",NHK HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6743
+#EXTINF:-1  group-title="ZALCODE-TEST",ONE TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6766
+#EXTINF:-1  group-title="ZALCODE-TEST",Rajawali Televisi
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28720
+#EXTINF:-1  group-title="ZALCODE-TEST",RCTI
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6759
+#EXTINF:-1  group-title="ZALCODE-TEST",RTV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/18545
+#EXTINF:-1  group-title="ZALCODE-TEST",RTV TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28716
+#EXTINF:-1  group-title="ZALCODE-TEST",RTV5 Makin
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28745
+#EXTINF:-1  group-title="ZALCODE-TEST",SC TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6756
+#EXTINF:-1  group-title="ZALCODE-TEST",Trans 7
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6752
+#EXTINF:-1  group-title="ZALCODE-TEST",Trans TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6751
+#EXTINF:-1  group-title="ZALCODE-TEST",Ahsan TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28729
+#EXTINF:-1  group-title="ZALCODE-TEST",Auto Gadget
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28811
+#EXTINF:-1  group-title="ZALCODE-TEST",Daai TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28792
+#EXTINF:-1  group-title="ZALCODE-TEST",EWTN
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28785
+#EXTINF:-1  group-title="ZALCODE-TEST",Hidayah
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28768
+#EXTINF:-1  group-title="ZALCODE-TEST",Life
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28759
+#EXTINF:-1  group-title="ZALCODE-TEST",Reformed 21
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28718
+#EXTINF:-1  group-title="ZALCODE-TEST",Rodja TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28717
+#EXTINF:-1  group-title="ZALCODE-TEST",Sakti TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28715
+#EXTINF:-1  group-title="ZALCODE-TEST",Salam TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28714
+#EXTINF:-1  group-title="ZALCODE-TEST",TEGAR TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28713
+#EXTINF:-1  group-title="ZALCODE-TEST",Tegar TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28796
+#EXTINF:-1  group-title="ZALCODE-TEST",TV9
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28740
+#EXTINF:-1  group-title="ZALCODE-TEST",UChannel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33185
+#EXTINF:-1  group-title="ZALCODE-TEST",beIN Sports 1
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28732
+#EXTINF:-1  group-title="ZALCODE-TEST",beIN Sports 2
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28731
+#EXTINF:-1  group-title="ZALCODE-TEST",beIN Sports 3
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28730
+#EXTINF:-1  group-title="ZALCODE-TEST",Champion TV1 HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/34547
+#EXTINF:-1  group-title="ZALCODE-TEST",Champion TV2 HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/34548
+#EXTINF:-1  group-title="ZALCODE-TEST",Fight Sports
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28781
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Sports 1
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28772
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28771
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Sports 3
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28770
+#EXTINF:-1  group-title="ZALCODE-TEST",Soccer Channel
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28742
+#EXTINF:-1  group-title="ZALCODE-TEST",UseeSports
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33188
+#EXTINF:-1  group-title="ZALCODE-TEST",UseeSports2
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33189
+#EXTINF:-1  group-title="ZALCODE-TEST",ZQ Sport HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28719
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/6755
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI 3
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33178
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Aceh
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33177
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Bali
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33184
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Bangka Belitung
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33176
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Bengkulu
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33175
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Gorontalo
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33183
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Jakarta
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33174
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Jambi
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33173
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Jawa Barat
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33172
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Jawa Tengah
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33171
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Jawa Timur
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33170
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Kalimantan Barat
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33169
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Kalimantan Selatan
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33168
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Kalimantan Tengah
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33182
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Kalimantan Timur
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33181
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Lampung
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33167
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Maluku
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33166
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Nusa Tenggara Barat
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33165
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Nusa Tenggara Timur
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33164
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Papau
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33163
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Riau
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33162
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Sulawesi Barat
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33180
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Sulawesi Selatan
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33179
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Sulawesi Tengah
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33161
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Sulawesi Tengggara
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33160
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Sulawesi Utara
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33159
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Sumatera Barat
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33158
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Sumatera Seletan
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33157
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI Yogyakarta
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33156
+#EXTINF:-1  group-title="ZALCODE-TEST",Adithya TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/56300
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AEC HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28704
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AOD 1
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33288
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AOD 2
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33289
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AOD 3
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33290
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AOD 4
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33291
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AOD 5
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33292
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO Aura
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/50887
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AWANI
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9619
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO BOLLY ONE HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28691
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO BOX OFFICE
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/50889
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO CERIA
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9618
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO Citra
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/50888
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO Hello
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/50890
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO HUA HEE DAI HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33273
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO OASIS
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9615
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO PRIMA
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9614
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO QUAN JIA HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28703
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO Rania
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/50891
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO RIA
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9613
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO SHUANG XING HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28702
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO TUTOR PT3
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28698
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO TUTOR SPM
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33243
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO VAANAVIL HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28700
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO VINMEEN HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28699
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO WAH LAI TOI HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33275
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO WARNA
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9612
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO WWE
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/50893
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO XIAO TAI YANG
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28697
+#EXTINF:-1  group-title="ZALCODE-TEST",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28696
+#EXTINF:-1  group-title="ZALCODE-TEST",BLUE ANT ENTER
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33244
+#EXTINF:-1  group-title="ZALCODE-TEST",BLUE ANT EXTREME
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28692
+#EXTINF:-1  group-title="ZALCODE-TEST",CCM
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9617
+#EXTINF:-1  group-title="ZALCODE-TEST",CELESTIAL MOVIES
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28688
+#EXTINF:-1  group-title="ZALCODE-TEST",CINEMA WORLD HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28687
+#EXTINF:-1  group-title="ZALCODE-TEST",CINEMAX HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33258
+#EXTINF:-1  group-title="ZALCODE-TEST",CLASSIC MOVIES CHINESE
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33262
+#EXTINF:-1  group-title="ZALCODE-TEST",DIVA HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28682
+#EXTINF:-1  group-title="ZALCODE-TEST",DUNIA SINEMA
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28681
+#EXTINF:-1  group-title="ZALCODE-TEST",ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28680
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX FAMILY MOVIES HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28678
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28677
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Movies Action HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28670
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Movies Family
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28669
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX MOVIES HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28676
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX TV HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28672
+#EXTINF:-1  group-title="ZALCODE-TEST",FX CINEMA HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28671
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO FAMILY HD (Eng)
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/34809
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/34793
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO HITS HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/34804
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO RED
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/34818
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO SIGNATURE HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/34800
+#EXTINF:-1  group-title="ZALCODE-TEST",HITS HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28665
+#EXTINF:-1  group-title="ZALCODE-TEST",HITS Movies
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33276
+#EXTINF:-1  group-title="ZALCODE-TEST",KBS World HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/56308
+#EXTINF:-1  group-title="ZALCODE-TEST",KIX
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28662
+#EXTINF:-1  group-title="ZALCODE-TEST",KPLUS HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33268
+#EXTINF:-1  group-title="ZALCODE-TEST",MAX HD (Eng)
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/34814
+#EXTINF:-1  group-title="ZALCODE-TEST",SCM HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33249
+#EXTINF:-1  group-title="ZALCODE-TEST",SCM LEGEND
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33250
+#EXTINF:-1  group-title="ZALCODE-TEST",TVN Movies HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9595
+#EXTINF:-1  group-title="ZALCODE-TEST",WARNER TV HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33255
+#EXTINF:-1  group-title="ZALCODE-TEST",BABY FIRST
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28695
+#EXTINF:-1  group-title="ZALCODE-TEST",BOOMERANG HD KD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28690
+#EXTINF:-1  group-title="ZALCODE-TEST",CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28689
+#EXTINF:-1  group-title="ZALCODE-TEST",DISNEY CH
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28685
+#EXTINF:-1  group-title="ZALCODE-TEST",DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28684
+#EXTINF:-1  group-title="ZALCODE-TEST",DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28683
+#EXTINF:-1  group-title="ZALCODE-TEST",ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28707
+#EXTINF:-1  group-title="ZALCODE-TEST",ASIAN FOOD CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28705
+#EXTINF:-1  group-title="ZALCODE-TEST",BBC EARTH HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28694
+#EXTINF:-1  group-title="ZALCODE-TEST",BBC LIFESTYLE
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28693
+#EXTINF:-1  group-title="ZALCODE-TEST",DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28686
+#EXTINF:-1  group-title="ZALCODE-TEST",DISCOVERY SCI HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33259
+#EXTINF:-1  group-title="ZALCODE-TEST",HGTV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28667
+#EXTINF:-1  group-title="ZALCODE-TEST",History HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9594
+#EXTINF:-1  group-title="ZALCODE-TEST",NAT GEO ASIA HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28659
+#EXTINF:-1  group-title="ZALCODE-TEST",NAT GEO PEOPLE HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28658
+#EXTINF:-1  group-title="ZALCODE-TEST",NAT GEO WILD HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28657
+#EXTINF:-1  group-title="ZALCODE-TEST",TLC
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28638
+#EXTINF:-1  group-title="ZALCODE-TEST",ABC Australia
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/56304
+#EXTINF:-1  group-title="ZALCODE-TEST",ANI PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28708
+#EXTINF:-1  group-title="ZALCODE-TEST",ANIMAX HD KD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28706
+#EXTINF:-1  group-title="ZALCODE-TEST",BERNAMA
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/56301
+#EXTINF:-1  group-title="ZALCODE-TEST",BES
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/56302
+#EXTINF:-1  group-title="ZALCODE-TEST",BNC
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33287
+#EXTINF:-1  group-title="ZALCODE-TEST",CGTN
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33257
+#EXTINF:-1  group-title="ZALCODE-TEST",Choice TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33261
+#EXTINF:-1  group-title="ZALCODE-TEST",CHUTTI TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/56305
+#EXTINF:-1  group-title="ZALCODE-TEST",Colors Cineplex
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/56309
+#EXTINF:-1  group-title="ZALCODE-TEST",COLORS HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33271
+#EXTINF:-1  group-title="ZALCODE-TEST",COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33245
+#EXTINF:-1  group-title="ZALCODE-TEST",CRIME INVESTIGATION
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33260
+#EXTINF:-1  group-title="ZALCODE-TEST",CTI ASIA CHINESE
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33270
+#EXTINF:-1  group-title="ZALCODE-TEST",DMAX HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33269
+#EXTINF:-1  group-title="ZALCODE-TEST",EGG Network
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/56307
+#EXTINF:-1  group-title="ZALCODE-TEST",EVERY GOOD GAME HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28679
+#EXTINF:-1  group-title="ZALCODE-TEST",GO SHOP
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33283
+#EXTINF:-1  group-title="ZALCODE-TEST",GOLF HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33272
+#EXTINF:-1  group-title="ZALCODE-TEST",Horizon Sports HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33293
+#EXTINF:-1  group-title="ZALCODE-TEST",HYPP INSPIRASI HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33256
+#EXTINF:-1  group-title="ZALCODE-TEST",HYPP SENSASI
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28664
+#EXTINF:-1  group-title="ZALCODE-TEST",iQIYI HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33274
+#EXTINF:-1  group-title="ZALCODE-TEST",JAYA MAX APAC Plus
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28663
+#EXTINF:-1  group-title="ZALCODE-TEST",Laku Mall
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28666
+#EXTINF:-1  group-title="ZALCODE-TEST",MN: MNB HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/16867
+#EXTINF:-1  group-title="ZALCODE-TEST",MN: TV 5 HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/16587
+#EXTINF:-1  group-title="ZALCODE-TEST",MTV ASIA
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28661
+#EXTINF:-1  group-title="ZALCODE-TEST",MUTV HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28660
+#EXTINF:-1  group-title="ZALCODE-TEST",NAURA TV
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28641
+#EXTINF:-1  group-title="ZALCODE-TEST",NICK JR KD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28656
+#EXTINF:-1  group-title="ZALCODE-TEST",NICK KD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28655
+#EXTINF:-1  group-title="ZALCODE-TEST",NOW INTER
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33246
+#EXTINF:-1  group-title="ZALCODE-TEST",NOW JELLi
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33247
+#EXTINF:-1  group-title="ZALCODE-TEST",NOW TV CHINESE
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28654
+#EXTINF:-1  group-title="ZALCODE-TEST",NTV7
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9610
+#EXTINF:-1  group-title="ZALCODE-TEST",OHIK
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28653
+#EXTINF:-1  group-title="ZALCODE-TEST",ONE HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/51610
+#EXTINF:-1  group-title="ZALCODE-TEST",PARAMAUNT CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28652
+#EXTINF:-1  group-title="ZALCODE-TEST",PESONA HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28651
+#EXTINF:-1  group-title="ZALCODE-TEST",POLIMER News
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33282
+#EXTINF:-1  group-title="ZALCODE-TEST",RAJ TV APAC
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33265
+#EXTINF:-1  group-title="ZALCODE-TEST",RED HBO HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28650
+#EXTINF:-1  group-title="ZALCODE-TEST",RTM HD SPORTS
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/56299
+#EXTINF:-1  group-title="ZALCODE-TEST",SALAAM HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33248
+#EXTINF:-1  group-title="ZALCODE-TEST",SETi CHINESE
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28648
+#EXTINF:-1  group-title="ZALCODE-TEST",SONY ONE HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28647
+#EXTINF:-1  group-title="ZALCODE-TEST",SONY SAB APAC Plus
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28646
+#EXTINF:-1  group-title="ZALCODE-TEST",SONY SETMAX APAC Plus
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28645
+#EXTINF:-1  group-title="ZALCODE-TEST",SONY TV APAC Plus
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28644
+#EXTINF:-1  group-title="ZALCODE-TEST",Sport DREAM WORKS HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28640
+#EXTINF:-1  group-title="ZALCODE-TEST",SportBABY TV KD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28639
+#EXTINF:-1  group-title="ZALCODE-TEST",STAR CHINESE CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28643
+#EXTINF:-1  group-title="ZALCODE-TEST",STAR VIJAY APAC Plus
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28642
+#EXTINF:-1  group-title="ZALCODE-TEST",SUN MUSIC APAC
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33266
+#EXTINF:-1  group-title="ZALCODE-TEST",SUN TV APAC
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/33267
+#EXTINF:-1  group-title="ZALCODE-TEST",TRAVEL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28637
+#EXTINF:-1  group-title="ZALCODE-TEST",TV ALHIJRA
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/28636
+#EXTINF:-1  group-title="ZALCODE-TEST",TV Okey
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/56298
+#EXTINF:-1  group-title="ZALCODE-TEST",TV1
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9609
+#EXTINF:-1  group-title="ZALCODE-TEST",TV2
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9608
+#EXTINF:-1  group-title="ZALCODE-TEST",TV3
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9607
+#EXTINF:-1  group-title="ZALCODE-TEST",TV8
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9606
+#EXTINF:-1  group-title="ZALCODE-TEST",TV9
+#EXTVLCOPT:network-caching=1000
+http://livegopanel.club:8080/peter/Peter/9605
+
+#### ZALCODE MOVIE ###
+
+#EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
+https://zaltvku.imfast.io/HBO1.m3u8
+
+#EXTINF:-1 tvg-ID="HBOSignature.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
+https://zaltvku.imfast.io/SIG.m3u8
+
+#EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits
+https://zaltvku.imfast.io/HITS.m3u8
+
+#EXTINF:-1 tvg-ID="HBOFamily.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family
+https://zaltvku.imfast.io/FAMILY.m3u8
+
+#EXTINF:-1 tvg-ID="CineMax.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax
+https://zaltvku.imfast.io/MAX.m3u8
+
+#EXTINF:-1 tvg-ID="RED.id" group-title="ZALCODE-MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg", RED by HBO
+https://zaltvku.imfast.io/RED.m3u8
+
+#EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO SD
+https://zaltvku.imfast.io/HBO1SD.m3u8
+#EXTINF:-1 tvg-ID="HBOSignature.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature SD
+https://zaltvku.imfast.io/SIGSD.m3u8
+#EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits SD
+https://zaltvku.imfast.io/HITSSD.m3u8
+#EXTINF:-1 tvg-ID="HBOFamily.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family SD
+https://zaltvku.imfast.io/FAMILYSD.m3u8
+#EXTINF:-1 tvg-ID="CineMax.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax-SD
+https://zaltvku.imfast.io/MAXSD.m3u8
+#EXTINF:-1 tvg-ID="RED.id" group-title="ZALCODE-MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg", RED by HBO SD
+https://zaltvku.imfast.io/REDSD.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0" group-title="ZALCODE-MOVIES",My Cinema
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="ZALCODE-MOVIES",MNX Movies  
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" group-title="ZALCODE-MOVIES",Movies Now  
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Romedy_Now.jpg" group-title="ZALCODE-MOVIES",Romedy Now  
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+#EXTINF: -1 tvg-name="UK: Sky Cinema Premiere" group-title="ZALCODE-UK Ch", UK: Sky Cinema Premiere
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/569.ts
+#EXTINF: -1 tvg-name="UK: Sky Cinema Hits" group-title="ZALCODE-UK Ch", UK: Sky Cinema Hits
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/570.ts
+#EXTINF: -1 tvg-name="UK: Sky Cinema Action" group-title="ZALCODE-UK Ch", UK: Sky Cinema Action
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/571.ts
+#EXTINF: -1 tvg-name="UK: Sky Cinema Comedy" group-title="ZALCODE-UK Ch", UK: Sky Cinema Comedy
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/573.ts
+#EXTINF: -1 tvg-name="UK: Sky Cinema Family" group-title="ZALCODE-UK Ch", UK: Sky Cinema Family
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/572.ts
+#EXTINF: -1 tvg-name="UK: Sky Cinema Disney" group-title="ZALCODE-UK Ch", UK: Sky Cinema Disney
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/574.ts
+#EXTINF: -1 tvg-name="UK: Sky Cinema Select" group-title="ZALCODE-UK Ch", UK: Sky Cinema Select
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/576.ts
+#EXTINF: -1 tvg-name="UK: Sky Cinema Greats" group-title="ZALCODE-UK Ch", UK: Sky Cinema Greats
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/575.ts
+#EXTINF: -1 tvg-name="UK: Sky Cinema Sci-Fi & Horror" group-title="ZALCODE-UK Ch", UK: Sky Cinema Sci-Fi & Horror
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/577.ts
+#EXTINF: -1 tvg-name="UK: Sky Cinema Thriller" group-title="ZALCODE-UK Ch", UK: Sky Cinema Thriller
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/578.ts
+#EXTINF: -1 tvg-name="UK: Sony Movie Channel" group-title="ZALCODE-UK Ch", UK: Sony Movie Channel
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/579.ts
+#EXTINF: -1 tvg-name="UK: Sony Movie Christmas" group-title="ZALCODE-UK Ch", UK: Sony Movie Christmas
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/580.ts
+#EXTINF: -1 tvg-name="UK: Sony Movies Action" group-title="ZALCODE-UK Ch", UK: Sony Movies Action
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/581.ts
+#EXTINF: -1 tvg-name="UK: FOX" group-title="ZALCODE-UK Ch", UK: FOX
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/583.ts
+#EXTINF: -1 tvg-name="UK: Paramount Network" group-title="ZALCODE-UK Ch", UK: Paramount Network
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/597.ts
+#EXTINF: -1 tvg-name="UK: SyFy" group-title="ZALCODE-UK Ch", UK: SyFy
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/584.ts
+#EXTINF: -1 tvg-name="UK: Lifetime" group-title="ZALCODE-UK Ch", UK: Lifetime
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/589.ts
+#EXTINF: -1 tvg-name="UK: TCM" group-title="ZALCODE-UK Ch", UK: TCM
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/585.ts
+#EXTINF: -1 tvg-name="UK: True Entertainment" group-title="ZALCODE-UK Ch", UK: True Entertainment
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/582.ts
+#EXTINF: -1 tvg-name="UK: Cartoon Network" group-title="ZALCODE-UK Ch", UK: Cartoon Network
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/598.ts
+#EXTINF: -1 tvg-name="UK: Cartoonito" group-title="ZALCODE-UK Ch", UK: Cartoonito
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/599.ts
+#EXTINF: -1 tvg-name="UK: Boomerang" group-title="ZALCODE-UK Ch", UK: Boomerang
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/600.ts
+#EXTINF: -1 tvg-name="UK: Disney Channel" group-title="ZALCODE-UK Ch", UK: Disney Channel
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/601.ts
+#EXTINF: -1 tvg-name="UK: Trace Vault" group-title="ZALCODE-UK Ch", UK: Trace Vault
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/602.ts
+#EXTINF: -1 tvg-name="UK: Now 90s" group-title="ZALCODE-UK Ch", UK: Now 90s
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/603.ts
+#EXTINF: -1 tvg-name="UK: Nickelodeon" group-title="ZALCODE-UK Ch", UK: Nickelodeon
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/604.ts
+#EXTINF: -1 tvg-name="UK: Nick Jr" group-title="ZALCODE-UK Ch", UK: Nick Jr
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/605.ts
+#EXTINF: -1 tvg-name="UK: Nick Jr Too" group-title="ZALCODE-UK Ch", UK: Nick Jr Too
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/606.ts
+#EXTINF: -1 tvg-name="UK: Nicktoons" group-title="ZALCODE-UK Ch", UK: Nicktoons
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/607.ts
+#EXTINF: -1 tvg-name="UK: Tiny Pop" group-title="ZALCODE-UK Ch", UK: Tiny Pop
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/608.ts
+#EXTINF: -1 tvg-name="UK: POP" group-title="ZALCODE-UK Ch", UK: POP
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/609.ts
+#EXTINF: -1 tvg-name="UK: POP Max" group-title="ZALCODE-UK Ch", UK: POP Max
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/610.ts
+#EXTINF: -1 tvg-name="UK: Comedy Central" group-title="ZALCODE-UK Ch", UK: Comedy Central
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/595.ts
+#EXTINF: -1 tvg-name="UK: Comedy Central Extra" group-title="ZALCODE-UK Ch", UK: Comedy Central Extra
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/596.ts
+#EXTINF: -1 tvg-name="UK: E! Entertainment" group-title="ZALCODE-UK Ch", UK: E! Entertainment
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/638.ts
+#EXTINF: -1 tvg-name="UK: MTV" group-title="ZALCODE-UK Ch", UK: MTV
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/626.ts
+#EXTINF: -1 tvg-name="UK: MTV Base" group-title="ZALCODE-UK Ch", UK: MTV Base
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/627.ts
+#EXTINF: -1 tvg-name="UK: MTV Classic" group-title="ZALCODE-UK Ch", UK: MTV Classic
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/629.ts
+#EXTINF: -1 tvg-name="UK: MTV Music +1" group-title="ZALCODE-UK Ch", UK: MTV Music +1
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/628.ts
+#EXTINF: -1 tvg-name="UK: MTV Hits" group-title="ZALCODE-UK Ch", UK: MTV Hits
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/630.ts
+#EXTINF: -1 tvg-name="UK: 4Music" group-title="ZALCODE-UK Ch", UK: 4Music
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/633.ts
+#EXTINF: -1 tvg-name="UK: The Box" group-title="ZALCODE-UK Ch", UK: The Box
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/634.ts
+#EXTINF: -1 tvg-name="UK: Box Hits" group-title="ZALCODE-UK Ch", UK: Box Hits
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/635.ts
+#EXTINF: -1 tvg-name="UK: Kiss TV" group-title="ZALCODE-UK Ch", UK: Kiss TV
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/632.ts
+#EXTINF: -1 tvg-name="UK: Magic TV" group-title="ZALCODE-UK Ch", UK: Magic TV
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/637.ts
+#EXTINF: -1 tvg-name="UK: Discovery Channel HD" group-title="ZALCODE-UK Ch", UK: Discovery Channel HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/611.ts
+#EXTINF: -1 tvg-name="UK: Discovery Science" group-title="ZALCODE-UK Ch", UK: Discovery Science
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/612.ts
+#EXTINF: -1 tvg-name="UK: Discovery Shed" group-title="ZALCODE-UK Ch", UK: Discovery Shed
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/613.ts
+#EXTINF: -1 tvg-name="UK: Discovery Turbo" group-title="ZALCODE-UK Ch", UK: Discovery Turbo
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/614.ts
+#EXTINF: -1 tvg-name="UK: Discovery Home & Health" group-title="ZALCODE-UK Ch", UK: Discovery Home & Health
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/615.ts
+#EXTINF: -1 tvg-name="UK: History HD" group-title="ZALCODE-UK Ch", UK: History HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/618.ts
+#EXTINF: -1 tvg-name="UK: H2" group-title="ZALCODE-UK Ch", UK: H2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/619.ts
+#EXTINF: -1 tvg-name="UK: DMAX" group-title="ZALCODE-UK Ch", UK: DMAX
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/616.ts
+#EXTINF: -1 tvg-name="UK: National Geographic HD" group-title="ZALCODE-UK Ch", UK: National Geographic HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/621.ts
+#EXTINF: -1 tvg-name="UK: NatGeo Wild HD" group-title="ZALCODE-UK Ch", UK: NatGeo Wild HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/622.ts
+#EXTINF: -1 tvg-name="UK: Blaze" group-title="ZALCODE-UK Ch", UK: Blaze
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/617.ts
+#EXTINF: -1 tvg-name="UK: Good Food" group-title="ZALCODE-UK Ch", UK: Good Food
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/594.ts
+#EXTINF: -1 tvg-name="UK: Food Network" group-title="ZALCODE-UK Ch", UK: Food Network
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/593.ts
+#EXTINF: -1 tvg-name="UK: Animal Planet" group-title="ZALCODE-UK Ch", UK: Animal Planet
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/624.ts
+#EXTINF: -1 tvg-name="UK: Crime Investigation" group-title="ZALCODE-UK Ch", UK: Crime Investigation
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/620.ts
+#EXTINF: -1 tvg-name="UK: CBS Justice" group-title="ZALCODE-UK Ch", UK: CBS Justice
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/586.ts
+#EXTINF: -1 tvg-name="UK: Travel Channel" group-title="ZALCODE-UK Ch", UK: Travel Channel
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/623.ts
+#EXTINF: -1 tvg-name="UK: TLC" group-title="ZALCODE-UK Ch", UK: TLC
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/625.ts
+
+### ZALCODE SPORT ###
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="ZALCODE-SPORT",BeIN Sport 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="ZALCODE-SPORT",BeIN Sport 2
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="ZALCODE-SPORT",Fox Sports 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="ZALCODE-SPORT",Fox Sports 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="ZALCODE-SPORT",Fox Sports 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 1
+https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 2
+https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 3
+https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 4
+https://www.livedoomovies.com/02_PremierHD4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 5
+https://www.livedoomovies.com/02_PremierHD5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 1 HD
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 2 HD
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 3 HD
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="ZALCODE-SPORT",Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="ZALCODE-SPORT",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="ZALCODE-SPORT",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="ZALCODE-SPORT",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="ZALCODE-SPORT",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="ZALCODE-SPORT",BT Sport1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="ZALCODE-SPORT",BT Sport2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="ZALCODE-SPORT",True Sport 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+ 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="ZALCODE-SPORT",True Sport 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+ 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1072.png" group-title="ZALCODE-SPORT",True Sport 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+ 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1073.png" group-title="ZALCODE-SPORT",True Sport 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+ 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1074.png" group-title="ZALCODE-SPORT",True Sport 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+ 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1075.png" group-title="ZALCODE-SPORT",True Sport 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+ 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1076.png" group-title="ZALCODE-SPORT",True Sport 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",EUROSPORTS" 1
+http://5.135.92.133:52841/out/u/509_1.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",EUROSPORTS" 1
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",EURO SPORTS" 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+
+#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",sony ten 1
+https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",sony ten 3
+https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",sony max
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",sony max"
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="ZALCODE-SPORT",TennisHD
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ZALCODE-SPORT",NBA HD
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ZALCODE-SPORT",NFL Network
+https://www.livedoomovies.com/02_NFLNetwork_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ZALCODE-SPORT",Golf HD
+https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ZALCODE-SPORT",T Sport
+https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/KDHJryj.png",DUBAI SPORTS 1 FHD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/KDHJryj.png",DUBAI SPORTS 2 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/KDHJryj.png",DUBAI SPORTS 3 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?checkedby
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="ZALCODE-SPORT",Alkass_1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="ZALCODE-SPORT",Alkass_2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="ZALCODE-SPORT",Alkass_3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="ZALCODE-SPORT",Alkass_4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="ZALCODE-SPORT",Alkass_5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Fight Plus
+https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",FIGHT TIME
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png",ATP Tennis TV
+http://203.154.243.89:11739
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",rusian sport
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/rusi
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",La Liga CH2
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",La Liga
+https://dl.dropbox.com/s/wfh6jphfd9swryb/spanyol.m3u8?dl=0
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Serie A CH2
+https://dl.dropbox.com/s/a01v9ex7xyyrpxx/itali.m3u8?dl=0
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Arena Sport 5
+https://dl.dropbox.com/s/79jgjv055453957/prancis.m3u8?dl=0
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",劲爆体育
+http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel (UHD)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 2
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 3
+http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 4
+http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 5
+http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 6
+http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",SEC Network
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg", Sportkool TV
+https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
+#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",World of Free  Sport
+https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
+
+### ZAKLCODE 2 SPORT ##
+
+
+#EXTINF: -1 tvg-name="SuperSport 5 SD" group-title="ZALCODE-SPORT-2", SuperSport 5 SD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/263.ts
+#EXTINF: -1 tvg-name="SuperSport 4 SD" group-title="ZALCODE-SPORT-2", SuperSport 4 SD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/261.ts
+#EXTINF: -1 tvg-id="SuperSport 3" tvg-name="SuperSport 3 SD" group-title="ZALCODE-SPORT-2", SuperSport 3 SD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/259.ts
+#EXTINF: -1 tvg-id="SuperSport 2" tvg-name="SuperSport 2 SD" group-title="ZALCODE-SPORT-2", SuperSport 2 SD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/257.ts
+#EXTINF: -1 tvg-id="SuperSport 1" tvg-name="SuperSport 1 SD" group-title="ZALCODE-SPORT-2", SuperSport 1 SD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/255.ts
+
+#EXTINF: -1 tvg-name="Sport Klub 6" group-title="ZALCODE-SPORT-2", Sport Klub 6
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/417.ts
+#EXTINF: -1 tvg-name="Sport Klub 5" group-title="ZALCODE-SPORT-2", Sport Klub 5
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/416.ts
+#EXTINF: -1 tvg-name="Sport Klub 4" group-title="ZALCODE-SPORT-2", Sport Klub 4
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/415.ts
+
+#EXTINF: -1 tvg-name="Premier Sports SK" group-title="ZALCODE-SPORT-2", Premier Sports SK
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/411.ts
+#EXTINF: -1 tvg-name="Polsat Sport Premium 2" group-title="ZALCODE-SPORT-2", Polsat Sport Premium 2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/406.ts
+#EXTINF: -1 tvg-name="Polsat Sport Premium 1" group-title="ZALCODE-SPORT-2", Polsat Sport Premium 1
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/405.ts
+#EXTINF: -1 tvg-name="Planet Sport 5 HR" group-title="ZALCODE-SPORT-2", Planet Sport 5 HR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/420.ts
+#EXTINF: -1 tvg-name="Planet Sport 4 HR" group-title="ZALCODE-SPORT-2", Planet Sport 4 HR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/410.ts
+#EXTINF: -1 tvg-name="Planet Sport 3 HR" group-title="ZALCODE-SPORT-2", Planet Sport 3 HR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/409.ts
+#EXTINF: -1 tvg-name="Planet Sport 2 HR" group-title="ZALCODE-SPORT-2", Planet Sport 2 HR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/408.ts
+#EXTINF: -1 tvg-name="Planet Sport 1 HR" group-title="ZALCODE-SPORT-2", Planet Sport 1 HR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/407.ts
+
+#EXTINF: -1 tvg-name="NL: Ziggo Sport Voetbal" group-title="ZALCODE-SPORT-2", NL: Ziggo Sport Voetbal
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1200.ts
+#EXTINF: -1 tvg-name="NL: Ziggo Sport Racing" group-title="ZALCODE-SPORT-2", NL: Ziggo Sport Racing
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1199.ts
+#EXTINF: -1 tvg-name="NL: Ziggo Sport Golf" group-title="ZALCODE-SPORT-2", NL: Ziggo Sport Golf
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1208.ts
+#EXTINF: -1 tvg-name="NL: Ziggo Sport" group-title="ZALCODE-SPORT-2", NL: Ziggo Sport
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1207.ts
+
+#EXTINF: -1 tvg-name="ES: Movistar+ Golf" group-title="ZALCODE-SPORT-2", ES: Movistar+ Golf
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/345.ts
+
+
+#EXTINF: -1 tvg-id="Tring Sport News HD" tvg-name="Tring Sport News HD" group-title="ZALCODE-SPORT-2", Tring Sport News HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/267.ts
+#EXTINF: -1 tvg-id="Tring Sport 1 HD" tvg-name="Tring Sport 1 HD" group-title="ZALCODE-SPORT-2", Tring Sport 1 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/268.ts
+#EXTINF: -1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2 HD" group-title="ZALCODE-SPORT-2", Tring Sport 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/269.ts
+#EXTINF: -1 tvg-id="Tring Sport 3 HD" tvg-name="Tring Sport 3 HD" group-title="ZALCODE-SPORT-2", Tring Sport 3 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/270.ts
+#EXTINF: -1 tvg-id="Tring Sport 4 HD" tvg-name="Tring Sport 4 HD" group-title="ZALCODE-SPORT-2", Tring Sport 4 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/271.ts
+
+#EXTINF: -1 tvg-id="RTSH Sport" tvg-name="RTSH Sport" group-title="ZALCODE-SPORT-2", RTSH Sport
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/280.ts
+#EXTINF: -1 tvg-name="Extreme Sports Channel" group-title="ZALCODE-SPORT-2", Extreme Sports Channel
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/281.ts
+#EXTINF: -1 tvg-name="FreeSports" group-title="ZALCODE-SPORT-2", FreeSports
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/284.ts
+#EXTINF: -1 tvg-name="Premier Sports" group-title="ZALCODE-SPORT-2", Premier Sports
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/285.ts
+#EXTINF: -1 tvg-name="Premier Sports 2" group-title="ZALCODE-SPORT-2", Premier Sports 2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/286.ts
+#EXTINF: -1 tvg-name="UK: Sky Sports News" group-title="ZALCODE-SPORT-2", UK: Sky Sports News
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/287.ts
+#EXTINF: -1 tvg-name="UK: Sky Sports Main Event" group-title="ZALCODE-SPORT-2", UK: Sky Sports Main Event
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/288.ts
+#EXTINF: -1 tvg-name="UK: Sky Sports Premier League" group-title="ZALCODE-SPORT-2", UK: Sky Sports Premier League
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/291.ts
+#EXTINF: -1 tvg-name="UK: Sky Sports Football" group-title="ZALCODE-SPORT-2", UK: Sky Sports Football
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/290.ts
+#EXTINF: -1 tvg-name="UK: Sky Sports Mix" group-title="ZALCODE-SPORT-2", UK: Sky Sports Mix
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/289.ts
+#EXTINF: -1 tvg-name="UK: Sky Sports Arena" group-title="ZALCODE-SPORT-2", UK: Sky Sports Arena
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/292.ts
+#EXTINF: -1 tvg-name="UK: Sky Sports NFL" group-title="ZALCODE-SPORT-2", UK: Sky Sports NFL
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/293.ts
+#EXTINF: -1 tvg-name="UK: Sky Sports Golf" group-title="ZALCODE-SPORT-2", UK: Sky Sports Golf
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/294.ts
+#EXTINF: -1 tvg-name="UK: Sky Sports Cricket" group-title="ZALCODE-SPORT-2", UK: Sky Sports Cricket
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/295.ts
+#EXTINF: -1 tvg-name="UK: BT Sport 1" group-title="ZALCODE-SPORT-2", UK: BT Sport 1
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/298.ts
+#EXTINF: -1 tvg-name="UK: BT Sport 2" group-title="ZALCODE-SPORT-2", UK: BT Sport 2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/299.ts
+#EXTINF: -1 tvg-name="UK: BT Sport 3" group-title="ZALCODE-SPORT-2", UK: BT Sport 3
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/300.ts
+#EXTINF: -1 tvg-name="UK: BT Sport ESPN" group-title="ZALCODE-SPORT-2", UK: BT Sport ESPN
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/301.ts
+
+#EXTINF: -1 tvg-name="ES: Barça TV" group-title="ZALCODE-SPORT-2", ES: Barça TV
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/336.ts
+#EXTINF: -1 tvg-name="ES: #V" group-title="ZALCODE-SPORT-2", ES: #V
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/347.ts
+#EXTINF: -1 tvg-name="ES: Movistar LaLiga" group-title="ZALCODE-SPORT-2", ES: Movistar LaLiga
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/339.ts
+#EXTINF: -1 tvg-name="ES: Movistar LaLiga 1" group-title="ZALCODE-SPORT-2", ES: Movistar LaLiga 1
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/340.ts
+#EXTINF: -1 tvg-name="ES: Movistar LaLiga 2" group-title="ZALCODE-SPORT-2", ES: Movistar LaLiga 2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/341.ts
+#EXTINF: -1 tvg-name="ES: Movistar Liga De Campeones" group-title="ZALCODE-SPORT-2", ES: Movistar Liga De Campeones
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/343.ts
+#EXTINF: -1 tvg-name="ES: Movistar+ F1" group-title="ZALCODE-SPORT-2", ES: Movistar+ F1
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/346.ts
+#EXTINF: -1 tvg-name="ES: Gol HD" group-title="ZALCODE-SPORT-2", ES: Gol HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/342.ts
+#EXTINF: -1 tvg-name="ES: Esport3" group-title="ZALCODE-SPORT-2", ES: Esport3
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/348.ts
+
+#EXTINF: -1 tvg-name="beIN Sports News" group-title="ZALCODE-SPORT-2", beIN Sports News
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/349.ts
+#EXTINF: -1 tvg-name="beIN Sports 1 HD" group-title="ZALCODE-SPORT-2", beIN Sports 1 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.ts
+#EXTINF: -1 tvg-name="beIN Sports 2 HD" group-title="ZALCODE-SPORT-2", beIN Sports 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.ts
+#EXTINF: -1 tvg-name="beIN Sports 3 HD" group-title="ZALCODE-SPORT-2", beIN Sports 3 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.ts
+#EXTINF: -1 tvg-name="beIN Sports 4 HD" group-title="ZALCODE-SPORT-2", beIN Sports 4 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.ts
+#EXTINF: -1 tvg-name="beIN Sports 5 HD" group-title="ZALCODE-SPORT-2", beIN Sports 5 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/354.ts
+#EXTINF: -1 tvg-name="beIN Sports 6 HD" group-title="ZALCODE-SPORT-2", beIN Sports 6 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/355.ts
+#EXTINF: -1 tvg-name="beIN Sports 7 HD" group-title="ZALCODE-SPORT-2", beIN Sports 7 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/356.ts
+#EXTINF: -1 tvg-name="beIN Sports 8 HD" group-title="ZALCODE-SPORT-2", beIN Sports 8 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/357.ts
+#EXTINF: -1 tvg-name="beIN Sports 9 HD" group-title="ZALCODE-SPORT-2", beIN Sports 9 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.ts
+#EXTINF: -1 tvg-name="beIN Sports 10 HD" group-title="ZALCODE-SPORT-2", beIN Sports 10 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.ts
+#EXTINF: -1 tvg-name="beIN Sports 11 HD" group-title="ZALCODE-SPORT-2", beIN Sports 11 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/360.ts
+#EXTINF: -1 tvg-name="beIN Sports 12 HD" group-title="ZALCODE-SPORT-2", beIN Sports 12 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/361.ts
+
+
+#EXTINF: -1 tvg-name="beIN Sports Haber HD" group-title="ZALCODE-SPORT-2", beIN Sports Haber HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/389.ts
+#EXTINF: -1 tvg-name="beIN SPORTS 1 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS 1 TR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/390.ts
+#EXTINF: -1 tvg-name="beIN SPORTS 2 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS 2 TR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/391.ts
+#EXTINF: -1 tvg-name="beIN SPORTS 3 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS 3 TR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/392.ts
+#EXTINF: -1 tvg-name="beIN SPORTS 4 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS 4 TR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/393.ts
+#EXTINF: -1 tvg-name="beIN SPORTS MAX 1 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS MAX 1 TR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/394.ts
+#EXTINF: -1 tvg-name="beIN SPORTS MAX 2 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS MAX 2 TR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/395.ts
+#EXTINF: -1 tvg-name="TRT Spor HD" group-title="ZALCODE-SPORT-2", TRT Spor HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/397.ts
+#EXTINF: -1 tvg-name="TRT Spor 2 HD" group-title="ZALCODE-SPORT-2", TRT Spor 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/396.ts
+
+#EXTINF: -1 tvg-name="S Sport 2 HD" group-title="ZALCODE-SPORT-2", S Sport 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/398.ts
+#EXTINF: -1 tvg-name="FR: RMC Sport 1 HD" group-title="ZALCODE-SPORT-2", FR: RMC Sport 1 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/374.ts
+#EXTINF: -1 tvg-name="FR: beIN Sports 1 HD" group-title="ZALCODE-SPORT-2", FR: beIN Sports 1 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/369.ts
+#EXTINF: -1 tvg-name="FR: beIN Sports 2 HD" group-title="ZALCODE-SPORT-2", FR: beIN Sports 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/370.ts
+#EXTINF: -1 tvg-name="FR: beIN Sports 3 HD" group-title="ZALCODE-SPORT-2", FR: beIN Sports 3 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/371.ts
+#EXTINF: -1 tvg-name="PT: SPORT TV 1" group-title="ZALCODE-SPORT-2", PT: SPORT TV 1
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/378.ts
+#EXTINF: -1 tvg-name="PT: SPORT TV 2" group-title="ZALCODE-SPORT-2", PT: SPORT TV 2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/379.ts
+#EXTINF: -1 tvg-name="PT: SPORT TV 3" group-title="ZALCODE-SPORT-2", PT: SPORT TV 3
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/380.ts
+#EXTINF: -1 tvg-name="PT: SPORT TV 4" group-title="ZALCODE-SPORT-2", PT: SPORT TV 4
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/381.ts
+#EXTINF: -1 tvg-name="PT: SPORT TV 5" group-title="ZALCODE-SPORT-2", PT: SPORT TV 5
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/382.ts
+#EXTINF: -1 tvg-name="NL: FOX Sports 1" group-title="ZALCODE-SPORT-2", NL: FOX Sports 1
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/383.ts
+#EXTINF: -1 tvg-name="NL: FOX Sports 2" group-title="ZALCODE-SPORT-2", NL: FOX Sports 2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/384.ts
+#EXTINF: -1 tvg-name="NL: FOX Sports 3" group-title="ZALCODE-SPORT-2", NL: FOX Sports 3
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/385.ts
+#EXTINF: -1 tvg-name="NL: FOX Sports 4" group-title="ZALCODE-SPORT-2", NL: FOX Sports 4
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/386.ts
+#EXTINF: -1 tvg-name="NL: FOX Sports 5" group-title="ZALCODE-SPORT-2", NL: FOX Sports 5
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/387.ts
+#EXTINF: -1 tvg-name="NL: FOX Sports 6" group-title="ZALCODE-SPORT-2", NL: FOX Sports 6
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/388.ts
+
+#EXTINF: -1 tvg-name="Canal+ Sport PL" group-title="ZALCODE-SPORT-2", Canal+ Sport PL
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/399.ts
+#EXTINF: -1 tvg-name="Canal+ Sport 2 HD" group-title="ZALCODE-SPORT-2", Canal+ Sport 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/400.ts
+#EXTINF: -1 tvg-name="Eleven Sports 1" group-title="ZALCODE-SPORT-2", Eleven Sports 1
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/401.ts
+#EXTINF: -1 tvg-name="Eleven Sports 2" group-title="ZALCODE-SPORT-2", Eleven Sports 2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/402.ts
+#EXTINF: -1 tvg-name="Eleven Sports 3" group-title="ZALCODE-SPORT-2", Eleven Sports 3
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/403.ts
+#EXTINF: -1 tvg-name="Eleven Sports 4 PL" group-title="ZALCODE-SPORT-2", Eleven Sports 4 PL
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/404.ts
+
+#EXTINF: -1 tvg-name="Sport Klub 1" group-title="ZALCODE-SPORT-2", Sport Klub 1
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/412.ts
+#EXTINF: -1 tvg-name="Sport Klub 2" group-title="ZALCODE-SPORT-2", Sport Klub 2
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/413.ts
+#EXTINF: -1 tvg-name="Sport Klub 3" group-title="ZALCODE-SPORT-2", Sport Klub 3
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/414.ts
+
+#EXTINF: -1 tvg-name="Arena Sport 1 HR" group-title="ZALCODE-SPORT-2", Arena Sport 1 HR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/421.ts
+#EXTINF: -1 tvg-name="Arena Sport 2 HR" group-title="ZALCODE-SPORT-2", Arena Sport 2 HR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/422.ts
+#EXTINF: -1 tvg-name="Arena Sport 3 HR" group-title="ZALCODE-SPORT-2", Arena Sport 3 HR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/423.ts
+#EXTINF: -1 tvg-name="Arena Sport 4 HR" group-title="ZALCODE-SPORT-2", Arena Sport 4 HR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/424.ts
+#EXTINF: -1 tvg-name="Arena Sport 5 HR" group-title="ZALCODE-SPORT-2", Arena Sport 5 HR
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/425.ts
+#EXTINF: -1 tvg-name="FR: RMC Sport 4 HD" group-title="ZALCODE-SPORT-2", FR: RMC Sport 4 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/377.ts
+#EXTINF: -1 tvg-name="FR: RMC Sport 3 HD" group-title="ZALCODE-SPORT-2", FR: RMC Sport 3 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/376.ts
+#EXTINF: -1 tvg-name="FR: RMC Sport 2 HD" group-title="ZALCODE-SPORT-2", FR: RMC Sport 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/375.ts
+#EXTINF: -1 tvg-name="FR: Canal+ Sport HD" group-title="ZALCODE-SPORT-2", FR: Canal+ Sport HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/368.ts
+#EXTINF: -1 tvg-name="FR: beIN Sports MAX 5" group-title="ZALCODE-SPORT-2", FR: beIN Sports MAX 5
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/373.ts
+#EXTINF: -1 tvg-name="FR: beIN Sports MAX 4" group-title="ZALCODE-SPORT-2", FR: beIN Sports MAX 4
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/372.ts
+#EXTINF: -1 tvg-name="AF: SuperSport TENNIS HD" group-title="ZALCODE-SPORT-2", AF: SuperSport TENNIS HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1281.ts
+#EXTINF: -1 tvg-name="AF: SuperSport RUGBY HD" group-title="ZALCODE-SPORT-2", AF: SuperSport RUGBY HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1280.ts
+#EXTINF: -1 tvg-name="AF: SuperSport PSL HD" group-title="ZALCODE-SPORT-2", AF: SuperSport PSL HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1273.ts
+#EXTINF: -1 tvg-name="AF: SuperSport MOTORSPORT HD" group-title="ZALCODE-SPORT-2", AF: SuperSport MOTORSPORT HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1277.ts
+#EXTINF: -1 tvg-name="AF: SuperSport GRANDSTAND HD" group-title="ZALCODE-SPORT-2", AF: SuperSport GRANDSTAND HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1279.ts
+#EXTINF: -1 tvg-name="AF: SuperSport GOLF HD" group-title="ZALCODE-SPORT-2", AF: SuperSport GOLF HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1278.ts
+#EXTINF: -1 tvg-name="AF: SuperSport CRICKET HD" group-title="ZALCODE-SPORT-2", AF: SuperSport CRICKET HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1282.ts
+#EXTINF: -1 tvg-name="AF: SuperSport Blitz HD" group-title="ZALCODE-SPORT-2", AF: SuperSport Blitz HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1284.ts
+#EXTINF: -1 tvg-name="AF: SuperSport ACTION HD" group-title="ZALCODE-SPORT-2", AF: SuperSport ACTION HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1283.ts
+
+## BEIN SPORT ##
+
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_11.png" group-title="BEINSPORTS",BeinSport11 (ENG)
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/360.ts 
+
+#EXTINF: -1 tvg-name="beIN Sports News" group-title="BEINSPORTS", beIN Sports News
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/349.ts
+#EXTINF: -1 tvg-name="beIN Sports 1 HD" group-title="BEINSPORTS", beIN Sports 1 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.ts
+#EXTINF: -1 tvg-name="beIN Sports 2 HD" group-title="BEINSPORTS", beIN Sports 2 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.ts
+#EXTINF: -1 tvg-name="beIN Sports 3 HD" group-title="BEINSPORTS", beIN Sports 3 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.ts
+#EXTINF: -1 tvg-name="beIN Sports 4 HD" group-title="BEINSPORTS", beIN Sports 4 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.ts
+#EXTINF: -1 tvg-name="beIN Sports 5 HD" group-title="BEINSPORTS", beIN Sports 5 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/354.ts
+#EXTINF: -1 tvg-name="beIN Sports 6 HD" group-title="BEINSPORTS", beIN Sports 6 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/355.ts
+#EXTINF: -1 tvg-name="beIN Sports 7 HD" group-title="BEINSPORTS", beIN Sports 7 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/356.ts
+#EXTINF: -1 tvg-name="beIN Sports 8 HD" group-title="BEINSPORTS", beIN Sports 8 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/357.ts
+#EXTINF: -1 tvg-name="beIN Sports 9 HD" group-title="BEINSPORTS", beIN Sports 9 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.ts
+#EXTINF: -1 tvg-name="beIN Sports 10 HD" group-title="BEINSPORTS", beIN Sports 10 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.ts
+#EXTINF: -1 tvg-name="beIN Sports 11 HD" group-title="BEINSPORTS", beIN Sports 11 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/360.ts
+#EXTINF: -1 tvg-name="beIN Sports 12 HD" group-title="BEINSPORTS", beIN Sports 12 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/361.ts
+#EXTINF: -1 tvg-name="beIN Sports 13 HD" group-title="BEINSPORTS", beIN Sports 13 HD
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/362.ts
+ 
+
+
+### ZALCODETV ##
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="ZALCODE-ENT",ANIPLUS
+http://210.210.155.35/session/ec8b65d0-8ac1-11ea-b4aa-c81f66f89318/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logohttps://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="ZALCODE-ENT",ANIMAX
+http://210.210.155.35/session/1e32b920-8ac3-11ea-a16a-c81f66f89318/dr9445/h/h144/02.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="ZALCODE-ENT",CELESTIAL MOVIE
+http://210.210.155.35/session/5161f5da-8abf-11ea-8ff9-b82a72d63267/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="ZALCODE-ENT",KIX
+http://210.210.155.35/session/0d70c506-8ac2-11ea-b162-c81f66f89318/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="ZALCODE-ENT",KIX 2
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dde85ea0-b018-44f3-81f6-6dc33b6daf3f)/manifest.mpd
+
+#EXTINF:-1 tvg-logo=http://www.dens.tv/images/channel-logo/95.jpg"" group-title="ZALCODE-ENT",MY CINEMA
+http://210.210.155.35/session/1482d1f4-8b5d-11ea-a11f-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="ZALCODE-ENT", BLUE ANT ENTERTAINMENT
+http://210.210.155.35/session/4f893468-8aff-11ea-b29b-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="ZALCODE-ENT",CINEMA WORLD
+http://210.210.155.35/session/b7f290cc-8b03-11ea-9e97-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg" group-title="ZALCODE-ENT",AXN 
+http://210.210.155.35/session/92f8302e-8b03-11ea-a16a-c81f66f89318/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="ZALCODE-ENT", BLUE ANT EXTREME
+http://210.210.155.35/session/3061ac06-8b03-11ea-a7a4-b82a72d63267/dr9445/h/h15/01.m3u8     
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="ZALCODE-ENT",HITS
+http://210.210.155.35/session/6a44e720-8b04-11ea-afc9-c81f66f89318/uq2663/h/h37/02.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="ZALCODE-ENT",TRILL
+http://210.210.155.35/session/abe709e2-8b04-11ea-a706-c81f66f89318/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="ZALCODE-ENT",K+
+http://210.210.155.35/session/068e3abe-8b05-11ea-929d-c81f66f89318/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg" group-title="ZALCODE-ENT",ONE
+http://210.210.155.35/session/294810b6-8b05-11ea-b4aa-c81f66f89318/uq2663/h/h143/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="ZALCODE-ENT",GEM
+http://210.210.155.35/session/53402f70-8b05-11ea-bc3a-b82a72d63267/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="ZALCODE-ENT",MONDE5
+http://210.210.155.35/session/7314c3b0-8b05-11ea-9759-b82a72d63267/uq2663/h/h01/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="ZALCODE-ENT",FIGH
+http://210.210.155.35/session/b349e370-8b05-11ea-afc9-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="ZALCODE-ENT",ZEE BIOSKOP 
+http://210.210.155.35/session/e1c7c2e4-8b05-11ea-a66f-b82a72d63267/qwr9ew/s/s32/01.m3u8
+
+
+#######
+
+#### zalcdoe malay ##
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",TV1 
+#EXTVLCOPT:network-caching=1000
+http://58.26.3.54/PLTV/88888888/224/3221226228/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",TV2 
+#EXTVLCOPT:network-caching=1000
+http://58.26.3.55/PLTV/88888888/224/3221226229/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Berita RTM 
+#EXTVLCOPT:network-caching=1000
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Astro Awani 
+#EXTVLCOPT:network-caching=1000
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Astro Naura 
+#EXTVLCOPT:network-caching=1000
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",RTB Sukma Indera 
+#EXTVLCOPT:network-caching=1000
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Suria 
+#EXTVLCOPT:network-caching=1000
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Astro Warna 
+#EXTVLCOPT:network-caching=1000
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Drama Sangat 
+#EXTVLCOPT:network-caching=1000
+https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0vgMik7gMH6R_qf-uWY3nOI)/dm/3/x6zvnex/s/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",TV 3 
+#EXTVLCOPT:network-caching=1000
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQ4LCyreOMXpfx6Qr3_D8Ds)/dm/3/x6qp375/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",TV 9 
+#EXTVLCOPT:network-caching=1000
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfvnFr8xf9K0W2jXeVNsr7g)/dm/3/x6qqja6/s/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",8 TV 
+#EXTVLCOPT:network-caching=1000
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHagw0JAIrSTBlUAvVhsOp3I)/dm/3/x6qud17/s/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",NTV 7 
+#EXTVLCOPT:network-caching=1000
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWab-qOg0kLxh3JUKDPdcww)/dm/3/x6qp6ou/s/live-4.m3u8
+
+### LIFE STYLE #
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="ZALCODE-LIFE",MY eGG Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+
+#EXTINF:0 tvg-logo="https://www.androidfreeware.net/img2/dunia-games.jpg" group-title="ZALCODE-LIFE",Dunia Games
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(80a28b16-86cd-4e4f-83e2-09fd96d7d0e2)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557996699_logo-techstorm.png" group-title="ZALCODE-LIFE",Tech Storm
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/e9/e1/e6e9e1da2ea8646813db6421bec88258.png" group-title="ZALCODE-LIFE",Hi!
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/501908385294323712/uxIEi9C1_400x400.jpeg" group-title="ZALCODE-LIFE",ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="ZALCODE-LIFE",FOOD
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="ZALCODE-LIFE",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:0 tvg-logo="https://www.infotelevisi.com/asset/images/tv/HOME-LIVING.jpg" group-title="ZALCODE-LIFE",Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png" group-title="ZALCODE-LIFE",Ruang Terampil
+http://iptv.burhansyam.com/useetv/useeinfo.m3u8
+#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="ZALCODE-LIFE",TV5 Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
+#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="ZALCODE-LIFE",TV5 Monde Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="ZALCODE-LIFE",TV5 Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="ZALCODE-LIFE",Fashion & Lifestyle TV
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="ZALCODE-LIFE",HD Fashion & Lifestyle TV 
+http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="ZALCODE-LIFE",HD Fashion 
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="ZALCODE-LIFE",HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.png" group-title="ZALCODE-LIFE",HD Fashion (& Lifestyle TV)
+http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="ZALCODE-LIFE",Fashion TV Teens
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AJX3kBxSsQc/hqdefault.jpg" group-title="ZALCODE-LIFE",Fashion TV Films
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="ZALCODE-LIFE",Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-psd/dark-fashion-logo-mock-up_1097-15.jpg" group-title="ZALCODE-LIFE",FASHION TOP MODEL
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="ZALCODE-LIFE",Fashion TV L'Original
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="ZALCODE-LIFE",Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="ZALCODE-LIFE",EGG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSAfKXY.jpg" group-title="ZALCODE-LIFE",People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="ZALCODE-LIFE",TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="ZALCODE-LIFE",TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="ZALCODE-LIFE",Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKDeUb3.png" group-title="ZALCODE-LIFE",STIRR Travel
+https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiB0yhK.png" group-title="ZALCODE-LIFE",Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLP2npr.jpg" group-title="ZALCODE-LIFE",ID Fashion
+https://sc.id-tv.kz/IDFashion_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="ZALCODE-LIFE",Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="ZALCODE-LIFE",Tasty
+https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="ZALCODE-LIFE",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+
+### OTHER SOURCE##
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/oxygen.png?cdy=8.8.8.8" group-title="OXYGEN",OXYGEN.ID
+https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
