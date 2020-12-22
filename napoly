@@ -74,7 +74,706 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w242732416_b3840
 #EXTVLCOPT:network-caching=1000	
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-
+###zLCODETES#
+#EXTM3U
+#EXTINF:0,Events: Corona Virus - Covid 19
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/38446
+#EXTINF:-1  group-title="ZALCODE-TEST",AXN
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28816
+#EXTINF:-1  group-title="ZALCODE-TEST",CCM
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28802
+#EXTINF:-1  group-title="ZALCODE-TEST",Celestial Movies
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28797
+#EXTINF:-1  group-title="ZALCODE-TEST",Cinema World
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6750
+#EXTINF:-1  group-title="ZALCODE-TEST",Citra TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28728
+#EXTINF:-1  group-title="ZALCODE-TEST",Crime Investigation
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28794
+#EXTINF:-1  group-title="ZALCODE-TEST",DIVA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28793
+#EXTINF:-1  group-title="ZALCODE-TEST",Drama Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28787
+#EXTINF:-1  group-title="ZALCODE-TEST",FMN
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28783
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28777
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Crime
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28779
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Family Movies
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28778
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Life
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28776
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Movies
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28774
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Movies Action
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28775
+#EXTINF:-1  group-title="ZALCODE-TEST",FX
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28782
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO CINEMAX
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45767
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO FAMILY
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45765
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO HITS
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45764
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO RED
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45766
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO SIGNATURE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45763
+#EXTINF:-1  group-title="ZALCODE-TEST",Hits
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28766
+#EXTINF:-1  group-title="ZALCODE-TEST",Hits Movies
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28765
+#EXTINF:-1  group-title="ZALCODE-TEST",K+ HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6744
+#EXTINF:-1  group-title="ZALCODE-TEST",KIX
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28761
+#EXTINF:-1  group-title="ZALCODE-TEST",Movie Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28754
+#EXTINF:-1  group-title="ZALCODE-TEST",MyTV HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18546
+#EXTINF:-1  group-title="ZALCODE-TEST",Premiere
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28746
+#EXTINF:-1  group-title="ZALCODE-TEST",SCM
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28744
+#EXTINF:-1  group-title="ZALCODE-TEST",SCM Legend
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28743
+#EXTINF:-1  group-title="ZALCODE-TEST",Sony ONE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18547
+#EXTINF:-1  group-title="ZALCODE-TEST",Thrill
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18549
+#EXTINF:-1  group-title="ZALCODE-TEST",TVN
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28739
+#EXTINF:-1  group-title="ZALCODE-TEST",TVN Movies
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28738
+#EXTINF:-1  group-title="ZALCODE-TEST",Waku Waku Japan
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28734
+#EXTINF:-1  group-title="ZALCODE-TEST",Warner TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28733
+#EXTINF:-1  group-title="ZALCODE-TEST",Baby TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28807
+#EXTINF:-1  group-title="ZALCODE-TEST",BBC Cbeebies
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28810
+#EXTINF:-1  group-title="ZALCODE-TEST",Besmart
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28805
+#EXTINF:-1  group-title="ZALCODE-TEST",Boomerang
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28803
+#EXTINF:-1  group-title="ZALCODE-TEST",Cartoon Network
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28798
+#EXTINF:-1  group-title="ZALCODE-TEST",Disney Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28790
+#EXTINF:-1  group-title="ZALCODE-TEST",Disney Junior
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28789
+#EXTINF:-1  group-title="ZALCODE-TEST",Disney XD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28788
+#EXTINF:-1  group-title="ZALCODE-TEST",Kids Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28760
+#EXTINF:-1  group-title="ZALCODE-TEST",MiaoMI
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28755
+#EXTINF:-1  group-title="ZALCODE-TEST",MIVO TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45762
+#EXTINF:-1  group-title="ZALCODE-TEST",Nick
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28748
+#EXTINF:-1  group-title="ZALCODE-TEST",Nick JR
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28747
+#EXTINF:-1  group-title="ZALCODE-TEST",Animal Planet
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28815
+#EXTINF:-1  group-title="ZALCODE-TEST",Asian Food Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28812
+#EXTINF:-1  group-title="ZALCODE-TEST",BBC Earth
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28809
+#EXTINF:-1  group-title="ZALCODE-TEST",Discovery Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28791
+#EXTINF:-1  group-title="ZALCODE-TEST",Food Network
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28780
+#EXTINF:-1  group-title="ZALCODE-TEST",HGTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28769
+#EXTINF:-1  group-title="ZALCODE-TEST",History
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28767
+#EXTINF:-1  group-title="ZALCODE-TEST",Nat Geo
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28752
+#EXTINF:-1  group-title="ZALCODE-TEST",Nat Geo People
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28751
+#EXTINF:-1  group-title="ZALCODE-TEST",Nat Geo Wild
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28750
+#EXTINF:-1  group-title="ZALCODE-TEST",TLC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28741
+#EXTINF:-1  group-title="ZALCODE-TEST",Auto Gadget
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28811
+#EXTINF:-1  group-title="ZALCODE-TEST",Bali TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6757
+#EXTINF:-1  group-title="ZALCODE-TEST",Comedy Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28795
+#EXTINF:-1  group-title="ZALCODE-TEST",DIGDAYATV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28726
+#EXTINF:-1  group-title="ZALCODE-TEST",E!
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28786
+#EXTINF:-1  group-title="ZALCODE-TEST",EWTN
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28785
+#EXTINF:-1  group-title="ZALCODE-TEST",i NEWS
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6762
+#EXTINF:-1  group-title="ZALCODE-TEST",Infotainment
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28763
+#EXTINF:-1  group-title="ZALCODE-TEST",Insan TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28725
+#EXTINF:-1  group-title="ZALCODE-TEST",Jak TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28762
+#EXTINF:-1  group-title="ZALCODE-TEST",JTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18544
+#EXTINF:-1  group-title="ZALCODE-TEST",Life Style Fashion
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28758
+#EXTINF:-1  group-title="ZALCODE-TEST",Life Time
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28757
+#EXTINF:-1  group-title="ZALCODE-TEST",MGSTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28724
+#EXTINF:-1  group-title="ZALCODE-TEST",MNC Entertainment
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28756
+#EXTINF:-1  group-title="ZALCODE-TEST",MNC News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6748
+#EXTINF:-1  group-title="ZALCODE-TEST",MNC Shop
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6746
+#EXTINF:-1  group-title="ZALCODE-TEST",MTA TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28723
+#EXTINF:-1  group-title="ZALCODE-TEST",Music Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28753
+#EXTINF:-1  group-title="ZALCODE-TEST",Padang TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28722
+#EXTINF:-1  group-title="ZALCODE-TEST",PADANJTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28721
+#EXTINF:-1  group-title="ZALCODE-TEST",RTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18545
+#EXTINF:-1  group-title="ZALCODE-TEST",RTV TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28716
+#EXTINF:-1  group-title="ZALCODE-TEST",TEGAR TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28713
+#EXTINF:-1  group-title="ZALCODE-TEST",Tegar TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28796
+#EXTINF:-1  group-title="ZALCODE-TEST",The Indonesia Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28712
+#EXTINF:-1  group-title="ZALCODE-TEST",Travel Home
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28737
+#EXTINF:-1  group-title="ZALCODE-TEST",Trial Clubbing TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28736
+#EXTINF:-1  group-title="ZALCODE-TEST",TV Edukasi
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28711
+#EXTINF:-1  group-title="ZALCODE-TEST",TVKU TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28710
+#EXTINF:-1  group-title="ZALCODE-TEST",UseePhoto
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33186
+#EXTINF:-1  group-title="ZALCODE-TEST",UseePrime
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33187
+#EXTINF:-1  group-title="ZALCODE-TEST",V Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28735
+#EXTINF:-1  group-title="ZALCODE-TEST",VIP:X
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28764
+#EXTINF:-1  group-title="ZALCODE-TEST",Wesal TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28709
+#EXTINF:-1  group-title="ZALCODE-TEST",ANTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6763
+#EXTINF:-1  group-title="ZALCODE-TEST",GLOBAL TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6765
+#EXTINF:-1  group-title="ZALCODE-TEST",Indosiar TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6764
+#EXTINF:-1  group-title="ZALCODE-TEST",Kompas TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18554
+#EXTINF:-1  group-title="ZALCODE-TEST",Metro
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6758
+#EXTINF:-1  group-title="ZALCODE-TEST",MNC TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6760
+#EXTINF:-1  group-title="ZALCODE-TEST",NET
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6754
+#EXTINF:-1  group-title="ZALCODE-TEST",Rajawali Televisi
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28720
+#EXTINF:-1  group-title="ZALCODE-TEST",RCTI
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6759
+#EXTINF:-1  group-title="ZALCODE-TEST",RTV5 Makin
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28745
+#EXTINF:-1  group-title="ZALCODE-TEST",SCTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6756
+#EXTINF:-1  group-title="ZALCODE-TEST",Trans 7
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6752
+#EXTINF:-1  group-title="ZALCODE-TEST",Trans TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6751
+#EXTINF:-1  group-title="ZALCODE-TEST",TV ONE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6766
+#EXTINF:-1  group-title="ZALCODE-TEST",TVRI
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6755
+#EXTINF:-1  group-title="ZALCODE-TEST",ABC Australia
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28817
+#EXTINF:-1  group-title="ZALCODE-TEST",Arirang Korea
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28813
+#EXTINF:-1  group-title="ZALCODE-TEST",BBC World News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28808
+#EXTINF:-1  group-title="ZALCODE-TEST",Berita Satu
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28806
+#EXTINF:-1  group-title="ZALCODE-TEST",Bloomberg
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28804
+#EXTINF:-1  group-title="ZALCODE-TEST",CCTV4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28801
+#EXTINF:-1  group-title="ZALCODE-TEST",CNBC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28800
+#EXTINF:-1  group-title="ZALCODE-TEST",CNN
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28799
+#EXTINF:-1  group-title="ZALCODE-TEST",CNN Indonesia
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28727
+#EXTINF:-1  group-title="ZALCODE-TEST",Euronews
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28784
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28773
+#EXTINF:-1  group-title="ZALCODE-TEST",News Asia Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28749
+#EXTINF:-1  group-title="ZALCODE-TEST",NHK HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6743
+#EXTINF:-1  group-title="ZALCODE-TEST",Daai TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28792
+#EXTINF:-1  group-title="ZALCODE-TEST",Hidayah
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28768
+#EXTINF:-1  group-title="ZALCODE-TEST",Life
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28759
+#EXTINF:-1  group-title="ZALCODE-TEST",Reformed 21
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28718
+#EXTINF:-1  group-title="ZALCODE-TEST",Rodja TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28717
+#EXTINF:-1  group-title="ZALCODE-TEST",Sakti TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28715
+#EXTINF:-1  group-title="ZALCODE-TEST",Salam TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28714
+#EXTINF:-1  group-title="ZALCODE-TEST",TV9
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28740
+#EXTINF:-1  group-title="ZALCODE-TEST",UChannel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33185
+#EXTINF:-1  group-title="ZALCODE-TEST",beIN Sports 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28732
+#EXTINF:-1  group-title="ZALCODE-TEST",beIN Sports 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28731
+#EXTINF:-1  group-title="ZALCODE-TEST",beIN Sports 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28730
+#EXTINF:-1  group-title="ZALCODE-TEST",Champion TV1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34547
+#EXTINF:-1  group-title="ZALCODE-TEST",Champion TV2 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34548
+#EXTINF:-1  group-title="ZALCODE-TEST",Fight Sports
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28781
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Sports 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28772
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Sports 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28771
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Sports 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28770
+#EXTINF:-1  group-title="ZALCODE-TEST",MNC SPORT HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6745
+#EXTINF:-1  group-title="ZALCODE-TEST",Soccer Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28742
+#EXTINF:-1  group-title="ZALCODE-TEST",UseeSports
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33188
+#EXTINF:-1  group-title="ZALCODE-TEST",UseeSports2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33189
+#EXTINF:-1  group-title="ZALCODE-TEST",ZQ Sport HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28719
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AEC HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28704
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AOD 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33288
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AOD 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33289
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AOD 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33290
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AOD 4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33291
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AOD 5
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33292
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO HUA HEE DAI HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33273
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO QUAN JIA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28703
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO SHUANG XING HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28702
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO VAANAVIL HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28700
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO VINMEEN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28699
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO WAH LAI TOI HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33275
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO XIAO TAI YANG
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28697
+#EXTINF:-1  group-title="ZALCODE-TEST",AXN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28696
+#EXTINF:-1  group-title="ZALCODE-TEST",BLUE ANT ENTER
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33244
+#EXTINF:-1  group-title="ZALCODE-TEST",BLUE ANT EXTREME
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28692
+#EXTINF:-1  group-title="ZALCODE-TEST",CCM
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9617
+#EXTINF:-1  group-title="ZALCODE-TEST",CELESTIAL MOVIES
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28688
+#EXTINF:-1  group-title="ZALCODE-TEST",CINEMA WORLD HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28687
+#EXTINF:-1  group-title="ZALCODE-TEST",CINEMAX HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33258
+#EXTINF:-1  group-title="ZALCODE-TEST",CLASSIC MOVIES CHINESE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33262
+#EXTINF:-1  group-title="ZALCODE-TEST",ENTERTAINMENT
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28680
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX FAMILY MOVIES HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28678
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX LIFE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28677
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Movies Action HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28670
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Movies Family
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28669
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX MOVIES HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28676
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX TV HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28672
+#EXTINF:-1  group-title="ZALCODE-TEST",FX CINEMA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28671
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO FAMILY HD (Eng)
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34809
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34793
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO HITS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34804
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO RED
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34818
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO SIGNATURE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34800
+#EXTINF:-1  group-title="ZALCODE-TEST",HITS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28665
+#EXTINF:-1  group-title="ZALCODE-TEST",HITS Movies
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33276
+#EXTINF:-1  group-title="ZALCODE-TEST",KBS World HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56308
+#EXTINF:-1  group-title="ZALCODE-TEST",KIX
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28662
+#EXTINF:-1  group-title="ZALCODE-TEST",KPLUS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33268
+#EXTINF:-1  group-title="ZALCODE-TEST",PARAMAUNT CHANNEL
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28652
+#EXTINF:-1  group-title="ZALCODE-TEST",RED HBO HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28650
+#EXTINF:-1  group-title="ZALCODE-TEST",SCM HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33249
+#EXTINF:-1  group-title="ZALCODE-TEST",SCM LEGEND
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33250
+#EXTINF:-1  group-title="ZALCODE-TEST",ANIMAL PLANET
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28707
+#EXTINF:-1  group-title="ZALCODE-TEST",ASIAN FOOD CHANNEL
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28705
+#EXTINF:-1  group-title="ZALCODE-TEST",BBC EARTH HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28694
+#EXTINF:-1  group-title="ZALCODE-TEST",BBC LIFESTYLE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28693
+#EXTINF:-1  group-title="ZALCODE-TEST",DISCOVERY CHANNEL
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28686
+#EXTINF:-1  group-title="ZALCODE-TEST",DISCOVERY SCI HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33259
+#EXTINF:-1  group-title="ZALCODE-TEST",HGTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28667
+#EXTINF:-1  group-title="ZALCODE-TEST",History HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9594
+#EXTINF:-1  group-title="ZALCODE-TEST",NAT GEO ASIA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28659
+#EXTINF:-1  group-title="ZALCODE-TEST",NAT GEO PEOPLE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28658
+#EXTINF:-1  group-title="ZALCODE-TEST",NAT GEO WILD HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28657
+#EXTINF:-1  group-title="ZALCODE-TEST",Adithya TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56300
+#EXTINF:-1  group-title="ZALCODE-TEST",ANI PLUS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28708
+#EXTINF:-1  group-title="ZALCODE-TEST",ANIMAX HD KD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28706
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO ARENA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9616
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO Aura
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/50887
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO AWANI
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9619
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO BOLLY ONE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28691
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO CERIA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9618
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO Citra
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/50888
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO CRICKET HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19174
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO GOLF
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/50889
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO Hello
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/50890
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO OASIS
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9615
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO PRIMA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9614
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO Rania
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/50891
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO RIA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9613
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO Rugby Pass HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33277
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO TUTOR PT3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28698
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO TUTOR SPM
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33243
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO WARNA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9612
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO WWE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/50893
+#EXTINF:-1  group-title="ZALCODE-TEST",BABY FIRST
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28695
+#EXTINF:-1  group-title="ZALCODE-TEST",BERNAMA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56301
+#EXTINF:-1  group-title="ZALCODE-TEST",BES
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56302
+#EXTINF:-1  group-title="ZALCODE-TEST",BNC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33287
+#EXTINF:-1  group-title="ZALCODE-TEST",BOOMERANG HD KD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28690
+#EXTINF:-1  group-title="ZALCODE-TEST",CARTOON NETWORK
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28689
+#EXTINF:-1  group-title="ZALCODE-TEST",CGTN
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33257
+#EXTINF:-1  group-title="ZALCODE-TEST",Choice TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33261
+#EXTINF:-1  group-title="ZALCODE-TEST",CHUTTI TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56305
+#EXTINF:-1  group-title="ZALCODE-TEST",Colors Cineplex
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56309
+#EXTINF:-1  group-title="ZALCODE-TEST",COLORS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33271
+#EXTINF:-1  group-title="ZALCODE-TEST",COMEDY CENTRAL
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33245
+#EXTINF:-1  group-title="ZALCODE-TEST",CRIME INVESTIGATION
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33260
+#EXTINF:-1  group-title="ZALCODE-TEST",CTI ASIA CHINESE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33270
+#EXTINF:-1  group-title="ZALCODE-TEST",DISNEY CH
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28685
+#EXTINF:-1  group-title="ZALCODE-TEST",DISNEY JR
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28684
+#EXTINF:-1  group-title="ZALCODE-TEST",DISNEY XD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28683
+#EXTINF:-1  group-title="ZALCODE-TEST",DIVA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28682
+#EXTINF:-1  group-title="ZALCODE-TEST",DMAX HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33269
+#EXTINF:-1  group-title="ZALCODE-TEST",DUNIA SINEMA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28681
+#EXTINF:-1  group-title="ZALCODE-TEST",GO SHOP
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33283
+#EXTINF:-1  group-title="ZALCODE-TEST",GOLF HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33272
+#EXTINF:-1  group-title="ZALCODE-TEST",Horizon Sports HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33293
+#EXTINF:-1  group-title="ZALCODE-TEST",HYPP INSPIRASI HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33256
+#EXTINF:-1  group-title="ZALCODE-TEST",HYPP SENSASI
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28664
+#EXTINF:-1  group-title="ZALCODE-TEST",iQIYI HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33274
+#EXTINF:-1  group-title="ZALCODE-TEST",JAYA MAX APAC Plus
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28663
+#EXTINF:-1  group-title="ZALCODE-TEST",Laku Mall
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28666
+#EXTINF:-1  group-title="ZALCODE-TEST",MAX HD (Eng)
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34814
+#EXTINF:-1  group-title="ZALCODE-TEST",MTV ASIA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28661
+#EXTINF:-1  group-title="ZALCODE-TEST",MUTV HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28660
+#EXTINF:-1  group-title="ZALCODE-TEST",NAURA TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28641
+#EXTINF:-1  group-title="ZALCODE-TEST",NICK JR KD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28656
+#EXTINF:-1  group-title="ZALCODE-TEST",NICK KD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28655
+#EXTINF:-1  group-title="ZALCODE-TEST",NOW INTER
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33246
+#EXTINF:-1  group-title="ZALCODE-TEST",NOW JELLi
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33247
+#EXTINF:-1  group-title="ZALCODE-TEST",NOW TV CHINESE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28654
+#EXTINF:-1  group-title="ZALCODE-TEST",NTV7
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9610
+#EXTINF:-1  group-title="ZALCODE-TEST",OHIK
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28653
+#EXTINF:-1  group-title="ZALCODE-TEST",ONE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/51610
+#EXTINF:-1  group-title="ZALCODE-TEST",PESONA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28651
+#EXTINF:-1  group-title="ZALCODE-TEST",POLIMER News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33282
+#EXTINF:-1  group-title="ZALCODE-TEST",RAJ TV APAC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33265
+#EXTINF:-1  group-title="ZALCODE-TEST",RTM HD SPORTS
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56299
+#EXTINF:-1  group-title="ZALCODE-TEST",SALAAM HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33248
+#EXTINF:-1  group-title="ZALCODE-TEST",SETANTA SPORTS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28649
+#EXTINF:-1  group-title="ZALCODE-TEST",SETi CHINESE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28648
+#EXTINF:-1  group-title="ZALCODE-TEST",SONY ONE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28647
+#EXTINF:-1  group-title="ZALCODE-TEST",SONY SAB APAC Plus
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28646
+#EXTINF:-1  group-title="ZALCODE-TEST",SONY SETMAX APAC Plus
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28645
+#EXTINF:-1  group-title="ZALCODE-TEST",SONY TV APAC Plus
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28644
+#EXTINF:-1  group-title="ZALCODE-TEST",Sport DREAM WORKS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28640
+#EXTINF:-1  group-title="ZALCODE-TEST",SportBABY TV KD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28639
+#EXTINF:-1  group-title="ZALCODE-TEST",STAR CHINESE CHANNEL HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28643
+#EXTINF:-1  group-title="ZALCODE-TEST",STAR VIJAY APAC Plus
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28642
+#EXTINF:-1  group-title="ZALCODE-TEST",SUN MUSIC APAC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33266
+#EXTINF:-1  group-title="ZALCODE-TEST",SUN TV APAC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33267
+#EXTINF:-1  group-title="ZALCODE-TEST",TLC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28638
+#EXTINF:-1  group-title="ZALCODE-TEST",TRAVEL CHANNEL HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28637
+#EXTINF:-1  group-title="ZALCODE-TEST",TV ALHIJRA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28636
+#EXTINF:-1  group-title="ZALCODE-TEST",TV Okey
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56298
+#EXTINF:-1  group-title="ZALCODE-TEST",TV1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9609
+#EXTINF:-1  group-title="ZALCODE-TEST",TV2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9608
+#EXTINF:-1  group-title="ZALCODE-TEST",TV3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9607
+#EXTINF:-1  group-title="ZALCODE-TEST",TV8
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9606
+#EXTINF:-1  group-title="ZALCODE-TEST",TV9
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9605
+#EXTINF:-1  group-title="ZALCODE-TEST",TVB CLASSIC CHINESE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33263
+#EXTINF:-1  group-title="ZALCODE-TEST",TVB JADE CHINESE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33264
+#EXTINF:-1  group-title="ZALCODE-TEST",TVB NEWS
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33251
+#EXTINF:-1  group-title="ZALCODE-TEST",TVB XING HE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33253
+#EXTINF:-1  group-title="ZALCODE-TEST",TVBS ASIA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33252
+#EXTINF:-1  group-title="ZALCODE-TEST",TVN Movies HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9595
+#EXTINF:-1  group-title="ZALCODE-TEST",UTV MOVIES INTERNATIONAL
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33254
+#EXTINF:-1  group-title="ZALCODE-TEST",WARNER TV HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33255
+#EXTINF:-1  group-title="ZALCODE-TEST",WLT JADE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33281
+#EXTINF:-1  group-title="ZALCODE-TEST",WWE NETWORK HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28635
+#EXTINF:-1  group-title="ZALCODE-TEST",Zee Tamil HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56306
+#EXTINF:-1  group-title="ZALCODE-TEST",ABC Australia
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56304
+#EXTINF:-1  group-title="ZALCODE-TEST",CH-5
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9604
+#EXTINF:-1  group-title="ZALCODE-TEST",CH-8
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9603
+#EXTINF:-1  group-title="ZALCODE-TEST",CH-U
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9602
+#EXTINF:-1  group-title="ZALCODE-TEST",CHANNEL NEWS ASIA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9601
+#EXTINF:-1  group-title="ZALCODE-TEST",Eleven Sport HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5106
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX SPORTS 1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7652
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX SPORTS 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7653
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX SPORTS 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7654
+#EXTINF:-1  group-title="ZALCODE-TEST",Fox Sports FHD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/30038
+#EXTINF:-1  group-title="ZALCODE-TEST",HBO ASIA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9596
+#EXTINF:-1  group-title="ZALCODE-TEST",MIAO MI
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9600
+#EXTINF:-1  group-title="ZALCODE-TEST",OKTO
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9599
+#EXTINF:-1  group-title="ZALCODE-TEST",SURIA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9598
+#EXTINF:-1  group-title="ZALCODE-TEST",TVN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9611
+#EXTINF:-1  group-title="ZALCODE-TEST",VASANTHAM
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9597
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO SUPERSPORTS 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40598
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO SUPERSPORTS 1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19170
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO SUPERSPORTS 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40599
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO SUPERSPORTS 2 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19171
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO SUPERSPORTS 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40600
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO SUPERSPORTS 3 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19172
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO SUPERSPORTS 4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40601
+#EXTINF:-1  group-title="ZALCODE-TEST",ASTRO SUPERSPORTS 4 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19173
+#EXTINF:-1  group-title="ZALCODE-TEST",BEIN MAX 2 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33285
+#EXTINF:-1  group-title="ZALCODE-TEST",BEIN MAX HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33284
+#EXTINF:-1  group-title="ZALCODE-TEST",BEIN SPORTS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20367
+#EXTINF:-1  group-title="ZALCODE-TEST",EGG Network
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56307
+#EXTINF:-1  group-title="ZALCODE-TEST",EUROSPORT HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56303
+#EXTINF:-1  group-title="ZALCODE-TEST",EVERY GOOD GAME HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28679
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX SPORTS 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28675
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX SPORTS 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28674
+#EXTINF:-1  group-title="ZALCODE-TEST",FOX SPORTS 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28673
+#EXTINF:-1  group-title="ZALCODE-TEST",GNIX SPORTS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28668
+#EXTINF:-1  group-title="ZALCODE-TEST",3 (HD)
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/8247
+#EXTINF:-1  group-title="ZALCODE-TEST",69 (HD)
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/8243
+#EXTINF:-1  group-title="ZALCODE-TEST",7 (HD)
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/8245
+#EXTINF:-1  group-title="ZALCODE-TEST",Amarin HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/10861
+#EXTINF:-1  group-title="ZALCODE-TEST",APSARA TV KHMER
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/26334
+#EXTINF:-1  group-title="ZALCODE-TEST",ATTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33242
+#EXTINF:-1  group-title="ZALCODE-TEST",AXN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/10910
+#EXTINF:-1  group-title="ZALCODE-TEST",BAYON HD KHMER
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/26332
+#EXTINF:-1  group-title="ZALCODE-TEST",beIN Sports 1 FHD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34787
+#EXTINF:-1  group-title="ZALCODE-TEST",beIN Sports 2 FHD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34788
+#EXTINF:-1  group-title="ZALCODE-TEST",BTV NEWS KHMER
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/26333
+#EXTINF:-1  group-title="ZALCODE-TEST",Bull & Chicken Showtime
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33231
+#EXTINF:-1  group-title="ZALCODE-TEST",CARTOON NETWORK
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/10891
+#EXTINF:-1  group-title="ZALCODE-TEST",Channel News Asia
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/10890
+#EXTINF:-1  group-title="ZALCODE-TEST",CI HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/10907
+#EXTINF:-1  group-title="ZALCODE-TEST",CI HD / Dsport
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/10873
 
 
 #### ZALCODE MOVIE ###
