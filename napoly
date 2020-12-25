@@ -812,133 +812,615 @@ https://zaltvku.imfast.io/REDSD.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0" group-title="ZALCODE-MOVIES",My Cinema
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-name="Sky Movies Action & Adv" group-title="ZALTEST-UK",Sky Movies Action & Adv
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/264
+#EXTINF:-1 tvg-name="Sky Movies Comedy" group-title="ZALTEST-UK",Sky Movies Comedy
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/263
+#EXTINF:-1 tvg-name="Sky Movies Drama" group-title="ZALTEST-UK",Sky Movies Drama
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/265
+#EXTINF:-1 tvg-name="Sky Movies Family" group-title="ZALTEST-UK",Sky Movies Family
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/266
+#EXTINF:-1 tvg-name="Sky Movies Modern-Geant" group-title="ZALTEST-UK",Sky Movies Modern-Geant
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/262
+#EXTINF:-1 tvg-name="Sky Movies Premiere" group-title="ZALTEST-UK",Sky Movies Premiere
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/261
+#EXTINF:-1 tvg-name="Sky Movies Sci-Fi" group-title="ZALTEST-UK",Sky Movies Sci-Fi
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/254
+#EXTINF:-1 tvg-name="Sky Movies Select" group-title="ZALTEST-UK",Sky Movies Select
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/260
+#EXTINF:-1 tvg-name="Sky Movies Showcase" group-title="ZALTEST-UK",Sky Movies Showcase
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/269
+#EXTINF:-1 tvg-name="Sky Movies Thriller" group-title="ZALTEST-UK",Sky Movies Thriller
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/270
 
-#EXTINF: -1 tvg-name="UK: Sky Cinema Premiere" group-title="ZALCODE-UK Ch", UK: Sky Cinema Premiere
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/569.ts
-#EXTINF: -1 tvg-name="UK: Sky Cinema Hits" group-title="ZALCODE-UK Ch", UK: Sky Cinema Hits
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/570.ts
-#EXTINF: -1 tvg-name="UK: Sky Cinema Action" group-title="ZALCODE-UK Ch", UK: Sky Cinema Action
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/571.ts
-#EXTINF: -1 tvg-name="UK: Sky Cinema Comedy" group-title="ZALCODE-UK Ch", UK: Sky Cinema Comedy
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/573.ts
-#EXTINF: -1 tvg-name="UK: Sky Cinema Family" group-title="ZALCODE-UK Ch", UK: Sky Cinema Family
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/572.ts
-#EXTINF: -1 tvg-name="UK: Sky Cinema Disney" group-title="ZALCODE-UK Ch", UK: Sky Cinema Disney
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/574.ts
-#EXTINF: -1 tvg-name="UK: Sky Cinema Select" group-title="ZALCODE-UK Ch", UK: Sky Cinema Select
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/576.ts
-#EXTINF: -1 tvg-name="UK: Sky Cinema Greats" group-title="ZALCODE-UK Ch", UK: Sky Cinema Greats
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/575.ts
-#EXTINF: -1 tvg-name="UK: Sky Cinema Sci-Fi & Horror" group-title="ZALCODE-UK Ch", UK: Sky Cinema Sci-Fi & Horror
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/577.ts
-#EXTINF: -1 tvg-name="UK: Sky Cinema Thriller" group-title="ZALCODE-UK Ch", UK: Sky Cinema Thriller
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/578.ts
-#EXTINF: -1 tvg-name="UK: Sony Movie Channel" group-title="ZALCODE-UK Ch", UK: Sony Movie Channel
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/579.ts
-#EXTINF: -1 tvg-name="UK: Sony Movie Christmas" group-title="ZALCODE-UK Ch", UK: Sony Movie Christmas
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/580.ts
-#EXTINF: -1 tvg-name="UK: Sony Movies Action" group-title="ZALCODE-UK Ch", UK: Sony Movies Action
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/581.ts
-#EXTINF: -1 tvg-name="UK: FOX" group-title="ZALCODE-UK Ch", UK: FOX
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/583.ts
-#EXTINF: -1 tvg-name="UK: Paramount Network" group-title="ZALCODE-UK Ch", UK: Paramount Network
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/597.ts
-#EXTINF: -1 tvg-name="UK: SyFy" group-title="ZALCODE-UK Ch", UK: SyFy
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/584.ts
-#EXTINF: -1 tvg-name="UK: Lifetime" group-title="ZALCODE-UK Ch", UK: Lifetime
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/589.ts
-#EXTINF: -1 tvg-name="UK: TCM" group-title="ZALCODE-UK Ch", UK: TCM
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/585.ts
-#EXTINF: -1 tvg-name="UK: True Entertainment" group-title="ZALCODE-UK Ch", UK: True Entertainment
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/582.ts
-#EXTINF: -1 tvg-name="UK: Cartoon Network" group-title="ZALCODE-UK Ch", UK: Cartoon Network
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/598.ts
-#EXTINF: -1 tvg-name="UK: Cartoonito" group-title="ZALCODE-UK Ch", UK: Cartoonito
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/599.ts
-#EXTINF: -1 tvg-name="UK: Boomerang" group-title="ZALCODE-UK Ch", UK: Boomerang
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/600.ts
-#EXTINF: -1 tvg-name="UK: Disney Channel" group-title="ZALCODE-UK Ch", UK: Disney Channel
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/601.ts
-#EXTINF: -1 tvg-name="UK: Trace Vault" group-title="ZALCODE-UK Ch", UK: Trace Vault
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/602.ts
-#EXTINF: -1 tvg-name="UK: Now 90s" group-title="ZALCODE-UK Ch", UK: Now 90s
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/603.ts
-#EXTINF: -1 tvg-name="UK: Nickelodeon" group-title="ZALCODE-UK Ch", UK: Nickelodeon
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/604.ts
-#EXTINF: -1 tvg-name="UK: Nick Jr" group-title="ZALCODE-UK Ch", UK: Nick Jr
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/605.ts
-#EXTINF: -1 tvg-name="UK: Nick Jr Too" group-title="ZALCODE-UK Ch", UK: Nick Jr Too
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/606.ts
-#EXTINF: -1 tvg-name="UK: Nicktoons" group-title="ZALCODE-UK Ch", UK: Nicktoons
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/607.ts
-#EXTINF: -1 tvg-name="UK: Tiny Pop" group-title="ZALCODE-UK Ch", UK: Tiny Pop
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/608.ts
-#EXTINF: -1 tvg-name="UK: POP" group-title="ZALCODE-UK Ch", UK: POP
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/609.ts
-#EXTINF: -1 tvg-name="UK: POP Max" group-title="ZALCODE-UK Ch", UK: POP Max
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/610.ts
-#EXTINF: -1 tvg-name="UK: Comedy Central" group-title="ZALCODE-UK Ch", UK: Comedy Central
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/595.ts
-#EXTINF: -1 tvg-name="UK: Comedy Central Extra" group-title="ZALCODE-UK Ch", UK: Comedy Central Extra
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/596.ts
-#EXTINF: -1 tvg-name="UK: E! Entertainment" group-title="ZALCODE-UK Ch", UK: E! Entertainment
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/638.ts
-#EXTINF: -1 tvg-name="UK: MTV" group-title="ZALCODE-UK Ch", UK: MTV
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/626.ts
-#EXTINF: -1 tvg-name="UK: MTV Base" group-title="ZALCODE-UK Ch", UK: MTV Base
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/627.ts
-#EXTINF: -1 tvg-name="UK: MTV Classic" group-title="ZALCODE-UK Ch", UK: MTV Classic
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/629.ts
-#EXTINF: -1 tvg-name="UK: MTV Music +1" group-title="ZALCODE-UK Ch", UK: MTV Music +1
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/628.ts
-#EXTINF: -1 tvg-name="UK: MTV Hits" group-title="ZALCODE-UK Ch", UK: MTV Hits
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/630.ts
-#EXTINF: -1 tvg-name="UK: 4Music" group-title="ZALCODE-UK Ch", UK: 4Music
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/633.ts
-#EXTINF: -1 tvg-name="UK: The Box" group-title="ZALCODE-UK Ch", UK: The Box
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/634.ts
-#EXTINF: -1 tvg-name="UK: Box Hits" group-title="ZALCODE-UK Ch", UK: Box Hits
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/635.ts
-#EXTINF: -1 tvg-name="UK: Kiss TV" group-title="ZALCODE-UK Ch", UK: Kiss TV
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/632.ts
-#EXTINF: -1 tvg-name="UK: Magic TV" group-title="ZALCODE-UK Ch", UK: Magic TV
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/637.ts
-#EXTINF: -1 tvg-name="UK: Discovery Channel HD" group-title="ZALCODE-UK Ch", UK: Discovery Channel HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/611.ts
-#EXTINF: -1 tvg-name="UK: Discovery Science" group-title="ZALCODE-UK Ch", UK: Discovery Science
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/612.ts
-#EXTINF: -1 tvg-name="UK: Discovery Shed" group-title="ZALCODE-UK Ch", UK: Discovery Shed
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/613.ts
-#EXTINF: -1 tvg-name="UK: Discovery Turbo" group-title="ZALCODE-UK Ch", UK: Discovery Turbo
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/614.ts
-#EXTINF: -1 tvg-name="UK: Discovery Home & Health" group-title="ZALCODE-UK Ch", UK: Discovery Home & Health
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/615.ts
-#EXTINF: -1 tvg-name="UK: History HD" group-title="ZALCODE-UK Ch", UK: History HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/618.ts
-#EXTINF: -1 tvg-name="UK: H2" group-title="ZALCODE-UK Ch", UK: H2
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/619.ts
-#EXTINF: -1 tvg-name="UK: DMAX" group-title="ZALCODE-UK Ch", UK: DMAX
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/616.ts
-#EXTINF: -1 tvg-name="UK: National Geographic HD" group-title="ZALCODE-UK Ch", UK: National Geographic HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/621.ts
-#EXTINF: -1 tvg-name="UK: NatGeo Wild HD" group-title="ZALCODE-UK Ch", UK: NatGeo Wild HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/622.ts
-#EXTINF: -1 tvg-name="UK: Blaze" group-title="ZALCODE-UK Ch", UK: Blaze
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/617.ts
-#EXTINF: -1 tvg-name="UK: Good Food" group-title="ZALCODE-UK Ch", UK: Good Food
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/594.ts
-#EXTINF: -1 tvg-name="UK: Food Network" group-title="ZALCODE-UK Ch", UK: Food Network
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/593.ts
-#EXTINF: -1 tvg-name="UK: Animal Planet" group-title="ZALCODE-UK Ch", UK: Animal Planet
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/624.ts
-#EXTINF: -1 tvg-name="UK: Crime Investigation" group-title="ZALCODE-UK Ch", UK: Crime Investigation
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/620.ts
-#EXTINF: -1 tvg-name="UK: CBS Justice" group-title="ZALCODE-UK Ch", UK: CBS Justice
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/586.ts
-#EXTINF: -1 tvg-name="UK: Travel Channel" group-title="ZALCODE-UK Ch", UK: Travel Channel
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/623.ts
-#EXTINF: -1 tvg-name="UK: TLC" group-title="ZALCODE-UK Ch", UK: TLC
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/625.ts
+#EXTINF:-1 tvg-name="3E" group-title="ZALTEST-UK",3E
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/920
+#EXTINF:-1 tvg-name="4Music" group-title="ZALTEST-UK",4Music
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12518
+#EXTINF:-1 tvg-name="4seven" group-title="ZALTEST-UK",4seven
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12517
+#EXTINF:-1 tvg-name="5 Select" group-title="ZALTEST-UK",5 Select
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12309
+#EXTINF:-1 tvg-name="5 Star" group-title="ZALTEST-UK",5 Star
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7616
+#EXTINF:-1 tvg-name="5 Usa" group-title="ZALTEST-UK",5 Usa
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/922
+#EXTINF:-1 tvg-name="Aaj Tak" group-title="ZALTEST-UK",Aaj Tak
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2858
+#EXTINF:-1 tvg-name="ABP News" group-title="ZALTEST-UK",ABP News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2859
+#EXTINF:-1 tvg-name="Alibi" group-title="ZALTEST-UK",Alibi
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/933
+#EXTINF:-1 tvg-name="AMC From BT" group-title="ZALTEST-UK",AMC From BT
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12495
+#EXTINF:-1 tvg-name="And TV" group-title="ZALTEST-UK",And TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2841
+#EXTINF:-1 tvg-name="Animal Planet" group-title="ZALTEST-UK",Animal Planet
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1643
+#EXTINF:-1 tvg-name="B4U Movies" group-title="ZALTEST-UK",B4U Movies
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2850
+#EXTINF:-1 tvg-name="B4U Music" group-title="ZALTEST-UK",B4U Music
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2853
+#EXTINF:-1 tvg-name="B4U PLUS" group-title="ZALTEST-UK",B4U PLUS
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2851
+#EXTINF:-1 tvg-name="baby tv" group-title="ZALTEST-UK",baby tv
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2232
+#EXTINF:-1 tvg-name="BBC 1" group-title="ZALTEST-UK",BBC 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/274
+#EXTINF:-1 tvg-name="BBC 2" group-title="ZALTEST-UK",BBC 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/273
+#EXTINF:-1 tvg-name="BBC 3" group-title="ZALTEST-UK",BBC 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/272
+#EXTINF:-1 tvg-name="BBC 4" group-title="ZALTEST-UK",BBC 4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/271
+#EXTINF:-1 tvg-name="BBC Alba" group-title="ZALTEST-UK",BBC Alba
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/17999
+#EXTINF:-1 tvg-name="BBC News HD" group-title="ZALTEST-UK",BBC News HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/915
+#EXTINF:-1 tvg-name="BBC One Northern Ireland" group-title="ZALTEST-UK",BBC One Northern Ireland
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/29122
+#EXTINF:-1 tvg-name="BBC One Scotland" group-title="ZALTEST-UK",BBC One Scotland
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/17995
+#EXTINF:-1 tvg-name="BBC One Wales" group-title="ZALTEST-UK",BBC One Wales
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/17997
+#EXTINF:-1 tvg-name="BBC Parliament" group-title="ZALTEST-UK",BBC Parliament
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/17998
+#EXTINF:-1 tvg-name="BBC Scotland" group-title="ZALTEST-UK",BBC Scotland
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/29121
+#EXTINF:-1 tvg-name="BBC Two Northern Ireland" group-title="ZALTEST-UK",BBC Two Northern Ireland
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/29124
+#EXTINF:-1 tvg-name="BBC Two Scotland" group-title="ZALTEST-UK",BBC Two Scotland
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/17996
+#EXTINF:-1 tvg-name="BBC Two Wales" group-title="ZALTEST-UK",BBC Two Wales
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/29123
+#EXTINF:-1 tvg-name="BBC World News" group-title="ZALTEST-UK",BBC World News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/26106
+#EXTINF:-1 tvg-name="BET" group-title="ZALTEST-UK",BET
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7618
+#EXTINF:-1 tvg-name="Bike" group-title="ZALTEST-UK",Bike
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12515
+#EXTINF:-1 tvg-name="Blaze" group-title="ZALTEST-UK",Blaze
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12514
+#EXTINF:-1 tvg-name="Bloomberg" group-title="ZALTEST-UK",Bloomberg
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12513
+#EXTINF:-1 tvg-name="Boomerang" group-title="ZALTEST-UK",Boomerang
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1285
+#EXTINF:-1 tvg-name="BOX Hits" group-title="ZALTEST-UK",BOX Hits
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20572
+#EXTINF:-1 tvg-name="Box Nation HD" group-title="ZALTEST-UK",Box Nation HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/17004
+#EXTINF:-1 tvg-name="BT Sport 1" group-title="ZALTEST-UK",BT Sport 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/374
+#EXTINF:-1 tvg-name="BT Sport 2" group-title="ZALTEST-UK",BT Sport 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/375
+#EXTINF:-1 tvg-name="BT Sport 3" group-title="ZALTEST-UK",BT Sport 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1282
+#EXTINF:-1 tvg-name="BT Sport ESPN HD" group-title="ZALTEST-UK",BT Sport ESPN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/587
+#EXTINF:-1 tvg-name="BT Sport Extra" group-title="ZALTEST-UK",BT Sport Extra
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1247
+#EXTINF:-1 tvg-name="BT Sport Extra 1" group-title="ZALTEST-UK",BT Sport Extra 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7610
+#EXTINF:-1 tvg-name="BT Sport Extra 2" group-title="ZALTEST-UK",BT Sport Extra 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7611
+#EXTINF:-1 tvg-name="BT Sport Extra 3" group-title="ZALTEST-UK",BT Sport Extra 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7612
+#EXTINF:-1 tvg-name="BT Sport Extra 4" group-title="ZALTEST-UK",BT Sport Extra 4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7613
+#EXTINF:-1 tvg-name="BT Sport Mosaic" group-title="ZALTEST-UK",BT Sport Mosaic
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7609
+#EXTINF:-1 tvg-name="BT Sports 1 HD" group-title="ZALTEST-UK",BT Sports 1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1641
+#EXTINF:-1 tvg-name="BT Sports 2 HD" group-title="ZALTEST-UK",BT Sports 2 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2512
+#EXTINF:-1 tvg-name="BT Sports 3 HD" group-title="ZALTEST-UK",BT Sports 3 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2513
+#EXTINF:-1 tvg-name="C ITV" group-title="ZALTEST-UK",C ITV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12511
+#EXTINF:-1 tvg-name="Cartoon network" group-title="ZALTEST-UK",Cartoon network
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2231
+#EXTINF:-1 tvg-name="Cartoonito" group-title="ZALTEST-UK",Cartoonito
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/17913
+#EXTINF:-1 tvg-name="CBBC" group-title="ZALTEST-UK",CBBC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6147
+#EXTINF:-1 tvg-name="CBeebies HD" group-title="ZALTEST-UK",CBeebies HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6146
+#EXTINF:-1 tvg-name="CBS Action" group-title="ZALTEST-UK",CBS Action
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/924
+#EXTINF:-1 tvg-name="CBS Justice" group-title="ZALTEST-UK",CBS Justice
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/926
+#EXTINF:-1 tvg-name="CBS Reality" group-title="ZALTEST-UK",CBS Reality
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/925
+#EXTINF:-1 tvg-name="Challenge" group-title="ZALTEST-UK",Challenge
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12512
+#EXTINF:-1 tvg-name="Channel 4 HD" group-title="ZALTEST-UK",Channel 4 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/927
+#EXTINF:-1 tvg-name="Channel 5 HD" group-title="ZALTEST-UK",Channel 5 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/928
+#EXTINF:-1 tvg-name="Chart Show Hits UK" group-title="ZALTEST-UK",Chart Show Hits UK
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20591
+#EXTINF:-1 tvg-name="Chelsea TV HD" group-title="ZALTEST-UK",Chelsea TV HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/937
+#EXTINF:-1 tvg-name="Club MTV" group-title="ZALTEST-UK",Club MTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12308
+#EXTINF:-1 tvg-name="Clubland TV" group-title="ZALTEST-UK",Clubland TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/42042
+#EXTINF:-1 tvg-name="CNBC News" group-title="ZALTEST-UK",CNBC News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12365
+#EXTINF:-1 tvg-name="CNN HD" group-title="ZALTEST-UK",CNN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/31078
+#EXTINF:-1 tvg-name="Colors" group-title="ZALTEST-UK",Colors
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2845
+#EXTINF:-1 tvg-name="Colors Europe" group-title="ZALTEST-UK",Colors Europe
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2846
+#EXTINF:-1 tvg-name="Comedy Central Extra" group-title="ZALTEST-UK",Comedy Central Extra
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1639
+#EXTINF:-1 tvg-name="Comedy Central HD" group-title="ZALTEST-UK",Comedy Central HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2219
+#EXTINF:-1 tvg-name="Crime & Investigation HD" group-title="ZALTEST-UK",Crime & Investigation HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12509
+#EXTINF:-1 tvg-name="Dave HD" group-title="ZALTEST-UK",Dave HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/934
+#EXTINF:-1 tvg-name="Discovery" group-title="ZALTEST-UK",Discovery
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1638
+#EXTINF:-1 tvg-name="Discovery History" group-title="ZALTEST-UK",Discovery History
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1245
+#EXTINF:-1 tvg-name="Discovery Science" group-title="ZALTEST-UK",Discovery Science
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1299
+#EXTINF:-1 tvg-name="Discovery Shed" group-title="ZALTEST-UK",Discovery Shed
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12508
+#EXTINF:-1 tvg-name="Discovery Turbo" group-title="ZALTEST-UK",Discovery Turbo
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1637
+#EXTINF:-1 tvg-name="DISNEY HD" group-title="ZALTEST-UK",DISNEY HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1298
+#EXTINF:-1 tvg-name="Disney XD" group-title="ZALTEST-UK",Disney XD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12507
+#EXTINF:-1 tvg-name="DMAX HD" group-title="ZALTEST-UK",DMAX HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2220
+#EXTINF:-1 tvg-name="Drama" group-title="ZALTEST-UK",Drama
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1272
+#EXTINF:-1 tvg-name="E!" group-title="ZALTEST-UK",E!
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1635
+#EXTINF:-1 tvg-name="E4" group-title="ZALTEST-UK",E4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7632
+#EXTINF:-1 tvg-name="E4 HD" group-title="ZALTEST-UK",E4 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1270
+#EXTINF:-1 tvg-name="EDEN HD" group-title="ZALTEST-UK",EDEN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7628
+#EXTINF:-1 tvg-name="Eir Sport 1" group-title="ZALTEST-UK",Eir Sport 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/376
+#EXTINF:-1 tvg-name="Eir Sport 1 HD" group-title="ZALTEST-UK",Eir Sport 1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3045
+#EXTINF:-1 tvg-name="Eir Sport 2" group-title="ZALTEST-UK",Eir Sport 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18130
+#EXTINF:-1 tvg-name="EuroSport 1 HD" group-title="ZALTEST-UK",EuroSport 1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1634
+#EXTINF:-1 tvg-name="EuroSport 2" group-title="ZALTEST-UK",EuroSport 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1633
+#EXTINF:-1 tvg-name="Film 4 HD" group-title="ZALTEST-UK",Film 4 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/917
+#EXTINF:-1 tvg-name="Film4 HD" group-title="ZALTEST-UK",Film4 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7627
+#EXTINF:-1 tvg-name="Fine Living Network" group-title="ZALTEST-UK",Fine Living Network
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1268
+#EXTINF:-1 tvg-name="Five" group-title="ZALTEST-UK",Five
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20573
+#EXTINF:-1 tvg-name="Food Network" group-title="ZALTEST-UK",Food Network
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/4389
+#EXTINF:-1 tvg-name="Fox" group-title="ZALTEST-UK",Fox
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1632
+#EXTINF:-1 tvg-name="Fox News HD" group-title="ZALTEST-UK",Fox News HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2234
+#EXTINF:-1 tvg-name="France 24" group-title="ZALTEST-UK",France 24
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12504
+#EXTINF:-1 tvg-name="Free Sports" group-title="ZALTEST-UK",Free Sports
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12505
+#EXTINF:-1 tvg-name="Gold" group-title="ZALTEST-UK",Gold
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/932
+#EXTINF:-1 tvg-name="Good Food" group-title="ZALTEST-UK",Good Food
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/923
+#EXTINF:-1 tvg-name="H&H+1" group-title="ZALTEST-UK",H&H+1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/931
+#EXTINF:-1 tvg-name="H2" group-title="ZALTEST-UK",H2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2237
+#EXTINF:-1 tvg-name="History HD" group-title="ZALTEST-UK",History HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2236
+#EXTINF:-1 tvg-name="Home Health" group-title="ZALTEST-UK",Home Health
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12503
+#EXTINF:-1 tvg-name="Horror Channel" group-title="ZALTEST-UK",Horror Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/935
+#EXTINF:-1 tvg-name="Horse and Country" group-title="ZALTEST-UK",Horse and Country
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7617
+#EXTINF:-1 tvg-name="Investigation Discovery" group-title="ZALTEST-UK",Investigation Discovery
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1296
+#EXTINF:-1 tvg-name="Itv 1" group-title="ZALTEST-UK",Itv 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/268
+#EXTINF:-1 tvg-name="Itv 2" group-title="ZALTEST-UK",Itv 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/267
+#EXTINF:-1 tvg-name="Itv 3" group-title="ZALTEST-UK",Itv 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/252
+#EXTINF:-1 tvg-name="Itv 4" group-title="ZALTEST-UK",Itv 4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/251
+#EXTINF:-1 tvg-name="ITVBE" group-title="ZALTEST-UK",ITVBE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2224
+#EXTINF:-1 tvg-name="Kerrang TV" group-title="ZALTEST-UK",Kerrang TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20578
+#EXTINF:-1 tvg-name="LFC TV" group-title="ZALTEST-UK",LFC TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1239
+#EXTINF:-1 tvg-name="Life Time HD" group-title="ZALTEST-UK",Life Time HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12501
+#EXTINF:-1 tvg-name="London Live" group-title="ZALTEST-UK",London Live
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12500
+#EXTINF:-1 tvg-name="Magic TV" group-title="ZALTEST-UK",Magic TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12498
+#EXTINF:-1 tvg-name="More 4" group-title="ZALTEST-UK",More 4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1295
+#EXTINF:-1 tvg-name="More 4 HD" group-title="ZALTEST-UK",More 4 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7630
+#EXTINF:-1 tvg-name="Motors" group-title="ZALTEST-UK",Motors
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12499
+#EXTINF:-1 tvg-name="Movies4Men" group-title="ZALTEST-UK",Movies4Men
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1263
+#EXTINF:-1 tvg-name="MTV" group-title="ZALTEST-UK",MTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7620
+#EXTINF:-1 tvg-name="MTV Base" group-title="ZALTEST-UK",MTV Base
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12305
+#EXTINF:-1 tvg-name="MTV Classic" group-title="ZALTEST-UK",MTV Classic
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7619
+#EXTINF:-1 tvg-name="MTV Dance" group-title="ZALTEST-UK",MTV Dance
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/26351
+#EXTINF:-1 tvg-name="MTV HD" group-title="ZALTEST-UK",MTV HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7622
+#EXTINF:-1 tvg-name="MTV Hits" group-title="ZALTEST-UK",MTV Hits
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7621
+#EXTINF:-1 tvg-name="MTV Live FHD" group-title="ZALTEST-UK",MTV Live FHD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/35379
+#EXTINF:-1 tvg-name="MTV Music" group-title="ZALTEST-UK",MTV Music
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12306
+#EXTINF:-1 tvg-name="MTV OMG" group-title="ZALTEST-UK",MTV OMG
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/26352
+#EXTINF:-1 tvg-name="MTV Rocks" group-title="ZALTEST-UK",MTV Rocks
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12307
+#EXTINF:-1 tvg-name="MUTV" group-title="ZALTEST-UK",MUTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1238
+#EXTINF:-1 tvg-name="MUTV HD" group-title="ZALTEST-UK",MUTV HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7631
+#EXTINF:-1 tvg-name="Nat Geo" group-title="ZALTEST-UK",Nat Geo
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1293
+#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="ZALTEST-UK",Nat Geo Wild
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1302
+#EXTINF:-1 tvg-name="Nick Jnr Too" group-title="ZALTEST-UK",Nick Jnr Too
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12496
+#EXTINF:-1 tvg-name="NICK JUNIOR" group-title="ZALTEST-UK",NICK JUNIOR
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1292
+#EXTINF:-1 tvg-name="NICK TOONS" group-title="ZALTEST-UK",NICK TOONS
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1261
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="ZALTEST-UK",Nickelodeon
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1291
+#EXTINF:-1 tvg-name="Nollywood" group-title="ZALTEST-UK",Nollywood
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/14150
+#EXTINF:-1 tvg-name="Now 80s" group-title="ZALTEST-UK",Now 80s
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/26617
+#EXTINF:-1 tvg-name="Now 90s" group-title="ZALTEST-UK",Now 90s
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20579
+#EXTINF:-1 tvg-name="PBS America" group-title="ZALTEST-UK",PBS America
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20574
+#EXTINF:-1 tvg-name="PICK" group-title="ZALTEST-UK",PICK
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2223
+#EXTINF:-1 tvg-name="POP" group-title="ZALTEST-UK",POP
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12494
+#EXTINF:-1 tvg-name="Quest" group-title="ZALTEST-UK",Quest
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/921
+#EXTINF:-1 tvg-name="Quest Red" group-title="ZALTEST-UK",Quest Red
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20417
+#EXTINF:-1 tvg-name="Racing HD" group-title="ZALTEST-UK",Racing HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/14151
+#EXTINF:-1 tvg-name="Real Lives" group-title="ZALTEST-UK",Real Lives
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2222
+#EXTINF:-1 tvg-name="Really" group-title="ZALTEST-UK",Really
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1631
+#EXTINF:-1 tvg-name="Rishtey" group-title="ZALTEST-UK",Rishtey
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2843
+#EXTINF:-1 tvg-name="ROK TV" group-title="ZALTEST-UK",ROK TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20575
+#EXTINF:-1 tvg-name="RT Documentary HD" group-title="ZALTEST-UK",RT Documentary HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20570
+#EXTINF:-1 tvg-name="RTE 1 HD" group-title="ZALTEST-UK",RTE 1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12493
+#EXTINF:-1 tvg-name="RTE 2 HD" group-title="ZALTEST-UK",RTE 2 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12492
+#EXTINF:-1 tvg-name="RTE News Now" group-title="ZALTEST-UK",RTE News Now
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20569
+#EXTINF:-1 tvg-name="Rte One" group-title="ZALTEST-UK",Rte One
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/418
+#EXTINF:-1 tvg-name="Rte two" group-title="ZALTEST-UK",Rte two
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/584
+#EXTINF:-1 tvg-name="RTEjr" group-title="ZALTEST-UK",RTEjr
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2227
+#EXTINF:-1 tvg-name="S4C" group-title="ZALTEST-UK",S4C
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12491
+#EXTINF:-1 tvg-name="Sab TV (SET)" group-title="ZALTEST-UK",Sab TV (SET)
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2840
+#EXTINF:-1 tvg-name="SET Max" group-title="ZALTEST-UK",SET Max
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2849
+#EXTINF:-1 tvg-name="SKY 1 HD" group-title="ZALTEST-UK",SKY 1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7629
+#EXTINF:-1 tvg-name="Sky Arts" group-title="ZALTEST-UK",Sky Arts
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/414
+#EXTINF:-1 tvg-name="Sky Atlantic" group-title="ZALTEST-UK",Sky Atlantic
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12275
+#EXTINF:-1 tvg-name="Sky Living" group-title="ZALTEST-UK",Sky Living
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/585
+
+#EXTINF:-1 tvg-name="Sky News" group-title="ZALTEST-UK",Sky News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/930
+#EXTINF:-1 tvg-name="Sky One" group-title="ZALTEST-UK",Sky One
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/417
+#EXTINF:-1 tvg-name="Sky Sport Arena HD" group-title="ZALTEST-UK",Sky Sport Arena HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12665
+#EXTINF:-1 tvg-name="Sky Sport Cricket" group-title="ZALTEST-UK",Sky Sport Cricket
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/258
+#EXTINF:-1 tvg-name="Sky Sport Cricket HD" group-title="ZALTEST-UK",Sky Sport Cricket HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6681
+#EXTINF:-1 tvg-name="Sky Sport F1" group-title="ZALTEST-UK",Sky Sport F1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/253
+#EXTINF:-1 tvg-name="Sky Sport F1 HD" group-title="ZALTEST-UK",Sky Sport F1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6685
+#EXTINF:-1 tvg-name="Sky Sport Football HD" group-title="ZALTEST-UK",Sky Sport Football HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/15406
+#EXTINF:-1 tvg-name="Sky Sport Golf" group-title="ZALTEST-UK",Sky Sport Golf
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/256
+#EXTINF:-1 tvg-name="Sky Sport Golf HD" group-title="ZALTEST-UK",Sky Sport Golf HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6683
+#EXTINF:-1 tvg-name="Sky Sport Main Events" group-title="ZALTEST-UK",Sky Sport Main Events
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/259
+#EXTINF:-1 tvg-name="Sky Sport Main Events HD" group-title="ZALTEST-UK",Sky Sport Main Events HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6680
+#EXTINF:-1 tvg-name="Sky Sport News" group-title="ZALTEST-UK",Sky Sport News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/416
+#EXTINF:-1 tvg-name="Sky Sport NHL" group-title="ZALTEST-UK",Sky Sport NHL
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/257
+#EXTINF:-1 tvg-name="Sky Sport NHL HD" group-title="ZALTEST-UK",Sky Sport NHL HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6682
+#EXTINF:-1 tvg-name="Sky Sport PL" group-title="ZALTEST-UK",Sky Sport PL
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/255
+#EXTINF:-1 tvg-name="Sky Sport Premier League HD" group-title="ZALTEST-UK",Sky Sport Premier League HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6684
+#EXTINF:-1 tvg-name="Sky Sports MIX" group-title="ZALTEST-UK",Sky Sports MIX
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7608
+#EXTINF:-1 tvg-name="Sky Sports News HD" group-title="ZALTEST-UK",Sky Sports News HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1624
+#EXTINF:-1 tvg-name="Sky Two" group-title="ZALTEST-UK",Sky Two
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/415
+#EXTINF:-1 tvg-name="Sky Witness" group-title="ZALTEST-UK",Sky Witness
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20568
+#EXTINF:-1 tvg-name="Sony Channel" group-title="ZALTEST-UK",Sony Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12489
+#EXTINF:-1 tvg-name="Sony Entertainment (SET)" group-title="ZALTEST-UK",Sony Entertainment (SET)
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2839
+#EXTINF:-1 tvg-name="spike" group-title="ZALTEST-UK",spike
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2226
+#EXTINF:-1 tvg-name="Star Bharat" group-title="ZALTEST-UK",Star Bharat
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2842
+#EXTINF:-1 tvg-name="Star Gold" group-title="ZALTEST-UK",Star Gold
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2848
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="ZALTEST-UK",Star Jalsha
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2857
+#EXTINF:-1 tvg-name="Star Plus" group-title="ZALTEST-UK",Star Plus
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2838
+#EXTINF:-1 tvg-name="Starz TV" group-title="ZALTEST-UK",Starz TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12488
+#EXTINF:-1 tvg-name="STV HD" group-title="ZALTEST-UK",STV HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12487
+#EXTINF:-1 tvg-name="Syfy" group-title="ZALTEST-UK",Syfy
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/25878
+#EXTINF:-1 tvg-name="Talking Pictures HD" group-title="ZALTEST-UK",Talking Pictures HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12483
+#EXTINF:-1 tvg-name="TCM HD" group-title="ZALTEST-UK",TCM HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/21324
+#EXTINF:-1 tvg-name="TG4" group-title="ZALTEST-UK",TG4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1255
+#EXTINF:-1 tvg-name="The Vault" group-title="ZALTEST-UK",The Vault
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12486
+#EXTINF:-1 tvg-name="Tiny Pop" group-title="ZALTEST-UK",Tiny Pop
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12485
+#EXTINF:-1 tvg-name="TLC" group-title="ZALTEST-UK",TLC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2074
+#EXTINF:-1 tvg-name="Total Country" group-title="ZALTEST-UK",Total Country
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20571
+#EXTINF:-1 tvg-name="Travel Channel" group-title="ZALTEST-UK",Travel Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12484
+#EXTINF:-1 tvg-name="True Ent" group-title="ZALTEST-UK",True Ent
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12482
+#EXTINF:-1 tvg-name="True Movies 1" group-title="ZALTEST-UK",True Movies 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1251
+#EXTINF:-1 tvg-name="True TV" group-title="ZALTEST-UK",True TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12481
+#EXTINF:-1 tvg-name="TV3 IR HD" group-title="ZALTEST-UK",TV3 IR HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2225
+#EXTINF:-1 tvg-name="TV5" group-title="ZALTEST-UK",TV5
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12480
+#EXTINF:-1 tvg-name="UFC fight night Pass HD" group-title="ZALTEST-UK",UFC fight night Pass HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12520
+#EXTINF:-1 tvg-name="UFC Fight PASS" group-title="ZALTEST-UK",UFC Fight PASS
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12479
+#EXTINF:-1 tvg-name="Universal Channel HD" group-title="ZALTEST-UK",Universal Channel HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12276
+#EXTINF:-1 tvg-name="UTV Ireland" group-title="ZALTEST-UK",UTV Ireland
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2221
+#EXTINF:-1 tvg-name="VH1 Classic" group-title="ZALTEST-UK",VH1 Classic
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/13841
+#EXTINF:-1 tvg-name="Viceland HD" group-title="ZALTEST-UK",Viceland HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12478
+#EXTINF:-1 tvg-name="VIVA" group-title="ZALTEST-UK",VIVA
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12477
+#EXTINF:-1 tvg-name="W HD" group-title="ZALTEST-UK",W HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/12476
+#EXTINF:-1 tvg-name="Watch" group-title="ZALTEST-UK",Watch
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/1252
+#EXTINF:-1 tvg-name="Yesterday HD" group-title="ZALTEST-UK",Yesterday HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/936
+#EXTINF:-1 tvg-name="Zee Cinema" group-title="ZALTEST-UK",Zee Cinema
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2847
+#EXTINF:-1 tvg-name="Zee Punjabi" group-title="ZALTEST-UK",Zee Punjabi
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2855
+#EXTINF:-1 tvg-name="Zee TV" group-title="ZALTEST-UK",Zee TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2837
+#EXTINF:-1 tvg-name="Zing" group-title="ZALTEST-UK",Zing
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2854
+
+#EXTINF:-1 tvg-name="A&E HD" group-title="ZALTEST-USA",A&E HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3585
+#EXTINF:-1 tvg-name="A&E TV HD" group-title="ZALTEST-USA",A&E TV HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5240
+#EXTINF:-1 tvg-name="ABC HD" group-title="ZALTEST-USA",ABC HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5239
+#EXTINF:-1 tvg-name="ABC News HD" group-title="ZALTEST-USA",ABC News HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/873
+#EXTINF:-1 tvg-name="AMC HD" group-title="ZALTEST-USA",AMC HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5229
+#EXTINF:-1 tvg-name="Animal Planet HD" group-title="ZALTEST-USA",Animal Planet HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5406
+#EXTINF:-1 tvg-name="Bein Sports USA HD" group-title="ZALTEST-USA",Bein Sports USA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5391
+#EXTINF:-1 tvg-name="Bravo" group-title="ZALTEST-USA",Bravo
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2654
+#EXTINF:-1 tvg-name="BRAVO HD" group-title="ZALTEST-USA",BRAVO HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5228
+#EXTINF:-1 tvg-name="Buzzr" group-title="ZALTEST-USA",Buzzr
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5244
+#EXTINF:-1 tvg-name="Cartoon Network HD" group-title="ZALTEST-USA",Cartoon Network HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7932
+#EXTINF:-1 tvg-name="CBS HD" group-title="ZALTEST-USA",CBS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/7800
+#EXTINF:-1 tvg-name="CBS HD" group-title="ZALTEST-USA",CBS News HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/8098
+#EXTINF:-1 tvg-name="Cinemax 5 StarMax" group-title="ZALTEST-USA",Cinemax 5 StarMax
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5392
+#EXTINF:-1 tvg-name="Cinemax ActionMax East" group-title="ZALTEST-USA",Cinemax ActionMax East
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5394
+#EXTINF:-1 tvg-name="Cinemax East" group-title="ZALTEST-USA",Cinemax East
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5393
+#EXTINF:-1 tvg-name="Cinemax Moremax" group-title="ZALTEST-USA",Cinemax Moremax
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5395
+#EXTINF:-1 tvg-name="CNN HD" group-title="ZALTEST-USA",CNN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/876
+#EXTINF:-1 tvg-name="COMEDY CENTRAL HD" group-title="ZALTEST-USA",COMEDY CENTRAL HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5242
+#EXTINF:-1 tvg-name="Cozi TV" group-title="ZALTEST-USA",Cozi TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5225
+#EXTINF:-1 tvg-name="CW HD" group-title="ZALTEST-USA",CW HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5230
+#EXTINF:-1 tvg-name="Discovery Channel HD" group-title="ZALTEST-USA",Discovery Channel HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5408
+#EXTINF:-1 tvg-name="Discovery Life HD" group-title="ZALTEST-USA",Discovery Life HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5409
+#EXTINF:-1 tvg-name="ESPN" group-title="ZALTEST-USA",ESPN
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/872
+#EXTINF:-1 tvg-name="ESPN 2 HD" group-title="ZALTEST-USA",ESPN 2 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5386
+#EXTINF:-1 tvg-name="ESPN HD" group-title="ZALTEST-USA",ESPN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5227
+#EXTINF:-1 tvg-name="Food Network HD" group-title="ZALTEST-USA",Food Network HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5403
+#EXTINF:-1 tvg-name="Fox 46 HD" group-title="ZALTEST-USA",Fox 46 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3590
+#EXTINF:-1 tvg-name="FOX Business HD" group-title="ZALTEST-USA",FOX Business HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5233
+#EXTINF:-1 tvg-name="FOX Sport 1" group-title="ZALTEST-USA",FOX Sport 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2860
+#EXTINF:-1 tvg-name="FOX Sport 2" group-title="ZALTEST-USA",FOX Sport 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2861
+#EXTINF:-1 tvg-name="FX HD" group-title="ZALTEST-USA",FX HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5231
+#EXTINF:-1 tvg-name="H2" group-title="ZALTEST-USA",H2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3594
+#EXTINF:-1 tvg-name="HALLMARK" group-title="ZALTEST-USA",HALLMARK
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3593
+#EXTINF:-1 tvg-name="HBO East HD" group-title="ZALTEST-USA",HBO East HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5388
+#EXTINF:-1 tvg-name="HBO Family" group-title="ZALTEST-USA",HBO Family
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5400
+#EXTINF:-1 tvg-name="HBO Family HD" group-title="ZALTEST-USA",HBO Family HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/878
+#EXTINF:-1 tvg-name="HBO HD" group-title="ZALTEST-USA",HBO HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3592
+#EXTINF:-1 tvg-name="HBO Plus" group-title="ZALTEST-USA",HBO Plus
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/875
+#EXTINF:-1 tvg-name="HBO SIGNATURE" group-title="ZALTEST-USA",HBO SIGNATURE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3591
+#EXTINF:-1 tvg-name="HBO Zone HD" group-title="ZALTEST-USA",HBO Zone HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5389
+#EXTINF:-1 tvg-name="HISTORY" group-title="ZALTEST-USA",HISTORY
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5405
+#EXTINF:-1 tvg-name="Investigation Discovery" group-title="ZALTEST-USA",Investigation Discovery
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5410
+#EXTINF:-1 tvg-name="LIFE TIME HD" group-title="ZALTEST-USA",LIFE TIME HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3588
+#EXTINF:-1 tvg-name="MSNBC HD" group-title="ZALTEST-USA",MSNBC HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/8000
+#EXTINF:-1 tvg-name="National Geographic HD" group-title="ZALTEST-USA",National Geographic HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5404
+#EXTINF:-1 tvg-name="NBA TV" group-title="ZALTEST-USA",NBA TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5387
+#EXTINF:-1 tvg-name="NBC SPORT" group-title="ZALTEST-USA",NBC SPORT
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2864
+#EXTINF:-1 tvg-name="NFL Network HD 1080P" group-title="ZALTEST-USA",NFL Network HD 1080P
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/2863
+#EXTINF:-1 tvg-name="NICKELODEN HD" group-title="ZALTEST-USA",NICKELODEN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5236
+#EXTINF:-1 tvg-name="ShowTime 2 HD" group-title="ZALTEST-USA",ShowTime 2 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5401
+#EXTINF:-1 tvg-name="Showtime Extreme" group-title="ZALTEST-USA",Showtime Extreme
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5398
+#EXTINF:-1 tvg-name="ShowTime HD" group-title="ZALTEST-USA",ShowTime HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5390
+#EXTINF:-1 tvg-name="Showtime Next" group-title="ZALTEST-USA",Showtime Next
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5399
+#EXTINF:-1 tvg-name="Showtime Showcase" group-title="ZALTEST-USA",Showtime Showcase
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5402
+#EXTINF:-1 tvg-name="SPIKE / PARA HD" group-title="ZALTEST-USA",SPIKE / PARA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5237
+#EXTINF:-1 tvg-name="Sportsnet World HD" group-title="ZALTEST-USA",Sportsnet World HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/4279
+#EXTINF:-1 tvg-name="Starz Cinema HD" group-title="ZALTEST-USA",Starz Cinema HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/874
+#EXTINF:-1 tvg-name="Starz Comedy" group-title="ZALTEST-USA",Starz Comedy
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5396
+#EXTINF:-1 tvg-name="STARZ EDGE HD" group-title="ZALTEST-USA",STARZ EDGE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5397
+#EXTINF:-1 tvg-name="SYFY HD" group-title="ZALTEST-USA",SYFY HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5238
+#EXTINF:-1 tvg-name="TBS HD" group-title="ZALTEST-USA",TBS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/3587
+#EXTINF:-1 tvg-name="TENNIS HD" group-title="ZALTEST-USA",TENNIS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5407
+#EXTINF:-1 tvg-name="USA Network HD" group-title="ZALTEST-USA",USA Network HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/871
+#EXTINF:-1 tvg-name="WWE HD" group-title="ZALTEST-USA",WWE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/5184
+
+
 
 ### ZALCODE SPORT ###
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="ZALCODE-SPORT",BeIN Sport 1
