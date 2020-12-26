@@ -1180,296 +1180,68 @@ https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 
 ### ZAKLCODE 2 SPORT ##
 
+#EXTINF: -1 tvg-name="UK: BEIN SPORTS 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="ZALCODE-SPORT2", UK: BEIN SPORTS 11
+http://onlyallgood.com:8080/Worktvs/Worktvs/25120
+#EXTINF: -1 tvg-name="UK: BEIN SPORTS 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="ZALCODE-SPORT2", UK: BEIN SPORTS 12
+http://onlyallgood.com:8080/Worktvs/Worktvs/25121
+#EXTINF: -1 tvg-name="VIP | beIN Sport 13 HD en" group-title="ZALCODE-SPORT2", VIP | beIN Sport 13 HD en
+http://onlyallgood.com:8080/Worktvs/Worktvs/28964
 
-#EXTINF: -1 tvg-name="SuperSport 5 SD" group-title="ZALCODE-SPORT-2", SuperSport 5 SD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/263.ts
-#EXTINF: -1 tvg-name="SuperSport 4 SD" group-title="ZALCODE-SPORT-2", SuperSport 4 SD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/261.ts
-#EXTINF: -1 tvg-id="SuperSport 3" tvg-name="SuperSport 3 SD" group-title="ZALCODE-SPORT-2", SuperSport 3 SD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/259.ts
-#EXTINF: -1 tvg-id="SuperSport 2" tvg-name="SuperSport 2 SD" group-title="ZALCODE-SPORT-2", SuperSport 2 SD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/257.ts
-#EXTINF: -1 tvg-id="SuperSport 1" tvg-name="SuperSport 1 SD" group-title="ZALCODE-SPORT-2", SuperSport 1 SD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/255.ts
+#EXTINF: -1 tvg-id="btsport1.uk" tvg-name="UK: BT SPORTS 1" tvg-logo="https://i.pinimg.com/originals/91/c1/84/91c1846b6eb2203ffbdbd9589c6ea8e9.png" group-title="ZALCODE-SPORT2", UK: BT SPORTS 1
+http://onlyallgood.com:8080/Worktvs/Worktvs/25079
+#EXTINF: -1 tvg-id="btsport2.uk" tvg-name="UK: BT SPORTS 2" tvg-logo="https://2.bp.blogspot.com/-qp2285XrNX0/Ww_-9pVA3yI/AAAAAAAAGAc/nQjFmVV0xvc1lKJcICYzQ33FQrFRFl6QQCLcBGAs/s1600/images%2B%25287%2529.png" group-title="ZALCODE-SPORT2", UK: BT SPORTS 2
+http://onlyallgood.com:8080/Worktvs/Worktvs/25080
+#EXTINF: -1 tvg-id="btsport3.uk" tvg-name="UK: BT SPORTS 3" tvg-logo="https://tvmannen.es/iptv_channels/2258133_files/btsport3hd.png" group-title="ZALCODE-SPORT2", UK: BT SPORTS 3
+http://onlyallgood.com:8080/Worktvs/Worktvs/25081
+#EXTINF: -1 tvg-id="skysportsmainevent.uk" tvg-name="UK SKY SPORTS MAIN EVENT" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/09/SKY-SPORT-MAIN-EVENT-HD-636x358-1280x720.png" group-title="ZALCODE-SPORT2", UK SKY SPORTS MAIN EVENT
+http://onlyallgood.com:8080/Worktvs/Worktvs/25082
+#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png" group-title="ZALCODE-SPORT2", UK: SKY SPORTS CRICKET
+http://onlyallgood.com:8080/Worktvs/Worktvs/25083
+#EXTINF: -1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-action-logo.png" group-title="ZALCODE-SPORT2", UK: SKY SPORTS ACTION
+http://onlyallgood.com:8080/Worktvs/Worktvs/25084
+#EXTINF: -1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/1280px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="ZALCODE-SPORT2", UK: SKY SPORTS GOLF
+http://onlyallgood.com:8080/Worktvs/Worktvs/25085
+#EXTINF: -1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="ZALCODE-SPORT2", UK: SKY SPORTS PREMIER LEAGUE
+http://onlyallgood.com:8080/Worktvs/Worktvs/25086
+#EXTINF: -1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS ARENA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6753.1507600420.png" group-title="ZALCODE-SPORT2", UK: SKY SPORTS ARENA
+http://onlyallgood.com:8080/Worktvs/Worktvs/25087
+#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6752.1507600241.png" group-title="ZALCODE-SPORT2", UK: SKY SPORTS FOOTBALL
+http://onlyallgood.com:8080/Worktvs/Worktvs/25088
+#EXTINF: -1 tvg-id="skysportsf1.uk" tvg-name="UK: SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png" group-title="ZALCODE-SPORT2", UK: SPORTS F1
+http://onlyallgood.com:8080/Worktvs/Worktvs/25089
+#EXTINF: -1 tvg-id="skysportsmix.uk" tvg-name="UK: SKY SPORTS MIX" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Mix_logo.png" group-title="ZALCODE-SPORT2", UK: SKY SPORTS MIX
+http://onlyallgood.com:8080/Worktvs/Worktvs/25090
+#EXTINF: -1 tvg-id="skysportsracing.uk" tvg-name="UK: SKY SPORTS RACING" tvg-logo="https://media.info/i/lf/0/1546303327/1161.png" group-title="ZALCODE-SPORT2", UK: SKY SPORTS RACING
+http://onlyallgood.com:8080/Worktvs/Worktvs/25091
+#EXTINF: -1 tvg-id="racinguk.uk" tvg-name="UK: RACING UK" tvg-logo="https://tauntonracecourse.co.uk/wp-content/uploads/2017/11/racing-uk-logo-v2.png" group-title="ZALCODE-SPORT2", UK: RACING UK
+http://onlyallgood.com:8080/Worktvs/Worktvs/25092
+#EXTINF: -1 tvg-id="skysportsnews.uk" tvg-name="UK: SPORTS NEWS" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="ZALCODE-SPORT2", UK: SPORTS NEWS
+http://onlyallgood.com:8080/Worktvs/Worktvs/25093
+#EXTINF: -1 tvg-id="eurosport1.uk" tvg-name="UK: EUROSPORTS 1" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="ZALCODE-SPORT2", UK: EUROSPORTS 1
+http://onlyallgood.com:8080/Worktvs/Worktvs/25190
+#EXTINF: -1 tvg-id="eurosport2.uk" tvg-name="UK: EUROSPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title="ZALCODE-SPORT2", UK: EUROSPORTS 2
+http://onlyallgood.com:8080/Worktvs/Worktvs/25191
+#EXTINF: -1 tvg-id="premiersports.uk" tvg-name="UK: PREMIER SPORTS 1" tvg-logo="https://sport-tv-guide.live/images/stations/a95.png" group-title="ZALCODE-SPORT2", UK: PREMIER SPORTS 1
+http://onlyallgood.com:8080/Worktvs/Worktvs/25192
+#EXTINF: -1 tvg-name="UK: PREMIER SPORTS 2" tvg-logo="https://sport-tv-guide.live/images/stations/a1442.png" group-title="ZALCODE-SPORT2", UK: PREMIER SPORTS 2
+http://onlyallgood.com:8080/Worktvs/Worktvs/25193
+#EXTINF: -1 tvg-name="UK: MUTV" group-title="ZALCODE-SPORT2", UK: MUTV
+http://onlyallgood.com:8080/Worktvs/Worktvs/26173
+#EXTINF: -1 tvg-name="UK: LFC" group-title="ZALCODE-SPORT2", UK: LFC
+http://onlyallgood.com:8080/Worktvs/Worktvs/26174
+#EXTINF: -1 tvg-name="WWE" group-title="ZALCODE-SPORT2", WWE
+http://onlyallgood.com:8080/Worktvs/Worktvs/26176
+#EXTINF: -1 tvg-name="FIGHT BOX" group-title="ZALCODE-SPORT2", FIGHT BOX
+http://onlyallgood.com:8080/Worktvs/Worktvs/26177
+#EXTINF: -1 tvg-name="Freesports HD" group-title="ZALCODE-SPORT2", Freesports HD
+http://onlyallgood.com:8080/Worktvs/Worktvs/26641
+#EXTINF: -1 tvg-name="UFC Fight Pass" group-title="ZALCODE-SPORT2", UFC Fight Pass
+http://onlyallgood.com:8080/Worktvs/Worktvs/26896
+#EXTINF: -1 tvg-name="rangers tv" group-title="ZALCODE-SPORT2", rangers tv
+http://onlyallgood.com:8080/Worktvs/Worktvs/27813
+#EXTINF: -1 tvg-name="NRL 24/7" group-title="ZALCODE-SPORT2", NRL 24/7
+http://onlyallgood.com:8080/Worktvs/Worktvs/28929
 
-#EXTINF: -1 tvg-name="Sport Klub 6" group-title="ZALCODE-SPORT-2", Sport Klub 6
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/417.ts
-#EXTINF: -1 tvg-name="Sport Klub 5" group-title="ZALCODE-SPORT-2", Sport Klub 5
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/416.ts
-#EXTINF: -1 tvg-name="Sport Klub 4" group-title="ZALCODE-SPORT-2", Sport Klub 4
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/415.ts
-
-#EXTINF: -1 tvg-name="Premier Sports SK" group-title="ZALCODE-SPORT-2", Premier Sports SK
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/411.ts
-#EXTINF: -1 tvg-name="Polsat Sport Premium 2" group-title="ZALCODE-SPORT-2", Polsat Sport Premium 2
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/406.ts
-#EXTINF: -1 tvg-name="Polsat Sport Premium 1" group-title="ZALCODE-SPORT-2", Polsat Sport Premium 1
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/405.ts
-#EXTINF: -1 tvg-name="Planet Sport 5 HR" group-title="ZALCODE-SPORT-2", Planet Sport 5 HR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/420.ts
-#EXTINF: -1 tvg-name="Planet Sport 4 HR" group-title="ZALCODE-SPORT-2", Planet Sport 4 HR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/410.ts
-#EXTINF: -1 tvg-name="Planet Sport 3 HR" group-title="ZALCODE-SPORT-2", Planet Sport 3 HR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/409.ts
-#EXTINF: -1 tvg-name="Planet Sport 2 HR" group-title="ZALCODE-SPORT-2", Planet Sport 2 HR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/408.ts
-#EXTINF: -1 tvg-name="Planet Sport 1 HR" group-title="ZALCODE-SPORT-2", Planet Sport 1 HR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/407.ts
-
-#EXTINF: -1 tvg-name="NL: Ziggo Sport Voetbal" group-title="ZALCODE-SPORT-2", NL: Ziggo Sport Voetbal
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1200.ts
-#EXTINF: -1 tvg-name="NL: Ziggo Sport Racing" group-title="ZALCODE-SPORT-2", NL: Ziggo Sport Racing
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1199.ts
-#EXTINF: -1 tvg-name="NL: Ziggo Sport Golf" group-title="ZALCODE-SPORT-2", NL: Ziggo Sport Golf
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1208.ts
-#EXTINF: -1 tvg-name="NL: Ziggo Sport" group-title="ZALCODE-SPORT-2", NL: Ziggo Sport
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1207.ts
-
-#EXTINF: -1 tvg-name="ES: Movistar+ Golf" group-title="ZALCODE-SPORT-2", ES: Movistar+ Golf
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/345.ts
-
-
-#EXTINF: -1 tvg-id="Tring Sport News HD" tvg-name="Tring Sport News HD" group-title="ZALCODE-SPORT-2", Tring Sport News HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/267.ts
-#EXTINF: -1 tvg-id="Tring Sport 1 HD" tvg-name="Tring Sport 1 HD" group-title="ZALCODE-SPORT-2", Tring Sport 1 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/268.ts
-#EXTINF: -1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2 HD" group-title="ZALCODE-SPORT-2", Tring Sport 2 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/269.ts
-#EXTINF: -1 tvg-id="Tring Sport 3 HD" tvg-name="Tring Sport 3 HD" group-title="ZALCODE-SPORT-2", Tring Sport 3 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/270.ts
-#EXTINF: -1 tvg-id="Tring Sport 4 HD" tvg-name="Tring Sport 4 HD" group-title="ZALCODE-SPORT-2", Tring Sport 4 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/271.ts
-
-#EXTINF: -1 tvg-id="RTSH Sport" tvg-name="RTSH Sport" group-title="ZALCODE-SPORT-2", RTSH Sport
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/280.ts
-#EXTINF: -1 tvg-name="Extreme Sports Channel" group-title="ZALCODE-SPORT-2", Extreme Sports Channel
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/281.ts
-#EXTINF: -1 tvg-name="FreeSports" group-title="ZALCODE-SPORT-2", FreeSports
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/284.ts
-#EXTINF: -1 tvg-name="Premier Sports" group-title="ZALCODE-SPORT-2", Premier Sports
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/285.ts
-#EXTINF: -1 tvg-name="Premier Sports 2" group-title="ZALCODE-SPORT-2", Premier Sports 2
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/286.ts
-#EXTINF: -1 tvg-name="UK: Sky Sports News" group-title="ZALCODE-SPORT-2", UK: Sky Sports News
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/287.ts
-#EXTINF: -1 tvg-name="UK: Sky Sports Main Event" group-title="ZALCODE-SPORT-2", UK: Sky Sports Main Event
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/288.ts
-#EXTINF: -1 tvg-name="UK: Sky Sports Premier League" group-title="ZALCODE-SPORT-2", UK: Sky Sports Premier League
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/291.ts
-#EXTINF: -1 tvg-name="UK: Sky Sports Football" group-title="ZALCODE-SPORT-2", UK: Sky Sports Football
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/290.ts
-#EXTINF: -1 tvg-name="UK: Sky Sports Mix" group-title="ZALCODE-SPORT-2", UK: Sky Sports Mix
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/289.ts
-#EXTINF: -1 tvg-name="UK: Sky Sports Arena" group-title="ZALCODE-SPORT-2", UK: Sky Sports Arena
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/292.ts
-#EXTINF: -1 tvg-name="UK: Sky Sports NFL" group-title="ZALCODE-SPORT-2", UK: Sky Sports NFL
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/293.ts
-#EXTINF: -1 tvg-name="UK: Sky Sports Golf" group-title="ZALCODE-SPORT-2", UK: Sky Sports Golf
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/294.ts
-#EXTINF: -1 tvg-name="UK: Sky Sports Cricket" group-title="ZALCODE-SPORT-2", UK: Sky Sports Cricket
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/295.ts
-#EXTINF: -1 tvg-name="UK: BT Sport 1" group-title="ZALCODE-SPORT-2", UK: BT Sport 1
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/298.ts
-#EXTINF: -1 tvg-name="UK: BT Sport 2" group-title="ZALCODE-SPORT-2", UK: BT Sport 2
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/299.ts
-#EXTINF: -1 tvg-name="UK: BT Sport 3" group-title="ZALCODE-SPORT-2", UK: BT Sport 3
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/300.ts
-#EXTINF: -1 tvg-name="UK: BT Sport ESPN" group-title="ZALCODE-SPORT-2", UK: BT Sport ESPN
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/301.ts
-
-#EXTINF: -1 tvg-name="ES: Barça TV" group-title="ZALCODE-SPORT-2", ES: Barça TV
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/336.ts
-#EXTINF: -1 tvg-name="ES: #V" group-title="ZALCODE-SPORT-2", ES: #V
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/347.ts
-#EXTINF: -1 tvg-name="ES: Movistar LaLiga" group-title="ZALCODE-SPORT-2", ES: Movistar LaLiga
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/339.ts
-#EXTINF: -1 tvg-name="ES: Movistar LaLiga 1" group-title="ZALCODE-SPORT-2", ES: Movistar LaLiga 1
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/340.ts
-#EXTINF: -1 tvg-name="ES: Movistar LaLiga 2" group-title="ZALCODE-SPORT-2", ES: Movistar LaLiga 2
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/341.ts
-#EXTINF: -1 tvg-name="ES: Movistar Liga De Campeones" group-title="ZALCODE-SPORT-2", ES: Movistar Liga De Campeones
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/343.ts
-#EXTINF: -1 tvg-name="ES: Movistar+ F1" group-title="ZALCODE-SPORT-2", ES: Movistar+ F1
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/346.ts
-#EXTINF: -1 tvg-name="ES: Gol HD" group-title="ZALCODE-SPORT-2", ES: Gol HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/342.ts
-#EXTINF: -1 tvg-name="ES: Esport3" group-title="ZALCODE-SPORT-2", ES: Esport3
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/348.ts
-
-#EXTINF: -1 tvg-name="beIN Sports News" group-title="ZALCODE-SPORT-2", beIN Sports News
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/349.ts
-#EXTINF: -1 tvg-name="beIN Sports 1 HD" group-title="ZALCODE-SPORT-2", beIN Sports 1 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.ts
-#EXTINF: -1 tvg-name="beIN Sports 2 HD" group-title="ZALCODE-SPORT-2", beIN Sports 2 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.ts
-#EXTINF: -1 tvg-name="beIN Sports 3 HD" group-title="ZALCODE-SPORT-2", beIN Sports 3 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.ts
-#EXTINF: -1 tvg-name="beIN Sports 4 HD" group-title="ZALCODE-SPORT-2", beIN Sports 4 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.ts
-#EXTINF: -1 tvg-name="beIN Sports 5 HD" group-title="ZALCODE-SPORT-2", beIN Sports 5 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/354.ts
-#EXTINF: -1 tvg-name="beIN Sports 6 HD" group-title="ZALCODE-SPORT-2", beIN Sports 6 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/355.ts
-#EXTINF: -1 tvg-name="beIN Sports 7 HD" group-title="ZALCODE-SPORT-2", beIN Sports 7 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/356.ts
-#EXTINF: -1 tvg-name="beIN Sports 8 HD" group-title="ZALCODE-SPORT-2", beIN Sports 8 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/357.ts
-#EXTINF: -1 tvg-name="beIN Sports 9 HD" group-title="ZALCODE-SPORT-2", beIN Sports 9 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.ts
-#EXTINF: -1 tvg-name="beIN Sports 10 HD" group-title="ZALCODE-SPORT-2", beIN Sports 10 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.ts
-#EXTINF: -1 tvg-name="beIN Sports 11 HD" group-title="ZALCODE-SPORT-2", beIN Sports 11 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/360.ts
-#EXTINF: -1 tvg-name="beIN Sports 12 HD" group-title="ZALCODE-SPORT-2", beIN Sports 12 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/361.ts
-
-
-#EXTINF: -1 tvg-name="beIN Sports Haber HD" group-title="ZALCODE-SPORT-2", beIN Sports Haber HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/389.ts
-#EXTINF: -1 tvg-name="beIN SPORTS 1 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS 1 TR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/390.ts
-#EXTINF: -1 tvg-name="beIN SPORTS 2 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS 2 TR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/391.ts
-#EXTINF: -1 tvg-name="beIN SPORTS 3 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS 3 TR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/392.ts
-#EXTINF: -1 tvg-name="beIN SPORTS 4 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS 4 TR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/393.ts
-#EXTINF: -1 tvg-name="beIN SPORTS MAX 1 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS MAX 1 TR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/394.ts
-#EXTINF: -1 tvg-name="beIN SPORTS MAX 2 TR" group-title="ZALCODE-SPORT-2", beIN SPORTS MAX 2 TR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/395.ts
-#EXTINF: -1 tvg-name="TRT Spor HD" group-title="ZALCODE-SPORT-2", TRT Spor HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/397.ts
-#EXTINF: -1 tvg-name="TRT Spor 2 HD" group-title="ZALCODE-SPORT-2", TRT Spor 2 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/396.ts
-
-#EXTINF: -1 tvg-name="S Sport 2 HD" group-title="ZALCODE-SPORT-2", S Sport 2 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/398.ts
-#EXTINF: -1 tvg-name="FR: RMC Sport 1 HD" group-title="ZALCODE-SPORT-2", FR: RMC Sport 1 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/374.ts
-#EXTINF: -1 tvg-name="FR: beIN Sports 1 HD" group-title="ZALCODE-SPORT-2", FR: beIN Sports 1 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/369.ts
-#EXTINF: -1 tvg-name="FR: beIN Sports 2 HD" group-title="ZALCODE-SPORT-2", FR: beIN Sports 2 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/370.ts
-#EXTINF: -1 tvg-name="FR: beIN Sports 3 HD" group-title="ZALCODE-SPORT-2", FR: beIN Sports 3 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/371.ts
-#EXTINF: -1 tvg-name="PT: SPORT TV 1" group-title="ZALCODE-SPORT-2", PT: SPORT TV 1
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/378.ts
-#EXTINF: -1 tvg-name="PT: SPORT TV 2" group-title="ZALCODE-SPORT-2", PT: SPORT TV 2
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/379.ts
-#EXTINF: -1 tvg-name="PT: SPORT TV 3" group-title="ZALCODE-SPORT-2", PT: SPORT TV 3
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/380.ts
-#EXTINF: -1 tvg-name="PT: SPORT TV 4" group-title="ZALCODE-SPORT-2", PT: SPORT TV 4
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/381.ts
-#EXTINF: -1 tvg-name="PT: SPORT TV 5" group-title="ZALCODE-SPORT-2", PT: SPORT TV 5
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/382.ts
-#EXTINF: -1 tvg-name="NL: FOX Sports 1" group-title="ZALCODE-SPORT-2", NL: FOX Sports 1
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/383.ts
-#EXTINF: -1 tvg-name="NL: FOX Sports 2" group-title="ZALCODE-SPORT-2", NL: FOX Sports 2
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/384.ts
-#EXTINF: -1 tvg-name="NL: FOX Sports 3" group-title="ZALCODE-SPORT-2", NL: FOX Sports 3
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/385.ts
-#EXTINF: -1 tvg-name="NL: FOX Sports 4" group-title="ZALCODE-SPORT-2", NL: FOX Sports 4
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/386.ts
-#EXTINF: -1 tvg-name="NL: FOX Sports 5" group-title="ZALCODE-SPORT-2", NL: FOX Sports 5
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/387.ts
-#EXTINF: -1 tvg-name="NL: FOX Sports 6" group-title="ZALCODE-SPORT-2", NL: FOX Sports 6
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/388.ts
-
-#EXTINF: -1 tvg-name="Canal+ Sport PL" group-title="ZALCODE-SPORT-2", Canal+ Sport PL
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/399.ts
-#EXTINF: -1 tvg-name="Canal+ Sport 2 HD" group-title="ZALCODE-SPORT-2", Canal+ Sport 2 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/400.ts
-#EXTINF: -1 tvg-name="Eleven Sports 1" group-title="ZALCODE-SPORT-2", Eleven Sports 1
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/401.ts
-#EXTINF: -1 tvg-name="Eleven Sports 2" group-title="ZALCODE-SPORT-2", Eleven Sports 2
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/402.ts
-#EXTINF: -1 tvg-name="Eleven Sports 3" group-title="ZALCODE-SPORT-2", Eleven Sports 3
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/403.ts
-#EXTINF: -1 tvg-name="Eleven Sports 4 PL" group-title="ZALCODE-SPORT-2", Eleven Sports 4 PL
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/404.ts
-
-#EXTINF: -1 tvg-name="Sport Klub 1" group-title="ZALCODE-SPORT-2", Sport Klub 1
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/412.ts
-#EXTINF: -1 tvg-name="Sport Klub 2" group-title="ZALCODE-SPORT-2", Sport Klub 2
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/413.ts
-#EXTINF: -1 tvg-name="Sport Klub 3" group-title="ZALCODE-SPORT-2", Sport Klub 3
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/414.ts
-
-#EXTINF: -1 tvg-name="Arena Sport 1 HR" group-title="ZALCODE-SPORT-2", Arena Sport 1 HR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/421.ts
-#EXTINF: -1 tvg-name="Arena Sport 2 HR" group-title="ZALCODE-SPORT-2", Arena Sport 2 HR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/422.ts
-#EXTINF: -1 tvg-name="Arena Sport 3 HR" group-title="ZALCODE-SPORT-2", Arena Sport 3 HR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/423.ts
-#EXTINF: -1 tvg-name="Arena Sport 4 HR" group-title="ZALCODE-SPORT-2", Arena Sport 4 HR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/424.ts
-#EXTINF: -1 tvg-name="Arena Sport 5 HR" group-title="ZALCODE-SPORT-2", Arena Sport 5 HR
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/425.ts
-#EXTINF: -1 tvg-name="FR: RMC Sport 4 HD" group-title="ZALCODE-SPORT-2", FR: RMC Sport 4 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/377.ts
-#EXTINF: -1 tvg-name="FR: RMC Sport 3 HD" group-title="ZALCODE-SPORT-2", FR: RMC Sport 3 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/376.ts
-#EXTINF: -1 tvg-name="FR: RMC Sport 2 HD" group-title="ZALCODE-SPORT-2", FR: RMC Sport 2 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/375.ts
-#EXTINF: -1 tvg-name="FR: Canal+ Sport HD" group-title="ZALCODE-SPORT-2", FR: Canal+ Sport HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/368.ts
-#EXTINF: -1 tvg-name="FR: beIN Sports MAX 5" group-title="ZALCODE-SPORT-2", FR: beIN Sports MAX 5
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/373.ts
-#EXTINF: -1 tvg-name="FR: beIN Sports MAX 4" group-title="ZALCODE-SPORT-2", FR: beIN Sports MAX 4
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/372.ts
-#EXTINF: -1 tvg-name="AF: SuperSport TENNIS HD" group-title="ZALCODE-SPORT-2", AF: SuperSport TENNIS HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1281.ts
-#EXTINF: -1 tvg-name="AF: SuperSport RUGBY HD" group-title="ZALCODE-SPORT-2", AF: SuperSport RUGBY HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1280.ts
-#EXTINF: -1 tvg-name="AF: SuperSport PSL HD" group-title="ZALCODE-SPORT-2", AF: SuperSport PSL HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1273.ts
-#EXTINF: -1 tvg-name="AF: SuperSport MOTORSPORT HD" group-title="ZALCODE-SPORT-2", AF: SuperSport MOTORSPORT HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1277.ts
-#EXTINF: -1 tvg-name="AF: SuperSport GRANDSTAND HD" group-title="ZALCODE-SPORT-2", AF: SuperSport GRANDSTAND HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1279.ts
-#EXTINF: -1 tvg-name="AF: SuperSport GOLF HD" group-title="ZALCODE-SPORT-2", AF: SuperSport GOLF HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1278.ts
-#EXTINF: -1 tvg-name="AF: SuperSport CRICKET HD" group-title="ZALCODE-SPORT-2", AF: SuperSport CRICKET HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1282.ts
-#EXTINF: -1 tvg-name="AF: SuperSport Blitz HD" group-title="ZALCODE-SPORT-2", AF: SuperSport Blitz HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1284.ts
-#EXTINF: -1 tvg-name="AF: SuperSport ACTION HD" group-title="ZALCODE-SPORT-2", AF: SuperSport ACTION HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/1283.ts
-
-## BEIN SPORT ##
-
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_11.png" group-title="BEINSPORTS",BeinSport11 (ENG)
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/360.ts 
-
-#EXTINF: -1 tvg-name="beIN Sports News" group-title="BEINSPORTS", beIN Sports News
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/349.ts
-#EXTINF: -1 tvg-name="beIN Sports 1 HD" group-title="BEINSPORTS", beIN Sports 1 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.ts
-#EXTINF: -1 tvg-name="beIN Sports 2 HD" group-title="BEINSPORTS", beIN Sports 2 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.ts
-#EXTINF: -1 tvg-name="beIN Sports 3 HD" group-title="BEINSPORTS", beIN Sports 3 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.ts
-#EXTINF: -1 tvg-name="beIN Sports 4 HD" group-title="BEINSPORTS", beIN Sports 4 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.ts
-#EXTINF: -1 tvg-name="beIN Sports 5 HD" group-title="BEINSPORTS", beIN Sports 5 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/354.ts
-#EXTINF: -1 tvg-name="beIN Sports 6 HD" group-title="BEINSPORTS", beIN Sports 6 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/355.ts
-#EXTINF: -1 tvg-name="beIN Sports 7 HD" group-title="BEINSPORTS", beIN Sports 7 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/356.ts
-#EXTINF: -1 tvg-name="beIN Sports 8 HD" group-title="BEINSPORTS", beIN Sports 8 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/357.ts
-#EXTINF: -1 tvg-name="beIN Sports 9 HD" group-title="BEINSPORTS", beIN Sports 9 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.ts
-#EXTINF: -1 tvg-name="beIN Sports 10 HD" group-title="BEINSPORTS", beIN Sports 10 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.ts
-#EXTINF: -1 tvg-name="beIN Sports 11 HD" group-title="BEINSPORTS", beIN Sports 11 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/360.ts
-#EXTINF: -1 tvg-name="beIN Sports 12 HD" group-title="BEINSPORTS", beIN Sports 12 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/361.ts
-#EXTINF: -1 tvg-name="beIN Sports 13 HD" group-title="BEINSPORTS", beIN Sports 13 HD
-http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/362.ts
  
 
 
