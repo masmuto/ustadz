@@ -1186,6 +1186,37 @@ http://onlyallgood.com:8080/Worktvs/Worktvs/25120
 http://onlyallgood.com:8080/Worktvs/Worktvs/25121
 #EXTINF: -1 tvg-name="VIP | beIN Sport 13 HD en" group-title="ZALCODE-SPORT2", VIP | beIN Sport 13 HD en
 http://onlyallgood.com:8080/Worktvs/Worktvs/28964
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/NEWS.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN News HD
+http://62.210.251.193:8081/yacinetv/BeinSportNews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyMCAyOjQ0OjQzIFBNJmhhc2hfdmFsdWU9d28vejhNV1lhVEx4aEFyZWtvRzdtQT09JnZhbGlkbWludXRlcz02MA==
+
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/1.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN Sport 1 HD
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qT-NEb67FX5viiqMiUbTsT2TjElUNjIydrdCeO18qPjMTsXqULpwIXO-xns2LX00vjKO2N8_vU10AI6nJ2Qnmg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/2.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN Sport 2 HD
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/pCEndNKRReTaRTRMz_uRK48RoFwmVH7B8qdbP2zl_FujxhLw9D45iZLUX6Qt8wVD5FcDthcEAxQ66alpql0ApQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/3.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN Sport 3 HD
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/NCtagG4u59zRKN5cr3D_mclUodFTk2BfMn97G4bz04gAPYQdvc0f_uk0UGo9mTkhkMVrGyLt7NYSRhyJYCavdg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/4.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN Sport 4 HD
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/MBt5IfuqeCjdyZxkbaWlreUT14-jFn9eXpceudqmLgmNI9hEMEPBIpEI1eN1-UMtQYgo28-0EVM5AgHec5tX7w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/5.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN Sport 5 HD
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/irZOwLCu2SL_u13tL8MVFygezHqHOOrVi1D53C2WgfkaAYh32bCNJH6FEFTBGjBmtiI8avzP44cEbnld0YxejQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/6.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN Sport 6 HD
+http://62.210.139.222:8081/yacinetv/BeinHD6/playlist.m3u8https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/4f0TkKYRzB0jGrTnGgzN9AAu4702z63e3-okpRrCQWg4fA9yYcG5thHTjdOybdf8MwCuIkrxfP9PxiU4Raoy_w/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/7.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN Sport 7 HD
+http://62.210.139.222:8081/yacinetv/BeinLow7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyMCAyOjQ0OjQzIFBNJmhhc2hfdmFsdWU9d28vejhNV1lhVEx4aEFyZWtvRzdtQT09JnZhbGlkbWludXRlcz02MA==
+
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/8.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN Sport 8 HD
+http://62.210.139.222:8081/yacinetv/BeinLow8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyMCAyOjQ0OjQzIFBNJmhhc2hfdmFsdWU9d28vejhNV1lhVEx4aEFyZWtvRzdtQT09JnZhbGlkbWludXRlcz02MA==
+
+#EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/HD/9.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN Sport 9 HD
+http://62.210.139.222:8081/yacinetv/BeinLow9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyMCAyOjQ0OjQzIFBNJmhhc2hfdmFsdWU9d28vejhNV1lhVEx4aEFyZWtvRzdtQT09JnZhbGlkbWludXRlcz02MA==
+
+
 
 #EXTINF: -1 tvg-id="btsport1.uk" tvg-name="UK: BT SPORTS 1" tvg-logo="https://i.pinimg.com/originals/91/c1/84/91c1846b6eb2203ffbdbd9589c6ea8e9.png" group-title="ZALCODE-SPORT2", UK: BT SPORTS 1
 http://onlyallgood.com:8080/Worktvs/Worktvs/25079
