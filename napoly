@@ -75,7 +75,299 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w242732416_b3840
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 ###zLCODETES#
-
+#EXTM3U 
+#EXTINF: -1 tvg-name="MY: Colors Cineplex" group-title="ZALTEST-MY", MY: Colors Cineplex
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39424
+#EXTINF: -1 tvg-name="MY: Dreamworks HD" group-title="ZALTEST-MY", MY: Dreamworks HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39425
+#EXTINF: -1 tvg-name="MY: FOX Life HD" group-title="ZALTEST-MY", MY: FOX Life HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39427
+#EXTINF: -1 tvg-name="MY: FOX Movies HD" group-title="ZALTEST-MY", MY: FOX Movies HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39428
+#EXTINF: -1 tvg-name="MY: FX Cinema HD" group-title="ZALTEST-MY", MY: FX Cinema HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39429
+#EXTINF: -1 tvg-name="MY: Jaya Max" group-title="ZALTEST-MY", MY: Jaya Max
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39430
+#EXTINF: -1 tvg-name="MY: MTV Asia" group-title="ZALTEST-MY", MY: MTV Asia
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39431
+#EXTINF: -1 tvg-name="MY: NatGeo Asia HD" group-title="ZALTEST-MY", MY: NatGeo Asia HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39432
+#EXTINF: -1 tvg-name="MY: RTM Sports" group-title="ZALTEST-MY", MY: RTM Sports
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39433
+#EXTINF: -1 tvg-name="MY: Paramount Channel" group-title="ZALTEST-MY", MY: Paramount Channel
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39435
+#EXTINF: -1 tvg-name="MY: Sony SAB" group-title="ZALTEST-MY", MY: Sony SAB
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39441
+#EXTINF: -1 tvg-name="MY: Sony SetMAX" group-title="ZALTEST-MY", MY: Sony SetMAX
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39442
+#EXTINF: -1 tvg-name="MY: Sony TV" group-title="ZALTEST-MY", MY: Sony TV
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39443
+#EXTINF: -1 tvg-name="MY: Travel Channel HD" group-title="ZALTEST-MY", MY: Travel Channel HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39445
+#EXTINF: -1 tvg-name="MY: Astro Rania HD" group-title="ZALTEST-MY", MY: Astro Rania HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39446
+#EXTINF: -1 tvg-name="MY: Astro Aura HD" group-title="ZALTEST-MY", MY: Astro Aura HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39447
+#EXTINF: -1 tvg-name="MY: ABO Movie Thangathirai" group-title="ZALTEST-MY", MY: ABO Movie Thangathirai
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39448
+#EXTINF: -1 tvg-name="MY: ABO Tayangan Hebat" group-title="ZALTEST-MY", MY: ABO Tayangan Hebat
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39449
+#EXTINF: -1 tvg-name="MY: ASTRO ARENA HD" group-title="ZALTEST-MY", MY: ASTRO ARENA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39450
+#EXTINF: -1 tvg-name="MY: ASTRO ASSP HD" group-title="ZALTEST-MY", MY: ASTRO ASSP HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39451
+#EXTINF: -1 tvg-name="MY: ASTRO ASSP2 HD" group-title="ZALTEST-MY", MY: ASTRO ASSP2 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39452
+#EXTINF: -1 tvg-name="MY: ASTRO ASSP3 HD" group-title="ZALTEST-MY", MY: ASTRO ASSP3 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39453
+#EXTINF: -1 tvg-name="MY: ASTRO ASSP4 HD" group-title="ZALTEST-MY", MY: ASTRO ASSP4 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39454
+#EXTINF: -1 tvg-name="MY: FOX SPORTS HD" group-title="ZALTEST-MY", MY: FOX SPORTS HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39455
+#EXTINF: -1 tvg-name="MY: FOX SPORTS 2 HD" group-title="ZALTEST-MY", MY: FOX SPORTS 2 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39456
+#EXTINF: -1 tvg-name="MY: FOX SPORTS 3 HD" group-title="ZALTEST-MY", MY: FOX SPORTS 3 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39457
+#EXTINF: -1 tvg-name="MY: beIN SPORTS" group-title="ZALTEST-MY", MY: beIN SPORTS
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
+#EXTINF: -1 tvg-name="MY: bEIN MAX" group-title="ZALTEST-MY", MY: bEIN MAX
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459
+#EXTINF: -1 tvg-name="MY: EUROSPORT HD" group-title="ZALTEST-MY", MY: EUROSPORT HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39460
+#EXTINF: -1 tvg-name="MY: WWE NETWORK" group-title="ZALTEST-MY", MY: WWE NETWORK
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39461
+#EXTINF: -1 tvg-name="MY: GOLF CHANNEL HD" group-title="ZALTEST-MY", MY: GOLF CHANNEL HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39462
+#EXTINF: -1 tvg-name="MY: ASTRO RUGBY PASS TV" group-title="ZALTEST-MY", MY: ASTRO RUGBY PASS TV
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39463
+#EXTINF: -1 tvg-name="MY: ASTRO CRICKET" group-title="ZALTEST-MY", MY: ASTRO CRICKET
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39464
+#EXTINF: -1 tvg-name="MY: TV1" group-title="ZALTEST-MY", MY: TV1
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39310
+#EXTINF: -1 tvg-name="MY: TV2" group-title="ZALTEST-MY", MY: TV2
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39311
+#EXTINF: -1 tvg-name="MY: TV3" group-title="ZALTEST-MY", MY: TV3
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39312
+#EXTINF: -1 tvg-name="MY: 8TV" group-title="ZALTEST-MY", MY: 8TV
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39313
+#EXTINF: -1 tvg-name="MY: TV9" group-title="ZALTEST-MY", MY: TV9
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39314
+#EXTINF: -1 tvg-name="MY: ASTRO RIA HD" group-title="ZALTEST-MY", MY: ASTRO RIA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39315
+#EXTINF: -1 tvg-name="MY: ASTRO PRIMA HD" group-title="ZALTEST-MY", MY: ASTRO PRIMA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39316
+#EXTINF: -1 tvg-name="MY: ASTRO OASIS HD" group-title="ZALTEST-MY", MY: ASTRO OASIS HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39317
+#EXTINF: -1 tvg-name="MY: ASTRO WARNA HD" group-title="ZALTEST-MY", MY: ASTRO WARNA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39318
+#EXTINF: -1 tvg-name="MY: ASTRO NAURA" group-title="ZALTEST-MY", MY: ASTRO NAURA
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39319
+#EXTINF: -1 tvg-name="MY: TV ALHIJRAH" group-title="ZALTEST-MY", MY: TV ALHIJRAH
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39320
+#EXTINF: -1 tvg-name="MY: COLORS HD" group-title="ZALTEST-MY", MY: COLORS HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39321
+#EXTINF: -1 tvg-name="MY: GO SHOP RUUMA" group-title="ZALTEST-MY", MY: GO SHOP RUUMA
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39322
+#EXTINF: -1 tvg-name="MY: GO SHOP GAAYA" group-title="ZALTEST-MY", MY: GO SHOP GAAYA
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39323
+#EXTINF: -1 tvg-name="MY: VAANAVIL" group-title="ZALTEST-MY", MY: VAANAVIL
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39324
+#EXTINF: -1 tvg-name="MY: MAKKAL TV" group-title="ZALTEST-MY", MY: MAKKAL TV
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39325
+#EXTINF: -1 tvg-name="MY: SUN MUSIC" group-title="ZALTEST-MY", MY: SUN MUSIC
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39326
+#EXTINF: -1 tvg-name="MY: CHUTTI TV" group-title="ZALTEST-MY", MY: CHUTTI TV
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39327
+#EXTINF: -1 tvg-name="MY: ADITHYA" group-title="ZALTEST-MY", MY: ADITHYA
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39328
+#EXTINF: -1 tvg-name="MY: ZEE Tamil HD" group-title="ZALTEST-MY", MY: ZEE Tamil HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39329
+#EXTINF: -1 tvg-name="MY: VINMEEN HD" group-title="ZALTEST-MY", MY: VINMEEN HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39330
+#EXTINF: -1 tvg-name="MY: STAR VIJAY HD" group-title="ZALTEST-MY", MY: STAR VIJAY HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39331
+#EXTINF: -1 tvg-name="MY: COLORS TAMIL" group-title="ZALTEST-MY", MY: COLORS TAMIL
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39332
+#EXTINF: -1 tvg-name="MY: SUN TV HD" group-title="ZALTEST-MY", MY: SUN TV HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39333
+#EXTINF: -1 tvg-name="MY: BOLLYONE HD" group-title="ZALTEST-MY", MY: BOLLYONE HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39334
+#EXTINF: -1 tvg-name="MY: iQIYI HD" group-title="ZALTEST-MY", MY: iQIYI HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39335
+#EXTINF: -1 tvg-name="MY: GO SHOP 2" group-title="ZALTEST-MY", MY: GO SHOP 2
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39336
+#EXTINF: -1 tvg-name="MY: XIAO TAI YANG HD" group-title="ZALTEST-MY", MY: XIAO TAI YANG HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39337
+#EXTINF: -1 tvg-name="MY: TVB CLASSIC" group-title="ZALTEST-MY", MY: TVB CLASSIC
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39338
+#EXTINF: -1 tvg-name="MY: AEC HD" group-title="ZALTEST-MY", MY: AEC HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39339
+#EXTINF: -1 tvg-name="MY: SHUANG XING HD" group-title="ZALTEST-MY", MY: SHUANG XING HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39340
+#EXTINF: -1 tvg-name="MY: QUAN JIA HD" group-title="ZALTEST-MY", MY: QUAN JIA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39341
+#EXTINF: -1 tvg-name="MY: CELESTIAL HD" group-title="ZALTEST-MY", MY: CELESTIAL HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39342
+#EXTINF: -1 tvg-name="MY: WLT | JADE" group-title="ZALTEST-MY", MY: WLT | JADE
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39343
+#EXTINF: -1 tvg-name="MY: AOD 351 HD" group-title="ZALTEST-MY", MY: AOD 351 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39344
+#EXTINF: -1 tvg-name="MY: CTI ASIA" group-title="ZALTEST-MY", MY: CTI ASIA
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39345
+#EXTINF: -1 tvg-name="MY: TVB E-NEWS" group-title="ZALTEST-MY", MY: TVB E-NEWS
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39346
+#EXTINF: -1 tvg-name="MY: TVB XING HE HD" group-title="ZALTEST-MY", MY: TVB XING HE HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39347
+#EXTINF: -1 tvg-name="MY: CCM" group-title="ZALTEST-MY", MY: CCM
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39348
+#EXTINF: -1 tvg-name="MY: HUA HEE DAI HD" group-title="ZALTEST-MY", MY: HUA HEE DAI HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39349
+#EXTINF: -1 tvg-name="MY: CCTV4 HD" group-title="ZALTEST-MY", MY: CCTV4 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39350
+#EXTINF: -1 tvg-name="MY: AOD 352 HD" group-title="ZALTEST-MY", MY: AOD 352 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39351
+#EXTINF: -1 tvg-name="MY: AOD 353 HD" group-title="ZALTEST-MY", MY: AOD 353 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39352
+#EXTINF: -1 tvg-name="MY: AOD 354 HD" group-title="ZALTEST-MY", MY: AOD 354 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39353
+#EXTINF: -1 tvg-name="MY: AOD 355 HD" group-title="ZALTEST-MY", MY: AOD 355 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39354
+#EXTINF: -1 tvg-name="MY: KBS World HD" group-title="ZALTEST-MY", MY: KBS World HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39355
+#EXTINF: -1 tvg-name="MY: ONE HD" group-title="ZALTEST-MY", MY: ONE HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39356
+#EXTINF: -1 tvg-name="MY: Oh!K HD" group-title="ZALTEST-MY", MY: Oh!K HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39357
+#EXTINF: -1 tvg-name="MY: tvN HD" group-title="ZALTEST-MY", MY: tvN HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39358
+#EXTINF: -1 tvg-name="MY: HITS MOVIES HD" group-title="ZALTEST-MY", MY: HITS MOVIES HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39359
+#EXTINF: -1 tvg-name="MY: HBO HD" group-title="ZALTEST-MY", MY: HBO HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39360
+#EXTINF: -1 tvg-name="MY: CINEMAX HD" group-title="ZALTEST-MY", MY: CINEMAX HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39361
+#EXTINF: -1 tvg-name="MY: tvN Movies" group-title="ZALTEST-MY", MY: tvN Movies
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39362
+#EXTINF: -1 tvg-name="MY: ASTRO AWANI" group-title="ZALTEST-MY", MY: ASTRO AWANI
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39363
+#EXTINF: -1 tvg-name="MY: BNC" group-title="ZALTEST-MY", MY: BNC
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39364
+#EXTINF: -1 tvg-name="MY: CGTN" group-title="ZALTEST-MY", MY: CGTN
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39365
+#EXTINF: -1 tvg-name="MY: CNN HD" group-title="ZALTEST-MY", MY: CNN HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39366
+#EXTINF: -1 tvg-name="MY: BBC News HD" group-title="ZALTEST-MY", MY: BBC News HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39367
+#EXTINF: -1 tvg-name="MY: AL JAZEERA HD" group-title="ZALTEST-MY", MY: AL JAZEERA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39368
+#EXTINF: -1 tvg-name="MY: SKY NEWS HD" group-title="ZALTEST-MY", MY: SKY NEWS HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39369
+#EXTINF: -1 tvg-name="MY: CNA HD" group-title="ZALTEST-MY", MY: CNA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39370
+#EXTINF: -1 tvg-name="MY: CNBC" group-title="ZALTEST-MY", MY: CNBC
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39371
+#EXTINF: -1 tvg-name="MY: BLOOMBERG TV" group-title="ZALTEST-MY", MY: BLOOMBERG TV
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39372
+#EXTINF: -1 tvg-name="MY: ABC AUSTRALIA" group-title="ZALTEST-MY", MY: ABC AUSTRALIA
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39373
+#EXTINF: -1 tvg-name="MY: NGW HD" group-title="ZALTEST-MY", MY: NGW HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39374
+#EXTINF: -1 tvg-name="MY: NAT GEO HD" group-title="ZALTEST-MY", MY: NAT GEO HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39375
+#EXTINF: -1 tvg-name="MY: DISCOVERY HD" group-title="ZALTEST-MY", MY: DISCOVERY HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39376
+#EXTINF: -1 tvg-name="MY: DISCOVERY ASIA" group-title="ZALTEST-MY", MY: DISCOVERY ASIA
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39377
+#EXTINF: -1 tvg-name="MY: DISC SCI HD" group-title="ZALTEST-MY", MY: DISC SCI HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39378
+#EXTINF: -1 tvg-name="MY: HISTORY HD" group-title="ZALTEST-MY", MY: HISTORY HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39379
+#EXTINF: -1 tvg-name="MY: ANIMAL PLANET HD" group-title="ZALTEST-MY", MY: ANIMAL PLANET HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39380
+#EXTINF: -1 tvg-name="MY: TUTOR TV UPSR" group-title="ZALTEST-MY", MY: TUTOR TV UPSR
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39381
+#EXTINF: -1 tvg-name="MY: TUTOR TV PT3" group-title="ZALTEST-MY", MY: TUTOR TV PT3
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39382
+#EXTINF: -1 tvg-name="MY: TUTOR TV SPM" group-title="ZALTEST-MY", MY: TUTOR TV SPM
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39383
+#EXTINF: -1 tvg-name="MY: TVIQ" group-title="ZALTEST-MY", MY: TVIQ
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39384
+#EXTINF: -1 tvg-name="MY: ASTRO CERIA HD" group-title="ZALTEST-MY", MY: ASTRO CERIA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39385
+#EXTINF: -1 tvg-name="MY: DISNEY XD HD" group-title="ZALTEST-MY", MY: DISNEY XD HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39386
+#EXTINF: -1 tvg-name="MY: DISNEY JUNIOR" group-title="ZALTEST-MY", MY: DISNEY JUNIOR
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39387
+#EXTINF: -1 tvg-name="MY: DISNEY CHANNEL HD" group-title="ZALTEST-MY", MY: DISNEY CHANNEL HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39388
+#EXTINF: -1 tvg-name="MY: CARTOON NTWK HD" group-title="ZALTEST-MY", MY: CARTOON NTWK HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39389
+#EXTINF: -1 tvg-name="MY: NICKELODEON HD" group-title="ZALTEST-MY", MY: NICKELODEON HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39390
+#EXTINF: -1 tvg-name="MY: NICK JR" group-title="ZALTEST-MY", MY: NICK JR
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39391
+#EXTINF: -1 tvg-name="MY: AXN HD" group-title="ZALTEST-MY", MY: AXN HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39392
+#EXTINF: -1 tvg-name="MY: ASTRO HELLO" group-title="ZALTEST-MY", MY: ASTRO HELLO
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39393
+#EXTINF: -1 tvg-name="MY: KIX HD" group-title="ZALTEST-MY", MY: KIX HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39394
+#EXTINF: -1 tvg-name="MY: HITS HD" group-title="ZALTEST-MY", MY: HITS HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39395
+#EXTINF: -1 tvg-name="MY: TLC HD" group-title="ZALTEST-MY", MY: TLC HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39396
+#EXTINF: -1 tvg-name="MY: FOOD NTWK HD" group-title="ZALTEST-MY", MY: FOOD NTWK HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39397
+#EXTINF: -1 tvg-name="MY: AFN HD" group-title="ZALTEST-MY", MY: AFN HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39398
+#EXTINF: -1 tvg-name="MY: NATGEO PEOPLE" group-title="ZALTEST-MY", MY: NATGEO PEOPLE
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39399
+#EXTINF: -1 tvg-name="MY: WARNER TV" group-title="ZALTEST-MY", MY: WARNER TV
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39400
+#EXTINF: -1 tvg-name="MY: C&I HD" group-title="ZALTEST-MY", MY: C&I HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39401
+#EXTINF: -1 tvg-name="MY: HGTV HD" group-title="ZALTEST-MY", MY: HGTV HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39402
+#EXTINF: -1 tvg-name="MY: DMAX HD" group-title="ZALTEST-MY", MY: DMAX HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39403
+#EXTINF: -1 tvg-name="MY: COMEDY CENTRAL" group-title="ZALTEST-MY", MY: COMEDY CENTRAL
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39404
+#EXTINF: -1 tvg-name="MY: MTV" group-title="ZALTEST-MY", MY: MTV
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39405
+#EXTINF: -1 tvg-name="MY: ANIMAX" group-title="ZALTEST-MY", MY: ANIMAX
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39406
+#EXTINF: -1 tvg-name="MY: eGG Network" group-title="ZALTEST-MY", MY: eGG Network
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39407
+#EXTINF: -1 tvg-name="MY: ANIPLUS HD" group-title="ZALTEST-MY", MY: ANIPLUS HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39408
+#EXTINF: -1 tvg-name="MY: KPLUS HD" group-title="ZALTEST-MY", MY: KPLUS HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39409
+#EXTINF: -1 tvg-name="MY: FRANCE24 HD" group-title="ZALTEST-MY", MY: FRANCE24 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39411
+#EXTINF: -1 tvg-name="MY: FOX Action Movies" group-title="ZALTEST-MY", MY: FOX Action Movies
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39412
+#EXTINF: -1 tvg-name="MY: FOX HD" group-title="ZALTEST-MY", MY: FOX HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39413
+#EXTINF: -1 tvg-name="MY: FOX Family Movies" group-title="ZALTEST-MY", MY: FOX Family Movies
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39414
+#EXTINF: -1 tvg-name="MY: Drama Sangat" group-title="ZALTEST-MY", MY: Drama Sangat
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39415
+#EXTINF: -1 tvg-name="MY: NTV7" group-title="ZALTEST-MY", MY: NTV7
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39416
+#EXTINF: -1 tvg-name="MY: Baby TV" group-title="ZALTEST-MY", MY: Baby TV
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39417
+#EXTINF: -1 tvg-name="MY: BBC Earth HD" group-title="ZALTEST-MY", MY: BBC Earth HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39418
+#EXTINF: -1 tvg-name="MY: BBC Lifestyle" group-title="ZALTEST-MY", MY: BBC Lifestyle
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39419
+#EXTINF: -1 tvg-name="MY: Blue Ant Entertainment" group-title="ZALTEST-MY", MY: Blue Ant Entertainment
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39420
+#EXTINF: -1 tvg-name="MY: Blue Ant Extreme" group-title="ZALTEST-MY", MY: Blue Ant Extreme
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39421
+#EXTINF: -1 tvg-name="MY: Boomerang HD" group-title="ZALTEST-MY", MY: Boomerang HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39422
+#EXTINF: -1 tvg-name="MY: Cinema World HD" group-title="ZALTEST-MY", MY: Cinema World HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39423
 #### ZALCODE MOVIE ###
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
