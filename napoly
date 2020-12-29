@@ -403,6 +403,24 @@ https://zaltvku.imfast.io/REDSD.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0" group-title="ZALCODE-MOVIES",My Cinema
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="ZALCODE-MOVIES",HBO-MY
+http://tv.wakds.xyz:8080/tangyuan/12345678/193
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic" tvg-logo="" group-title="ZALCODE-MOVIES",Celestial Classic
+http://tv.wakds.xyz:8080/tangyuan/12345678/179
+#EXTINF:-1 tvg-id="" tvg-name="Prima" tvg-logo="" group-title="ZALCODE-MOVIES",ASTRO-Prima
+http://tv.wakds.xyz:8080/tangyuan/12345678/161
+#EXTINF:-1 tvg-id="" tvg-name="Ceria" tvg-logo="" group-title="ZALCODE-MOVIES",ASTRO-Ceria
+http://tv.wakds.xyz:8080/tangyuan/12345678/167
+#EXTINF:-1 tvg-id="" tvg-name="Citra" tvg-logo="" group-title="ZALCODE-MOVIES",ASTRO-Citra
+http://tv.wakds.xyz:8080/tangyuan/12345678/168
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="" group-title="ZALCODE-MOVIES",MBC Max
+http://tv.wakds.xyz:8080/tangyuan/12345678/209
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-logo="" group-title="ZALCODE-MOVIES",MBC Action
+http://tv.wakds.xyz:8080/tangyuan/12345678/204
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="" group-title="ZALCODE-MOVIES",MBC Drama
+http://tv.wakds.xyz:8080/tangyuan/12345678/205
+
+
 
 #EXTM3U 
 #EXTINF: -1 tvg-id="5star.uk" tvg-name="UK: 5STAR" group-title="ZALTEST-UK", UK: 5STAR
@@ -772,12 +790,34 @@ https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 
 ### ZAKLCODE 2 SPORT ##
 
-#EXTINF: -1 tvg-name="UK: BEIN SPORTS 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="ZALCODE-SPORT2", UK: BEIN SPORTS 11
-http://onlyallgood.com:8080/Worktvs/Worktvs/25120
-#EXTINF: -1 tvg-name="UK: BEIN SPORTS 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="ZALCODE-SPORT2", UK: BEIN SPORTS 12
-http://onlyallgood.com:8080/Worktvs/Worktvs/25121
-#EXTINF: -1 tvg-name="VIP | beIN Sport 13 HD en" group-title="ZALCODE-SPORT2", VIP | beIN Sport 13 HD en
-http://onlyallgood.com:8080/Worktvs/Worktvs/28964
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 1 backup" tvg-logo="" group-title="ZALCODE-SPORT2,Supersports 1 backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/120
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 2 backup" tvg-logo="" group-title="ZALCODE-SPORT2,Supersports 2 backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/121
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 3 backup" tvg-logo="" group-title="ZALCODE-SPORT2,Supersports 3 backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/122
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 4 backup" tvg-logo="" group-title="ZALCODE-SPORT2,Supersports 4 backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/123
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 1 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 1 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/132
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 12 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 12 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/142
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 13 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 13 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/143
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 2 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 2 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/133
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 3 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 3 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/134
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 7 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 7 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/137
+
+#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="ZALCODE-SPORT2,Alda Sports 1
+http://tv.wakds.xyz:8080/tangyuan/12345678/92
+#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="ZALCODE-SPORT2,Alda Sports 2
+http://tv.wakds.xyz:8080/tangyuan/12345678/93
+#EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="ZALCODE-SPORT2,Alda Sports 3
+http://tv.wakds.xyz:8080/tangyuan/12345678/144
+
 #EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/NEWS.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN News HD
 http://62.210.251.193:8081/yacinetv/BeinSportNews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyMCAyOjQ0OjQzIFBNJmhhc2hfdmFsdWU9d28vejhNV1lhVEx4aEFyZWtvRzdtQT09JnZhbGlkbWludXRlcz02MA==
 
