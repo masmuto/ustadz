@@ -5,11 +5,11 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC-max
-https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8?hdnts=exp=1609242325~hmac=35fc23bc1a1800230d701d727144473626c6b38ec8d791a5bf09e9912c0640e8
+https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/hdntl=exp=1609502605~acl=%2f*~data=hdntl~hmac=10d2d617ae9141463073ab69417cfd36a27b30d50a53a94d9f125ac90b3de539/mnctv_fta-avc1_128000=9.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI-max 
 https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?hdnts=exp=1609249379~hmac=a86f9cd3588eb477e966737b71bfbaa1ad348f81097e9a0206ad1164035b1fb6
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBALTV-max
-https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8?hdnts=exp=1609242325~hmac=35fc23bc1a1800230d701d727144473626c6b38ec8d791a5bf09e9912c0640e8  
+https://linier.rctiplus.id/live/eds/gtv_fta/live_fta/hdntl=exp=1609502887~acl=%2f*~data=hdntl~hmac=6445f7333723f2cfa659d70c2febe4d62a59700b70b6d6d105918132f36f0500/gtv_fta-avc1_256000=8.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Nasional",INEWS HD-max
 https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8?hdnts=exp=1609242325~hmac=35fc23bc1a1800230d701d727144473626c6b38ec8d791a5bf09e9912c0640e8
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu",KOMPASTV-max
