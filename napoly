@@ -5,7 +5,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC-max
-https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/hdntl=exp=1609502605~acl=%2f*~data=hdntl~hmac=10d2d617ae9141463073ab69417cfd36a27b30d50a53a94d9f125ac90b3de539/mnctv_fta-avc1_128000=9.m3u8
+https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/hdntl=exp=1609504030~acl=%2f*~data=hdntl~hmac=f7e1e39f9ec966c0364f7a1905aa1ece311f507804a723b3c4239d21186d63c4/mnctv_fta-avc1_128000=9.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI-max 
 https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?hdnts=exp=1609249379~hmac=a86f9cd3588eb477e966737b71bfbaa1ad348f81097e9a0206ad1164035b1fb6
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBALTV-max
