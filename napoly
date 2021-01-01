@@ -70,300 +70,38 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w242732416_b3840
 #EXTVLCOPT:network-caching=1000	
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-###zLCODETES#
-#EXTM3U 
-#EXTINF: -1 tvg-name="MY: Colors Cineplex" group-title="ZALTEST-MY", MY: Colors Cineplex
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39424
-#EXTINF: -1 tvg-name="MY: Dreamworks HD" group-title="ZALTEST-MY", MY: Dreamworks HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39425
-#EXTINF: -1 tvg-name="MY: FOX Life HD" group-title="ZALTEST-MY", MY: FOX Life HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39427
-#EXTINF: -1 tvg-name="MY: FOX Movies HD" group-title="ZALTEST-MY", MY: FOX Movies HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39428
-#EXTINF: -1 tvg-name="MY: FX Cinema HD" group-title="ZALTEST-MY", MY: FX Cinema HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39429
-#EXTINF: -1 tvg-name="MY: Jaya Max" group-title="ZALTEST-MY", MY: Jaya Max
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39430
-#EXTINF: -1 tvg-name="MY: MTV Asia" group-title="ZALTEST-MY", MY: MTV Asia
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39431
-#EXTINF: -1 tvg-name="MY: NatGeo Asia HD" group-title="ZALTEST-MY", MY: NatGeo Asia HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39432
-#EXTINF: -1 tvg-name="MY: RTM Sports" group-title="ZALTEST-MY", MY: RTM Sports
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39433
-#EXTINF: -1 tvg-name="MY: Paramount Channel" group-title="ZALTEST-MY", MY: Paramount Channel
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39435
-#EXTINF: -1 tvg-name="MY: Sony SAB" group-title="ZALTEST-MY", MY: Sony SAB
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39441
-#EXTINF: -1 tvg-name="MY: Sony SetMAX" group-title="ZALTEST-MY", MY: Sony SetMAX
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39442
-#EXTINF: -1 tvg-name="MY: Sony TV" group-title="ZALTEST-MY", MY: Sony TV
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39443
-#EXTINF: -1 tvg-name="MY: Travel Channel HD" group-title="ZALTEST-MY", MY: Travel Channel HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39445
-#EXTINF: -1 tvg-name="MY: Astro Rania HD" group-title="ZALTEST-MY", MY: Astro Rania HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39446
-#EXTINF: -1 tvg-name="MY: Astro Aura HD" group-title="ZALTEST-MY", MY: Astro Aura HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39447
-#EXTINF: -1 tvg-name="MY: ABO Movie Thangathirai" group-title="ZALTEST-MY", MY: ABO Movie Thangathirai
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39448
-#EXTINF: -1 tvg-name="MY: ABO Tayangan Hebat" group-title="ZALTEST-MY", MY: ABO Tayangan Hebat
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39449
-#EXTINF: -1 tvg-name="MY: ASTRO ARENA HD" group-title="ZALTEST-MY", MY: ASTRO ARENA HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39450
-#EXTINF: -1 tvg-name="MY: ASTRO ASSP HD" group-title="ZALTEST-MY", MY: ASTRO ASSP HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39451
-#EXTINF: -1 tvg-name="MY: ASTRO ASSP2 HD" group-title="ZALTEST-MY", MY: ASTRO ASSP2 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39452
-#EXTINF: -1 tvg-name="MY: ASTRO ASSP3 HD" group-title="ZALTEST-MY", MY: ASTRO ASSP3 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39453
-#EXTINF: -1 tvg-name="MY: ASTRO ASSP4 HD" group-title="ZALTEST-MY", MY: ASTRO ASSP4 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39454
-#EXTINF: -1 tvg-name="MY: FOX SPORTS HD" group-title="ZALTEST-MY", MY: FOX SPORTS HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39455
-#EXTINF: -1 tvg-name="MY: FOX SPORTS 2 HD" group-title="ZALTEST-MY", MY: FOX SPORTS 2 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39456
-#EXTINF: -1 tvg-name="MY: FOX SPORTS 3 HD" group-title="ZALTEST-MY", MY: FOX SPORTS 3 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39457
-#EXTINF: -1 tvg-name="MY: beIN SPORTS" group-title="ZALTEST-MY", MY: beIN SPORTS
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
-#EXTINF: -1 tvg-name="MY: bEIN MAX" group-title="ZALTEST-MY", MY: bEIN MAX
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459
-#EXTINF: -1 tvg-name="MY: EUROSPORT HD" group-title="ZALTEST-MY", MY: EUROSPORT HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39460
-#EXTINF: -1 tvg-name="MY: WWE NETWORK" group-title="ZALTEST-MY", MY: WWE NETWORK
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39461
-#EXTINF: -1 tvg-name="MY: GOLF CHANNEL HD" group-title="ZALTEST-MY", MY: GOLF CHANNEL HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39462
-#EXTINF: -1 tvg-name="MY: ASTRO RUGBY PASS TV" group-title="ZALTEST-MY", MY: ASTRO RUGBY PASS TV
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39463
-#EXTINF: -1 tvg-name="MY: ASTRO CRICKET" group-title="ZALTEST-MY", MY: ASTRO CRICKET
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39464
-#EXTINF: -1 tvg-name="MY: TV1" group-title="ZALTEST-MY", MY: TV1
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39310
-#EXTINF: -1 tvg-name="MY: TV2" group-title="ZALTEST-MY", MY: TV2
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39311
-#EXTINF: -1 tvg-name="MY: TV3" group-title="ZALTEST-MY", MY: TV3
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39312
-#EXTINF: -1 tvg-name="MY: 8TV" group-title="ZALTEST-MY", MY: 8TV
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39313
-#EXTINF: -1 tvg-name="MY: TV9" group-title="ZALTEST-MY", MY: TV9
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39314
-#EXTINF: -1 tvg-name="MY: ASTRO RIA HD" group-title="ZALTEST-MY", MY: ASTRO RIA HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39315
-#EXTINF: -1 tvg-name="MY: ASTRO PRIMA HD" group-title="ZALTEST-MY", MY: ASTRO PRIMA HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39316
-#EXTINF: -1 tvg-name="MY: ASTRO OASIS HD" group-title="ZALTEST-MY", MY: ASTRO OASIS HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39317
-#EXTINF: -1 tvg-name="MY: ASTRO WARNA HD" group-title="ZALTEST-MY", MY: ASTRO WARNA HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39318
-#EXTINF: -1 tvg-name="MY: ASTRO NAURA" group-title="ZALTEST-MY", MY: ASTRO NAURA
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39319
-#EXTINF: -1 tvg-name="MY: TV ALHIJRAH" group-title="ZALTEST-MY", MY: TV ALHIJRAH
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39320
-#EXTINF: -1 tvg-name="MY: COLORS HD" group-title="ZALTEST-MY", MY: COLORS HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39321
-#EXTINF: -1 tvg-name="MY: GO SHOP RUUMA" group-title="ZALTEST-MY", MY: GO SHOP RUUMA
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39322
-#EXTINF: -1 tvg-name="MY: GO SHOP GAAYA" group-title="ZALTEST-MY", MY: GO SHOP GAAYA
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39323
-#EXTINF: -1 tvg-name="MY: VAANAVIL" group-title="ZALTEST-MY", MY: VAANAVIL
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39324
-#EXTINF: -1 tvg-name="MY: MAKKAL TV" group-title="ZALTEST-MY", MY: MAKKAL TV
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39325
-#EXTINF: -1 tvg-name="MY: SUN MUSIC" group-title="ZALTEST-MY", MY: SUN MUSIC
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39326
-#EXTINF: -1 tvg-name="MY: CHUTTI TV" group-title="ZALTEST-MY", MY: CHUTTI TV
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39327
-#EXTINF: -1 tvg-name="MY: ADITHYA" group-title="ZALTEST-MY", MY: ADITHYA
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39328
-#EXTINF: -1 tvg-name="MY: ZEE Tamil HD" group-title="ZALTEST-MY", MY: ZEE Tamil HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39329
-#EXTINF: -1 tvg-name="MY: VINMEEN HD" group-title="ZALTEST-MY", MY: VINMEEN HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39330
-#EXTINF: -1 tvg-name="MY: STAR VIJAY HD" group-title="ZALTEST-MY", MY: STAR VIJAY HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39331
-#EXTINF: -1 tvg-name="MY: COLORS TAMIL" group-title="ZALTEST-MY", MY: COLORS TAMIL
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39332
-#EXTINF: -1 tvg-name="MY: SUN TV HD" group-title="ZALTEST-MY", MY: SUN TV HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39333
-#EXTINF: -1 tvg-name="MY: BOLLYONE HD" group-title="ZALTEST-MY", MY: BOLLYONE HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39334
-#EXTINF: -1 tvg-name="MY: iQIYI HD" group-title="ZALTEST-MY", MY: iQIYI HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39335
-#EXTINF: -1 tvg-name="MY: GO SHOP 2" group-title="ZALTEST-MY", MY: GO SHOP 2
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39336
-#EXTINF: -1 tvg-name="MY: XIAO TAI YANG HD" group-title="ZALTEST-MY", MY: XIAO TAI YANG HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39337
-#EXTINF: -1 tvg-name="MY: TVB CLASSIC" group-title="ZALTEST-MY", MY: TVB CLASSIC
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39338
-#EXTINF: -1 tvg-name="MY: AEC HD" group-title="ZALTEST-MY", MY: AEC HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39339
-#EXTINF: -1 tvg-name="MY: SHUANG XING HD" group-title="ZALTEST-MY", MY: SHUANG XING HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39340
-#EXTINF: -1 tvg-name="MY: QUAN JIA HD" group-title="ZALTEST-MY", MY: QUAN JIA HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39341
-#EXTINF: -1 tvg-name="MY: CELESTIAL HD" group-title="ZALTEST-MY", MY: CELESTIAL HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39342
-#EXTINF: -1 tvg-name="MY: WLT | JADE" group-title="ZALTEST-MY", MY: WLT | JADE
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39343
-#EXTINF: -1 tvg-name="MY: AOD 351 HD" group-title="ZALTEST-MY", MY: AOD 351 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39344
-#EXTINF: -1 tvg-name="MY: CTI ASIA" group-title="ZALTEST-MY", MY: CTI ASIA
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39345
-#EXTINF: -1 tvg-name="MY: TVB E-NEWS" group-title="ZALTEST-MY", MY: TVB E-NEWS
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39346
-#EXTINF: -1 tvg-name="MY: TVB XING HE HD" group-title="ZALTEST-MY", MY: TVB XING HE HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39347
-#EXTINF: -1 tvg-name="MY: CCM" group-title="ZALTEST-MY", MY: CCM
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39348
-#EXTINF: -1 tvg-name="MY: HUA HEE DAI HD" group-title="ZALTEST-MY", MY: HUA HEE DAI HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39349
-#EXTINF: -1 tvg-name="MY: CCTV4 HD" group-title="ZALTEST-MY", MY: CCTV4 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39350
-#EXTINF: -1 tvg-name="MY: AOD 352 HD" group-title="ZALTEST-MY", MY: AOD 352 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39351
-#EXTINF: -1 tvg-name="MY: AOD 353 HD" group-title="ZALTEST-MY", MY: AOD 353 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39352
-#EXTINF: -1 tvg-name="MY: AOD 354 HD" group-title="ZALTEST-MY", MY: AOD 354 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39353
-#EXTINF: -1 tvg-name="MY: AOD 355 HD" group-title="ZALTEST-MY", MY: AOD 355 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39354
-#EXTINF: -1 tvg-name="MY: KBS World HD" group-title="ZALTEST-MY", MY: KBS World HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39355
-#EXTINF: -1 tvg-name="MY: ONE HD" group-title="ZALTEST-MY", MY: ONE HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39356
-#EXTINF: -1 tvg-name="MY: Oh!K HD" group-title="ZALTEST-MY", MY: Oh!K HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39357
-#EXTINF: -1 tvg-name="MY: tvN HD" group-title="ZALTEST-MY", MY: tvN HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39358
-#EXTINF: -1 tvg-name="MY: HITS MOVIES HD" group-title="ZALTEST-MY", MY: HITS MOVIES HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39359
-#EXTINF: -1 tvg-name="MY: HBO HD" group-title="ZALTEST-MY", MY: HBO HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39360
-#EXTINF: -1 tvg-name="MY: CINEMAX HD" group-title="ZALTEST-MY", MY: CINEMAX HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39361
-#EXTINF: -1 tvg-name="MY: tvN Movies" group-title="ZALTEST-MY", MY: tvN Movies
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39362
-#EXTINF: -1 tvg-name="MY: ASTRO AWANI" group-title="ZALTEST-MY", MY: ASTRO AWANI
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39363
-#EXTINF: -1 tvg-name="MY: BNC" group-title="ZALTEST-MY", MY: BNC
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39364
-#EXTINF: -1 tvg-name="MY: CGTN" group-title="ZALTEST-MY", MY: CGTN
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39365
-#EXTINF: -1 tvg-name="MY: CNN HD" group-title="ZALTEST-MY", MY: CNN HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39366
-#EXTINF: -1 tvg-name="MY: BBC News HD" group-title="ZALTEST-MY", MY: BBC News HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39367
-#EXTINF: -1 tvg-name="MY: AL JAZEERA HD" group-title="ZALTEST-MY", MY: AL JAZEERA HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39368
-#EXTINF: -1 tvg-name="MY: SKY NEWS HD" group-title="ZALTEST-MY", MY: SKY NEWS HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39369
-#EXTINF: -1 tvg-name="MY: CNA HD" group-title="ZALTEST-MY", MY: CNA HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39370
-#EXTINF: -1 tvg-name="MY: CNBC" group-title="ZALTEST-MY", MY: CNBC
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39371
-#EXTINF: -1 tvg-name="MY: BLOOMBERG TV" group-title="ZALTEST-MY", MY: BLOOMBERG TV
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39372
-#EXTINF: -1 tvg-name="MY: ABC AUSTRALIA" group-title="ZALTEST-MY", MY: ABC AUSTRALIA
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39373
-#EXTINF: -1 tvg-name="MY: NGW HD" group-title="ZALTEST-MY", MY: NGW HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39374
-#EXTINF: -1 tvg-name="MY: NAT GEO HD" group-title="ZALTEST-MY", MY: NAT GEO HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39375
-#EXTINF: -1 tvg-name="MY: DISCOVERY HD" group-title="ZALTEST-MY", MY: DISCOVERY HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39376
-#EXTINF: -1 tvg-name="MY: DISCOVERY ASIA" group-title="ZALTEST-MY", MY: DISCOVERY ASIA
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39377
-#EXTINF: -1 tvg-name="MY: DISC SCI HD" group-title="ZALTEST-MY", MY: DISC SCI HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39378
-#EXTINF: -1 tvg-name="MY: HISTORY HD" group-title="ZALTEST-MY", MY: HISTORY HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39379
-#EXTINF: -1 tvg-name="MY: ANIMAL PLANET HD" group-title="ZALTEST-MY", MY: ANIMAL PLANET HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39380
-#EXTINF: -1 tvg-name="MY: TUTOR TV UPSR" group-title="ZALTEST-MY", MY: TUTOR TV UPSR
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39381
-#EXTINF: -1 tvg-name="MY: TUTOR TV PT3" group-title="ZALTEST-MY", MY: TUTOR TV PT3
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39382
-#EXTINF: -1 tvg-name="MY: TUTOR TV SPM" group-title="ZALTEST-MY", MY: TUTOR TV SPM
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39383
-#EXTINF: -1 tvg-name="MY: TVIQ" group-title="ZALTEST-MY", MY: TVIQ
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39384
-#EXTINF: -1 tvg-name="MY: ASTRO CERIA HD" group-title="ZALTEST-MY", MY: ASTRO CERIA HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39385
-#EXTINF: -1 tvg-name="MY: DISNEY XD HD" group-title="ZALTEST-MY", MY: DISNEY XD HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39386
-#EXTINF: -1 tvg-name="MY: DISNEY JUNIOR" group-title="ZALTEST-MY", MY: DISNEY JUNIOR
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39387
-#EXTINF: -1 tvg-name="MY: DISNEY CHANNEL HD" group-title="ZALTEST-MY", MY: DISNEY CHANNEL HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39388
-#EXTINF: -1 tvg-name="MY: CARTOON NTWK HD" group-title="ZALTEST-MY", MY: CARTOON NTWK HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39389
-#EXTINF: -1 tvg-name="MY: NICKELODEON HD" group-title="ZALTEST-MY", MY: NICKELODEON HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39390
-#EXTINF: -1 tvg-name="MY: NICK JR" group-title="ZALTEST-MY", MY: NICK JR
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39391
-#EXTINF: -1 tvg-name="MY: AXN HD" group-title="ZALTEST-MY", MY: AXN HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39392
-#EXTINF: -1 tvg-name="MY: ASTRO HELLO" group-title="ZALTEST-MY", MY: ASTRO HELLO
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39393
-#EXTINF: -1 tvg-name="MY: KIX HD" group-title="ZALTEST-MY", MY: KIX HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39394
-#EXTINF: -1 tvg-name="MY: HITS HD" group-title="ZALTEST-MY", MY: HITS HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39395
-#EXTINF: -1 tvg-name="MY: TLC HD" group-title="ZALTEST-MY", MY: TLC HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39396
-#EXTINF: -1 tvg-name="MY: FOOD NTWK HD" group-title="ZALTEST-MY", MY: FOOD NTWK HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39397
-#EXTINF: -1 tvg-name="MY: AFN HD" group-title="ZALTEST-MY", MY: AFN HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39398
-#EXTINF: -1 tvg-name="MY: NATGEO PEOPLE" group-title="ZALTEST-MY", MY: NATGEO PEOPLE
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39399
-#EXTINF: -1 tvg-name="MY: WARNER TV" group-title="ZALTEST-MY", MY: WARNER TV
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39400
-#EXTINF: -1 tvg-name="MY: C&I HD" group-title="ZALTEST-MY", MY: C&I HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39401
-#EXTINF: -1 tvg-name="MY: HGTV HD" group-title="ZALTEST-MY", MY: HGTV HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39402
-#EXTINF: -1 tvg-name="MY: DMAX HD" group-title="ZALTEST-MY", MY: DMAX HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39403
-#EXTINF: -1 tvg-name="MY: COMEDY CENTRAL" group-title="ZALTEST-MY", MY: COMEDY CENTRAL
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39404
-#EXTINF: -1 tvg-name="MY: MTV" group-title="ZALTEST-MY", MY: MTV
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39405
-#EXTINF: -1 tvg-name="MY: ANIMAX" group-title="ZALTEST-MY", MY: ANIMAX
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39406
-#EXTINF: -1 tvg-name="MY: eGG Network" group-title="ZALTEST-MY", MY: eGG Network
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39407
-#EXTINF: -1 tvg-name="MY: ANIPLUS HD" group-title="ZALTEST-MY", MY: ANIPLUS HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39408
-#EXTINF: -1 tvg-name="MY: KPLUS HD" group-title="ZALTEST-MY", MY: KPLUS HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39409
-#EXTINF: -1 tvg-name="MY: FRANCE24 HD" group-title="ZALTEST-MY", MY: FRANCE24 HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39411
-#EXTINF: -1 tvg-name="MY: FOX Action Movies" group-title="ZALTEST-MY", MY: FOX Action Movies
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39412
-#EXTINF: -1 tvg-name="MY: FOX HD" group-title="ZALTEST-MY", MY: FOX HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39413
-#EXTINF: -1 tvg-name="MY: FOX Family Movies" group-title="ZALTEST-MY", MY: FOX Family Movies
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39414
-#EXTINF: -1 tvg-name="MY: Drama Sangat" group-title="ZALTEST-MY", MY: Drama Sangat
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39415
-#EXTINF: -1 tvg-name="MY: NTV7" group-title="ZALTEST-MY", MY: NTV7
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39416
-#EXTINF: -1 tvg-name="MY: Baby TV" group-title="ZALTEST-MY", MY: Baby TV
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39417
-#EXTINF: -1 tvg-name="MY: BBC Earth HD" group-title="ZALTEST-MY", MY: BBC Earth HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39418
-#EXTINF: -1 tvg-name="MY: BBC Lifestyle" group-title="ZALTEST-MY", MY: BBC Lifestyle
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39419
-#EXTINF: -1 tvg-name="MY: Blue Ant Entertainment" group-title="ZALTEST-MY", MY: Blue Ant Entertainment
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39420
-#EXTINF: -1 tvg-name="MY: Blue Ant Extreme" group-title="ZALTEST-MY", MY: Blue Ant Extreme
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39421
-#EXTINF: -1 tvg-name="MY: Boomerang HD" group-title="ZALTEST-MY", MY: Boomerang HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39422
-#EXTINF: -1 tvg-name="MY: Cinema World HD" group-title="ZALTEST-MY", MY: Cinema World HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39423
+#EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1552478277703508912.png" group-title="NINMEDIA",ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",BE TV
+http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",GEMILANG TV
+http://stream1.ninmedia.tv:1935/gemilangtv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",JAMBI TV
+http://stream1.ninmedia.tv:1935/jambitv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="NINMEDIA",Live Makkah 
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="NINMEDIA",Maleo
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-250px-1-234x300.png" group-title="NINMEDIA",NU Channel
+http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",PAL TV
+http://stream1.ninmedia.tv:1935/paltv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="NINMEDIA",POP MUSIK
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RB TV
+http://stream1.ninmedia.tv:1935/rbtv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RCTV
+http://stream1.ninmedia.tv:1935/rctv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RRI-net-250px.png" group-title="NINMEDIA",RRI Net
+http://stream1.ninmedia.tv:1935/rrinet/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X9XhGRe.png" group-title="NINMEDIA",Salingsapa
+http://stream1.ninmedia.tv:1935/salingsapa/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="127.0.0.1" group-title="NINMEDIA",ZQ DRAMA KOREA
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-logo="127.0.0.1" group-title="NINMEDIA",ZQ SPORT
+http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
+
+
 #### ZALCODE MOVIE ###
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
@@ -417,181 +155,6 @@ http://tv.wakds.xyz:8080/tangyuan/12345678/204
 http://tv.wakds.xyz:8080/tangyuan/12345678/205
 
 
-
-#EXTM3U 
-#EXTINF: -1 tvg-id="5star.uk" tvg-name="UK: 5STAR" group-title="ZALTEST-UK", UK: 5STAR
-http://onlyallgood.com:8080/Worktvs/Worktvs/25288
-#EXTINF: -1 tvg-id="sonymovies.uk" tvg-name="UK: SONY MOVIES" group-title="ZALTEST-UK", UK: SONY MOVIES
-http://onlyallgood.com:8080/Worktvs/Worktvs/25335
-#EXTINF: -1 tvg-id="sonymoviesaction.uk" tvg-name="UK: SONY MOVIES ACTION" group-title="ZALTEST-UK", UK: SONY MOVIES ACTION
-http://onlyallgood.com:8080/Worktvs/Worktvs/25409
-#EXTINF: -1 tvg-id="questredplus1.uk" tvg-name="UK QUEST RED +1" group-title="ZALTEST-UK", UK QUEST RED +1
-http://onlyallgood.com:8080/Worktvs/Worktvs/26055
-#EXTINF: -1 tvg-id="home.uk" tvg-name="UK: HOME AND HEALTH" group-title="ZALTEST-UK", UK: HOME AND HEALTH
-http://onlyallgood.com:8080/Worktvs/Worktvs/26170
-#EXTINF: -1 tvg-id="foodnetwork.uk" tvg-name="UK: FOOD NETWORK" group-title="ZALTEST-UK", UK: FOOD NETWORK
-http://onlyallgood.com:8080/Worktvs/Worktvs/26171
-#EXTINF: -1 tvg-id="forcestv.uk" tvg-name="UK: FORCES TV" group-title="ZALTEST-UK", UK: FORCES TV
-http://onlyallgood.com:8080/Worktvs/Worktvs/26175
-#EXTINF: -1 tvg-id="movies24.uk" tvg-name="UK: movies 24/christmas 24" group-title="ZALTEST-UK", UK: movies 24/christmas 24
-http://onlyallgood.com:8080/Worktvs/Worktvs/27788
-#EXTINF: -1 tvg-id="horrorchannel.uk" tvg-name="UK: horror channel ᵘᵏ" group-title="ZALTEST-UK", UK: horror channel ᵘᵏ
-http://onlyallgood.com:8080/Worktvs/Worktvs/27789
-#EXTINF: -1 tvg-name="UK: sony movies xmas" group-title="ZALTEST-UK", UK: sony movies xmas
-http://onlyallgood.com:8080/Worktvs/Worktvs/28853
-#EXTINF: -1 tvg-id="fox.uk" tvg-name="UK FOX" group-title="ZALTEST-UK", UK FOX
-http://onlyallgood.com:8080/Worktvs/Worktvs/29056
-#EXTINF: -1 tvg-id="animalplanet.uk" tvg-name="UK: ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1024px-2018_Animal_Planet_logo.svg.png" group-title="ZALTEST-UK", UK: ANIMAL PLANET
-http://onlyallgood.com:8080/Worktvs/Worktvs/25094
-#EXTINF: -1 tvg-id="discoveryturbo.uk" tvg-name="UK: DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="ZALTEST-UK", UK: DISCOVERY TURBO
-http://onlyallgood.com:8080/Worktvs/Worktvs/25095
-#EXTINF: -1 tvg-id="discoveryshed.uk" tvg-name="UK: DISCOVERY SHED" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/01/channel-logo-discovery-shed.png" group-title="ZALTEST-UK", UK: DISCOVERY SHED
-http://onlyallgood.com:8080/Worktvs/Worktvs/25096
-#EXTINF: -1 tvg-id="discoveryscience.uk" tvg-name="UK: DISCOVERY SCIENCE" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="ZALTEST-UK", UK: DISCOVERY SCIENCE
-http://onlyallgood.com:8080/Worktvs/Worktvs/25097
-#EXTINF: -1 tvg-id="discoveryhistory.uk" tvg-name="UK: DISCOVERY HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="ZALTEST-UK", UK: DISCOVERY HISTORY
-http://onlyallgood.com:8080/Worktvs/Worktvs/25098
-#EXTINF: -1 tvg-id="discoverychannel.uk" tvg-name="UK: DISCOVERY" tvg-logo="https://casting.flashmode.tn/wp-content/uploads/2017/04/Mom-Squad-Docu-Series-Discovery-Channel-720x450.png" group-title="ZALTEST-UK", UK: DISCOVERY
-http://onlyallgood.com:8080/Worktvs/Worktvs/25099
-#EXTINF: -1 tvg-id="eden.uk" tvg-name="UK: EDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Eden_logo.png" group-title="ZALTEST-UK", UK: EDEN
-http://onlyallgood.com:8080/Worktvs/Worktvs/25100
-#EXTINF: -1 tvg-id="investigationdiscovery.uk" tvg-name="UK: INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="ZALTEST-UK", UK: INVESTIGATION DISCOVERY
-http://onlyallgood.com:8080/Worktvs/Worktvs/25101
-#EXTINF: -1 tvg-id="historychannel.uk" tvg-name="UK: HISTORY" tvg-logo="https://www.seekpng.com/png/detail/119-1193635_history-channel-logo-history-tv-logo-png.png" group-title="ZALTEST-UK", UK: HISTORY
-http://onlyallgood.com:8080/Worktvs/Worktvs/25102
-#EXTINF: -1 tvg-id="natgeowild.uk" tvg-name="UK: NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="ZALTEST-UK", UK: NAT GEO WILD
-http://onlyallgood.com:8080/Worktvs/Worktvs/25103
-#EXTINF: -1 tvg-id="natgeo.uk" tvg-name="UK: NAT GEO GRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="ZALTEST-UK", UK: NAT GEO GRAPHIC
-http://onlyallgood.com:8080/Worktvs/Worktvs/25104
-#EXTINF: -1 tvg-id="history2.uk" tvg-name="UK: H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="ZALTEST-UK", UK: H2
-http://onlyallgood.com:8080/Worktvs/Worktvs/25105
-#EXTINF: -1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK: CRIME INVESTIGATION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/1200px-C%26I_logo.svg.png" group-title="ZALTEST-UK", UK: CRIME INVESTIGATION
-http://onlyallgood.com:8080/Worktvs/Worktvs/25106
-#EXTINF: -1 tvg-id="skynature.uk" tvg-name="UK: SKY NATURE" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blta20d8a6ff8af7f17/5edfe08b444d25730a19f22a/Sky_Nature_PRIMARY_RGB.png" group-title="ZALTEST-UK", UK: SKY NATURE
-http://onlyallgood.com:8080/Worktvs/Worktvs/25262
-#EXTINF: -1 tvg-id="skydocumentaries.uk" tvg-name="UK: SKY DOCUMENTRIES" tvg-logo="https://media.info/i/lf/0/1590584669/7352.png" group-title="ZALTEST-UK", UK: SKY DOCUMENTRIES
-http://onlyallgood.com:8080/Worktvs/Worktvs/25263
-
-#EXTINF: -1 tvg-name="CBBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/CBBCLogo2007.svg/1280px-CBBCLogo2007.svg.png" group-title="ZALTEST-UK", CBBC HD
-http://onlyallgood.com:8080/Worktvs/Worktvs/6153
-#EXTINF: -1 tvg-name="CBeebies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png" group-title="ZALTEST-UK", CBeebies HD
-http://onlyallgood.com:8080/Worktvs/Worktvs/6154
-#EXTINF: -1 tvg-id="boomerang.uk" tvg-name="UK: BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="ZALTEST-UK", UK: BOOMERANG
-http://onlyallgood.com:8080/Worktvs/Worktvs/25127
-#EXTINF: -1 tvg-id="cartoonnetwork.uk" tvg-name="UK: CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png" group-title="ZALTEST-UK", UK: CARTOON NETWORK
-http://onlyallgood.com:8080/Worktvs/Worktvs/25128
-#EXTINF: -1 tvg-id="tinypop.uk" tvg-name="UK: TINY POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png" group-title="ZALTEST-UK", UK: TINY POP
-http://onlyallgood.com:8080/Worktvs/Worktvs/25129
-#EXTINF: -1 tvg-id="nicktoons.uk" tvg-name="UK: NICKTOONS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nicktoons.png" group-title="ZALTEST-UK", UK: NICKTOONS
-http://onlyallgood.com:8080/Worktvs/Worktvs/25130
-#EXTINF: -1 tvg-id="nickelodeon.uk" tvg-name="UK: NICKELODEON" tvg-logo="https://3.bp.blogspot.com/-CIasEl6KkvI/WeO8zf32yxI/AAAAAAAAz4Q/K7md0nnfvnwJq34BKhT8MnTu8zcDCEoXwCLcBGAs/s1600/nickelodeon-halloween-2017-logo-nick.png" group-title="ZALTEST-UK", UK: NICKELODEON
-http://onlyallgood.com:8080/Worktvs/Worktvs/25131
-#EXTINF: -1 tvg-id="nickjrtoo.uk" tvg-name="UK: NICK JR TOO" tvg-logo="https://1.bp.blogspot.com/-yvoR-oU5Ch0/VFkvaMEbpUI/AAAAAAAAalw/pa_Or7pjsBM/s1600/Nick-Jr-Too-Logo-RegularCapital-Nickelodeon-UK-Junior-2-Jnr.png" group-title="ZALTEST-UK", UK: NICK JR TOO
-http://onlyallgood.com:8080/Worktvs/Worktvs/25132
-#EXTINF: -1 tvg-id="nickjunior.uk" tvg-name="UK: NICK JR" tvg-logo="https://image.roku.com/developer_channels/prod/7c0ecfb80c92de157c9859626161de8817a3090beeb3c568529e268def79ac76.png" group-title="ZALTEST-UK", UK: NICK JR
-http://onlyallgood.com:8080/Worktvs/Worktvs/25133
-#EXTINF: -1 tvg-id="babytv.uk" tvg-name="UK: BABY TV" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/711GxHIIyOL.png" group-title="ZALTEST-UK", UK: BABY TV
-http://onlyallgood.com:8080/Worktvs/Worktvs/25134
-#EXTINF: -1 tvg-id="clublandtv.uk" tvg-name="UK: CLUBLAND" group-title="ZALTEST-UK", UK: CLUBLAND
-http://onlyallgood.com:8080/Worktvs/Worktvs/27495
-#EXTINF: -1 tvg-name="UK: NOW 70S" group-title="ZALTEST-UK", UK: NOW 70S
-http://onlyallgood.com:8080/Worktvs/Worktvs/27496
-#EXTINF: -1 tvg-id="now80s.uk" tvg-name="UK: NOW 80S" group-title="ZALTEST-UK", UK: NOW 80S
-http://onlyallgood.com:8080/Worktvs/Worktvs/25189
-#EXTINF: -1 tvg-id="now90s.uk" tvg-name="UK: NOW 90S" group-title="ZALTEST-UK", UK: NOW 90S
-http://onlyallgood.com:8080/Worktvs/Worktvs/25110
-#EXTINF: -1 tvg-id="mtvrocks.uk" tvg-name="UK: MTV ROCKS" group-title="ZALTEST-UK", UK: MTV ROCKS
-http://onlyallgood.com:8080/Worktvs/Worktvs/25111
-#EXTINF: -1 tvg-id="mtvmusic.uk" tvg-name="UK: MTV MUSIC" group-title="ZALTEST-UK", UK: MTV MUSIC
-http://onlyallgood.com:8080/Worktvs/Worktvs/25112
-#EXTINF: -1 tvg-id="mtvhits.uk" tvg-name="UK: MTV HITS" group-title="ZALTEST-UK", UK: MTV HITS
-http://onlyallgood.com:8080/Worktvs/Worktvs/25113
-#EXTINF: -1 tvg-id="mtvclassic.uk" tvg-name="UK: MTV CLASSICS" group-title="ZALTEST-UK", UK: MTV CLASSICS
-http://onlyallgood.com:8080/Worktvs/Worktvs/25115
-#EXTINF: -1 tvg-id="mtvbase.uk" tvg-name="UK: MTV BASE" group-title="ZALTEST-UK", UK: MTV BASE
-http://onlyallgood.com:8080/Worktvs/Worktvs/25116
-#EXTINF: -1 tvg-id="skypremiere.uk" tvg-name="UK | Sky Cinema Premier HD" group-title="ZALTEST-UK", UK | Sky Cinema Premier HD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26629
-#EXTINF: -1 tvg-id="skycomedy.uk" tvg-name="UK | Sky Cinema Comedy FHD" group-title="ZALTEST-UK", UK | Sky Cinema Comedy FHD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26630
-#EXTINF: -1 tvg-id="skyfamily.uk" tvg-name="UK | Sky Cinema Family FHD" group-title="ZALTEST-UK", UK | Sky Cinema Family FHD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26631
-#EXTINF: -1 tvg-id="skydisney.uk" tvg-name="UK | SKY Cinema Disney HD" group-title="ZALTEST-UK", UK | SKY Cinema Disney HD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26632
-#EXTINF: -1 tvg-id="skydrama.uk" tvg-name="UK | Sky Cinema Drama FHD" group-title="ZALTEST-UK", UK | Sky Cinema Drama FHD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26633
-#EXTINF: -1 tvg-id="skyaction.uk" tvg-name="UK | Sky Cinema Action FHD" group-title="ZALTEST-UK", UK | Sky Cinema Action FHD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26634
-#EXTINF: -1 tvg-id="skythriller.uk" tvg-name="UK | Sky Cinema Thriller FHD" group-title="ZALTEST-UK", UK | Sky Cinema Thriller FHD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26635
-#EXTINF: -1 tvg-id="skyselect.uk" tvg-name="UK | Sky Cinema Select HD" group-title="ZALTEST-UK", UK | Sky Cinema Select HD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26636
-#EXTINF: -1 tvg-id="skyhits.uk" tvg-name="UK | SKY Cinema Hits HD" group-title="ZALTEST-UK", UK | SKY Cinema Hits HD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26637
-#EXTINF: -1 tvg-id="skyscifihorror.uk" tvg-name="UK | Sky Cinema SciFi FHD" group-title="ZALTEST-UK", UK | Sky Cinema SciFi FHD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26638
-#EXTINF: -1 tvg-id="skygreats.uk" tvg-name="UK | Sky Cinema Greats FHD" group-title="ZALTEST-UK", UK | Sky Cinema Greats FHD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26639
-#EXTINF: -1 tvg-name="Sky Cinema Animation HD" group-title="ZALTEST-UK", Sky Cinema Animation HD
-http://onlyallgood.com:8080/Worktvs/Worktvs/27549
-#EXTINF: -1 tvg-name="UK: Disney+" group-title="ZALTEST-UK", UK: Disney+
-http://onlyallgood.com:8080/Worktvs/Worktvs/28856
-#EXTINF: -1 tvg-id="btsport1.uk" tvg-name="UK: BT SPORTS 1" tvg-logo="https://i.pinimg.com/originals/91/c1/84/91c1846b6eb2203ffbdbd9589c6ea8e9.png" group-title="ZALTEST-UK", UK: BT SPORTS 1
-http://onlyallgood.com:8080/Worktvs/Worktvs/25079
-#EXTINF: -1 tvg-id="btsport2.uk" tvg-name="UK: BT SPORTS 2" tvg-logo="https://2.bp.blogspot.com/-qp2285XrNX0/Ww_-9pVA3yI/AAAAAAAAGAc/nQjFmVV0xvc1lKJcICYzQ33FQrFRFl6QQCLcBGAs/s1600/images%2B%25287%2529.png" group-title="ZALTEST-UK", UK: BT SPORTS 2
-http://onlyallgood.com:8080/Worktvs/Worktvs/25080
-#EXTINF: -1 tvg-id="btsport3.uk" tvg-name="UK: BT SPORTS 3" tvg-logo="https://tvmannen.es/iptv_channels/2258133_files/btsport3hd.png" group-title="ZALTEST-UK", UK: BT SPORTS 3
-http://onlyallgood.com:8080/Worktvs/Worktvs/25081
-#EXTINF: -1 tvg-id="skysportsmainevent.uk" tvg-name="UK SKY SPORTS MAIN EVENT" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/09/SKY-SPORT-MAIN-EVENT-HD-636x358-1280x720.png" group-title="ZALTEST-UK", UK SKY SPORTS MAIN EVENT
-http://onlyallgood.com:8080/Worktvs/Worktvs/25082
-#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png" group-title="ZALTEST-UK", UK: SKY SPORTS CRICKET
-http://onlyallgood.com:8080/Worktvs/Worktvs/25083
-#EXTINF: -1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-action-logo.png" group-title="ZALTEST-UK", UK: SKY SPORTS ACTION
-http://onlyallgood.com:8080/Worktvs/Worktvs/25084
-#EXTINF: -1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/1280px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="ZALTEST-UK", UK: SKY SPORTS GOLF
-http://onlyallgood.com:8080/Worktvs/Worktvs/25085
-#EXTINF: -1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="ZALTEST-UK", UK: SKY SPORTS PREMIER LEAGUE
-http://onlyallgood.com:8080/Worktvs/Worktvs/25086
-#EXTINF: -1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS ARENA" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6753.1507600420.png" group-title="ZALTEST-UK", UK: SKY SPORTS ARENA
-http://onlyallgood.com:8080/Worktvs/Worktvs/25087
-#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6752.1507600241.png" group-title="ZALTEST-UK", UK: SKY SPORTS FOOTBALL
-http://onlyallgood.com:8080/Worktvs/Worktvs/25088
-#EXTINF: -1 tvg-id="skysportsf1.uk" tvg-name="UK: SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png" group-title="ZALTEST-UK", UK: SPORTS F1
-http://onlyallgood.com:8080/Worktvs/Worktvs/25089
-#EXTINF: -1 tvg-id="skysportsmix.uk" tvg-name="UK: SKY SPORTS MIX" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Mix_logo.png" group-title="ZALTEST-UK", UK: SKY SPORTS MIX
-http://onlyallgood.com:8080/Worktvs/Worktvs/25090
-#EXTINF: -1 tvg-id="skysportsracing.uk" tvg-name="UK: SKY SPORTS RACING" tvg-logo="https://media.info/i/lf/0/1546303327/1161.png" group-title="ZALTEST-UK", UK: SKY SPORTS RACING
-http://onlyallgood.com:8080/Worktvs/Worktvs/25091
-#EXTINF: -1 tvg-id="racinguk.uk" tvg-name="UK: RACING UK" tvg-logo="https://tauntonracecourse.co.uk/wp-content/uploads/2017/11/racing-uk-logo-v2.png" group-title="ZALTEST-UK", UK: RACING UK
-http://onlyallgood.com:8080/Worktvs/Worktvs/25092
-#EXTINF: -1 tvg-id="skysportsnews.uk" tvg-name="UK: SPORTS NEWS" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="ZALTEST-UK", UK: SPORTS NEWS
-http://onlyallgood.com:8080/Worktvs/Worktvs/25093
-#EXTINF: -1 tvg-id="eurosport1.uk" tvg-name="UK: EUROSPORTS 1" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="ZALTEST-UK", UK: EUROSPORTS 1
-http://onlyallgood.com:8080/Worktvs/Worktvs/25190
-#EXTINF: -1 tvg-id="eurosport2.uk" tvg-name="UK: EUROSPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title="ZALTEST-UK", UK: EUROSPORTS 2
-http://onlyallgood.com:8080/Worktvs/Worktvs/25191
-#EXTINF: -1 tvg-id="premiersports.uk" tvg-name="UK: PREMIER SPORTS 1" tvg-logo="https://sport-tv-guide.live/images/stations/a95.png" group-title="ZALTEST-UK", UK: PREMIER SPORTS 1
-http://onlyallgood.com:8080/Worktvs/Worktvs/25192
-#EXTINF: -1 tvg-name="UK: PREMIER SPORTS 2" tvg-logo="https://sport-tv-guide.live/images/stations/a1442.png" group-title="ZALTEST-UK", UK: PREMIER SPORTS 2
-http://onlyallgood.com:8080/Worktvs/Worktvs/25193
-#EXTINF: -1 tvg-name="UK: MUTV" group-title="ZALTEST-UK", UK: MUTV
-http://onlyallgood.com:8080/Worktvs/Worktvs/26173
-#EXTINF: -1 tvg-name="UK: LFC" group-title="ZALTEST-UK", UK: LFC
-http://onlyallgood.com:8080/Worktvs/Worktvs/26174
-#EXTINF: -1 tvg-name="WWE" group-title="ZALTEST-UK", WWE
-http://onlyallgood.com:8080/Worktvs/Worktvs/26176
-#EXTINF: -1 tvg-name="FIGHT BOX" group-title="ZALTEST-UK", FIGHT BOX
-http://onlyallgood.com:8080/Worktvs/Worktvs/26177
-#EXTINF: -1 tvg-name="Freesports HD" group-title="ZALTEST-UK", Freesports HD
-http://onlyallgood.com:8080/Worktvs/Worktvs/26641
-#EXTINF: -1 tvg-name="UFC Fight Pass" group-title="ZALTEST-UK", UFC Fight Pass
-http://onlyallgood.com:8080/Worktvs/Worktvs/26896
-#EXTINF: -1 tvg-name="rangers tv" group-title="ZALTEST-UK", rangers tv
-http://onlyallgood.com:8080/Worktvs/Worktvs/27813
-#EXTINF: -1 tvg-name="NRL 24/7" group-title="ZALTEST-UK", NRL 24/7
-http://onlyallgood.com:8080/Worktvs/Worktvs/28929
-#EXTINF: -1 tvg-id="boxnation.uk" tvg-name="Boxnation " group-title="ZALTEST-UK", Boxnation
-http://onlyallgood.com:8080/Worktvs/Worktvs/29069
 
 ### ZALCODE SPORT ###
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="ZALCODE-SPORT",BeIN Sport 1
@@ -729,8 +292,6 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 #EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
 #EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Fight Plus
 https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
 #EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",FIGHT TIME
@@ -761,18 +322,6 @@ http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
 #EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel (UHD)
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 2
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 3
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 4
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 5
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 6
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 #EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",ESPN U
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Outside TV
@@ -786,32 +335,33 @@ https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 
 ### ZAKLCODE 2 SPORT ##
 
-#EXTINF:-1 tvg-id="" tvg-name="Supersports 1 backup" tvg-logo="" group-title="ZALCODE-SPORT2,Supersports 1 backup
+
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 1 backup" tvg-logo=" group-title="ZALCODE-SPORT2",Supersports 1 
 http://tv.wakds.xyz:8080/tangyuan/12345678/120
-#EXTINF:-1 tvg-id="" tvg-name="Supersports 2 backup" tvg-logo="" group-title="ZALCODE-SPORT2,Supersports 2 backup
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 2 backup" tvg-logo=" group-title="ZALCODE-SPORT2",Supersports 2 
 http://tv.wakds.xyz:8080/tangyuan/12345678/121
-#EXTINF:-1 tvg-id="" tvg-name="Supersports 3 backup" tvg-logo="" group-title="ZALCODE-SPORT2,Supersports 3 backup
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 3 backup" tvg-logo=" group-title="ZALCODE-SPORT2",Supersports 3 
 http://tv.wakds.xyz:8080/tangyuan/12345678/122
-#EXTINF:-1 tvg-id="" tvg-name="Supersports 4 backup" tvg-logo="" group-title="ZALCODE-SPORT2,Supersports 4 backup
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 4 backup" tvg-logo=" group-title="ZALCODE-SPORT2",Supersports 4 
 http://tv.wakds.xyz:8080/tangyuan/12345678/123
-#EXTINF:-1 tvg-id="" tvg-name="BeIN 1 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 1 Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 1 Sports HD" tvg-logo=" group-title="ZALCODE-SPORT2",BeIN 1 Sports HD
 http://tv.wakds.xyz:8080/tangyuan/12345678/132
-#EXTINF:-1 tvg-id="" tvg-name="BeIN 12 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 12 Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 12 Sports HD" tvg-logo=" group-title="ZALCODE-SPORT2",BeIN 12 Sports HD
 http://tv.wakds.xyz:8080/tangyuan/12345678/142
-#EXTINF:-1 tvg-id="" tvg-name="BeIN 13 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 13 Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 13 Sports HD" tvg-logo=" group-title="ZALCODE-SPORT2",BeIN 13 Sports HD
 http://tv.wakds.xyz:8080/tangyuan/12345678/143
-#EXTINF:-1 tvg-id="" tvg-name="BeIN 2 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 2 Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 2 Sports HD" tvg-logo=" group-title="ZALCODE-SPORT2",BeIN 2 Sports HD
 http://tv.wakds.xyz:8080/tangyuan/12345678/133
-#EXTINF:-1 tvg-id="" tvg-name="BeIN 3 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 3 Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 3 Sports HD" tvg-logo=" group-title="ZALCODE-SPORT2",BeIN 3 Sports HD
 http://tv.wakds.xyz:8080/tangyuan/12345678/134
-#EXTINF:-1 tvg-id="" tvg-name="BeIN 7 Sports HD" tvg-logo="" group-title="ZALCODE-SPORT2,BeIN 7 Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 7 Sports HD" tvg-logo=" group-title="ZALCODE-SPORT2",BeIN 7 Sports HD
 http://tv.wakds.xyz:8080/tangyuan/12345678/137
 
-#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="ZALCODE-SPORT2,Alda Sports 1
+#EXTINF:-1 tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="ZALCODE-SPORT2",Alda Sports 1
 http://tv.wakds.xyz:8080/tangyuan/12345678/92
-#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="ZALCODE-SPORT2,Alda Sports 2
+#EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="ZALCODE-SPORT2",Alda Sports 2
 http://tv.wakds.xyz:8080/tangyuan/12345678/93
-#EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="ZALCODE-SPORT2,Alda Sports 3
+#EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="ZALCODE-SPORT2",Alda Sports 3
 http://tv.wakds.xyz:8080/tangyuan/12345678/144
 
 #EXTINF:-1 tvg-logo="http://yacinelive.com/YacineTV_New/beIN/NEWS.png?cdy=8.8.8.8" group-title="ZALCODE-SPORT2", beIN News HD
@@ -901,746 +451,714 @@ http://onlyallgood.com:8080/Worktvs/Worktvs/27813
 #EXTINF: -1 tvg-name="NRL 24/7" group-title="ZALCODE-SPORT2", NRL 24/7
 http://onlyallgood.com:8080/Worktvs/Worktvs/28929
 
-##SPORT TEST ##
- 
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 1" group-title="Sports-TEST", SP: SPORT KLUB 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/39
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 2" group-title="Sports-TEST", SP: SPORT KLUB 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/40
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 3" group-title="Sports-TEST", SP: SPORT KLUB 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/41
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 4" group-title="Sports-TEST", SP: SPORT KLUB 4
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/431
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 5" group-title="Sports-TEST", SP: SPORT KLUB 5
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/432
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 6" group-title="Sports-TEST", SP: SPORT KLUB 6
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/433
-#EXTINF: -1 tvg-name="SP: DIGI SPORT 1" group-title="Sports-TEST", SP: DIGI SPORT 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/434
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 1 NL" group-title="Sports-TEST", SP: FOX SPORTS 1 NL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/435
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 2 NL" group-title="Sports-TEST", SP: FOX SPORTS 2 NL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/436
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORTS 1 HD PT" group-title="Sports-TEST", SP: ELEVEN SPORTS 1 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/485
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORTS 2 HD PT" group-title="Sports-TEST", SP: ELEVEN SPORTS 2 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/488
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORTS 3 HD PT" group-title="Sports-TEST", SP: ELEVEN SPORTS 3 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/490
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORTS 4 HD PT" group-title="Sports-TEST", SP: ELEVEN SPORTS 4 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/493
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORTS 5 HD PT" group-title="Sports-TEST", SP: ELEVEN SPORTS 5 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/494
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORTS 6 HD PT" group-title="Sports-TEST", SP: ELEVEN SPORTS 6 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/495
-#EXTINF: -1 tvg-name="SP: SPORT TV 1 HD PT" group-title="Sports-TEST", SP: SPORT TV 1 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/496
-#EXTINF: -1 tvg-name="SP: SPORT TV 2 HD PT" group-title="Sports-TEST", SP: SPORT TV 2 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/497
-#EXTINF: -1 tvg-name="SP: SPORT TV 3 HD PT" group-title="Sports-TEST", SP: SPORT TV 3 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/499
-#EXTINF: -1 tvg-name="SP: SPORT TV 4 HD PT" group-title="Sports-TEST", SP: SPORT TV 4 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/502
-#EXTINF: -1 tvg-name="SP: SPORT TV 5 HD PT" group-title="Sports-TEST", SP: SPORT TV 5 HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/514
-#EXTINF: -1 tvg-name="SP: RMC Sport 1 HD" group-title="Sports-TEST", SP: RMC Sport 1 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/516
-#EXTINF: -1 tvg-name="SP: RMC Sport 2 HD" group-title="Sports-TEST", SP: RMC Sport 2 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/517
-#EXTINF: -1 tvg-name="SP: RMC Sport 3 HD" group-title="Sports-TEST", SP: RMC Sport 3 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/518
-#EXTINF: -1 tvg-name="SP: RMC Sport 4 HD" group-title="Sports-TEST", SP: RMC Sport 4 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/519
-#EXTINF: -1 tvg-name="SP: RMC Sport 5 HD" group-title="Sports-TEST", SP: RMC Sport 5 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/521
-#EXTINF: -1 tvg-name="SP: RMC Sport 6 HD" group-title="Sports-TEST", SP: RMC Sport 6 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/522
-#EXTINF: -1 tvg-name="SP: RMC Sport 7 HD" group-title="Sports-TEST", SP: RMC Sport 7 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/523
-#EXTINF: -1 tvg-name="SP: RMC Sport 8 HD" group-title="Sports-TEST", SP: RMC Sport 8 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/524
-#EXTINF: -1 tvg-name="SP: RMC Sport 10 HD" group-title="Sports-TEST", SP: RMC Sport 10 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/525
-#EXTINF: -1 tvg-name="SP: TELEKOM SPORT 1 RO" group-title="Sports-TEST", SP: TELEKOM SPORT 1 RO
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/526
-#EXTINF: -1 tvg-name="SP: TELEKOM SPORT 2 RO" group-title="Sports-TEST", SP: TELEKOM SPORT 2 RO
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/527
-#EXTINF: -1 tvg-name="SP: TELEKOM SPORT 3 RO" group-title="Sports-TEST", SP: TELEKOM SPORT 3 RO
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/529
-#EXTINF: -1 tvg-name="SP: TELEKOM SPORT 4 RO" group-title="Sports-TEST", SP: TELEKOM SPORT 4 RO
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/530
-#EXTINF: -1 tvg-name="SP: DIGI SPORT 2" group-title="Sports-TEST", SP: DIGI SPORT 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/535
-#EXTINF: -1 tvg-name="SP: DIGI SPORT 3" group-title="Sports-TEST", SP: DIGI SPORT 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/537
-#EXTINF: -1 tvg-name="SP: DIGI SPORT 4" group-title="Sports-TEST", SP: DIGI SPORT 4
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/539
-#EXTINF: -1 tvg-name="SP: SPORT TV + HD PT" group-title="Sports-TEST", SP: SPORT TV + HD PT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/504
-#EXTINF: -1 tvg-name="SP: POLSAT SPORT HD" group-title="Sports-TEST", SP: POLSAT SPORT HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/550
-#EXTINF: -1 tvg-name="SP: POLSAT SPORT FIGHT HD" group-title="Sports-TEST", SP: POLSAT SPORT FIGHT HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/551
-#EXTINF: -1 tvg-name="SP: EUROSPORT 1 PL" group-title="Sports-TEST", SP: EUROSPORT 1 PL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/552
-#EXTINF: -1 tvg-name="SP: EUROSPORT 2 PL" group-title="Sports-TEST", SP: EUROSPORT 2 PL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/553
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 1 TR" group-title="Sports-TEST", SP: BEIN SPORT 1 TR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/583
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 2 TR" group-title="Sports-TEST", SP: BEIN SPORT 2 TR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/584
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 3 TR" group-title="Sports-TEST", SP: BEIN SPORT 3 TR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/585
-#EXTINF: -1 tvg-name="SP: TIVIBU SPORT 1" group-title="Sports-TEST", SP: TIVIBU SPORT 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/586
-#EXTINF: -1 tvg-name="SP: TIVIBU SPORT 3" group-title="Sports-TEST", SP: TIVIBU SPORT 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/587
-#EXTINF: -1 tvg-name="SP: SMART SPORT TR" group-title="Sports-TEST", SP: SMART SPORT TR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/588
-#EXTINF: -1 tvg-name="SP: EUROSPORT 1 TR" group-title="Sports-TEST", SP: EUROSPORT 1 TR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/589
-#EXTINF: -1 tvg-name="SP: EUROSPORT 2 TR" group-title="Sports-TEST", SP: EUROSPORT 2 TR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/590
-#EXTINF: -1 tvg-name="SP: A SPOR HD" group-title="Sports-TEST", SP: A SPOR HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/591
-#EXTINF: -1 tvg-name="SP: SUPERSPORT 1 HD" group-title="Sports-TEST", SP: SUPERSPORT 1 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/603
-#EXTINF: -1 tvg-name="SP: SUPERSPORT PSL" group-title="Sports-TEST", SP: SUPERSPORT PSL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/604
-#EXTINF: -1 tvg-name="SP: SUPERSPORT PREMIER LEAGUE" group-title="Sports-TEST", SP: SUPERSPORT PREMIER LEAGUE
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/605
-#EXTINF: -1 tvg-name="SP: SUPERSPORT GRANDSTAND" group-title="Sports-TEST", SP: SUPERSPORT GRANDSTAND
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/606
-#EXTINF: -1 tvg-name="SP: SUPERSPORT VARIETY 2" group-title="Sports-TEST", SP: SUPERSPORT VARIETY 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/607
-#EXTINF: -1 tvg-name="SP: SUPERSPORT VARIETY 1" group-title="Sports-TEST", SP: SUPERSPORT VARIETY 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/608
-#EXTINF: -1 tvg-name="SP: SUPERSPORT ACTION" group-title="Sports-TEST", SP: SUPERSPORT ACTION
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/609
-#EXTINF: -1 tvg-name="SP: SUPERSPORT FOOTBALL" group-title="Sports-TEST", SP: SUPERSPORT FOOTBALL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/610
-#EXTINF: -1 tvg-name="SP: SUPERSPORT VARIETY 4" group-title="Sports-TEST", SP: SUPERSPORT VARIETY 4
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/611
-#EXTINF: -1 tvg-name="SP: SUPERSPORT VARIETY 3" group-title="Sports-TEST", SP: SUPERSPORT VARIETY 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/612
-#EXTINF: -1 tvg-name="SP: SUPERSPORT RUGBY" group-title="Sports-TEST", SP: SUPERSPORT RUGBY
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/613
-#EXTINF: -1 tvg-name="SP: SUPERSPORT CRICKET" group-title="Sports-TEST", SP: SUPERSPORT CRICKET
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/614
-#EXTINF: -1 tvg-name="SP: ESPN US" group-title="Sports-TEST", SP: ESPN US
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/650
-#EXTINF: -1 tvg-name="SP: ESPN 2 US" group-title="Sports-TEST", SP: ESPN 2 US
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/651
-#EXTINF: -1 tvg-name="SP: TSN 1" group-title="Sports-TEST", SP: TSN 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/652
-#EXTINF: -1 tvg-name="SP: TSN 2" group-title="Sports-TEST", SP: TSN 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/653
-#EXTINF: -1 tvg-name="SP: TSN 3" group-title="Sports-TEST", SP: TSN 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/654
-#EXTINF: -1 tvg-name="SP: TSN 4" group-title="Sports-TEST", SP: TSN 4
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/655
-#EXTINF: -1 tvg-name="SP: TSN 5" group-title="Sports-TEST", SP: TSN 5
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/656
-#EXTINF: -1 tvg-name="SP: NTV FOOTBALL 2 RU" group-title="Sports-TEST", SP: NTV FOOTBALL 2 RU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/700
-#EXTINF: -1 tvg-name="SP: NTV FOOTBALL 3 RU" group-title="Sports-TEST", SP: NTV FOOTBALL 3 RU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/701
-#EXTINF: -1 tvg-name="SP: MATCH! RU" group-title="Sports-TEST", SP: MATCH! RU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/702
-#EXTINF: -1 tvg-name="SP: NASH FOOTBALL RU" group-title="Sports-TEST", SP: NASH FOOTBALL RU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/703
-#EXTINF: -1 tvg-name="SP: POLSAT SPORT PREMIUM 1" group-title="Sports-TEST", SP: POLSAT SPORT PREMIUM 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/704
-#EXTINF: -1 tvg-name="SP: SKY SPORTS NEWS UK" group-title="Sports-TEST", SP: SKY SPORTS NEWS UK
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/649
-#EXTINF: -1 tvg-name="SP: POLSAT SPORT PREMIUM 2" group-title="Sports-TEST", SP: POLSAT SPORT PREMIUM 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/705
-#EXTINF: -1 tvg-name="SP: POLSAT SPORT PREMIUM 3" group-title="Sports-TEST", SP: POLSAT SPORT PREMIUM 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/706
-#EXTINF: -1 tvg-name="SP: POLSAT SPORT PREMIUM 4" group-title="Sports-TEST", SP: POLSAT SPORT PREMIUM 4
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/707
-#EXTINF: -1 tvg-name="SP: POLSAT SPORT PREMIUM 5" group-title="Sports-TEST", SP: POLSAT SPORT PREMIUM 5
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/708
-#EXTINF: -1 tvg-name="SP: POLSAT SPORT PREMIUM 6" group-title="Sports-TEST", SP: POLSAT SPORT PREMIUM 6
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/709
-#EXTINF: -1 tvg-name="SP: CANAL+ SPORT PL" group-title="Sports-TEST", SP: CANAL+ SPORT PL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/713
-#EXTINF: -1 tvg-name="SP: CANAL+ SPORT 2 PL" group-title="Sports-TEST", SP: CANAL+ SPORT 2 PL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/714
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 3 NL" group-title="Sports-TEST", SP: FOX SPORTS 3 NL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/715
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 4 NL" group-title="Sports-TEST", SP: FOX SPORTS 4 NL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/716
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 5 NL" group-title="Sports-TEST", SP: FOX SPORTS 5 NL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/717
-#EXTINF: -1 tvg-name="SP: Willow Cricket HD" group-title="Sports-TEST", SP: Willow Cricket HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/771
-#EXTINF: -1 tvg-name="SP: ZIGGO SELECT NL" group-title="Sports-TEST", SP: ZIGGO SELECT NL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/808
-#EXTINF: -1 tvg-name="SP: ZIGGO VOETBAL NL" group-title="Sports-TEST", SP: ZIGGO VOETBAL NL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/809
-#EXTINF: -1 tvg-name="SP: CANAL GOLF ES" group-title="Sports-TEST", SP: CANAL GOLF ES
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/845
-#EXTINF: -1 tvg-name="SP: CANAL LALIGA ES" group-title="Sports-TEST", SP: CANAL LALIGA ES
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/846
-#EXTINF: -1 tvg-name="SP: CANAL DEPORTES ES" group-title="Sports-TEST", SP: CANAL DEPORTES ES
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/847
-#EXTINF: -1 tvg-name="SP: CANAL FOOTBALL" group-title="Sports-TEST", SP: CANAL FOOTBALL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/848
-#EXTINF: -1 tvg-name="SP: GOL TV ES" group-title="Sports-TEST", SP: GOL TV ES
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/849
-#EXTINF: -1 tvg-name="SP: CANAL FORMULA 1" group-title="Sports-TEST", SP: CANAL FORMULA 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/850
-#EXTINF: -1 tvg-name="SP: BARCA TV ES" group-title="Sports-TEST", SP: BARCA TV ES
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/851
-#EXTINF: -1 tvg-name="SP: REAL MADRID ES" group-title="Sports-TEST", SP: REAL MADRID ES
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/852
-#EXTINF: -1 tvg-name="SP: LALIGA BAR ES" group-title="Sports-TEST", SP: LALIGA BAR ES
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/853
-#EXTINF: -1 tvg-name="SP: ARENA SPORT 1 SR" group-title="Sports-TEST", SP: ARENA SPORT 1 SR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/859
-#EXTINF: -1 tvg-name="SP: ARENA SPORT 2 SR" group-title="Sports-TEST", SP: ARENA SPORT 2 SR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/860
-#EXTINF: -1 tvg-name="SP: ARENA SPORT 3 SR" group-title="Sports-TEST", SP: ARENA SPORT 3 SR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/861
-#EXTINF: -1 tvg-name="SP: ARENA SPORT 4 SR" group-title="Sports-TEST", SP: ARENA SPORT 4 SR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/862
-#EXTINF: -1 tvg-name="SP: ARENA SPORT 5 SR" group-title="Sports-TEST", SP: ARENA SPORT 5 SR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/863
-#EXTINF: -1 tvg-name="SP: ZIGGO RACING" group-title="Sports-TEST", SP: ZIGGO RACING
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/879
-#EXTINF: -1 tvg-name="SP: ZIGGO GOLF" group-title="Sports-TEST", SP: ZIGGO GOLF
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/880
-#EXTINF: -1 tvg-name="SP: ZIGGO DOCU" group-title="Sports-TEST", SP: ZIGGO DOCU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/881
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 6 NL" group-title="Sports-TEST", SP: FOX SPORTS 6 NL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/882
-#EXTINF: -1 tvg-name="SP: SPORT ITALIA IT" group-title="Sports-TEST", SP: SPORT ITALIA IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/906
-#EXTINF: -1 tvg-name="SP: EUROSPORT 1 IT" group-title="Sports-TEST", SP: EUROSPORT 1 IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/907
-#EXTINF: -1 tvg-name="SP: SKY SPORT 24" group-title="Sports-TEST", SP: SKY SPORT 24
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/908
-#EXTINF: -1 tvg-name="SP: SKY SPORT MOTOGP IT" group-title="Sports-TEST", SP: SKY SPORT MOTOGP IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/909
-#EXTINF: -1 tvg-name="SP: SKY SPORT UNO IT" group-title="Sports-TEST", SP: SKY SPORT UNO IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/910
-#EXTINF: -1 tvg-name="SP: SKY SPORT FOOTBALL IT" group-title="Sports-TEST", SP: SKY SPORT FOOTBALL IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/911
-#EXTINF: -1 tvg-name="SP: SKY SPORT NBA IT" group-title="Sports-TEST", SP: SKY SPORT NBA IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/912
-#EXTINF: -1 tvg-name="SP: SKY SPORT SERIE A IT" group-title="Sports-TEST", SP: SKY SPORT SERIE A IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/913
-#EXTINF: -1 tvg-name="SP: SUPERSPORT 1 AL" group-title="Sports-TEST", SP: SUPERSPORT 1 AL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/919
-#EXTINF: -1 tvg-name="SP: SUPERSPORT 2 AL" group-title="Sports-TEST", SP: SUPERSPORT 2 AL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/920
-#EXTINF: -1 tvg-name="SP: SUPERSPORT 3 AL" group-title="Sports-TEST", SP: SUPERSPORT 3 AL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/921
-#EXTINF: -1 tvg-name="SP: SUPERSPORT 4 AL" group-title="Sports-TEST", SP: SUPERSPORT 4 AL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/922
-#EXTINF: -1 tvg-name="SP: SUPERSPORT 5 AL" group-title="Sports-TEST", SP: SUPERSPORT 5 AL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/923
-#EXTINF: -1 tvg-name="FR: EUROSPORT 1 FR" group-title="Sports-TEST", FR: EUROSPORT 1 FR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/955
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 1 FR" group-title="Sports-TEST", SP: BEIN SPORT 1 FR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/956
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 2 FR" group-title="Sports-TEST", SP: BEIN SPORT 2 FR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/957
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 3 FR" group-title="Sports-TEST", SP: BEIN SPORT 3 FR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/958
-#EXTINF: -1 tvg-name="SP: INFOSPORT FR" group-title="Sports-TEST", SP: INFOSPORT FR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/959
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 1 AR" group-title="Sports-TEST", SP: BEIN SPORT 1 AR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/967
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 2 AR" group-title="Sports-TEST", SP: BEIN SPORT 2 AR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/968
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 3 AR" group-title="Sports-TEST", SP: BEIN SPORT 3 AR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/969
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 4 AR" group-title="Sports-TEST", SP: BEIN SPORT 4 AR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/970
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 5 AR" group-title="Sports-TEST", SP: BEIN SPORT 5 AR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/971
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 6 AR" group-title="Sports-TEST", SP: BEIN SPORT 6 AR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/972
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 7 AR" group-title="Sports-TEST", SP: BEIN SPORT 7 AR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/973
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 8 AR" group-title="Sports-TEST", SP: BEIN SPORT 8 AR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/974
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 9 AR" group-title="Sports-TEST", SP: BEIN SPORT 9 AR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/975
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 10 AR" group-title="Sports-TEST", SP: BEIN SPORT 10 AR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/976
-#EXTINF: -1 tvg-name="SP: NFL NETWORK" group-title="Sports-TEST", SP: NFL NETWORK
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/993
-#EXTINF: -1 tvg-name="SP: MLB NETWORK" group-title="Sports-TEST", SP: MLB NETWORK
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/994
-#EXTINF: -1 tvg-name="SP: NHL NETWORK" group-title="Sports-TEST", SP: NHL NETWORK
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/995
-#EXTINF: -1 tvg-name="SP: STAR SPORTS 1 IN" group-title="Sports-TEST", SP: STAR SPORTS 1 IN
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1032
-#EXTINF: -1 tvg-name="AR: beIN Sports 12 HD" group-title="Sports-TEST", AR: beIN Sports 12 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1067
-#EXTINF: -1 tvg-name="AR: beIN Sports 13 HD" group-title="Sports-TEST", AR: beIN Sports 13 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1068
-#EXTINF: -1 tvg-name="AR: beIN Sports 14 HD" group-title="Sports-TEST", AR: beIN Sports 14 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1070
-#EXTINF: -1 tvg-name="SP: SKY SPORT 1 DE" group-title="Sports-TEST", SP: SKY SPORT 1 DE
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1078
-#EXTINF: -1 tvg-name="SP: SKY SPORT 2 DE" group-title="Sports-TEST", SP: SKY SPORT 2 DE
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1079
-#EXTINF: -1 tvg-name="DE: SKY SPORT NEWS DE" group-title="Sports-TEST", DE: SKY SPORT NEWS DE
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1081
-#EXTINF: -1 tvg-name="SP: DAZN 1 DE" group-title="Sports-TEST", SP: DAZN 1 DE
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1082
-#EXTINF: -1 tvg-name="SP: FC BAYERN MUNCHEN DE" group-title="Sports-TEST", SP: FC BAYERN MUNCHEN DE
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1083
-#EXTINF: -1 tvg-name="SP: LAZIO CHANNEL IT" group-title="Sports-TEST", SP: LAZIO CHANNEL IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1084
-#EXTINF: -1 tvg-name="SP: ROMA CHANNEL IT" group-title="Sports-TEST", SP: ROMA CHANNEL IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1085
-#EXTINF: -1 tvg-name="SP: SKY SPORT 24 IT" group-title="Sports-TEST", SP: SKY SPORT 24 IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1086
-#EXTINF: -1 tvg-name="SP: Super Sport MaXimo" group-title="Sports-TEST", SP: Super Sport MaXimo
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1108
-#EXTINF: -1 tvg-name="SP: Super Sport Blitz" group-title="Sports-TEST", SP: Super Sport Blitz
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1109
-#EXTINF: -1 tvg-name="SP: Arena Sport 1 HR" group-title="Sports-TEST", SP: Arena Sport 1 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1111
-#EXTINF: -1 tvg-name="SP: Arena Sport 2 HR" group-title="Sports-TEST", SP: Arena Sport 2 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1112
-#EXTINF: -1 tvg-name="SP: Arena Sport 3 HR" group-title="Sports-TEST", SP: Arena Sport 3 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1113
-#EXTINF: -1 tvg-name="SP: Arena Sport 4 HR" group-title="Sports-TEST", SP: Arena Sport 4 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1114
-#EXTINF: -1 tvg-name="SP: Arena Sport 5 HR" group-title="Sports-TEST", SP: Arena Sport 5 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1115
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 4 TR" group-title="Sports-TEST", SP: BEIN SPORT 4 TR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1116
-#EXTINF: -1 tvg-name="SP: TIVIBU SPORT 2" group-title="Sports-TEST", SP: TIVIBU SPORT 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1117
-#EXTINF: -1 tvg-name="SP: NBCSN HD" group-title="Sports-TEST", SP: NBCSN HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1171
-#EXTINF: -1 tvg-name="SP: TEN SP PK" group-title="Sports-TEST", SP: TEN SP PK
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1176
-#EXTINF: -1 tvg-name="SP: SPORT 2 HUNGARY" group-title="Sports-TEST", SP: SPORT 2 HUNGARY
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1177
-#EXTINF: -1 tvg-name="SP: CANAL+ SPORT FR" group-title="Sports-TEST", SP: CANAL+ SPORT FR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1178
-#EXTINF: -1 tvg-name="SP: ZIGGO SPORT EXTRA" group-title="Sports-TEST", SP: ZIGGO SPORT EXTRA
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1179
-#EXTINF: -1 tvg-name="SP: DIGI SPORT 3 HU" group-title="Sports-TEST", SP: DIGI SPORT 3 HU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1180
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 501 HD" group-title="Sports-TEST", SP: FOX SPORTS 501 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1183
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 507 HD" group-title="Sports-TEST", SP: FOX SPORTS 507 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1184
-#EXTINF: -1 tvg-name="SP: TRT SPOR" group-title="Sports-TEST", SP: TRT SPOR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1186
-#EXTINF: -1 tvg-name="SP: DIEMA SPORT" group-title="Sports-TEST", SP: DIEMA SPORT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1187
-#EXTINF: -1 tvg-name="SP: DIEMA SPORT 2" group-title="Sports-TEST", SP: DIEMA SPORT 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1188
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORT 1 BL" group-title="Sports-TEST", SP: ELEVEN SPORT 1 BL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1189
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORT 2 BL" group-title="Sports-TEST", SP: ELEVEN SPORT 2 BL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1190
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORT 3 BL" group-title="Sports-TEST", SP: ELEVEN SPORT 3 BL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1191
-#EXTINF: -1 tvg-name="SP: CBC SPORT AZERBAIJAN" group-title="Sports-TEST", SP: CBC SPORT AZERBAIJAN
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1192
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 1 US" group-title="Sports-TEST", SP: FOX SPORTS 1 US
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1193
-#EXTINF: -1 tvg-name="SP: SKY SPORTS COLLECTION IT" group-title="Sports-TEST", SP: SKY SPORTS COLLECTION IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1208
-#EXTINF: -1 tvg-name="SP: NTV FOOTBALL 1 RU" group-title="Sports-TEST", SP: NTV FOOTBALL 1 RU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1209
-#EXTINF: -1 tvg-name="SP: SETANTA SPORT" group-title="Sports-TEST", SP: SETANTA SPORT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1210
-#EXTINF: -1 tvg-name="SP: LIVERPOOL FC " group-title="Sports-TEST", SP: LIVERPOOL FC
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1211
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 2 US" group-title="Sports-TEST", SP: FOX SPORTS 2 US
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1284
-#EXTINF: -1 tvg-name="SP: TELEFOOT HD" group-title="Sports-TEST", SP: TELEFOOT HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1297
-#EXTINF: -1 tvg-name="SP: TELEFOOT STADIUM 1" group-title="Sports-TEST", SP: TELEFOOT STADIUM 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1298
-#EXTINF: -1 tvg-name="SP: TELEFOOT STADIUM 4" group-title="Sports-TEST", SP: TELEFOOT STADIUM 4
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1301
-#EXTINF: -1 tvg-name="SP: TELEFOOT STADIUM 3" group-title="Sports-TEST", SP: TELEFOOT STADIUM 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1300
-#EXTINF: -1 tvg-name="SP: TELEFOOT STADIUM 2" group-title="Sports-TEST", SP: TELEFOOT STADIUM 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1299
-#EXTINF: -1 tvg-name="SP:: TELEFOOT STADIUM 5" group-title="Sports-TEST", SP:: TELEFOOT STADIUM 5
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1302
-#EXTINF: -1 tvg-name="SP: DIGI SPORT 2 HU" group-title="Sports-TEST", SP: DIGI SPORT 2 HU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1336
-#EXTINF: -1 tvg-name="SP: DIGI SPORT 1 HU" group-title="Sports-TEST", SP: DIGI SPORT 1 HU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1337
-#EXTINF: -1 tvg-name="SP: ASTRO CRICKET" group-title="Sports-TEST", SP: ASTRO CRICKET
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1341
-#EXTINF: -1 tvg-name="SP: TRUE PREMIER FOOTBALL HD 1 THAI" group-title="Sports-TEST", SP: TRUE PREMIER FOOTBALL HD 1 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1342
-#EXTINF: -1 tvg-name="SP: TRUE PREMIER FOOTBALL HD 2 THAI" group-title="Sports-TEST", SP: TRUE PREMIER FOOTBALL HD 2 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1343
-#EXTINF: -1 tvg-name="SP: TRUE PREMIER FOOTBALL HD 3 THAI" group-title="Sports-TEST", SP: TRUE PREMIER FOOTBALL HD 3 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1344
-#EXTINF: -1 tvg-name="SP: TRUE PREMIER FOOTBALL HD 4 THAI" group-title="Sports-TEST", SP: TRUE PREMIER FOOTBALL HD 4 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1345
-#EXTINF: -1 tvg-name="SP: TRUE PREMIER FOOTBALL HD 5 THAI" group-title="Sports-TEST", SP: TRUE PREMIER FOOTBALL HD 5 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1346
-#EXTINF: -1 tvg-name="SP: TRUE SPORT HD 1 THAI" group-title="Sports-TEST", SP: TRUE SPORT HD 1 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1347
-#EXTINF: -1 tvg-name="SP: TRUE SPORT HD 2 THAI" group-title="Sports-TEST", SP: TRUE SPORT HD 2 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1348
-#EXTINF: -1 tvg-name="SP: TRUE SPORT HD 3 THAI" group-title="Sports-TEST", SP: TRUE SPORT HD 3 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1349
-#EXTINF: -1 tvg-name="SP: TRUE SPORT HD 4 THAI" group-title="Sports-TEST", SP: TRUE SPORT HD 4 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1350
-#EXTINF: -1 tvg-name="SP: TRUE SPORT HD 5 THAI" group-title="Sports-TEST", SP: TRUE SPORT HD 5 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1351
-#EXTINF: -1 tvg-name="SP: TRUE SPORT HD 6 THAI" group-title="Sports-TEST", SP: TRUE SPORT HD 6 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1352
-#EXTINF: -1 tvg-name="SP: TRUE SPORT HD 7 THAI" group-title="Sports-TEST", SP: TRUE SPORT HD 7 THAI
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1353
-#EXTINF: -1 tvg-name="SP: MATCH FOOTBALL 1 RU" group-title="Sports-TEST", SP: MATCH FOOTBALL 1 RU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1354
-#EXTINF: -1 tvg-name="SP: MATCH FOOTBALL 2 RU" group-title="Sports-TEST", SP: MATCH FOOTBALL 2 RU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1355
-#EXTINF: -1 tvg-name="SP: MATCH FOOTBALL 3 RU" group-title="Sports-TEST", SP: MATCH FOOTBALL 3 RU
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1356
-#EXTINF: -1 tvg-name="AR: beIN Sports 11 FHD" group-title="Sports-TEST", AR: beIN Sports 11 FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1066
-#EXTINF: -1 tvg-name="SP: K SPORT 1 AL" group-title="Sports-TEST", SP: K SPORT 1 AL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1367
-#EXTINF: -1 tvg-name="SP: K SPORT 2 AL" group-title="Sports-TEST", SP: K SPORT 2 AL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1368
-#EXTINF: -1 tvg-name="SP: K SPORT 3 AL" group-title="Sports-TEST", SP: K SPORT 3 AL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1369
-#EXTINF: -1 tvg-name="SP: K SPORT 5 AL" group-title="Sports-TEST", SP: K SPORT 5 AL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1370
-#EXTINF: -1 tvg-name="SP: SPOR TV 1 BR" group-title="Sports-TEST", SP: SPOR TV 1 BR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1376
-#EXTINF: -1 tvg-name="SP: SPOR TV 2 BR" group-title="Sports-TEST", SP: SPOR TV 2 BR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1377
-#EXTINF: -1 tvg-name="SP: SPOR TV 3 BR" group-title="Sports-TEST", SP: SPOR TV 3 BR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1378
-#EXTINF: -1 tvg-name="SP: BAND SPORTS BR" group-title="Sports-TEST", SP: BAND SPORTS BR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1379
-#EXTINF: -1 tvg-name="SP: RMC Sport 9 HD" group-title="Sports-TEST", SP: RMC Sport 9 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1380
-#EXTINF: -1 tvg-name="SP: ASTRO SPORTS 1" group-title="Sports-TEST", SP: ASTRO SPORTS 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1381
-#EXTINF: -1 tvg-name="SP: ASTRO SPORTS 2" group-title="Sports-TEST", SP: ASTRO SPORTS 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1382
-#EXTINF: -1 tvg-name="SP: ASTRO SPORTS 3" group-title="Sports-TEST", SP: ASTRO SPORTS 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1383
-#EXTINF: -1 tvg-name="SP: ASTRO SPORTS 4" group-title="Sports-TEST", SP: ASTRO SPORTS 4
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1384
-#EXTINF: -1 tvg-name="SP: TUDN X1 HD" group-title="Sports-TEST", SP: TUDN X1 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1385
-#EXTINF: -1 tvg-name="SP: TUDN X2 HD" group-title="Sports-TEST", SP: TUDN X2 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1386
-#EXTINF: -1 tvg-name="SP: TUDN X3 HD" group-title="Sports-TEST", SP: TUDN X3 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1387
-#EXTINF: -1 tvg-name="SP: TUDN X4 HD" group-title="Sports-TEST", SP: TUDN X4 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1388
-#EXTINF: -1 tvg-name="SP: TUDN X5 HD" group-title="Sports-TEST", SP: TUDN X5 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1389
-#EXTINF: -1 tvg-name="SP: TUDN X6 HD" group-title="Sports-TEST", SP: TUDN X6 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1390
-#EXTINF: -1 tvg-name="SP: TUDN X7 HD" group-title="Sports-TEST", SP: TUDN X7 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1391
-#EXTINF: -1 tvg-name="SP: TUDN X8 HD" group-title="Sports-TEST", SP: TUDN X8 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1392
-#EXTINF: -1 tvg-name="SP: TUDN X9 HD" group-title="Sports-TEST", SP: TUDN X9 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1393
-#EXTINF: -1 tvg-name="SP: TUDN X10 HD" group-title="Sports-TEST", SP: TUDN X10 HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1394
-#EXTINF: -1 tvg-name="SP: TUDN HD" group-title="Sports-TEST", SP: TUDN HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1395
-#EXTINF: -1 tvg-name="SP: MAX SPORTS 1 BG" group-title="Sports-TEST", SP: MAX SPORTS 1 BG
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1396
-#EXTINF: -1 tvg-name="SP: MAX SPORTS 2 BG" group-title="Sports-TEST", SP: MAX SPORTS 2 BG
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1397
-#EXTINF: -1 tvg-name="SP: MAX SPORTS 3 BG" group-title="Sports-TEST", SP: MAX SPORTS 3 BG
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1398
-#EXTINF: -1 tvg-name="SP: MAX SPORTS 4 BG" group-title="Sports-TEST", SP: MAX SPORTS 4 BG
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1399
-#EXTINF: -1 tvg-name="SP: PLANET SPORT 1" group-title="Sports-TEST", SP: PLANET SPORT 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1416
-#EXTINF: -1 tvg-name="SP: PLANET SPORT 2" group-title="Sports-TEST", SP: PLANET SPORT 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1417
-#EXTINF: -1 tvg-name="SP: WWE HD" group-title="Sports-TEST", SP: WWE HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1418
-#EXTINF: -1 tvg-name="SP: MUTV" group-title="Sports-TEST", SP: MUTV
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1419
-#EXTINF: -1 tvg-name="SP: BOX NATION" group-title="Sports-TEST", SP: BOX NATION
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1420
-#EXTINF: -1 tvg-name="SP: MOVISTAR GOLF" group-title="Sports-TEST", SP: MOVISTAR GOLF
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1421
-#EXTINF: -1 tvg-name="SP: MOVISTAR FORMULA 1" group-title="Sports-TEST", SP: MOVISTAR FORMULA 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1422
-#EXTINF: -1 tvg-name="SP: MOVISTAR VAMOS" group-title="Sports-TEST", SP: MOVISTAR VAMOS
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1423
-#EXTINF: -1 tvg-name="SP: MOVISTAR DEPORTES" group-title="Sports-TEST", SP: MOVISTAR DEPORTES
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1424
-#EXTINF: -1 tvg-name="SP: MOVISTAR LALIGA" group-title="Sports-TEST", SP: MOVISTAR LALIGA
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1425
-#EXTINF: -1 tvg-name="SP: DAZN 1 ES (LIVE EVENTS)" group-title="Sports-TEST", SP: DAZN 1 ES (LIVE EVENTS)
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1426
-#EXTINF: -1 tvg-name="SP: SUPERTENNIS IT" group-title="Sports-TEST", SP: SUPERTENNIS IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1437
-#EXTINF: -1 tvg-name="SP: S SPORT TR" group-title="Sports-TEST", SP: S SPORT TR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1442
-#EXTINF: -1 tvg-name="SP: FOX SPORTS LA" group-title="Sports-TEST", SP: FOX SPORTS LA
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1499
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 2 LA" group-title="Sports-TEST", SP: FOX SPORTS 2 LA
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1500
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 3 LA" group-title="Sports-TEST", SP: FOX SPORTS 3 LA
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1501
-#EXTINF: -1 tvg-name="SP: FOX SPORTS PREMIUM CHILE" group-title="Sports-TEST", SP: FOX SPORTS PREMIUM CHILE
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1502
-#EXTINF: -1 tvg-name="SP: GOL TV LA" group-title="Sports-TEST", SP: GOL TV LA
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1503
-#EXTINF: -1 tvg-name="SP: TIGO SPORTS 1 LA" group-title="Sports-TEST", SP: TIGO SPORTS 1 LA
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1504
-#EXTINF: -1 tvg-name="SP: TIGO SPORTS 3 LA" group-title="Sports-TEST", SP: TIGO SPORTS 3 LA
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1505
-#EXTINF: -1 tvg-name="SP: TNT SPORTS LA" group-title="Sports-TEST", SP: TNT SPORTS LA
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1506
-#EXTINF: -1 tvg-name="SP: ESPN 2 MX" group-title="Sports-TEST", SP: ESPN 2 MX
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1507
-#EXTINF: -1 tvg-name="SP: ESPN 3 MX" group-title="Sports-TEST", SP: ESPN 3 MX
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1508
-#EXTINF: -1 tvg-name="SP: ESPN MX" group-title="Sports-TEST", SP: ESPN MX
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1509
-#EXTINF: -1 tvg-name="SP: ESPN XTRA MX" group-title="Sports-TEST", SP: ESPN XTRA MX
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1510
-#EXTINF: -1 tvg-name="SP: FOX SPORTS MX" group-title="Sports-TEST", SP: FOX SPORTS MX
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1511
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 1 MX" group-title="Sports-TEST", SP: FOX SPORTS 1 MX
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1512
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 2 MX" group-title="Sports-TEST", SP: FOX SPORTS 2 MX
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1513
-#EXTINF: -1 tvg-name="SP: FOX SPORTS 3 MX" group-title="Sports-TEST", SP: FOX SPORTS 3 MX
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1514
-#EXTINF: -1 tvg-name="SP: ESPN ARG" group-title="Sports-TEST", SP: ESPN ARG
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1515
-#EXTINF: -1 tvg-name="SP: ESPN 2 ARG" group-title="Sports-TEST", SP: ESPN 2 ARG
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1516
-#EXTINF: -1 tvg-name="SP: ESPN 3 ARG" group-title="Sports-TEST", SP: ESPN 3 ARG
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1517
-#EXTINF: -1 tvg-name="SP: ESPN XTRA ARG" group-title="Sports-TEST", SP: ESPN XTRA ARG
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1518
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORT 1 PL" group-title="Sports-TEST", SP: ELEVEN SPORT 1 PL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1519
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORT 2 PL" group-title="Sports-TEST", SP: ELEVEN SPORT 2 PL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1520
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORT 3 PL" group-title="Sports-TEST", SP: ELEVEN SPORT 3 PL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1521
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORT 4 PL" group-title="Sports-TEST", SP: ELEVEN SPORT 4 PL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1522
-#EXTINF: -1 tvg-name="SP: TV SPORT 1 DK" group-title="Sports-TEST", SP: TV SPORT 1 DK
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1523
-#EXTINF: -1 tvg-name="SP: SKY CALCIO 1 IT" group-title="Sports-TEST", SP: SKY CALCIO 1 IT
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1543
-#EXTINF: -1 tvg-name="SP: S SPORT 2 TR" group-title="Sports-TEST", SP: S SPORT 2 TR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1544
-#EXTINF: -1 tvg-name="SP: DAZN 2 DE" group-title="Sports-TEST", SP: DAZN 2 DE
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1545
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 1 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 1 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1573
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 2 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 2 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1574
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 3 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 3 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1575
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 4 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 4 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1576
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 5 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 5 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1577
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 6 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 6 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1578
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 7 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 7 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1579
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 8 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 8 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1580
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 9 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 9 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1581
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 10 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 10 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1582
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 11 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 11 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1583
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 12 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 12 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1584
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 13 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 13 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1585
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 14 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 14 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1586
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 15 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 15 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1587
-#EXTINF: -1 tvg-name="SP: BEIN SPORT 16 FHD BACKUP" group-title="Sports-TEST", SP: BEIN SPORT 16 FHD BACKUP
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1588
-#EXTINF: -1 tvg-name="SP: PLANET SPORT 3" group-title="Sports-TEST", SP: PLANET SPORT 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1589
-#EXTINF: -1 tvg-name="SP: PLANET SPORT 4" group-title="Sports-TEST", SP: PLANET SPORT 4
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1590
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 1 HR" group-title="Sports-TEST", SP: SPORT KLUB 1 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1591
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 2 HR" group-title="Sports-TEST", SP: SPORT KLUB 2 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1592
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 3 HR" group-title="Sports-TEST", SP: SPORT KLUB 3 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1593
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 4 HR" group-title="Sports-TEST", SP: SPORT KLUB 4 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1594
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 5 HR" group-title="Sports-TEST", SP: SPORT KLUB 5 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1595
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 6 HR" group-title="Sports-TEST", SP: SPORT KLUB 6 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1596
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 7 HR" group-title="Sports-TEST", SP: SPORT KLUB 7 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1597
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 8 HR" group-title="Sports-TEST", SP: SPORT KLUB 8 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1598
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 9 HR" group-title="Sports-TEST", SP: SPORT KLUB 9 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1599
-#EXTINF: -1 tvg-name="SP: SPORT KLUB 10 HR" group-title="Sports-TEST", SP: SPORT KLUB 10 HR
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1600
-#EXTINF: -1 tvg-name="SP: RUSH" group-title="Sports-TEST", SP: RUSH
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1601
-#EXTINF: -1 tvg-name="SP: FLOW SPORTS" group-title="Sports-TEST", SP: FLOW SPORTS
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1602
-#EXTINF: -1 tvg-name="SP: ELEVEN SPORTS US" group-title="Sports-TEST", SP: ELEVEN SPORTS US
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1616
-#EXTINF: -1 tvg-name="SP: ESPN 3" group-title="Sports-TEST", SP: ESPN 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1617
-#EXTINF: -1 tvg-name="SP: ESPN DEPORTES" group-title="Sports-TEST", SP: ESPN DEPORTES
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1618
-#EXTINF: -1 tvg-name="SP: ESPN U" group-title="Sports-TEST", SP: ESPN U
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1619
-#EXTINF: -1 tvg-name="SP: SEC ESPN NETWORK" group-title="Sports-TEST", SP: SEC ESPN NETWORK
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1626
-#EXTINF: -1 tvg-name="SP: ADJARA SPORT TV PL" group-title="Sports-TEST", SP: ADJARA SPORT TV PL
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1634
-#EXTINF: -1 tvg-name="SP: BT SPORT 1 FHD" group-title="Sports-TEST", SP: BT SPORT 1 FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1651
-#EXTINF: -1 tvg-name="SP: BT SPORT 2 FHD" group-title="Sports-TEST", SP: BT SPORT 2 FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1652
-#EXTINF: -1 tvg-name="SP: BT SPORT 3 FHD" group-title="Sports-TEST", SP: BT SPORT 3 FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1653
-#EXTINF: -1 tvg-name="SP: BT SPORT ESPN FHD" group-title="Sports-TEST", SP: BT SPORT ESPN FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1654
-#EXTINF: -1 tvg-name="SP: SKY SPORTS PREMIER LEAGUE FHD" group-title="Sports-TEST", SP: SKY SPORTS PREMIER LEAGUE FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1655
-#EXTINF: -1 tvg-name="SP: SKY SPORTS MAIN EVENT FHD" group-title="Sports-TEST", SP: SKY SPORTS MAIN EVENT FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1656
-#EXTINF: -1 tvg-name="SP: SKY SPORTS FOOTBALL FHD" group-title="Sports-TEST", SP: SKY SPORTS FOOTBALL FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1657
-#EXTINF: -1 tvg-name="SP: SKY SPORTS CRICKET FHD" group-title="Sports-TEST", SP: SKY SPORTS CRICKET FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1658
-#EXTINF: -1 tvg-name="SP: SKY SPORTS ACTION FHD" group-title="Sports-TEST", SP: SKY SPORTS ACTION FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1659
-#EXTINF: -1 tvg-name="SP: SKY SPORTS GOLF FHD" group-title="Sports-TEST", SP: SKY SPORTS GOLF FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1660
-#EXTINF: -1 tvg-name="SP: SKY SPORTS F1 FHD" group-title="Sports-TEST", SP: SKY SPORTS F1 FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1661
-#EXTINF: -1 tvg-name="SP: SKY SPORTS ARENA FHD" group-title="Sports-TEST", SP: SKY SPORTS ARENA FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1662
-#EXTINF: -1 tvg-name="SP: SKY SPORTS RACING FHD" group-title="Sports-TEST", SP: SKY SPORTS RACING FHD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1663
-#EXTINF: -1 tvg-name="SP: SPORT DIGITAL DE" group-title="Sports-TEST", SP: SPORT DIGITAL DE
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1693
-#EXTINF: -1 tvg-name="PK: PTV SPORTS HD" group-title="Sports-TEST", PK: PTV SPORTS HD
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/2
-#EXTINF: -1 tvg-name="IN: Sony Ten 3" group-title="Sports-TEST", IN: Sony Ten 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/4
-#EXTINF: -1 tvg-name="IN: Sony Six Hd" group-title="Sports-TEST", IN: Sony Six Hd
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/3
-#EXTINF: -1 tvg-name="SP: SKY SPORT AUSTRIA" group-title="Sports-TEST", SP: SKY SPORT AUSTRIA
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1080
 
-### ZALCODETV ##
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="ZALCODE-ENT",ANIPLUS
-http://210.210.155.35/session/ec8b65d0-8ac1-11ea-b4aa-c81f66f89318/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logohttps://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/manifest.mpd
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="ZALCODE-ENT",ANIMAX
-http://210.210.155.35/session/1e32b920-8ac3-11ea-a16a-c81f66f89318/dr9445/h/h144/02.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="ZALCODE-ENT",CELESTIAL MOVIE
-http://210.210.155.35/session/5161f5da-8abf-11ea-8ff9-b82a72d63267/qwr9ew/s/s33/02.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="ZALCODE-ENT",KIX
-http://210.210.155.35/session/0d70c506-8ac2-11ea-b162-c81f66f89318/uq2663/h/h07/01.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="ZALCODE-ENT",KIX 2
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dde85ea0-b018-44f3-81f6-6dc33b6daf3f)/manifest.mpd
+#######asia####
 
-#EXTINF:-1 tvg-logo=http://www.dens.tv/images/channel-logo/95.jpg"" group-title="ZALCODE-ENT",MY CINEMA
-http://210.210.155.35/session/1482d1f4-8b5d-11ea-a11f-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="ZALCODE-ENT", BLUE ANT ENTERTAINMENT
-http://210.210.155.35/session/4f893468-8aff-11ea-b29b-b82a72d63267/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="ZALCODE-ENT",CINEMA WORLD
-http://210.210.155.35/session/b7f290cc-8b03-11ea-9e97-b82a72d63267/uq2663/h/h04/01.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg" group-title="ZALCODE-ENT",AXN 
-http://210.210.155.35/session/92f8302e-8b03-11ea-a16a-c81f66f89318/uq2663/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="ZALCODE-ENT", BLUE ANT EXTREME
-http://210.210.155.35/session/3061ac06-8b03-11ea-a7a4-b82a72d63267/dr9445/h/h15/01.m3u8     
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="ZALCODE-ENT",HITS
-http://210.210.155.35/session/6a44e720-8b04-11ea-afc9-c81f66f89318/uq2663/h/h37/02.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="ZALCODE-ENT",TRILL
-http://210.210.155.35/session/abe709e2-8b04-11ea-a706-c81f66f89318/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="ZALCODE-ENT",K+
-http://210.210.155.35/session/068e3abe-8b05-11ea-929d-c81f66f89318/uq2663/h/h08/01.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg" group-title="ZALCODE-ENT",ONE
-http://210.210.155.35/session/294810b6-8b05-11ea-b4aa-c81f66f89318/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="ZALCODE-ENT",GEM
-http://210.210.155.35/session/53402f70-8b05-11ea-bc3a-b82a72d63267/uq2663/h/h19/01.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="ZALCODE-ENT",MONDE5
-http://210.210.155.35/session/7314c3b0-8b05-11ea-9759-b82a72d63267/uq2663/h/h01/01.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="ZALCODE-ENT",FIGH
-http://210.210.155.35/session/b349e370-8b05-11ea-afc9-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="ZALCODE-ENT",ZEE BIOSKOP 
-http://210.210.155.35/session/e1c7c2e4-8b05-11ea-a66f-b82a72d63267/qwr9ew/s/s32/01.m3u8
-
-
-#######
-
-#### zalcdoe malay ##
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",TV1 
-#EXTVLCOPT:network-caching=1000
-http://58.26.3.54/PLTV/88888888/224/3221226228/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",TV2 
-#EXTVLCOPT:network-caching=1000
-http://58.26.3.55/PLTV/88888888/224/3221226229/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Berita RTM 
-#EXTVLCOPT:network-caching=1000
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Astro Awani 
-#EXTVLCOPT:network-caching=1000
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Astro Naura 
-#EXTVLCOPT:network-caching=1000
-https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",RTB Sukma Indera 
-#EXTVLCOPT:network-caching=1000
-https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Suria 
-#EXTVLCOPT:network-caching=1000
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Astro Warna 
-#EXTVLCOPT:network-caching=1000
-http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",Drama Sangat 
-#EXTVLCOPT:network-caching=1000
-https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0vgMik7gMH6R_qf-uWY3nOI)/dm/3/x6zvnex/s/live-4.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",TV 3 
-#EXTVLCOPT:network-caching=1000
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQ4LCyreOMXpfx6Qr3_D8Ds)/dm/3/x6qp375/d/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",TV 9 
-#EXTVLCOPT:network-caching=1000
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfvnFr8xf9K0W2jXeVNsr7g)/dm/3/x6qqja6/s/live-4.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",8 TV 
-#EXTVLCOPT:network-caching=1000
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHagw0JAIrSTBlUAvVhsOp3I)/dm/3/x6qud17/s/live-4.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="ZALCODE-MALAY",NTV 7 
-#EXTVLCOPT:network-caching=1000
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWab-qOg0kLxh3JUKDPdcww)/dm/3/x6qp6ou/s/live-4.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="HongKong - Makau",凤凰卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/1
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="HongKong - Makau",凤凰资讯
+http://tv.wakds.xyz:8080/tangyuan/12345678/2
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="HongKong - Makau",凤凰香港
+http://tv.wakds.xyz:8080/tangyuan/12345678/3
+#EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2532/5c8a10861fe85_1552552070.png" group-title="HongKong - Makau",TVB经典台
+http://tv.wakds.xyz:8080/tangyuan/12345678/229
+#EXTINF:-1 tvg-id="" tvg-name="爆谷台" tvg-logo="http://hk.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head_hk.png" group-title="HongKong - Makau",爆谷台
+http://tv.wakds.xyz:8080/tangyuan/12345678/230
+#EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5af0298a108ce.png" group-title="HongKong - Makau",有线新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/235
+#EXTINF:-1 tvg-id="" tvg-name="now新闻" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="HongKong - Makau",now新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/236
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="HongKong - Makau",翡翠台
+http://tv.wakds.xyz:8080/tangyuan/12345678/4
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="HongKong - Makau",J2
+http://tv.wakds.xyz:8080/tangyuan/12345678/5
+#EXTINF:-1 tvg-id="133" tvg-name="无线资讯" tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861feec5509_1552293870.jpeg" group-title="HongKong - Makau",无线资讯
+http://tv.wakds.xyz:8080/tangyuan/12345678/6
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="HongKong - Makau",明珠台
+http://tv.wakds.xyz:8080/tangyuan/12345678/7
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="HongKong - Makau",TVB星河频道
+http://tv.wakds.xyz:8080/tangyuan/12345678/8
+#EXTINF:-1 tvg-id="408" tvg-name="viutv" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="HongKong - Makau",viutv
+http://tv.wakds.xyz:8080/tangyuan/12345678/9
+#EXTINF:-1 tvg-id="" tvg-name="有线电影" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5c9b125c5c.png" group-title="HongKong - Makau",有线电影
+http://tv.wakds.xyz:8080/tangyuan/12345678/10
+#EXTINF:-1 tvg-id="412" tvg-name="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="HongKong - Makau",香港卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/2663
+#EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%BE%B3%E4%BA%9A%E5%8D%AB%E8%A7%86.png" group-title="HongKong - Makau",澳亚卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/2665
+#EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="HongKong - Makau",阳光卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/2666
+#EXTINF:-1 tvg-id="" tvg-name="RHK31" tvg-logo="" group-title="HongKong - Makau",RHK31
+http://tv.wakds.xyz:8080/tangyuan/12345678/2668
+#EXTINF:-1 tvg-id="" tvg-name="RHK32" tvg-logo="" group-title="HongKong - Makau",RHK32
+http://tv.wakds.xyz:8080/tangyuan/12345678/2669
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="Taiwan",三立新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/2702
+#EXTINF:-1 tvg-id="6108" tvg-name="三立iNEWS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="Taiwan",三立iNEWS新闻台
+http://tv.wakds.xyz:8080/tangyuan/12345678/2703
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="Taiwan",中天新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/17
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="Taiwan",中天娱乐
+http://tv.wakds.xyz:8080/tangyuan/12345678/18
+#EXTINF:-1 tvg-id="145" tvg-name="美亚电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="Taiwan",美亚电影
+http://tv.wakds.xyz:8080/tangyuan/12345678/73
+#EXTINF:-1 tvg-id="6152" tvg-name="HBO_HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="Taiwan",HBO_HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/94
+#EXTINF:-1 tvg-id="6153" tvg-name="HBO_HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="Taiwan",HBO_HITS
+http://tv.wakds.xyz:8080/tangyuan/12345678/96
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="" group-title="Malaysia"",TV1
+http://tv.wakds.xyz:8080/tangyuan/12345678/149
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="" group-title="Malaysia"",TV2
+http://tv.wakds.xyz:8080/tangyuan/12345678/150
+#EXTINF:-1 tvg-id="" tvg-name="TvN" tvg-logo="" group-title="Malaysia"",TvN
+http://tv.wakds.xyz:8080/tangyuan/12345678/176
+#EXTINF:-1 tvg-id="" tvg-name="欢喜台" tvg-logo="" group-title="Malaysia"",欢喜台
+http://tv.wakds.xyz:8080/tangyuan/12345678/185
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="Taiwan",TVBS新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/14
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="Taiwan",TVBS欢乐台
+http://tv.wakds.xyz:8080/tangyuan/12345678/15
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="Taiwan",TVBS HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/16
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="Taiwan",中天综合
+http://tv.wakds.xyz:8080/tangyuan/12345678/19
+#EXTINF:-1 tvg-id="" tvg-name="中天亚洲" tvg-logo="" group-title="Taiwan",中天亚洲
+http://tv.wakds.xyz:8080/tangyuan/12345678/20
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="Taiwan",台视
+http://tv.wakds.xyz:8080/tangyuan/12345678/21
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Taiwan",台视新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/22
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="Taiwan",中视
+http://tv.wakds.xyz:8080/tangyuan/12345678/23
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Taiwan",中视新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/24
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="Taiwan",民视新闻台
+http://tv.wakds.xyz:8080/tangyuan/12345678/25
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%B0%91%E8%A7%86.png" group-title="Taiwan",民视
+http://tv.wakds.xyz:8080/tangyuan/12345678/26
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="Taiwan",华视
+http://tv.wakds.xyz:8080/tangyuan/12345678/28
+#EXTINF:-1 tvg-id="6045" tvg-name="八大第一" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="Taiwan",八大第一
+http://tv.wakds.xyz:8080/tangyuan/12345678/30
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="Taiwan",八大综合
+http://tv.wakds.xyz:8080/tangyuan/12345678/31
+#EXTINF:-1 tvg-id="6133" tvg-name="八大娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="Taiwan",八大娱乐
+http://tv.wakds.xyz:8080/tangyuan/12345678/33
+#EXTINF:-1 tvg-id="6047" tvg-name="三立Taiwan" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="Taiwan",三立台湾
+http://tv.wakds.xyz:8080/tangyuan/12345678/34
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="Taiwan",东森新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/37
+#EXTINF:-1 tvg-id="6050" tvg-name="东森综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="Taiwan",东森综合
+http://tv.wakds.xyz:8080/tangyuan/12345678/38
+#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="Taiwan",东森戏剧
+http://tv.wakds.xyz:8080/tangyuan/12345678/39
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="Taiwan",大爱1
+http://tv.wakds.xyz:8080/tangyuan/12345678/41
+#EXTINF:-1 tvg-id="673" tvg-name="CN 卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="Taiwan",CN 卡通
+http://tv.wakds.xyz:8080/tangyuan/12345678/43
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="Taiwan",非凡新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/45
+#EXTINF:-1 tvg-id="7130" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8.png" group-title="Taiwan",龙华经典
+http://tv.wakds.xyz:8080/tangyuan/12345678/46
+#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="Taiwan",龙华偶像
+http://tv.wakds.xyz:8080/tangyuan/12345678/47
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Movies" tvg-logo="" group-title="Taiwan",Hollywood Movies
+http://tv.wakds.xyz:8080/tangyuan/12345678/50
+#EXTINF:-1 tvg-id="6099" tvg-name="靖天资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E8%B5%84%E8%AE%AF.png" group-title="Taiwan",靖天资讯
+http://tv.wakds.xyz:8080/tangyuan/12345678/51
+#EXTINF:-1 tvg-id="6116" tvg-name="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png" group-title="Taiwan",靖天映画
+http://tv.wakds.xyz:8080/tangyuan/12345678/52
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="Taiwan",东森电影
+http://tv.wakds.xyz:8080/tangyuan/12345678/53
+#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A.png" group-title="Taiwan",靖天卡通
+http://tv.wakds.xyz:8080/tangyuan/12345678/55
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="Taiwan",东森洋片
+http://tv.wakds.xyz:8080/tangyuan/12345678/56
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="Taiwan",龙华电影
+http://tv.wakds.xyz:8080/tangyuan/12345678/58
+#EXTINF:-1 tvg-id="7201" tvg-name="爱尔达影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="Taiwan",爱尔达影剧
+http://tv.wakds.xyz:8080/tangyuan/12345678/60
+#EXTINF:-1 tvg-id="6043" tvg-name="东森幼幼" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="Taiwan",东森幼幼
+http://tv.wakds.xyz:8080/tangyuan/12345678/63
+#EXTINF:-1 tvg-id="6180" tvg-name="博斯运动 1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="Taiwan",博斯运动 1
+http://tv.wakds.xyz:8080/tangyuan/12345678/65
+#EXTINF:-1 tvg-id="6178" tvg-name="博斯高球2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="Taiwan",博斯高球2
+http://tv.wakds.xyz:8080/tangyuan/12345678/66
+#EXTINF:-1 tvg-id="6175" tvg-name="博斯网球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="Taiwan",博斯网球
+http://tv.wakds.xyz:8080/tangyuan/12345678/67
+#EXTINF:-1 tvg-id="6176" tvg-name="博斯无限" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" group-title="Taiwan",博斯无限
+http://tv.wakds.xyz:8080/tangyuan/12345678/68
+#EXTINF:-1 tvg-id="7188" tvg-name="龙华动画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/longhuadonghua.png" group-title="Taiwan",龙华动画
+http://tv.wakds.xyz:8080/tangyuan/12345678/69
+#EXTINF:-1 tvg-id="7221" tvg-name="三立戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" group-title="Taiwan",三立戏剧
+http://tv.wakds.xyz:8080/tangyuan/12345678/70
+#EXTINF:-1 tvg-id="7196" tvg-name="寰宇综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyuzonghe.png" group-title="Taiwan",寰宇综合
+http://tv.wakds.xyz:8080/tangyuan/12345678/71
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay 电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="Taiwan",CatchPlay 电影
+http://tv.wakds.xyz:8080/tangyuan/12345678/74
+#EXTINF:-1 tvg-id="7219" tvg-name="爱尔达综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png" group-title="Taiwan",爱尔达综合
+http://tv.wakds.xyz:8080/tangyuan/12345678/75
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="Taiwan",纬来日本
+http://tv.wakds.xyz:8080/tangyuan/12345678/76
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="Taiwan",纬来电影
+http://tv.wakds.xyz:8080/tangyuan/12345678/77
+#EXTINF:-1 tvg-id="7197" tvg-name="纬来精彩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weilaojingcai.png" group-title="Taiwan",纬来精彩
+http://tv.wakds.xyz:8080/tangyuan/12345678/78
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="Taiwan",纬来体育
+http://tv.wakds.xyz:8080/tangyuan/12345678/79
+#EXTINF:-1 tvg-id="6061" tvg-name="纬来戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="Taiwan",纬来戏剧
+http://tv.wakds.xyz:8080/tangyuan/12345678/80
+#EXTINF:-1 tvg-id="6044" tvg-name="纬来综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="Taiwan",纬来综合
+http://tv.wakds.xyz:8080/tangyuan/12345678/81
+#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="Taiwan",亚洲美食
+http://tv.wakds.xyz:8080/tangyuan/12345678/82
+#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="Taiwan",中华美食
+http://tv.wakds.xyz:8080/tangyuan/12345678/83
+#EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="Taiwan",美食星球
+http://tv.wakds.xyz:8080/tangyuan/12345678/84
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="Taiwan",东森财经新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/88
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="Taiwan",壹电视新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/89
+#EXTINF:-1 tvg-id="508" tvg-name="Fox Sports 3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxSports3.png" group-title="Taiwan",Fox Sports 3
+http://tv.wakds.xyz:8080/tangyuan/12345678/90
+#EXTINF:-1 tvg-id="870" tvg-name="Fox_Action Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="Taiwan",Fox_Action Movies
+http://tv.wakds.xyz:8080/tangyuan/12345678/98
+#EXTINF:-1 tvg-id="710" tvg-name="Fox_Family" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="Taiwan",Fox_Family
+http://tv.wakds.xyz:8080/tangyuan/12345678/99
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 1 backup" tvg-logo="" group-title="Taiwan",Supersports 1 backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/120
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 2 backup" tvg-logo="" group-title="Taiwan",Supersports 2 backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/121
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 3 backup" tvg-logo="" group-title="Taiwan",Supersports 3 backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/122
+#EXTINF:-1 tvg-id="" tvg-name="Supersports 4 backup" tvg-logo="" group-title="Taiwan",Supersports 4 backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/123
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 1 Sports HD" tvg-logo="" group-title="Taiwan",BeIN 1 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/132
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 2 Sports HD" tvg-logo="" group-title="Taiwan",BeIN 2 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/133
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 3 Sports HD" tvg-logo="" group-title="Taiwan",BeIN 3 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/134
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 7 Sports HD" tvg-logo="" group-title="Taiwan",BeIN 7 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/137
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 12 Sports HD" tvg-logo="" group-title="Taiwan",BeIN 12 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/142
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 13 Sports HD" tvg-logo="" group-title="Taiwan",BeIN 13 Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/143
+#EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="Taiwan",爱尔达体育3
+http://tv.wakds.xyz:8080/tangyuan/12345678/144
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="Taiwan",Cinema World
+http://tv.wakds.xyz:8080/tangyuan/12345678/148
+#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="" group-title="Malaysia"",TV3
+http://tv.wakds.xyz:8080/tangyuan/12345678/151
+#EXTINF:-1 tvg-id="" tvg-name="TV3 backup" tvg-logo="" group-title="Malaysia"",TV3 backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/152
+#EXTINF:-1 tvg-id="" tvg-name="NTV7" tvg-logo="" group-title="Malaysia"",NTV7
+http://tv.wakds.xyz:8080/tangyuan/12345678/153
+#EXTINF:-1 tvg-id="" tvg-name="NTV7 backup" tvg-logo="" group-title="Malaysia"",NTV7 backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/154
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="" group-title="Malaysia"",TV8
+http://tv.wakds.xyz:8080/tangyuan/12345678/155
+#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="" group-title="Malaysia"",TV9
+http://tv.wakds.xyz:8080/tangyuan/12345678/156
+#EXTINF:-1 tvg-id="" tvg-name="Warna backup" tvg-logo="" group-title="Malaysia"",Warna backup
+http://tv.wakds.xyz:8080/tangyuan/12345678/157
+#EXTINF:-1 tvg-id="" tvg-name="RIA 1" tvg-logo="" group-title="Malaysia"",RIA 1
+http://tv.wakds.xyz:8080/tangyuan/12345678/158
+#EXTINF:-1 tvg-id="" tvg-name="Awani" tvg-logo="" group-title="Malaysia"",Awani
+http://tv.wakds.xyz:8080/tangyuan/12345678/159
+#EXTINF:-1 tvg-id="" tvg-name="Bernama" tvg-logo="" group-title="Malaysia"",Bernama
+http://tv.wakds.xyz:8080/tangyuan/12345678/160
+#EXTINF:-1 tvg-id="" tvg-name="Prima" tvg-logo="" group-title="Malaysia"",Prima
+http://tv.wakds.xyz:8080/tangyuan/12345678/161
+#EXTINF:-1 tvg-id="" tvg-name="Al-Hijrah" tvg-logo="" group-title="Malaysia"",Al-Hijrah
+http://tv.wakds.xyz:8080/tangyuan/12345678/162
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports HD" tvg-logo="" group-title="Malaysia"",RTM Sports HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/163
+#EXTINF:-1 tvg-id="" tvg-name="Arena" tvg-logo="" group-title="Malaysia"",Arena
+http://tv.wakds.xyz:8080/tangyuan/12345678/164
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="Malaysia"",NatGeo Wild HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/165
+#EXTINF:-1 tvg-id="" tvg-name="Oasis" tvg-logo="" group-title="Malaysia"",Oasis
+http://tv.wakds.xyz:8080/tangyuan/12345678/166
+#EXTINF:-1 tvg-id="" tvg-name="Ceria" tvg-logo="" group-title="Malaysia"",Ceria
+http://tv.wakds.xyz:8080/tangyuan/12345678/167
+#EXTINF:-1 tvg-id="" tvg-name="Citra" tvg-logo="" group-title="Malaysia"",Citra
+http://tv.wakds.xyz:8080/tangyuan/12345678/168
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="" group-title="Malaysia"",Drama Sangat
+http://tv.wakds.xyz:8080/tangyuan/12345678/169
+#EXTINF:-1 tvg-id="" tvg-name="Naura" tvg-logo="" group-title="Malaysia"",Naura
+http://tv.wakds.xyz:8080/tangyuan/12345678/170
+#EXTINF:-1 tvg-id="" tvg-name="Hello" tvg-logo="" group-title="Malaysia"",Hello
+http://tv.wakds.xyz:8080/tangyuan/12345678/171
+#EXTINF:-1 tvg-id="" tvg-name="Goshop" tvg-logo="" group-title="Malaysia"",Goshop
+http://tv.wakds.xyz:8080/tangyuan/12345678/172
+#EXTINF:-1 tvg-id="" tvg-name="Goshop Ch" tvg-logo="" group-title="Malaysia"",Goshop Ch
+http://tv.wakds.xyz:8080/tangyuan/12345678/173
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="" group-title="Malaysia"",Sony HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/174
+#EXTINF:-1 tvg-id="" tvg-name="KBS Wolrd" tvg-logo="" group-title="Malaysia"",KBS Wolrd
+http://tv.wakds.xyz:8080/tangyuan/12345678/175
+#EXTINF:-1 tvg-id="" tvg-name="Oh!k" tvg-logo="" group-title="Malaysia"",Oh!k
+http://tv.wakds.xyz:8080/tangyuan/12345678/177
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic" tvg-logo="" group-title="Malaysia"",Celestial Classic
+http://tv.wakds.xyz:8080/tangyuan/12345678/179
+#EXTINF:-1 tvg-id="" tvg-name="Warna" tvg-logo="" group-title="Malaysia"",Warna
+http://tv.wakds.xyz:8080/tangyuan/12345678/180
+#EXTINF:-1 tvg-id="" tvg-name="RIA" tvg-logo="" group-title="Malaysia"",RIA
+http://tv.wakds.xyz:8080/tangyuan/12345678/181
+#EXTINF:-1 tvg-id="" tvg-name="AEC" tvg-logo="" group-title="Malaysia"",AEC
+http://tv.wakds.xyz:8080/tangyuan/12345678/182
+#EXTINF:-1 tvg-id="" tvg-name="AOD 511" tvg-logo="" group-title="Malaysia"",AOD 511
+http://tv.wakds.xyz:8080/tangyuan/12345678/183
+#EXTINF:-1 tvg-id="" tvg-name="华丽台" tvg-logo="" group-title="Malaysia"",华丽台
+http://tv.wakds.xyz:8080/tangyuan/12345678/184
+#EXTINF:-1 tvg-id="" tvg-name="爱奇艺" tvg-logo="" group-title="Malaysia"",爱奇艺
+http://tv.wakds.xyz:8080/tangyuan/12345678/186
+#EXTINF:-1 tvg-id="" tvg-name="AOD HD" tvg-logo="" group-title="Malaysia"",AOD HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/187
+#EXTINF:-1 tvg-id="" tvg-name="全佳 Quan Jia" tvg-logo="" group-title="Malaysia"",全佳 Quan Jia
+http://tv.wakds.xyz:8080/tangyuan/12345678/188
+#EXTINF:-1 tvg-id="" tvg-name="双星 ShuangXing" tvg-logo="" group-title="Malaysia"",双星 ShuangXing
+http://tv.wakds.xyz:8080/tangyuan/12345678/189
+#EXTINF:-1 tvg-id="" tvg-name="小太阳" tvg-logo="" group-title="Malaysia"",小太阳
+http://tv.wakds.xyz:8080/tangyuan/12345678/190
+#EXTINF:-1 tvg-id="" tvg-name="TVB 星河" tvg-logo="" group-title="Malaysia"",TVB 星河
+http://tv.wakds.xyz:8080/tangyuan/12345678/191
+#EXTINF:-1 tvg-id="" tvg-name="KiX HD" tvg-logo="" group-title="Malaysia"",KiX HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/192
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="Malaysia"",HBO HD
+http://tv.wakds.xyz:8080/tangyuan/12345678/193
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="Malaysia"",HGTV
+http://tv.wakds.xyz:8080/tangyuan/12345678/194
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="Malaysia"",Animal Planet (Eng)
+http://tv.wakds.xyz:8080/tangyuan/12345678/195
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="" group-title="Malaysia"",MBC 4
+http://tv.wakds.xyz:8080/tangyuan/12345678/202
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="" group-title="Malaysia"",MBC 5
+http://tv.wakds.xyz:8080/tangyuan/12345678/203
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-logo="" group-title="Malaysia"",MBC Action
+http://tv.wakds.xyz:8080/tangyuan/12345678/204
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="" group-title="Malaysia"",MBC Drama
+http://tv.wakds.xyz:8080/tangyuan/12345678/205
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq" tvg-logo="" group-title="Malaysia"",MBC Iraq
+http://tv.wakds.xyz:8080/tangyuan/12345678/206
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="" group-title="Malaysia"",MBC Max
+http://tv.wakds.xyz:8080/tangyuan/12345678/209
+#EXTINF:-1 tvg-id="" tvg-name="Palestine Sports" tvg-logo="" group-title="Malaysia"",Palestine Sports
+http://tv.wakds.xyz:8080/tangyuan/12345678/212
+#EXTINF:-1 tvg-id="" tvg-name="Qatar TV" tvg-logo="" group-title="Malaysia"",Qatar TV
+http://tv.wakds.xyz:8080/tangyuan/12345678/214
+#EXTINF:-1 tvg-id="6042" tvg-name="momo親子" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="Taiwan",momo親子
+http://tv.wakds.xyz:8080/tangyuan/12345678/217
+#EXTINF:-1 tvg-id="" tvg-name="Saudi TV" tvg-logo="" group-title="Malaysia"",Saudi TV
+http://tv.wakds.xyz:8080/tangyuan/12345678/218
+#EXTINF:-1 tvg-id="" tvg-name="Sharqiya News" tvg-logo="" group-title="Malaysia"",Sharqiya News
+http://tv.wakds.xyz:8080/tangyuan/12345678/219
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg News" tvg-logo="" group-title="其他",Bloomberg News
+http://tv.wakds.xyz:8080/tangyuan/12345678/226
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="Taiwan",寰宇新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/231
+#EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="" group-title="Taiwan",华视新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/232
+#EXTINF:-1 tvg-id="" tvg-name="卫视卡式台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weishikashi.png" group-title="HongKong - Makau",卫视卡式台
+http://tv.wakds.xyz:8080/tangyuan/12345678/233
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2529/5c88625335b13_1552441939.jpeg" group-title="HongKong - Makau",无线新闻
+http://tv.wakds.xyz:8080/tangyuan/12345678/234
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="HongKong - Makau",凤凰中文
+http://tv.wakds.xyz:8080/tangyuan/12345678/237
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="HongKong - Makau",凤凰中文
+http://tv.wakds.xyz:8080/tangyuan/12345678/238
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="HongKong - Makau",凤凰资讯
+http://tv.wakds.xyz:8080/tangyuan/12345678/239
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1
+http://tv.wakds.xyz:8080/tangyuan/12345678/240
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1
+http://tv.wakds.xyz:8080/tangyuan/12345678/241
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1
+http://tv.wakds.xyz:8080/tangyuan/12345678/242
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1
+http://tv.wakds.xyz:8080/tangyuan/12345678/243
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1
+http://tv.wakds.xyz:8080/tangyuan/12345678/244
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1
+http://tv.wakds.xyz:8080/tangyuan/12345678/245
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV2
+http://tv.wakds.xyz:8080/tangyuan/12345678/246
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV2
+http://tv.wakds.xyz:8080/tangyuan/12345678/247
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV2
+http://tv.wakds.xyz:8080/tangyuan/12345678/248
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV3
+http://tv.wakds.xyz:8080/tangyuan/12345678/249
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV4
+http://tv.wakds.xyz:8080/tangyuan/12345678/250
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV4
+http://tv.wakds.xyz:8080/tangyuan/12345678/251
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV4
+http://tv.wakds.xyz:8080/tangyuan/12345678/252
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV5
+http://tv.wakds.xyz:8080/tangyuan/12345678/253
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV5+
+http://tv.wakds.xyz:8080/tangyuan/12345678/254
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV5+
+http://tv.wakds.xyz:8080/tangyuan/12345678/255
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV5+
+http://tv.wakds.xyz:8080/tangyuan/12345678/256
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV6
+http://tv.wakds.xyz:8080/tangyuan/12345678/257
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV7
+http://tv.wakds.xyz:8080/tangyuan/12345678/258
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV7
+http://tv.wakds.xyz:8080/tangyuan/12345678/259
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV8
+http://tv.wakds.xyz:8080/tangyuan/12345678/260
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV9
+http://tv.wakds.xyz:8080/tangyuan/12345678/261
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV9
+http://tv.wakds.xyz:8080/tangyuan/12345678/262
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV",CCTV10
+http://tv.wakds.xyz:8080/tangyuan/12345678/263
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV",CCTV10
+http://tv.wakds.xyz:8080/tangyuan/12345678/264
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV",CCTV11
+http://tv.wakds.xyz:8080/tangyuan/12345678/265
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV",CCTV11
+http://tv.wakds.xyz:8080/tangyuan/12345678/266
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV",CCTV11
+http://tv.wakds.xyz:8080/tangyuan/12345678/267
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV",CCTV12
+http://tv.wakds.xyz:8080/tangyuan/12345678/268
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV",CCTV12
+http://tv.wakds.xyz:8080/tangyuan/12345678/269
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV13
+http://tv.wakds.xyz:8080/tangyuan/12345678/270
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV",CCTV14
+http://tv.wakds.xyz:8080/tangyuan/12345678/271
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV",CCTV14
+http://tv.wakds.xyz:8080/tangyuan/12345678/272
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV15
+http://tv.wakds.xyz:8080/tangyuan/12345678/273
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV15
+http://tv.wakds.xyz:8080/tangyuan/12345678/274
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV15
+http://tv.wakds.xyz:8080/tangyuan/12345678/275
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV17
+http://tv.wakds.xyz:8080/tangyuan/12345678/276
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV17
+http://tv.wakds.xyz:8080/tangyuan/12345678/277
+#EXTINF:-1 tvg-id="" tvg-name="中国教育1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="CCTV",中国教育1
+http://tv.wakds.xyz:8080/tangyuan/12345678/278
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="TV satelit",东南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/279
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="TV satelit",东南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/280
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="TV satelit",东南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/281
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="TV satelit",东南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/282
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TV satelit",东方卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/283
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TV satelit",东方卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/284
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TV satelit",东方卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/285
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TV satelit",东方卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/286
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TV satelit",东方卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/287
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="TV satelit",北京卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/288
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="TV satelit",北京卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/289
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="TV satelit",北京卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/290
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="TV satelit",北京卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/291
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="TV satelit",北京卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/292
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="" group-title="TV satelit",天津卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/293
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="" group-title="TV satelit",天津卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/294
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="" group-title="TV satelit",天津卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/295
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="" group-title="TV satelit",天津卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/296
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="TV satelit",安徽卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/297
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="TV satelit",安徽卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/298
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="TV satelit",安徽卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/299
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="TV satelit",安徽卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/300
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="TV satelit",山东卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/301
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="TV satelit",山东卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/302
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="TV satelit",山东卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/303
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="TV satelit",山东卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/304
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="TV satelit",山东卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/305
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="TV satelit",广东卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/306
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="TV satelit",广东卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/307
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="TV satelit",广东卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/308
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="TV satelit",广东卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/309
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="TV satelit",江苏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/310
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="TV satelit",江苏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/311
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="TV satelit",江苏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/312
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="TV satelit",江苏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/313
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="TV satelit",江苏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/314
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="" group-title="TV satelit",江西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/315
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="" group-title="TV satelit",江西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/316
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="" group-title="TV satelit",江西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/317
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="TV satelit",河北卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/318
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="TV satelit",河北卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/319
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="TV satelit",河北卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/320
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="TV satelit",河北卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/321
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="TV satelit",浙江卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/322
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="TV satelit",浙江卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/323
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="TV satelit",浙江卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/324
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="TV satelit",浙江卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/325
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="TV satelit",浙江卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/326
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="TV satelit",深圳卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/327
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="TV satelit",深圳卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/328
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="TV satelit",深圳卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/329
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="TV satelit",湖北卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/330
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="TV satelit",湖北卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/331
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="TV satelit",湖北卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/332
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="TV satelit",湖北卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/333
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="TV satelit",湖北卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/334
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="" group-title="TV satelit",湖南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/335
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="" group-title="TV satelit",湖南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/336
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="" group-title="TV satelit",湖南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/337
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="" group-title="TV satelit",湖南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/338
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="" group-title="TV satelit",贵州卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/339
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="" group-title="TV satelit",贵州卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/340
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="" group-title="TV satelit",贵州卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/341
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="" group-title="TV satelit",贵州卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/342
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="TV satelit",辽宁卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/343
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="TV satelit",辽宁卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/344
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="TV satelit",辽宁卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/345
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="TV satelit",辽宁卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/346
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="" group-title="TV satelit",黑龙江卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/347
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="" group-title="TV satelit",黑龙江卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/348
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="" group-title="TV satelit",黑龙江卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/349
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="" group-title="TV satelit",黑龙江卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/350
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="" group-title="TV satelit",云南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/351
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="" group-title="TV satelit",云南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/352
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="" group-title="TV satelit",云南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/353
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="" group-title="TV satelit",内蒙古卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/354
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="" group-title="TV satelit",内蒙古卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/355
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="" group-title="TV satelit",内蒙古卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/356
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="" group-title="TV satelit",厦门卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/357
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="" group-title="TV satelit",吉林卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/358
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="" group-title="TV satelit",吉林卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/359
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="" group-title="TV satelit",吉林卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/360
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="TV satelit",四川卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/361
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="TV satelit",四川卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/362
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="TV satelit",四川卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/363
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="" group-title="TV satelit",宁夏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/364
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="" group-title="TV satelit",宁夏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/365
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="" group-title="TV satelit",宁夏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/366
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="" group-title="TV satelit",山西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/367
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="" group-title="TV satelit",山西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/368
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="" group-title="TV satelit",山西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/369
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="" group-title="TV satelit",广西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/370
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="" group-title="TV satelit",广西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/371
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="" group-title="TV satelit",广西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/372
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="TV satelit",新疆卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/373
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="TV satelit",新疆卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/374
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="TV satelit",新疆卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/375
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="" group-title="TV satelit",河南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/376
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="" group-title="TV satelit",河南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/377
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="" group-title="TV satelit",海南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/378
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="" group-title="TV satelit",海南卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/379
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="" group-title="TV satelit",甘肃卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/380
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="" group-title="TV satelit",甘肃卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/381
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="" group-title="TV satelit",甘肃卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/382
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="" group-title="TV satelit",西藏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/383
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="" group-title="TV satelit",西藏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/384
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="" group-title="TV satelit",西藏卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/385
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="" group-title="TV satelit",重庆卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/386
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="" group-title="TV satelit",重庆卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/387
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="" group-title="TV satelit",重庆卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/388
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="" group-title="TV satelit",陕西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/389
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="" group-title="TV satelit",陕西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/390
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="" group-title="TV satelit",陕西卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/391
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="" group-title="TV satelit",青海卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/392
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="" group-title="TV satelit",青海卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/393
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="" group-title="TV satelit",青海卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/394
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="" group-title="TV satelit",山东教育卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/395
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="" group-title="TV satelit",山东教育卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/396
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="" group-title="TV satelit",山东教育卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/397
+#EXTINF:-1 tvg-id="" tvg-name="广东南方卫视地面" tvg-logo="" group-title="TV satelit",广东南方卫视地面
+http://tv.wakds.xyz:8080/tangyuan/12345678/398
+#EXTINF:-1 tvg-id="" tvg-name="新疆兵团卫视" tvg-logo="" group-title="TV satelit",新疆兵团卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/399
+#EXTINF:-1 tvg-id="" tvg-name="海南三沙卫视" tvg-logo="" group-title="TV satelit",海南三沙卫视
+http://tv.wakds.xyz:8080/tangyuan/12345678/400
+#EXTINF:-1 tvg-id="" tvg-name="生命电视台" tvg-logo="" group-title="其他",生命电视台
+http://tv.wakds.xyz:8080/tangyuan/12345678/2662
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="HongKong - Makau",ATV
+http://tv.wakds.xyz:8080/tangyuan/12345678/2670
+#EXTINF:-1 tvg-id="" tvg-name="NTV News 24" tvg-logo="" group-title="Jepang - Korea",NTV News 24
+http://tv.wakds.xyz:8080/tangyuan/12345678/2671
+#EXTINF:-1 tvg-id="" tvg-name="日本テレビ" tvg-logo="" group-title="Jepang - Korea",日本テレビ
+http://tv.wakds.xyz:8080/tangyuan/12345678/2672
+#EXTINF:-1 tvg-id="" tvg-name="日本映画専門チャンネル" tvg-logo="" group-title="Jepang - Korea",日本映画専門チャンネル
+http://tv.wakds.xyz:8080/tangyuan/12345678/2673
+#EXTINF:-1 tvg-id="" tvg-name="グリーンチャンネル" tvg-logo="" group-title="Jepang - Korea",グリーンチャンネル
+http://tv.wakds.xyz:8080/tangyuan/12345678/2674
+#EXTINF:-1 tvg-id="" tvg-name="ゴルフネットワーク" tvg-logo="" group-title="Jepang - Korea",ゴルフネットワーク
+http://tv.wakds.xyz:8080/tangyuan/12345678/2675
+#EXTINF:-1 tvg-id="" tvg-name="サンテレビ" tvg-logo="" group-title="Jepang - Korea",サンテレビ
+http://tv.wakds.xyz:8080/tangyuan/12345678/2676
+#EXTINF:-1 tvg-id="" tvg-name="スカイA spor＋" tvg-logo="" group-title="Jepang - Korea",スカイA spor＋
+http://tv.wakds.xyz:8080/tangyuan/12345678/2677
+#EXTINF:-1 tvg-id="" tvg-name="テレビ大阪" tvg-logo="" group-title="Jepang - Korea",テレビ大阪
+http://tv.wakds.xyz:8080/tangyuan/12345678/2678
+#EXTINF:-1 tvg-id="" tvg-name="テレビ朝日" tvg-logo="" group-title="Jepang - Korea",テレビ朝日
+http://tv.wakds.xyz:8080/tangyuan/12345678/2679
+#EXTINF:-1 tvg-id="" tvg-name="テレビ東京" tvg-logo="" group-title="Jepang - Korea",テレビ東京
+http://tv.wakds.xyz:8080/tangyuan/12345678/2680
+#EXTINF:-1 tvg-id="" tvg-name="フジテレビジョン" tvg-logo="" group-title="Jepang - Korea",フジテレビジョン
+http://tv.wakds.xyz:8080/tangyuan/12345678/2681
+#EXTINF:-1 tvg-id="" tvg-name="ホームドラマチャンネル" tvg-logo="" group-title="Jepang - Korea",ホームドラマチャンネル
+http://tv.wakds.xyz:8080/tangyuan/12345678/2682
+#EXTINF:-1 tvg-id="" tvg-name="J sport 1" tvg-logo="" group-title="Jepang - Korea",J sport 1
+http://tv.wakds.xyz:8080/tangyuan/12345678/2683
+#EXTINF:-1 tvg-id="" tvg-name="J sport 2" tvg-logo="" group-title="Jepang - Korea",J sport 2
+http://tv.wakds.xyz:8080/tangyuan/12345678/2684
+#EXTINF:-1 tvg-id="" tvg-name="J sport 3" tvg-logo="" group-title="Jepang - Korea",J sport 3
+http://tv.wakds.xyz:8080/tangyuan/12345678/2685
+#EXTINF:-1 tvg-id="" tvg-name="J sport 4" tvg-logo="" group-title="Jepang - Korea",J sport 4
+http://tv.wakds.xyz:8080/tangyuan/12345678/2686
+#EXTINF:-1 tvg-id="" tvg-name="TOKYO MX" tvg-logo="" group-title="Jepang - Korea",TOKYO MX
+http://tv.wakds.xyz:8080/tangyuan/12345678/2687
+#EXTINF:-1 tvg-id="" tvg-name="BS-1" tvg-logo="" group-title="Jepang - Korea",BS-1
+http://tv.wakds.xyz:8080/tangyuan/12345678/2688
+#EXTINF:-1 tvg-id="" tvg-name="BS11" tvg-logo="" group-title="Jepang - Korea",BS11
+http://tv.wakds.xyz:8080/tangyuan/12345678/2689
+#EXTINF:-1 tvg-id="" tvg-name="BS12" tvg-logo="" group-title="Jepang - Korea",BS12
+http://tv.wakds.xyz:8080/tangyuan/12345678/2690
+#EXTINF:-1 tvg-id="" tvg-name="BS-TBS" tvg-logo="" group-title="Jepang - Korea",BS-TBS
+http://tv.wakds.xyz:8080/tangyuan/12345678/2691
+#EXTINF:-1 tvg-id="" tvg-name="BSジャパン" tvg-logo="" group-title="Jepang - Korea",BSジャパン
+http://tv.wakds.xyz:8080/tangyuan/12345678/2692
+#EXTINF:-1 tvg-id="" tvg-name="BSフジ" tvg-logo="" group-title="Jepang - Korea",BSフジ
+http://tv.wakds.xyz:8080/tangyuan/12345678/2693
+#EXTINF:-1 tvg-id="" tvg-name="BSプレミアム" tvg-logo="" group-title="Jepang - Korea",BSプレミアム
+http://tv.wakds.xyz:8080/tangyuan/12345678/2694
+#EXTINF:-1 tvg-id="" tvg-name="BS日テレ" tvg-logo="" group-title="Jepang - Korea",BS日テレ
+http://tv.wakds.xyz:8080/tangyuan/12345678/2695
+#EXTINF:-1 tvg-id="" tvg-name="WOWOWシネマ" tvg-logo="" group-title="Jepang - Korea",WOWOWシネマ
+http://tv.wakds.xyz:8080/tangyuan/12345678/2696
+#EXTINF:-1 tvg-id="" tvg-name="WOWOWプライム" tvg-logo="" group-title="Jepang - Korea",WOWOWプライム
+http://tv.wakds.xyz:8080/tangyuan/12345678/2697
+#EXTINF:-1 tvg-id="" tvg-name="WOWOWライブ" tvg-logo="" group-title="Jepang - Korea",WOWOWライブ
+http://tv.wakds.xyz:8080/tangyuan/12345678/2698
+#EXTINF:-1 tvg-id="" tvg-name="韩国阿里郎" tvg-logo="" group-title="Jepang - Korea",韩国阿里郎
+http://tv.wakds.xyz:8080/tangyuan/12345678/2699
+#EXTINF:-1 tvg-id="" tvg-name="Japanet DX Channel" tvg-logo="" group-title="Jepang - Korea",Japanet DX Channel
+http://tv.wakds.xyz:8080/tangyuan/12345678/2700
 
 ### LIFE STYLE #
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="ZALCODE-LIFE",MY eGG Network
