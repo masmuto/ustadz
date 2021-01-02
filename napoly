@@ -105,10 +105,10 @@ http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #### ZALCODE MOVIE ###
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
-https://zaltvku.imfast.io/HBO1.m3u8
+https://drive.google.com/uc?export=download&id=1ZDdAantUW0LRmed8LCXIFpy1-CMc2qYX
 
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
-https://zaltvku.imfast.io/SIG.m3u8
+https://drive.google.com/uc?export=download&id=129baBYjaD1LjAgWZXh5MDJHtrgrcTyrvK
 
 #EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits
 https://zaltvku.imfast.io/HITS.m3u8
