@@ -105,22 +105,21 @@ http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #### ZALCODE MOVIE ###
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
-https://drive.google.com/uc?export=download&id=1ZDdAantUW0LRmed8LCXIFpy1-CMc2qYX
-
+http://me.zichannels.my.id/ch/hbo.m3u8
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
-https://drive.google.com/uc?export=download&id=129baBYjaD1LjAgWZXh5MDJHtrgrcTyrvK
+http://me.zichannels.my.id/ch/sighd.m3u8 
 
 #EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits
-https://zaltvku.imfast.io/HITS.m3u8
+http://me.zichannels.my.id/ch/hits.m3u8 
 
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family
-https://zaltvku.imfast.io/FAMILY.m3u8
+http://me.zichannels.my.id/ch/family.m3u8 
 
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax
-https://zaltvku.imfast.io/MAX.m3u8
+http://me.zichannels.my.id/ch/max.m3u8 
 
 #EXTINF:-1 tvg-ID="RED.id" group-title="ZALCODE-MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg", RED by HBO
-https://zaltvku.imfast.io/RED.m3u8
+http://me.zichannels.my.id/ch/red.m3u8
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO SD
 https://zaltvku.imfast.io/HBO1SD.m3u8
@@ -137,22 +136,6 @@ https://zaltvku.imfast.io/REDSD.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0" group-title="ZALCODE-MOVIES",My Cinema
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="ZALCODE-MOVIES",HBO-MY
-http://tv.wakds.xyz:8080/tangyuan/12345678/193
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic" tvg-logo="" group-title="ZALCODE-MOVIES",Celestial Classic
-http://tv.wakds.xyz:8080/tangyuan/12345678/179
-#EXTINF:-1 tvg-id="" tvg-name="Prima" tvg-logo="" group-title="ZALCODE-MOVIES",ASTRO-Prima
-http://tv.wakds.xyz:8080/tangyuan/12345678/161
-#EXTINF:-1 tvg-id="" tvg-name="Ceria" tvg-logo="" group-title="ZALCODE-MOVIES",ASTRO-Ceria
-http://tv.wakds.xyz:8080/tangyuan/12345678/167
-#EXTINF:-1 tvg-id="" tvg-name="Citra" tvg-logo="" group-title="ZALCODE-MOVIES",ASTRO-Citra
-http://tv.wakds.xyz:8080/tangyuan/12345678/168
-#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="" group-title="ZALCODE-MOVIES",MBC Max
-http://tv.wakds.xyz:8080/tangyuan/12345678/209
-#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-logo="" group-title="ZALCODE-MOVIES",MBC Action
-http://tv.wakds.xyz:8080/tangyuan/12345678/204
-#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="" group-title="ZALCODE-MOVIES",MBC Drama
-http://tv.wakds.xyz:8080/tangyuan/12345678/205
 
 
 
