@@ -105,38 +105,69 @@ http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #### ZALCODE MOVIE ###
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
-http://me.zichannels.my.id/ch/hbo.m3u8
+https://srv-store1.gofile.io/download/Qga1L2/HBO1.m3u8
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
-http://me.zichannels.my.id/ch/sighd.m3u8 
-
+https://srv-store1.gofile.io/download/mxLZcT/SIG.m3u8
 #EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits
-http://me.zichannels.my.id/ch/hits.m3u8 
-
+https://srv-store1.gofile.io/download/mxLZcT/HITS.m3u8
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family
-http://me.zichannels.my.id/ch/family.m3u8 
-
+https://srv-store1.gofile.io/download/mxLZcT/FAMILY.m3u8
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax
-http://me.zichannels.my.id/ch/max.m3u8 
-
+https://srv-store1.gofile.io/download/mxLZcT/MAX.m3u8
 #EXTINF:-1 tvg-ID="RED.id" group-title="ZALCODE-MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg", RED by HBO
-http://me.zichannels.my.id/ch/red.m3u8
+https://srv-store1.gofile.io/download/mxLZcT/RED.m3u8
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO SD
-https://zaltvku.imfast.io/HBO1SD.m3u8
+https://srv-store1.gofile.io/download/mxLZcT/HBO_SD.m3u8
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature SD
-https://zaltvku.imfast.io/SIGSD.m3u8
+https://srv-store1.gofile.io/download/Qga1L2/SIGSD.m3u8
 #EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits SD
-https://zaltvku.imfast.io/HITSSD.m3u8
+https://srv-store1.gofile.io/download/Qga1L2/HITSSD.m3u8
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family SD
 https://zaltvku.imfast.io/FAMILYSD.m3u8
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax-SD
-https://zaltvku.imfast.io/MAXSD.m3u8
+https://srv-store1.gofile.io/download/Qga1L2/MAXSD.m3u8
 #EXTINF:-1 tvg-ID="RED.id" group-title="ZALCODE-MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg", RED by HBO SD
-https://zaltvku.imfast.io/REDSD.m3u8
+https://srv-store1.gofile.io/download/Qga1L2/REDSD.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0" group-title="ZALCODE-MOVIES",My Cinema
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
+### ZALCODETV ##
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="ZALCODE-ENT",ANIPLUS
+http://210.210.155.35/session/ec8b65d0-8ac1-11ea-b4aa-c81f66f89318/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="ZALCODE-ENT",ANIMAX
+http://210.210.155.35/session/1e32b920-8ac3-11ea-a16a-c81f66f89318/dr9445/h/h144/02.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="ZALCODE-ENT",CELESTIAL MOVIE
+http://210.210.155.35/session/5161f5da-8abf-11ea-8ff9-b82a72d63267/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="ZALCODE-ENT",KIX
+http://210.210.155.35/session/0d70c506-8ac2-11ea-b162-c81f66f89318/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo=http://www.dens.tv/images/channel-logo/95.jpg"" group-title="ZALCODE-ENT",MY CINEMA
+http://210.210.155.35/session/1482d1f4-8b5d-11ea-a11f-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="ZALCODE-ENT", BLUE ANT ENTERTAINMENT
+http://210.210.155.35/session/4f893468-8aff-11ea-b29b-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="ZALCODE-ENT",CINEMA WORLD
+http://210.210.155.35/session/b7f290cc-8b03-11ea-9e97-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg" group-title="ZALCODE-ENT",AXN 
+http://210.210.155.35/session/92f8302e-8b03-11ea-a16a-c81f66f89318/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="ZALCODE-ENT", BLUE ANT EXTREME
+http://210.210.155.35/session/3061ac06-8b03-11ea-a7a4-b82a72d63267/dr9445/h/h15/01.m3u8     
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="ZALCODE-ENT",HITS
+http://210.210.155.35/session/6a44e720-8b04-11ea-afc9-c81f66f89318/uq2663/h/h37/02.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="ZALCODE-ENT",TRILL
+http://210.210.155.35/session/abe709e2-8b04-11ea-a706-c81f66f89318/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="ZALCODE-ENT",K+
+http://210.210.155.35/session/068e3abe-8b05-11ea-929d-c81f66f89318/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg" group-title="ZALCODE-ENT",ONE
+http://210.210.155.35/session/294810b6-8b05-11ea-b4aa-c81f66f89318/uq2663/h/h143/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="ZALCODE-ENT",GEM
+http://210.210.155.35/session/53402f70-8b05-11ea-bc3a-b82a72d63267/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="ZALCODE-ENT",MONDE5
+http://210.210.155.35/session/7314c3b0-8b05-11ea-9759-b82a72d63267/uq2663/h/h01/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="ZALCODE-ENT",FIGH
+http://210.210.155.35/session/b349e370-8b05-11ea-afc9-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="ZALCODE-ENT",ZEE BIOSKOP 
+http://210.210.155.35/session/e1c7c2e4-8b05-11ea-a66f-b82a72d63267/qwr9ew/s/s32/01.m3u8
 
 
 ### ZALCODE SPORT ###
