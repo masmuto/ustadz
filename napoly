@@ -105,30 +105,30 @@ http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #### ZALCODE MOVIE ###
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
-https://srv-store1.gofile.io/download/Qga1L2/HBO1.m3u8
+http://masmuto.com/HBO1.m3u8
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
-https://srv-store1.gofile.io/download/mxLZcT/SIG.m3u8
+http://masmuto.com/SIG.m3u8
 #EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits
-https://srv-store1.gofile.io/download/mxLZcT/HITS.m3u8
+http://masmuto.com/HITS.m3u8
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family
-https://srv-store1.gofile.io/download/mxLZcT/FAMILY.m3u8
+http://masmuto.com/FAMILY.m3u8
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax
-https://srv-store1.gofile.io/download/mxLZcT/MAX.m3u8
+http://masmuto.com/MAX.m3u8
 #EXTINF:-1 tvg-ID="RED.id" group-title="ZALCODE-MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg", RED by HBO
-https://srv-store1.gofile.io/download/mxLZcT/RED.m3u8
+http://masmuto.com/RED.m3u8
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO SD
-https://srv-store1.gofile.io/download/mxLZcT/HBO_SD.m3u8
+http://masmuto.com/HBO_SD.m3u8
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature SD
-https://srv-store1.gofile.io/download/Qga1L2/SIGSD.m3u8
+http://masmuto.com/SIGSD.m3u8
 #EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits SD
-https://srv-store1.gofile.io/download/Qga1L2/HITSSD.m3u8
+http://masmuto.com/HITSSD.m3u8
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family SD
 https://zaltvku.imfast.io/FAMILYSD.m3u8
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="ZALCODE-MOVIES" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax-SD
-https://srv-store1.gofile.io/download/Qga1L2/MAXSD.m3u8
+http://masmuto.com/MAXSD.m3u8
 #EXTINF:-1 tvg-ID="RED.id" group-title="ZALCODE-MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg", RED by HBO SD
-https://srv-store1.gofile.io/download/Qga1L2/REDSD.m3u8
+http://masmuto.com/REDSD.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0" group-title="ZALCODE-MOVIES",My Cinema
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
