@@ -413,48 +413,8 @@ http://onlyallgood.com:8080/Worktvs/Worktvs/25121
 http://onlyallgood.com:8080/Worktvs/Worktvs/28964
 #EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",-------  beIN Sports AR -------
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682924
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports News FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/676904
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 1 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682932
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 1 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5482
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 1 HD VIP AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678748
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 2 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682933
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 2 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5481
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 3 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682934
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 3 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5480
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 4 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5479
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 5 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682935
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 5 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5478
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 6 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54777
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 7 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683135
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 7 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5476
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 8 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53432
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 9 FHD VIP AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682936
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 9 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5474
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 10 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5473
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 11 FHD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683410
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 11 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667466
-#EXTINF:-1 group-title="⚽⚽⚽BEIN-SPORTS⚽⚽⚽",beIN Sports 12 HD AR
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54715
+
+
 #EXTINF: -1 tvg-name="SKY CINEMA PREMIER FHD" group-title="UK-MOVIES ᵘᵏ", SKY CINEMA PREMIER FHD
 http://onlyallgood.com:8080/Worktvs/Worktvs/29191
 #EXTINF: -1 tvg-name="SKY CINEMA HARRY POTTER FHD" group-title="UK-MOVIES ᵘᵏ", SKY CINEMA HARRY POTTER FHD
@@ -473,6 +433,395 @@ http://onlyallgood.com:8080/Worktvs/Worktvs/29197
 http://onlyallgood.com:8080/Worktvs/Worktvs/29198
 #EXTINF: -1 tvg-name="SKY CINEMA SCI-FI/HORROR FHD" group-title="UK-MOVIES ᵘᵏ", SKY CINEMA SCI-FI/HORROR FHD
 http://onlyallgood.com:8080/Worktvs/Worktvs/29199
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1189
+#EXTINF: -1 tvg-name="ESPN News"  group-title="⚽ US CHANNEL ⚽", ESPN News
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+#EXTINF: -1 tvg-name="ESPN U"  group-title="⚽ US CHANNEL ⚽", ESPN U
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
+#EXTINF: -1 tvg-name="ESPN Deportes" group-title="Latino", ESPN Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+#EXTINF: -1 tvg-name="UFC USA" group-title="⚽ US CHANNEL ⚽", UFC USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
+#EXTINF: -1 tvg-name="5USA HD"  group-title="⚽ US CHANNEL ⚽", 5USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
+#EXTINF: -1 tvg-name="BBC AME HD (ENG)"  group-title="⚽ US CHANNEL ⚽", BBC AME HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
+#EXTINF: -1 tvg-name="Bravo (ENG)"  group-title="⚽ US CHANNEL ⚽", Bravo (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
+#EXTINF: -1 tvg-name="CBSNY"  group-title="⚽ US CHANNEL ⚽", CBSNY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/498
+#EXTINF: -1 tvg-name="CBSNEWYORK"  group-title="⚽ US CHANNEL ⚽", CBSNEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497
+#EXTINF: -1 tvg-name="CBSMIAMI"  group-title="⚽ US CHANNEL ⚽", CBSMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
+#EXTINF: -1 tvg-name="CBSPENN"  group-title="⚽ US CHANNEL ⚽", CBSPENN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/499
+#EXTINF: -1 tvg-name="CBSSN"  group-title="⚽ US CHANNEL ⚽", CBSSN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
+#EXTINF: -1 tvg-name="CNBC HD (ENG)"  group-title="⚽ US CHANNEL ⚽", CNBC HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501
+#EXTINF: -1 tvg-name="CNBC US"  group-title="⚽ US CHANNEL ⚽", CNBC US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502
+#EXTINF: -1 tvg-name="DISCOVERY CIVILIZATION"  group-title="⚽ US CHANNEL ⚽", DISCOVERY CIVILIZATION
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/686
+#EXTINF: -1 tvg-name="DISTRITO COMEDIA"  group-title="⚽ US CHANNEL ⚽", DISTRITO COMEDIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+#EXTINF: -1 tvg-name="E! Entertaiment USA"  group-title="⚽ US CHANNEL ⚽", E! Entertaiment USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+#EXTINF: -1 tvg-name="ESPN1"  group-title="⚽ US CHANNEL ⚽", ESPN1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTINF: -1 tvg-name="FOXBUSINESS (ENG)"  group-title="⚽ US CHANNEL ⚽", FOXBUSINESS (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/541
+#EXTINF: -1 tvg-name="FREEFORM"  group-title="⚽ US CHANNEL ⚽", FREEFORM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
+#EXTINF: -1 tvg-name="FX"  group-title="⚽ US CHANNEL ⚽", FX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+#EXTINF: -1 tvg-name="HGTV (ENG)"  group-title="⚽ US CHANNEL ⚽", HGTV (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+#EXTINF: -1 tvg-name="History HD (ENG)"  group-title="⚽ US CHANNEL ⚽", History HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#EXTINF: -1 tvg-name="Lifetime HD (ENG)"  group-title="⚽ US CHANNEL ⚽", Lifetime HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
+#EXTINF: -1 tvg-name="MSNBC HD ENG"  group-title="⚽ US CHANNEL ⚽", MSNBC HD ENG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
+#EXTINF: -1 tvg-name="NATGEO"  group-title="⚽ US CHANNEL ⚽", NATGEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF: -1 tvg-name="NBA HD (ENG)"  group-title="⚽ US CHANNEL ⚽", NBA HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF: -1 tvg-name="NBC NEW YORK"  group-title="⚽ US CHANNEL ⚽", NBC NEW YORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601
+#EXTINF: -1 tvg-name="NBCSN  HD (ENG)"  group-title="⚽ US CHANNEL ⚽", NBCSN  HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+#EXTINF: -1 tvg-name="NFL NETWORK"  group-title="⚽ US CHANNEL ⚽", NFL NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+#EXTINF: -1 tvg-name="OLYMPIC CHANNEL  HD (ENG)"  group-title="⚽ US CHANNEL ⚽", OLYMPIC CHANNEL  HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624
+#EXTINF: -1 tvg-name="SYFY"  group-title="⚽ US CHANNEL ⚽", SYFY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+#EXTINF: -1 tvg-name="TELEMUNDOMIAMI"  group-title="⚽ US CHANNEL ⚽", TELEMUNDOMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
+#EXTINF: -1 tvg-name="TNT"  group-title="⚽ US CHANNEL ⚽", TNT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+#EXTINF: -1 tvg-name="TOONCAST"  group-title="⚽ US CHANNEL ⚽", TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF: -1 tvg-name="NFLREDZONE"  group-title="⚽ US CHANNEL ⚽", NFLREDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/623
+#EXTINF: -1 tvg-name="A&E ENG HD"  group-title="⚽ US CHANNEL ⚽", A&E ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
+#EXTINF: -1 tvg-name="ABC7CHICAGO"  group-title="⚽ US CHANNEL ⚽", ABC7CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+#EXTINF: -1 tvg-name="CBS2CHICAGO"  group-title="⚽ US CHANNEL ⚽", CBS2CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492
+#EXTINF: -1 tvg-name="COOKING"  group-title="⚽ US CHANNEL ⚽", COOKING
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
+#EXTINF: -1 tvg-name="COZI"  group-title="⚽ US CHANNEL ⚽", COZI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505
+#EXTINF: -1 tvg-name="DESTINATION AMERICA"  group-title="⚽ US CHANNEL ⚽", DESTINATION AMERICA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
+#EXTINF: -1 tvg-name="DISCOVERYFAMENG"  group-title="⚽ US CHANNEL ⚽", DISCOVERYFAMENG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
+#EXTINF: -1 tvg-name="DISCOVERYFAMSPA"  group-title="⚽ US CHANNEL ⚽", DISCOVERYFAMSPA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
+#EXTINF: -1 tvg-name="VELOCITY"  group-title="⚽ US CHANNEL ⚽", VELOCITY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
+#EXTINF: -1 tvg-name="DISNEY"  group-title="⚽ US CHANNEL ⚽", DISNEY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF: -1 tvg-name="DISNEYJR"  group-title="⚽ US CHANNEL ⚽", DISNEYJR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF: -1 tvg-name="DISNEYXD"  group-title="⚽ US CHANNEL ⚽", DISNEYXD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF: -1 tvg-name="EPIXHITS"  group-title="⚽ US CHANNEL ⚽", EPIXHITS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519
+#EXTINF: -1 tvg-name="FOX2CHICAGO"  group-title="⚽ US CHANNEL ⚽", FOX2CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/534
+#EXTINF: -1 tvg-name="FOX2DETROIT"  group-title="⚽ US CHANNEL ⚽", FOX2DETROIT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/535
+#EXTINF: -1 tvg-name="FOX11LA"  group-title="⚽ US CHANNEL ⚽", FOX11LA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533
+#EXTINF: -1 tvg-name="FOX7MIAMI"  group-title="⚽ US CHANNEL ⚽", FOX7MIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/540
+#EXTINF: -1 tvg-name="FOX5NEWYORK"  group-title="⚽ US CHANNEL ⚽", FOX5NEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539
+#EXTINF: -1 tvg-name="GALAVISION"  group-title="⚽ US CHANNEL ⚽", GALAVISION
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+#EXTINF: -1 tvg-name="CBSKPIX"  group-title="⚽ US CHANNEL ⚽", CBSKPIX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
+#EXTINF: -1 tvg-name="Lifetime Movie"  group-title="⚽ US CHANNEL ⚽", Lifetime Movie
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+#EXTINF: -1 tvg-name="NATGEO MUNDO HD"  group-title="⚽ US CHANNEL ⚽", NATGEO MUNDO HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
+#EXTINF: -1 tvg-name="NBC5CHICAGO"  group-title="⚽ US CHANNEL ⚽", NBC5CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602
+#EXTINF: -1 tvg-name="NBCMIAMI"  group-title="⚽ US CHANNEL ⚽", NBCMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603
+#EXTINF: -1 tvg-name="NUEVE 9"  group-title="⚽ US CHANNEL ⚽", NUEVE 9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+#EXTINF: -1 tvg-name="OWN"  group-title="⚽ US CHANNEL ⚽", OWN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/627
+#EXTINF: -1 tvg-name="OXYGEN"  group-title="⚽ US CHANNEL ⚽", OXYGEN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628
+#EXTINF: -1 tvg-name="REVOLT MUSIC"  group-title="⚽ US CHANNEL ⚽", REVOLT MUSIC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/640
+#EXTINF: -1 tvg-name="TELEMUNDO44"  group-title="⚽ US CHANNEL ⚽", TELEMUNDO44
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+#EXTINF: -1 tvg-name="TELEMUNDOLA"  group-title="⚽ US CHANNEL ⚽", TELEMUNDOLA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+#EXTINF: -1 tvg-name="TELEMUNDO48"  group-title="⚽ US CHANNEL ⚽", TELEMUNDO48
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655
+#EXTINF: -1 tvg-name="TELEMUNDONEWYORK"  group-title="⚽ US CHANNEL ⚽", TELEMUNDONEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
+#EXTINF: -1 tvg-name="UNIMAS HD"  group-title="⚽ US CHANNEL ⚽", UNIMAS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
+#EXTINF: -1 tvg-name="UNIVERSO"  group-title="⚽ US CHANNEL ⚽", UNIVERSO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+#EXTINF: -1 tvg-name="UNIVISION SPORTS   ULTIMO"  group-title="⚽ US CHANNEL ⚽", UNIVISION SPORTS   ULTIMO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+#EXTINF: -1 tvg-name="XITE"  group-title="⚽ US CHANNEL ⚽", XITE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
+#EXTINF: -1 tvg-name="XITEROCK"  group-title="⚽ US CHANNEL ⚽", XITEROCK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
+#EXTINF: -1 tvg-name="XITEVIBE"  group-title="⚽ US CHANNEL ⚽", XITEVIBE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
+#EXTINF: -1 tvg-name="BTN"  group-title="⚽ US CHANNEL ⚽", BTN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490
+#EXTINF: -1 tvg-name="FOX DEPORTES HD"  group-title="⚽ US CHANNEL ⚽", FOX DEPORTES HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF: -1 tvg-name="FS1"  group-title="⚽ US CHANNEL ⚽", FS1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+#EXTINF: -1 tvg-name="FS2"  group-title="⚽ US CHANNEL ⚽", FS2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+#EXTINF: -1 tvg-name="FOXCOLLEGESPORTSCENTRAL"  group-title="⚽ US CHANNEL ⚽", FOXCOLLEGESPORTSCENTRAL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
+#EXTINF: -1 tvg-name="LONGHORN"  group-title="⚽ US CHANNEL ⚽", LONGHORN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/569
+#EXTINF: -1 tvg-name="GOLF CHANNEL HD"  group-title="⚽ US CHANNEL ⚽", GOLF CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+#EXTINF: -1 tvg-name="ABC NEW YORK"  group-title="⚽ US CHANNEL ⚽", ABC NEW YORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728
+#EXTINF: -1 tvg-name="Animal HD (ENG)"  group-title="⚽ US CHANNEL ⚽", Animal HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+#EXTINF: -1 tvg-name="Comedy Central HD (ENG)"  group-title="⚽ US CHANNEL ⚽", Comedy Central HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+#EXTINF: -1 tvg-name="CW HD (ENG)"  group-title="⚽ US CHANNEL ⚽", CW HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
+#EXTINF: -1 tvg-name="ESPN 2 HD (ENG)"  group-title="⚽ US CHANNEL ⚽", ESPN 2 HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+#EXTINF: -1 tvg-name="Fox News HD"  group-title="⚽ US CHANNEL ⚽", Fox News HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
+#EXTINF: -1 tvg-name="MLB NETWORKS"  group-title="⚽ US CHANNEL ⚽", MLB NETWORKS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
+#EXTINF: -1 tvg-name="Investigation Discovery ID"  group-title="⚽ US CHANNEL ⚽", Investigation Discovery ID
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
+#EXTINF: -1 tvg-name="MTV LIVE"  group-title="⚽ US CHANNEL ⚽", MTV LIVE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF: -1 tvg-name="NATGEO KIDS"  group-title="⚽ US CHANNEL ⚽", NATGEO KIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
+#EXTINF: -1 tvg-name="Nickelodeon HD (ENG)"  group-title="⚽ US CHANNEL ⚽", Nickelodeon HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF: -1 tvg-name="PARAMOUNT NETWORK (ENG)"  group-title="⚽ US CHANNEL ⚽", PARAMOUNT NETWORK (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755
+#EXTINF: -1 tvg-name="SUNDANCETV HD (ENG)"  group-title="⚽ US CHANNEL ⚽", SUNDANCETV HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
+#EXTINF: -1 tvg-name="TBS"  group-title="⚽ US CHANNEL ⚽", TBS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+#EXTINF: -1 tvg-name="TIIN"  group-title="⚽ US CHANNEL ⚽", TIIN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
+#EXTINF: -1 tvg-name="TRUTV ESP"  group-title="⚽ US CHANNEL ⚽", TRUTV ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
+#EXTINF: -1 tvg-name="WHVL HD (ENG)"  group-title="⚽ US CHANNEL ⚽", WHVL HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/763
+#EXTINF: -1 tvg-name="VEPLUSTV"  group-title="⚽ US CHANNEL ⚽", VEPLUSTV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/762
+#EXTINF: -1 tvg-name="AFIZZIONADOS"  group-title="⚽ US CHANNEL ⚽", AFIZZIONADOS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
+#EXTINF: -1 tvg-name="REDBULL TV"  group-title="⚽ US CHANNEL ⚽", REDBULL TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756
+#EXTINF: -1 tvg-name="TVC DEPORTES"  group-title="⚽ US CHANNEL ⚽", TVC DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+#EXTINF: -1 tvg-name="BEIN SPORTS ENG HD"  group-title="⚽ US CHANNEL ⚽", BEIN SPORTS ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+#EXTINF: -1 tvg-name="ELEVEN SPORTS"  group-title="⚽ US CHANNEL ⚽", ELEVEN SPORTS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
+#EXTINF: -1 tvg-name="SPORTSBAYAREA"  group-title="⚽ US CHANNEL ⚽", SPORTSBAYAREA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
+#EXTINF: -1 tvg-name="sportsboston"  group-title="⚽ US CHANNEL ⚽", sportsboston
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/645
+#EXTINF: -1 tvg-name="SPORTSCALIFORNIA"  group-title="⚽ US CHANNEL ⚽", SPORTSCALIFORNIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/646
+#EXTINF: -1 tvg-name="SPORTSCHICAGO"  group-title="⚽ US CHANNEL ⚽", SPORTSCHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
+#EXTINF: -1 tvg-name="SPORTSMAN CHANNEL"  group-title="⚽ US CHANNEL ⚽", SPORTSMAN CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
+#EXTINF: -1 tvg-name="SPORTSNORTHWEST"  group-title="⚽ US CHANNEL ⚽", SPORTSNORTHWEST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
+#EXTINF: -1 tvg-name="SPORTSPHILADELPHIA"  group-title="⚽ US CHANNEL ⚽", SPORTSPHILADELPHIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/650
+#EXTINF: -1 tvg-name="SPORTSWASHINGTON"  group-title="⚽ US CHANNEL ⚽", SPORTSWASHINGTON
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/651
+
+#EXTINF: -1 tvg-name="UFC ESP"  group-title="⚽ US CHANNEL ⚽", UFC ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
+#EXTINF: -1 tvg-name="ESTRELLATV"  group-title="⚽ US CHANNEL ⚽", ESTRELLATV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
+#EXTINF: -1 tvg-name="Canal De Las Estrellas"  group-title="⚽ US CHANNEL ⚽", Canal De Las Estrellas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+#EXTINF: -1 tvg-name="CNN ESPAÑOL"  group-title="⚽ US CHANNEL ⚽", CNN ESPAÑOL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684
+#EXTINF: -1 tvg-name="FOODNETWORK"  group-title="⚽ US CHANNEL ⚽", FOODNETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
+#EXTINF: -1 tvg-name="FXM"  group-title="⚽ US CHANNEL ⚽", FXM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+#EXTINF: -1 tvg-name="IMAGEN NOTICIAS SD"  group-title="⚽ US CHANNEL ⚽", IMAGEN NOTICIAS SD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
+#EXTINF: -1 tvg-name="OUTDOOR CHANNEL"  group-title="⚽ US CHANNEL ⚽", OUTDOOR CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
+#EXTINF: -1 tvg-name="TRAVEL HD"  group-title="⚽ US CHANNEL ⚽", TRAVEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+#EXTINF: -1 tvg-name="TDN DEPORTES"  group-title="⚽ US CHANNEL ⚽", TDN DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+#EXTINF: -1 tvg-name="ANTENA3"  group-title="⚽ US CHANNEL ⚽", ANTENA3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
+#EXTINF: -1 tvg-name="BEIN ESPANIOL HD"  group-title="⚽ US CHANNEL ⚽", BEIN ESPANIOL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF: -1 tvg-name="FIGHT NETWORK"  group-title="⚽ US CHANNEL ⚽", FIGHT NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
+#EXTINF: -1 tvg-name="TV5"  group-title="⚽ US CHANNEL ⚽", TV5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+#EXTINF: -1 tvg-name="ESPN GOAL LINE"  group-title="⚽ US CHANNEL ⚽", ESPN GOAL LINE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771
+#EXTINF: -1 tvg-name="RAI"  group-title="⚽ US CHANNEL ⚽", RAI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/774
+#EXTINF: -1 tvg-name="EUROCHANNEL"  group-title="⚽ US CHANNEL ⚽", EUROCHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
+#EXTINF: -1 tvg-name="AZTECA CINEMA"  group-title="⚽ US CHANNEL ⚽", AZTECA CINEMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
+#EXTINF: -1 tvg-name="AZTECA UNO"  group-title="⚽ US CHANNEL ⚽", AZTECA UNO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
+#EXTINF: -1 tvg-name="baby tv"  group-title="⚽ US CHANNEL ⚽", baby tv
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+#EXTINF: -1 tvg-name="BANDAMAX"  group-title="⚽ US CHANNEL ⚽", BANDAMAX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
+#EXTINF: -1 tvg-name="Bloomberg"  group-title="⚽ US CHANNEL ⚽", Bloomberg
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767
+#EXTINF: -1 tvg-name="BOOMERANG MEXICO"  group-title="⚽ US CHANNEL ⚽", BOOMERANG MEXICO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+#EXTINF: -1 tvg-name="Canal 5"  group-title="⚽ US CHANNEL ⚽", Canal 5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+#EXTINF: -1 tvg-name="Caracol HD"  group-title="⚽ US CHANNEL ⚽", Caracol HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
+#EXTINF: -1 tvg-name="CARTOON NETWORK"  group-title="⚽ US CHANNEL ⚽", CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF: -1 tvg-name="CBS11HOUSTON"  group-title="⚽ US CHANNEL ⚽", CBS11HOUSTON
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/491
+#EXTINF: -1 tvg-name="CBS4TEXAS"  group-title="⚽ US CHANNEL ⚽", CBS4TEXAS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
+#EXTINF: -1 tvg-name="CBSLA"  group-title="⚽ US CHANNEL ⚽", CBSLA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495
+#EXTINF: -1 tvg-name="CINEMAX HD"  group-title="⚽ US CHANNEL ⚽", CINEMAX HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+#EXTINF: -1 tvg-name="PBS HD (ENG)"  group-title="⚽ US CHANNEL ⚽", PBS HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
+#EXTINF: -1 tvg-name="AXN"  group-title="⚽ US CHANNEL ⚽", AXN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF: -1 tvg-name="DISCOVERY SCIENCE"  group-title="⚽ US CHANNEL ⚽", DISCOVERY SCIENCE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+#EXTINF: -1 tvg-name="NFL GAMEPASS REDZONE"  group-title="⚽ US CHANNEL ⚽", NFL GAMEPASS REDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
+#EXTINF: -1 tvg-name="goltv esp"  group-title="⚽ US CHANNEL ⚽", goltv esp
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
+#EXTINF: -1 tvg-name="FXX"  group-title="⚽ US CHANNEL ⚽", FXX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
+#EXTINF: -1 tvg-name="UNIVISION USA HD"  group-title="⚽ US CHANNEL ⚽", UNIVISION USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+#EXTINF: -1 tvg-name="FORMULA 1"  group-title="⚽ US CHANNEL ⚽", FORMULA 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+#EXTINF: -1 tvg-name="NBA-1"  group-title="⚽ US CHANNEL ⚽", NBA-1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142
+#EXTINF: -1 tvg-name="NBA-10"  group-title="⚽ US CHANNEL ⚽", NBA-10
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1133
+#EXTINF: -1 tvg-name="NBA-11"  group-title="⚽ US CHANNEL ⚽", NBA-11
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1132
+#EXTINF: -1 tvg-name="NBA-12"  group-title="⚽ US CHANNEL ⚽", NBA-12
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1131
+#EXTINF: -1 tvg-name="NBA-13"  group-title="⚽ US CHANNEL ⚽", NBA-13
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1130
+#EXTINF: -1 tvg-name="NBA-14"  group-title="⚽ US CHANNEL ⚽", NBA-14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1129
+#EXTINF: -1 tvg-name="NBA-15"  group-title="⚽ US CHANNEL ⚽", NBA-15
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1128
+#EXTINF: -1 tvg-name="NBA-16"  group-title="⚽ US CHANNEL ⚽", NBA-16
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1127
+#EXTINF: -1 tvg-name="NBA-2"  group-title="⚽ US CHANNEL ⚽", NBA-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1141
+#EXTINF: -1 tvg-name="NBA-3"  group-title="⚽ US CHANNEL ⚽", NBA-3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1140
+#EXTINF: -1 tvg-name="NBA-4"  group-title="⚽ US CHANNEL ⚽", NBA-4
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1139
+#EXTINF: -1 tvg-name="NBA-5"  group-title="⚽ US CHANNEL ⚽", NBA-5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1138
+#EXTINF: -1 tvg-name="NBA-6"  group-title="⚽ US CHANNEL ⚽", NBA-6
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1137
+#EXTINF: -1 tvg-name="NBA-7"  group-title="⚽ US CHANNEL ⚽", NBA-7
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1136
+#EXTINF: -1 tvg-name="NBA-8"  group-title="⚽ US CHANNEL ⚽", NBA-8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1135
+#EXTINF: -1 tvg-name="NBA-9"  group-title="⚽ US CHANNEL ⚽", NBA-9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1134
+#EXTINF: -1 tvg-name="ABC Miami"  group-title="⚽ US CHANNEL ⚽", ABC Miami
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126
+
+#EXTINF: -1 tvg-name="NBA-17"  group-title="⚽ US CHANNEL ⚽", NBA-17
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1178
+#EXTINF: -1 tvg-name="NBA-18"  group-title="⚽ US CHANNEL ⚽", NBA-18
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1177
+#EXTINF: -1 tvg-name="NBA-19"  group-title="⚽ US CHANNEL ⚽", NBA-19
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1176
+#EXTINF: -1 tvg-name="NBA-20"  group-title="⚽ US CHANNEL ⚽", NBA-20
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1175
+#EXTINF: -1 tvg-name="NBA-21"  group-title="⚽ US CHANNEL ⚽", NBA-21
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1174
+#EXTINF: -1 tvg-name="NBA-22"  group-title="⚽ US CHANNEL ⚽", NBA-22
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1173
+#EXTINF: -1 tvg-name="NBA-23"  group-title="⚽ US CHANNEL ⚽", NBA-23
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1172
+#EXTINF: -1 tvg-name="NBA-24"  group-title="⚽ US CHANNEL ⚽", NBA-24
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1171
+#EXTINF: -1 tvg-name="NBA-25"  group-title="⚽ US CHANNEL ⚽", NBA-25
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1170
+#EXTINF: -1 tvg-name="NBA-26"  group-title="⚽ US CHANNEL ⚽", NBA-26
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1169
+#EXTINF: -1 tvg-name="NBA-27"  group-title="⚽ US CHANNEL ⚽", NBA-27
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1168
+#EXTINF: -1 tvg-name="NBA-28"  group-title="⚽ US CHANNEL ⚽", NBA-28
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1167
+#EXTINF: -1 tvg-name="NBA-29"  group-title="⚽ US CHANNEL ⚽", NBA-29
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166
+#EXTINF: -1 tvg-name="NBA-30"  group-title="⚽ US CHANNEL ⚽", NBA-30
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
+#EXTINF: -1 tvg-name="Comet-TV"  group-title="⚽ US CHANNEL ⚽", Comet-TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1181
+#EXTINF: -1 tvg-name="Fox-Sports-Kansas"  group-title="⚽ US CHANNEL ⚽", Fox-Sports-Kansas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180
+#EXTINF: -1 tvg-name="NBC-Kansas"  group-title="⚽ US CHANNEL ⚽", NBC-Kansas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1179
+#EXTINF: -1 tvg-name="Morbido-TV"  group-title="⚽ US CHANNEL ⚽", Morbido-TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
+#EXTINF: -1 tvg-name="HALLMARKDRAMA"  group-title="⚽ US CHANNEL ⚽", HALLMARKDRAMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
+#EXTINF: -1 tvg-name="UNIVERSALKIDS"  group-title="⚽ US CHANNEL ⚽", UNIVERSALKIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
+#EXTINF: -1 tvg-name="PPV 1"  group-title="⚽ US CHANNEL ⚽", PPV 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1183
+#EXTINF: -1 tvg-name="PPV 2"  group-title="⚽ US CHANNEL ⚽", PPV 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1184
+#EXTINF: -1 tvg-name="PPV 3"  group-title="⚽ US CHANNEL ⚽", PPV 3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1185
+#EXTINF: -1 tvg-name="HALLMARK"  group-title="⚽ US CHANNEL ⚽", HALLMARK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
+#EXTINF: -1 tvg-name="El Gourmet"  group-title="⚽ US CHANNEL ⚽", El Gourmet
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
+#EXTINF: -1 tvg-name="AXS TV"  group-title="⚽ US CHANNEL ⚽", AXS TV
+
 
 ### LIFE STYLE #
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="ZALCODE-LIFE",MY eGG Network
