@@ -956,5 +956,18 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 ### OTHER SOURCE##
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/oxygen.png?cdy=8.8.8.8" group-title="OXYGEN",OXYGEN.ID
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Lokal", USEEE Source
+https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Sports", USEEE Source
+https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="News", USEEE Source
+https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Movies", USEEE Source
+https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Music", USEEE Source
+https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Kids", USEEE Source
+https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Knowledge", USEEE Source
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
