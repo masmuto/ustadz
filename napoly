@@ -132,6 +132,8 @@ http://masmuto.com/REDSD.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0" group-title="ZALCODE-MOVIES",My Cinema
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF: -1 tvg-name="(ID) FOX" tvg-logo="107.152.105.108:81/Logo/INDONESIA/LOGO/FOX.png" group-title="ZALCODE-MOVIES", (ID) FOX
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4224
 #EXTINF: -1 tvg-name="(ID) FOX LIFE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXLIFE.png" group-title="ZALCODE-MOVIES",FOX LIFE
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4226
 #EXTINF: -1 tvg-name="(ID) FOX MOVIES ACTION" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXMOVIESACTION.png" group-title="ZALCODE-MOVIES",FOX MOVIES ACTION
