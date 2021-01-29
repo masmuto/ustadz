@@ -132,16 +132,26 @@ http://masmuto.com/REDSD.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5mo7qdqzh6kiowv/my%20cinema.jpg?dl=0" group-title="ZALCODE-MOVIES",My Cinema
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF: -1 tvg-name="(ID) FOX MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXMOVIES.png" group-title="ZALCODE-MOVIES", (ID) FOX MOVIES
+#EXTINF: -1 tvg-name="(ID) FOX LIFE" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXLIFE.png" group-title="ZALCODE-MOVIES",FOX LIFE
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4226
+#EXTINF: -1 tvg-name="(ID) FOX MOVIES ACTION" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXMOVIESACTION.png" group-title="ZALCODE-MOVIES",FOX MOVIES ACTION
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4197
+#EXTINF: -1 tvg-name="(ID) FOX MOVIES" tvg-logo="http://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXMOVIES.png" group-title="ZALCODE-MOVIES",FOX MOVIES
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4218
-#EXTINF: -1 tvg-name="(ID) FOX CRIME" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXCRIME.png" group-title="ZALCODE-MOVIES", (ID) FOX CRIME
+#EXTINF: -1 tvg-name="(ID) FOX CRIME" tvg-logo="http://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXCRIME.png" group-title="ZALCODE-MOVIES",FOX CRIME
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4217
-#EXTINF: -1 tvg-name="(ID) &TVHD" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/%26TVHD.png" group-title="ZALCODE-MOVIES", (ID) &TVHD
+#EXTINF: -1 tvg-name="(ID) &TVHD" tvg-logo="http://107.152.105.108:81/Logo/INDONESIA/LOGO/%26TVHD.png" group-title="ZALCODE-MOVIES",&TVHD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4216
-#EXTINF: -1 tvg-name="(ID) FOX FAMILY MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXFAMILYMOVIES.png" group-title="ZALCODE-MOVIES", (ID) FOX FAMILY MOVIES
+#EXTINF: -1 tvg-name="(ID) FOX FAMILY MOVIES" tvg-logo="http://107.152.105.108:81/Logo/INDONESIA/LOGO/FOXFAMILYMOVIES.png" group-title="ZALCODE-MOVIES",FOX FAMILY MOVIES
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4215
-#EXTINF: -1 tvg-name="(ID) HITS MOVIES" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/HITSMOVIES.png" group-title="ZALCODE-MOVIES", (ID) HITS MOVIES
+#EXTINF: -1 tvg-name="(ID) HITS MOVIES" tvg-logo="http://107.152.105.108:81/Logo/INDONESIA/LOGO/HITSMOVIES.png" group-title="ZALCODE-MOVIES",HITS MOVIES
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4214
+#EXTINF: -1 tvg-name="(ID) ZEETV" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/ZEETV.png" group-title="ZALCODE-MOVIES",ZEETV
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4281
+#EXTINF: -1 tvg-name="(ID) SCM" tvg-logo="HTTP://107.152.105.108:81/Logo/INDONESIA/LOGO/SCM.png" group-title="ZALCODE-MOVIES",SCM
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4233
+#EXTINF: -1 tvg-name="(ID) TVN" tvg-logo="http://107.152.105.108:81/Logo/INDONESIA/LOGO/TVN.png" group-title="ZALCODE-MOVIES",TVN
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4213
 
 ### ZALCODETV ##
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="ZALCODE-ENT",ANIPLUS
