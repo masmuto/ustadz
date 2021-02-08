@@ -105,138 +105,56 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w242732416_b3840
 #EXTVLCOPT:network-caching=1000	
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="oxygentv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/oxygen.png" group-title="OXYGEN",Oxygen TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=oxygentv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/net.png" group-title="OXYGEN",NET.
-http://103.55.39.182/~dusktil2/a.m3u8?q=nettv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="OXYGEN",METRO TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=metrotv 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvri.png" group-title="OXYGEN",TVRI
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvri
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sctv.png" group-title="OXYGEN",SCTV
-http://103.55.39.182/~dusktil2/a.m3u8?q=sctv 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="http://202.74.236.189/~uzbwkzam/img/trans7.png" group-title="OXYGEN",TRANS 7
-http://103.55.39.182/~dusktil2/a.m3u8?q=trans7 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="OXYGEN",TRANS TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=transtv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/indosiar.png" group-title="OXYGEN",INDOSIAR
-http://103.55.39.182/~dusktil2/a.m3u8?q=indosiar
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="OXYGEN",ANTV
-http://103.55.39.182/~dusktil2/a.m3u8?q=antv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="OXYGEN",TV ONE
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvone 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="OXYGEN",JAKTV
-http://103.55.39.182/~dusktil2/a.m3u8?q=jaktv 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/matrixtv.png" group-title="OXYGEN",MATRIX TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=matrixtv 
-#EXTINF:-1 tvg-id="lejelhomeshopping" tvg-logo="http://202.74.236.189/~uzbwkzam/img/lejelhs.png" group-title="OXYGEN",LEJEL HS
-http://103.55.39.182/~dusktil2/a.m3u8?q=lejelhs 
-#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ntv.png" group-title="OXYGEN",NUSANTARA TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=nusantaratv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="OXYGEN",KOMPAS TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=kompastv
-#EXTINF:-1 tvg-id="rtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="OXYGEN",RTV
-http://103.55.39.182/~dusktil2/a.m3u8?q=rtv
-#EXTINF:-1 tvg-id="ochannel" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ochannel.png" group-title="OXYGEN",O CHANNEL
-http://103.55.39.182/~dusktil2/a.m3u8?q=ochannel
-#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://202.74.236.189/~uzbwkzam/img/nhkworld.png" group-title="OXYGEN",NHK WORLD
-http://103.55.39.182/~dusktil2/a.m3u8?q=nhkworld 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixhk.png" group-title="OXYGEN",PHOENIX HK
-http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixhongkong
-#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/dw.png" group-title="OXYGEN",DW TV ASIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=dwenglish
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/france24.png" group-title="OXYGEN",FRANCE 24
-http://103.55.39.182/~dusktil2/a.m3u8?q=france24
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/arirang.png" group-title="OXYGEN",ARIRANG
-http://103.55.39.182/~dusktil2/a.m3u8?q=arirangworld
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cctv4.png" group-title="OXYGEN",CCTV4
-http://103.55.39.182/~dusktil2/a.m3u8?q=cctv4asia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/voa.png" group-title="OXYGEN",VOA
-http://103.55.39.182/~dusktil2/a.m3u8?q=voa
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/raiitalia.png" group-title="OXYGEN",RAI ITALIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=raiitalia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cetv1.png" group-title="OXYGEN",CETV 1
-http://103.55.39.182/~dusktil2/a.m3u8?q=cetv1
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tve.png" group-title="OXYGEN",TVE ASIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=tveasia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tv5monde.png" group-title="OXYGEN",TV5MONDE
-http://103.55.39.182/~dusktil2/a.m3u8?q=tv5monde
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtndoc.png" group-title="OXYGEN",CGTN DOCUMENTARY
-http://103.55.39.182/~dusktil2/a.m3u8?q=cgtndocumentary
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/salamtv.png" group-title="OXYGEN",SALAM TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=salamtv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="OXYGEN",RODJA TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=rodjatv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/daaitv.png" group-title="OXYGEN",DAAI TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=daaitv
-#EXTINF:-1 tvg-id="alquran" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mekkah.png" group-title="OXYGEN",QUR'AN TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=qurantv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tawaf.png" group-title="OXYGEN",TAWAF TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=tawaftv
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bs.png" group-title="OXYGEN",BERITA SATU
-http://103.55.39.182/~dusktil2/a.m3u8?q=beritasatu
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/inews.png" group-title="OXYGEN",iNews
-http://103.55.39.182/~dusktil2/a.m3u8?q=inews
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcindonesia.png" group-title="OXYGEN",CNBC INDONESIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=cnbcindonesia
-#EXTINF:-1 tvg-id="aljazeera" tvg-logo="http://202.74.236.189/~uzbwkzam/img/aljazeera.png" group-title="OXYGEN",AL JAZEERA
-http://103.55.39.182/~dusktil2/a.m3u8?q=aljazeera
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/trt.png" group-title="OXYGEN",TRT WORLD
-//http://103.55.39.182/~dusktil2/a.m3u8?q=trtworld 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixchinese.png" group-title="OXYGEN",PHOENIX CHINESE
-http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixchinese
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cna.png" group-title="OXYGEN",CHANNEL NEWS ASIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=channelnewsasia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rt.png" group-title="OXYGEN",RUSSIA TODAY
-http://103.55.39.182/~dusktil2/a.m3u8?q=russiatoday
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixinfonews.png" group-title="OXYGEN",PHOENIX INFO NEWS
-http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixnews
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/euronews.png" group-title="OXYGEN",EURONEWS
-http://103.55.39.182/~dusktil2/a.m3u8?q=euronewsasia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtn.png" group-title="OXYGEN",CGTN
-http://103.55.39.182/~dusktil2/a.m3u8?q=cgtn
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvbnews.png" group-title="OXYGEN",TVB NEWS
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvbnews
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bloomberg.png" group-title="OXYGEN",BLOOMBERG
-http://103.55.39.182/~dusktil2/a.m3u8?q=bloomberg
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcasia.png" group-title="OXYGEN",CNBC
-http://103.55.39.182/~dusktil2/a.m3u8?q=cnbc
-#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sinemaindonesia.png" group-title="OXYGEN",SINEMA INDONESIA
-http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
-#EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sinemaindonesiax.png" group-title="OXYGEN",SINEMA INDONESIA X
-http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umovies.png" group-title="OXYGEN",B4U MOVIES
-http://103.55.39.182/~dusktil2/a.m3u8?q=b4umovieindia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/xingxong.png" group-title="OXYGEN",XING KONG CHINA
-http://103.55.39.182/~dusktil2/a.m3u8?q=xingkong
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lotusmacau.png" group-title="OXYGEN",LOTUS MACAU
-http://103.55.39.182/~dusktil2/a.m3u8?q=lotusmacau
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/drakor.png" group-title="OXYGEN",Drakor Plus
-http://103.55.39.182/~dusktil2/a.m3u8?q=drakorplus
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lbs.png" group-title="OXYGEN",K DRAMA
-http://103.55.39.182/~dusktil2/a.m3u8?q=k-drama
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/luxetv.png" group-title="OXYGEN",GO TO LUXE
-http://103.55.39.182/~dusktil2/a.m3u8?q=gotoluxe 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/channelvchina.png" group-title="OXYGEN",CHANNEL V CHINA
-http://103.55.39.182/~dusktil2/a.m3u8?q=vchina
-#EXTINF:-1 tvg-id="b4umovies" tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umusic.png" group-title="OXYGEN",B4U MUSIC
-http://103.55.39.182/~dusktil2/a.m3u8?q=b4umusicindia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mtvchina.png" group-title="OXYGEN",MTV CHINA
-http://103.55.39.182/~dusktil2/a.m3u8?q=mtvchina 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/spacetoon.png" group-title="OXYGEN",SPACETOON
-http://103.55.39.182/~dusktil2/a.m3u8?q=spacetoon
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="OXYGEN",TV EDUKASI
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvedukasi
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/toonmax.png" group-title="OXYGEN",TOONMAX
-http://103.55.39.182/~dusktil2/a.m3u8?q=toonmax
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvrisports.png" group-title="OXYGEN",TVRI SPORT
-http://103.55.39.182/~dusktil2/a.m3u8?q=tvrisport
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sportsone.png" group-title="OXYGEN",SPORT ONE
-http://103.55.39.182/~dusktil2/a.m3u8?q=sportone
-#EXTINF:-1 tvg-id="redbulltv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/redbulltv.png" group-title="OXYGEN", Redbull TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=redbulltv
-#EXTINF:-1 tvg-id="redbulltv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mentaritv.png" group-title="OXYGEN", MENTARI TV
-http://103.55.39.182/~dusktil2/a.m3u8?q=mentaritv
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="MAXSTREAM",KOMPAS TV 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1 tvg-id="mtatv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mta.png" group-title="MAXSTREAM", MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="MAXSTREAM",RODJA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mytv.png" group-title="MAXSTREAM",MYTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mcc.png" group-title="MAXSTREAM",MCC
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(65705b01-b9ee-4be2-87cf-69331406a9c0)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="MAXSTREAM", UseePrime
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/prambors.png" group-title="MAXSTREAM",Prambors
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2ce6c44c-c56a-2cd7-c30e-271ef6b31ce9)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/ruangterampil.png" group-title="MAXSTREAM", Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="MAXSTREAM",JAKTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png" group-title="MAXSTREAM", JTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/maxstreammusic.png" group-title="MAXSTREAM",MAXSTREAM Music
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/digione.png" group-title="MAXSTREAM",DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/magnatv.png" group-title="MAXSTREAM",Magna TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/hiindo.png" group-title="MAXSTREAM",Hi Indo
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="MAXSTREAM",RTV 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/channel4u.png" group-title="MAXSTREAM",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tic.png" group-title="MAXSTREAM",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png" group-title="MAXSTREAM", Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/balitv.png" group-title="MAXSTREAM", Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/duniagames.png" group-title="MAXSTREAM",Dunia Games TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="MAXSTREAM",TV Edukasi 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="MAXSTREAM",METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/seatoday.png" group-title="MAXSTREAM", SEA TODAY 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1552478277703508912.png" group-title="NINMEDIA",ATV
