@@ -932,11 +932,11 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 ### OTHER SOURCE##
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static-web-prod-vidio.akamaized.net/assets/logo/logo-e25db04edf4b340056e97564bcf205d48dd02c9507d7cab5c42d4f0295cfad76.svg" group-title="VIDIO", VIDIO Source
+#EXTINF:-1 tvg-logo="https://static-web-prod-vidio.akamaized.net/assets/logo/logo-e25db04edf4b340056e97564bcf205d48dd02c9507d7cab5c42d4f0295cfad76.svg" group-title="LOKAL-Vidio", VIDIO Source
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Lokal", USEEE Source
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="LOKAL-UseeTv", USEEE Source
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Sports", USEEE Source
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Sports Utama", USEEE Source
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="News", USEEE Source
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
