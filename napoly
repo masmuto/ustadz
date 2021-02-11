@@ -461,6 +461,10 @@ https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 
 ### ZAKLCODE 2 SPORT ##
+#EXTINF:-1 group-title="PT-SPORTS",PORTUGAL SPORT IPTV
+https://a.jsrdn.com/broad
+#EXTINF:-1 group-title="DE-SPORTS",JERMAN SPORT IPTV
+https://a.jsrdn.com/broad
 #EXTINF:-1 group-title="TR-SPORTS",TURKEY SPORT IPTV
 https://a.jsrdn.com/broad
 #EXTINF:-1 group-title="FR-SPORTS",FRANCE SPORT IPTV
@@ -887,3 +891,222 @@ http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/5638
 #EXTINF:-1group-title="AR-SPORTS", Al Kass 5 HD
 http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/5639
 
+#EXTINF:-1group-title="PT-SPORTS",Eleven Sports 1 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3175
+#EXTINF:-1group-title="PT-SPORTS",Eleven Sports 2 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3176
+#EXTINF:-1group-title="PT-SPORTS",Eleven Sports 3 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3177
+#EXTINF:-1group-title="PT-SPORTS",Eleven Sports 4 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3178
+#EXTINF:-1group-title="PT-SPORTS",Eleven Sports 5 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3179
+#EXTINF:-1group-title="PT-SPORTS",Eleven Sports 6 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3180
+#EXTINF:-1group-title="PT-SPORTS",Eleven Sport 1 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3181
+#EXTINF:-1group-title="PT-SPORTS",Eleven Sport 2 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3182
+#EXTINF:-1group-title="PT-SPORTS",Eleven Sport 3 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3183
+#EXTINF:-1group-title="PT-SPORTS",EUROSPORT 1 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3184
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3185
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3186
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 1 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3187
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 1 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3188
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 1 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3189
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 2 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3190
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 2 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3191
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 2 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3192
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 3 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3193
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 3 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3194
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 3 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3195
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 4 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3196
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 4 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3197
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 4 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3198
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 5 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3199
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV 5 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3200
+#EXTINF:-1group-title="PT-SPORTS",BENFICA TV
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3201
+#EXTINF:-1group-title="PT-SPORTS",CANAL 11 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3202
+#EXTINF:-1group-title="PT-SPORTS",EUROSPORT 2 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3203
+#EXTINF:-1group-title="PT-SPORTS",KOMBAT SPORT
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3204
+#EXTINF:-1group-title="PT-SPORTS",MOTORSPORT TV
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3205
+#EXTINF:-1group-title="PT-SPORTS",SPORT TV NBA FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3206
+#EXTINF:-1group-title="PT-SPORTS",SPORTINGTV FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3207
+#EXTINF:-1group-title="PT-SPORTS",NBA TV
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/3208
+
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport News FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/223
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport News HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/222
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport News SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/221
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport UHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/249
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 1 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/250
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 1 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/235
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 1 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/224
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 2 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/251
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 2 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/236
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 2 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/225
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 3 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/252
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 3 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/237
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 3 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/226
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 4 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/253
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 4 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/238
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 4 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/227
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 5 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/254
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 5 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/239
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 5 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/228
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 6 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/255
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 6 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/240
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 6 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/229
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 7 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/256
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 7 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/241
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 7 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/230
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 8 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/257
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 8 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/242
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 8 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/231
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 9 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/258
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 9 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/243
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 9 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/232
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 10 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/259
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 10 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/244
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 10 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/233
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 11 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/260
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 11 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/245
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 11 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/234
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 12 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/261
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 12 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/246
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 13 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/262
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 13 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/247
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 14 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/263
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport 14 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/248
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga UHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/284
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 1 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/285
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 1 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/274
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 1 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/264
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 2 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/286
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 2 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/275
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 2 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/265
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 3 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/287
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 3 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/276
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 3 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/266
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 4 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/288
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 4 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/277
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 4 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/267
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 5 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/289
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 5 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/278
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 5 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/268
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 6 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/290
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 6 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/279
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 6 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/269
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 7 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/291
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 7 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/281
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 7 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/270
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 8 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/292
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 8 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/282
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 8 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/271
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 9 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/293
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 9 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/280
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 9 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/272
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 10 FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/294
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 10 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/283
+#EXTINF:-1 group-title="DE-SPORTS", Sky Sport Bundesliga 10 SD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/273
+#EXTINF:-1 group-title="DE-SPORTS", FC Bayern TV HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/295
