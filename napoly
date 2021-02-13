@@ -463,7 +463,7 @@ https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 ### ZAKLCODE 2 SPORT ##
 #EXTINF:-1 group-title="BEINSPORTS",BEINSPORT CH
 https://a.jsrdn.com/broad
-#EXTINF:-1 group-title="DE-SPORTS",JERMAN SPORT IPTV
+#EXTINF:-1 group-title="PT-SPORTS",PORTUGAL SPORT IPTV
 https://a.jsrdn.com/broad
 #EXTINF:-1 group-title="TR-SPORTS",TURKEY SPORT IPTV
 https://a.jsrdn.com/broad
@@ -574,136 +574,34 @@ https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Entertainment", USEEE Source
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Religi", USEEE Source
+#EX#EXTINF:-1 group-title="PT-SPORT",SPORT TV 1 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103614
+#EXTINF:-1 group-title="PT-SPORT",SPORT TV 2 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103613
+#EXTINF:-1 group-title="PT-SPORT",SPORT TV 3 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103612
+#EXTINF:-1 group-title="PT-SPORT",SPORT TV 4 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103611
+#EXTINF:-1 group-title="PT-SPORT",SPORT TV 5 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103610
+#EXTINF:-1 group-title="PT-SPORT",SPORT TV+ HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103609
+#EXTINF:-1 group-title="PT-SPORT",SPORT TV NBA HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103608
+#EXTINF:-1 group-title="PT-SPORT",ELEVEN SPORTS 1 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103607
+#EXTINF:-1 group-title="PT-SPORT",ELEVEN SPORTS 2 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103606
+#EXTINF:-1 group-title="PT-SPORT",ELEVEN SPORTS 3 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103605
+#EXTINF:-1 group-title="PT-SPORT",ELEVEN SPORTS 4 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103604
+#EXTINF:-1 group-title="PT-SPORT",ELEVEN SPORTS 5 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103603
+#EXTINF:-1 group-title="PT-SPORT",ELEVEN SPORTS 6 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103602
+#EXTINF:-1 group-title="PT-SPORT",EUROSPORT 1 HEVC
+http://uk.redhatiptv.com:25461/loft366B7/JYgnIf75Vb8R9xT84/103601
+#EXTINF:-1 group-title="PT-SPORT",EUROSPORT 2 HEVCTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Religi", USEEE Source
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
 
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 1
-http://mirasat.info:8000/tv1669/hggfrted1669/17
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 2
-http://mirasat.info:8000/tv1669/hggfrted1669/18
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 3
-http://mirasat.info:8000/tv1669/hggfrted1669/19
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 4
-http://mirasat.info:8000/tv1669/hggfrted1669/20
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 5
-http://mirasat.info:8000/tv1669/hggfrted1669/21
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 6
-http://mirasat.info:8000/tv1669/hggfrted1669/22
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 7
-http://mirasat.info:8000/tv1669/hggfrted1669/23
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 8
-http://mirasat.info:8000/tv1669/hggfrted1669/24
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 9
-http://mirasat.info:8000/tv1669/hggfrted1669/25
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 10
-http://mirasat.info:8000/tv1669/hggfrted1669/26
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 1 1M
-http://mirasat.info:8000/tv1669/hggfrted1669/241
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 2 1M
-http://mirasat.info:8000/tv1669/hggfrted1669/242
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 3 1M
-http://mirasat.info:8000/tv1669/hggfrted1669/243
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 4 1M
-http://mirasat.info:8000/tv1669/hggfrted1669/244
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 5 1M
-http://mirasat.info:8000/tv1669/hggfrted1669/245
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 6 1M
-http://mirasat.info:8000/tv1669/hggfrted1669/246
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 7 1M
-http://mirasat.info:8000/tv1669/hggfrted1669/247
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 8 1M
-http://mirasat.info:8000/tv1669/hggfrted1669/248
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 9 1M
-http://mirasat.info:8000/tv1669/hggfrted1669/249
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 10 1M
-http://mirasat.info:8000/tv1669/hggfrted1669/250
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 1 SD
-http://mirasat.info:8000/tv1669/hggfrted1669/775
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 2 SD
-http://mirasat.info:8000/tv1669/hggfrted1669/776
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 3 SD
-http://mirasat.info:8000/tv1669/hggfrted1669/777
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 4 SD
-http://mirasat.info:8000/tv1669/hggfrted1669/778
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 5 SD
-http://mirasat.info:8000/tv1669/hggfrted1669/779
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 6 SD
-http://mirasat.info:8000/tv1669/hggfrted1669/780
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 7 SD
-http://mirasat.info:8000/tv1669/hggfrted1669/781
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 8 SD
-http://mirasat.info:8000/tv1669/hggfrted1669/782
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 9 SD
-http://mirasat.info:8000/tv1669/hggfrted1669/783
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 10 SD
-http://mirasat.info:8000/tv1669/hggfrted1669/784
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS News
-http://mirasat.info:8000/tv1669/hggfrted1669/3244
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 1 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/1
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 2 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/2
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 3 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/3
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 4 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/4
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 5 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/5
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 6 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/6
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 7 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/7
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 8 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/8
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 9 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/9
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 10 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/10
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 11 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/11
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 12 HD
-http://mirasat.info:8000/tv1669/hggfrted1669/12
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 1 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/857
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 2 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/858
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 3 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/859
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 4 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/860
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 5 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/861
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 6 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/862
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 7 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/863
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 8 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/864
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 9 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/865
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 10 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/866
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 11 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/867
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 12 FULL HD
-http://mirasat.info:8000/tv1669/hggfrted1669/868
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 1 4K
-http://mirasat.info:8000/tv1669/hggfrted1669/3383
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 2 4K
-http://mirasat.info:8000/tv1669/hggfrted1669/3382
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 3 4K
-http://mirasat.info:8000/tv1669/hggfrted1669/3381
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 4 4K
-http://mirasat.info:8000/tv1669/hggfrted1669/3380
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 5 4K
-http://mirasat.info:8000/tv1669/hggfrted1669/3379
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 6 4K
-http://mirasat.info:8000/tv1669/hggfrted1669/3378
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 7 4K
-http://mirasat.info:8000/tv1669/hggfrted1669/3377
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 8 4K
-http://mirasat.info:8000/tv1669/hggfrted1669/3376
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 9 4K
-http://mirasat.info:8000/tv1669/hggfrted1669/3375
-#EXTINF:-1  group-title="BEINSPORTS",beIN SPORTS 10 4K
-http://mirasat.info:8000/tv1669/hggfrted1669/3374
