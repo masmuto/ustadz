@@ -1714,3 +1714,432 @@ http://jo.sarhantv.xyz:8880/sarhan/898989/351
 #EXTINF:-1 group-title="FR-SPORT",true sport 4
 http://jo.sarhantv.xyz:8880/sarhan/898989/352
 
+#EXTINF: -1 tvg-name="|USA| TNT HD"  group-title="US-CH", |USA| TNT HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4081
+#EXTINF: -1 tvg-name="[US]Fox_news"  group-title="US-CH",Fox_news
+http://mhiptv.com:8888/Shehata123/S8855865588/5011
+#EXTINF: -1 tvg-name="[US]ANIMAL_PLANET_HD"  group-title="US-CH",ANIMAL_PLANET_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5008
+#EXTINF: -1 tvg-name="[US]HALLMARK"  group-title="US-CH",HALLMARK
+http://mhiptv.com:8888/Shehata123/S8855865588/4946
+#EXTINF: -1 tvg-name="[US]FX_TV"  group-title="US-CH",FX_TV
+http://mhiptv.com:8888/Shehata123/S8855865588/4429
+#EXTINF: -1 tvg-name="[US]FX_HD"  group-title="US-CH",FX_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4942
+#EXTINF: -1 tvg-name="[US]FXX_HD"  group-title="US-CH",FXX_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4943
+#EXTINF: -1 tvg-name="Food Network"  group-title="US-CH", Food Network
+http://mhiptv.com:8888/Shehata123/S8855865588/12338
+#EXTINF: -1 tvg-name="OutSid"  group-title="US-CH", OutSid
+http://mhiptv.com:8888/Shehata123/S8855865588/12339
+#EXTINF: -1 tvg-name="Olympic"  group-title="US-CH", Olympic
+http://mhiptv.com:8888/Shehata123/S8855865588/12340
+#EXTINF: -1 tvg-name="[US]Fox_Sports_West"  group-title="US-CH",Fox_Sports_West
+http://mhiptv.com:8888/Shehata123/S8855865588/12341
+#EXTINF: -1 tvg-name="TENNIS"  group-title="US-CH", TENNIS
+http://mhiptv.com:8888/Shehata123/S8855865588/12342
+#EXTINF: -1 tvg-name="[US]Fox_Sports_Ohio_Plus"  group-title="US-CH",Fox_Sports_Ohio_Plus
+http://mhiptv.com:8888/Shehata123/S8855865588/12343
+#EXTINF: -1 tvg-name="[US]Fox_Sports_Ohio"  group-title="US-CH",Fox_Sports_Ohio
+http://mhiptv.com:8888/Shehata123/S8855865588/12344
+#EXTINF: -1 tvg-name="[US]Fox_Soccer_Plus"  group-title="US-CH",Fox_Soccer_Plus
+http://mhiptv.com:8888/Shehata123/S8855865588/12345
+#EXTINF: -1 tvg-name="[US]FOX_Seattle"  group-title="US-CH",FOX_Seattle
+http://mhiptv.com:8888/Shehata123/S8855865588/12346
+#EXTINF: -1 tvg-name="[US]FOX_San_Francisco"  group-title="US-CH",FOX_San_Francisco
+http://mhiptv.com:8888/Shehata123/S8855865588/12347
+#EXTINF: -1 tvg-name="[US]FOX_ KANSAS CITY"  group-title="US-CH",FOX_ KANSAS CITY
+http://mhiptv.com:8888/Shehata123/S8855865588/12350
+#EXTINF: -1 tvg-name="[US]FOX_Philadelphia"  group-title="US-CH",FOX_Philadelphia
+http://mhiptv.com:8888/Shehata123/S8855865588/12352
+#EXTINF: -1 tvg-name="[US]Fox_News_Channel"  group-title="US-CH",Fox_News_Channel
+http://mhiptv.com:8888/Shehata123/S8855865588/12353
+#EXTINF: -1 tvg-name="[US]FOX_Minneapolis"  group-title="US-CH",FOX_Minneapolis
+http://mhiptv.com:8888/Shehata123/S8855865588/12355
+#EXTINF: -1 tvg-name="[US]FOX_Los_Angeles"  group-title="US-CH",FOX_Los_Angeles
+http://mhiptv.com:8888/Shehata123/S8855865588/12356
+#EXTINF: -1 tvg-name="[US]Fox_Life"  group-title="US-CH",Fox_Life
+http://mhiptv.com:8888/Shehata123/S8855865588/12357
+#EXTINF: -1 tvg-name="[US]Fox_Collage_Sports_Pacific"  group-title="US-CH",Fox_Collage_Sports_Pacific
+http://mhiptv.com:8888/Shehata123/S8855865588/12358
+#EXTINF: -1 tvg-name="[US]Fox_Collage_Sports_Central"  group-title="US-CH",Fox_Collage_Sports_Central
+http://mhiptv.com:8888/Shehata123/S8855865588/12359
+#EXTINF: -1 tvg-name="[US]Fox_Collage_Sports_Atlantic"  group-title="US-CH",Fox_Collage_Sports_Atlantic
+http://mhiptv.com:8888/Shehata123/S8855865588/12360
+#EXTINF: -1 tvg-name="[US]NBC_Washington"  group-title="US-CH",NBC_Washington
+http://mhiptv.com:8888/Shehata123/S8855865588/12361
+#EXTINF: -1 tvg-name="[US]NBC_Telemundo"  group-title="US-CH",NBC_Telemundo
+http://mhiptv.com:8888/Shehata123/S8855865588/12362
+#EXTINF: -1 tvg-name="[US]NBC_St_Louis"  group-title="US-CH",NBC_St_Louis
+http://mhiptv.com:8888/Shehata123/S8855865588/12363
+#EXTINF: -1 tvg-name="[US]NBC_Sports_Washington"  group-title="US-CH",NBC_Sports_Washington
+http://mhiptv.com:8888/Shehata123/S8855865588/12364
+#EXTINF: -1 tvg-name="[US]NBC_Sports_NorthWest"  group-title="US-CH",NBC_Sports_NorthWest
+http://mhiptv.com:8888/Shehata123/S8855865588/12365
+#EXTINF: -1 tvg-name="[US]NBC_Sports_Network"  group-title="US-CH",NBC_Sports_Network
+http://mhiptv.com:8888/Shehata123/S8855865588/12366
+#EXTINF: -1 tvg-name="[US]HBO"  group-title="US-CH",HBO
+http://mhiptv.com:8888/Shehata123/S8855865588/4947
+#EXTINF: -1 tvg-name="[US]HBO_Comedy"  group-title="US-CH",HBO_Comedy
+http://mhiptv.com:8888/Shehata123/S8855865588/4948
+#EXTINF: -1 tvg-name="[US]HBO_Signature"  group-title="US-CH",HBO_Signature
+http://mhiptv.com:8888/Shehata123/S8855865588/4949
+#EXTINF: -1 tvg-name="[US]HBO_Zone"  group-title="US-CH",HBO_Zone
+http://mhiptv.com:8888/Shehata123/S8855865588/4950
+#EXTINF: -1 tvg-name="[US]Showtime_West_HD"  group-title="US-CH",Showtime_West_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5013
+#EXTINF: -1 tvg-name="[US]Showtime_HD"  group-title="US-CH",Showtime_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5012
+#EXTINF: -1 tvg-name="[US]AMC HD"  group-title="US-CH",AMC HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5009
+#EXTINF: -1 tvg-name="[US]CBS_Atlanta"  group-title="US-CH",CBS_Atlanta
+http://mhiptv.com:8888/Shehata123/S8855865588/4998
+#EXTINF: -1 tvg-name="[US]CBS_CHARLOTTE"  group-title="US-CH",CBS_CHARLOTTE
+http://mhiptv.com:8888/Shehata123/S8855865588/4999
+#EXTINF: -1 tvg-name="[US]CBS_POP"  group-title="US-CH",CBS_POP
+http://mhiptv.com:8888/Shehata123/S8855865588/5000
+#EXTINF: -1 tvg-name="[US]CBSN"  group-title="US-CH",CBSN
+http://mhiptv.com:8888/Shehata123/S8855865588/5002
+#EXTINF: -1 tvg-name="[US]CINEMAX_West"  group-title="US-CH",CINEMAX_West
+http://mhiptv.com:8888/Shehata123/S8855865588/5004
+#EXTINF: -1 tvg-name="[US]CINEMAX_East"  group-title="US-CH",CINEMAX_East
+http://mhiptv.com:8888/Shehata123/S8855865588/5003
+#EXTINF: -1 tvg-name="Disney Channel"  group-title="US-CH", Disney Channel
+http://mhiptv.com:8888/Shehata123/S8855865588/4952
+#EXTINF: -1 tvg-name="[US]Disney_XD_HD"  group-title="US-CH",Disney_XD_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4955
+#EXTINF: -1 tvg-name="Disney Junior HD"  group-title="US-CH", Disney Junior HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4953
+#EXTINF: -1 tvg-name=" BABY TV"  group-title="US-CH", BABY TV
+http://mhiptv.com:8888/Shehata123/S8855865588/12381
+#EXTINF: -1 tvg-name="[US]Discovery_Velocity"  group-title="US-CH",Discovery_Velocity
+http://mhiptv.com:8888/Shehata123/S8855865588/12382
+#EXTINF: -1 tvg-name="[US]Discovery_VELOCITY"  group-title="US-CH",Discovery_VELOCITY
+http://mhiptv.com:8888/Shehata123/S8855865588/12383
+#EXTINF: -1 tvg-name="[US]Discovery_Science"  group-title="US-CH",Discovery_Science
+http://mhiptv.com:8888/Shehata123/S8855865588/12384
+#EXTINF: -1 tvg-name="[US]Discovery_Pacific"  group-title="US-CH",Discovery_Pacific
+http://mhiptv.com:8888/Shehata123/S8855865588/12385
+#EXTINF: -1 tvg-name="[US]Discovery_Life"  group-title="US-CH",Discovery_Life
+http://mhiptv.com:8888/Shehata123/S8855865588/12386
+#EXTINF: -1 tvg-name="[US]Discovery_Family"  group-title="US-CH",Discovery_Family
+http://mhiptv.com:8888/Shehata123/S8855865588/12387
+#EXTINF: -1 tvg-name="[US]Discovery_Familia"  group-title="US-CH",Discovery_Familia
+http://mhiptv.com:8888/Shehata123/S8855865588/12388
+#EXTINF: -1 tvg-name="[US]Discovery_Espaniol"  group-title="US-CH",Discovery_Espaniol
+http://mhiptv.com:8888/Shehata123/S8855865588/12389
+#EXTINF: -1 tvg-name="[US]Nickelodeon_HD-US"  group-title="US-CH",Nickelodeon_HD-US
+http://mhiptv.com:8888/Shehata123/S8855865588/4951
+#EXTINF: -1 tvg-name="[US]Boomerang_HD"  group-title="US-CH",Boomerang_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5006
+#EXTINF: -1 tvg-name="[US]Cartoon_Network"  group-title="US-CH",Cartoon_Network
+http://mhiptv.com:8888/Shehata123/S8855865588/4997
+#EXTINF: -1 tvg-name="[US]BET_SD"  group-title="US-CH",BET_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/4954
+#EXTINF: -1 tvg-name="[US]BRAVO_HD"  group-title="US-CH",BRAVO_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/5005
+
+#EXTINF: -1 tvg-name="BOX OFFICE 5 HD"  group-title="UK-CH", BOX OFFICE 5 HD
+http://mhiptv.com:8888/Shehata123/S8855865588/30516
+#EXTINF: -1 tvg-name="BOX OFFICE 4 HD"  group-title="UK-CH", BOX OFFICE 4 HD
+http://mhiptv.com:8888/Shehata123/S8855865588/30515
+#EXTINF: -1 tvg-name="BOX OFFICE 3 HD"  group-title="UK-CH", BOX OFFICE 3 HD
+http://mhiptv.com:8888/Shehata123/S8855865588/30514
+#EXTINF: -1 tvg-name="BOX OFFICE 2 HD"  group-title="UK-CH", BOX OFFICE 2 HD
+http://mhiptv.com:8888/Shehata123/S8855865588/30513
+#EXTINF: -1 tvg-name="BOX OFFICE 1 HD"  group-title="UK-CH", BOX OFFICE 1 HD
+http://mhiptv.com:8888/Shehata123/S8855865588/1849
+#EXTINF: -1 tvg-name="[UK]BBC_NEWS_SD"  group-title="UK-CH",BBC_NEWS_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2826
+#EXTINF: -1 tvg-name="[UK]CNBC_News"  group-title="UK-CH",CNBC_News
+http://mhiptv.com:8888/Shehata123/S8855865588/4702
+#EXTINF: -1 tvg-name="[UK]BBC_One_ SD"  group-title="UK-CH",BBC_One_ SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2861
+#EXTINF: -1 tvg-name="[UK]BBC_Two_SD"  group-title="UK-CH",BBC_Two_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2851
+#EXTINF: -1 tvg-name="[UK]BBC_Three"  group-title="UK-CH",BBC_Three
+http://mhiptv.com:8888/Shehata123/S8855865588/2835
+#EXTINF: -1 tvg-name="[UK]BBC_Four_SD"  group-title="UK-CH",BBC_Four_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2827
+#EXTINF: -1 tvg-name="[UK]5USA_SD"  group-title="UK-CH",5USA_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2815
+#EXTINF: -1 tvg-name="[UK]ITV1_SD"  group-title="UK-CH",ITV1_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2822
+#EXTINF: -1 tvg-name="[UK]ITV2_SD"  group-title="UK-CH",ITV2_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2824
+#EXTINF: -1 tvg-name="[UK]ITV3_SD"  group-title="UK-CH",ITV3_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/4709
+#EXTINF: -1 tvg-name="[UK]ITV4_SD"  group-title="UK-CH",ITV4_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/4710
+#EXTINF: -1 tvg-name="[UK]ITV_Encore"  group-title="UK-CH",ITV_Encore
+http://mhiptv.com:8888/Shehata123/S8855865588/4711
+#EXTINF: -1 tvg-name="[UK]E4_SD"  group-title="UK-CH",E4_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2541
+#EXTINF: -1 tvg-name="[UK]CBS_ACTION"  group-title="UK-CH",CBS_ACTION
+http://mhiptv.com:8888/Shehata123/S8855865588/4452
+#EXTINF: -1 tvg-name="[UK]CBS_DRAMA_SD"  group-title="UK-CH",CBS_DRAMA_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/4451
+#EXTINF: -1 tvg-name="[UK]CBS_Reality_SD"  group-title="UK-CH",CBS_Reality_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2821
+#EXTINF: -1 tvg-name="[UK]True_Movies_SD"  group-title="UK-CH",True_Movies_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2811
+#EXTINF: -1 tvg-name="[UK]Sky_Cinema_Premiere_HD"  group-title="UK-CH",Sky_Cinema_Premiere_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/2823
+#EXTINF: -1 tvg-name="[UK]Star_GOLD"  group-title="UK-CH",Star_GOLD
+http://mhiptv.com:8888/Shehata123/S8855865588/2829
+#EXTINF: -1 tvg-name="[UK]SkyCinema_OSCARS"  group-title="UK-CH",SkyCinema_OSCARS
+http://mhiptv.com:8888/Shehata123/S8855865588/2812
+#EXTINF: -1 tvg-name="[UK]Sky_Cinema_Action_SD"  group-title="UK-CH",Sky_Cinema_Action_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2819
+#EXTINF: -1 tvg-name="[UK]Sky_Cinema_Thriller_SD"  group-title="UK-CH",Sky_Cinema_Thriller_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2813
+#EXTINF: -1 tvg-name="[UK]Sky_Cinema_Comedy_SD"  group-title="UK-CH",Sky_Cinema_Comedy_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2818
+#EXTINF: -1 tvg-name="[UK]Sky_Cinema_Select_SD"  group-title="UK-CH",Sky_Cinema_Select_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2852
+#EXTINF: -1 tvg-name="[UK]Comedy_Central_Extra_SD"  group-title="UK-CH",Comedy_Central_Extra_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2860
+#EXTINF: -1 tvg-name="[UK]Sky_Cinema_Sci-Fi_SD"  group-title="UK-CH",Sky_Cinema_Sci-Fi_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2814
+#EXTINF: -1 tvg-name="[UK]Sky_Cinema_Family_SD"  group-title="UK-CH",Sky_Cinema_Family_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2816
+#EXTINF: -1 tvg-name="[UK]Sky_Cinema_Hits_HD"  group-title="UK-CH",Sky_Cinema_Hits_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/2832
+#EXTINF: -1 tvg-name="[UK]Sky_Cinema_Disney_HD"  group-title="UK-CH",Sky_Cinema_Disney_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/2817
+#EXTINF: -1 tvg-name="[UK]SKY_ATLANTIC"  group-title="UK-CH",SKY_ATLANTIC
+http://mhiptv.com:8888/Shehata123/S8855865588/2834
+#EXTINF: -1 tvg-name="[UK]At_the_races_SD"  group-title="UK-CH",At_the_races_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2830
+#EXTINF: -1 tvg-name="[UK]Five"  group-title="UK-CH",Five
+http://mhiptv.com:8888/Shehata123/S8855865588/4712
+#EXTINF: -1 tvg-name="[UK]London_Live"  group-title="UK-CH",London_Live
+http://mhiptv.com:8888/Shehata123/S8855865588/4713
+#EXTINF: -1 tvg-name="[UK]Movies_24"  group-title="UK-CH",Movies_24
+http://mhiptv.com:8888/Shehata123/S8855865588/4716
+#EXTINF: -1 tvg-name="[UK]More4_SD"  group-title="UK-CH",More4_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/4714
+#EXTINF: -1 tvg-name="[UK]Film4"  group-title="UK-CH",Film4
+http://mhiptv.com:8888/Shehata123/S8855865588/2836
+#EXTINF: -1 tvg-name="[UK]Dave"  group-title="UK-CH",Dave
+http://mhiptv.com:8888/Shehata123/S8855865588/4703
+#EXTINF: -1 tvg-name="[UK]E!"  group-title="UK-CH",E!
+http://mhiptv.com:8888/Shehata123/S8855865588/4705
+#EXTINF: -1 tvg-name="[UK]MUTV_HD"  group-title="UK-CH",MUTV_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/4717
+#EXTINF: -1 tvg-name="[UK]Watch"  group-title="UK-CH",Watch
+http://mhiptv.com:8888/Shehata123/S8855865588/4123
+#EXTINF: -1 tvg-name="[UK]Yesterday"  group-title="UK-CH",Yesterday
+http://mhiptv.com:8888/Shehata123/S8855865588/4127
+#EXTINF: -1 tvg-name="[UK]Travel"  group-title="UK-CH",Travel
+http://mhiptv.com:8888/Shehata123/S8855865588/2828
+#EXTINF: -1 tvg-name="[UK]MTV_Music"  group-title="UK-CH",MTV_Music
+http://mhiptv.com:8888/Shehata123/S8855865588/2840
+#EXTINF: -1 tvg-name="[UK]MTV_CLASSIC"  group-title="UK-CH",MTV_CLASSIC
+http://mhiptv.com:8888/Shehata123/S8855865588/2841
+#EXTINF: -1 tvg-name="[UK]Movies_4_Men"  group-title="UK-CH",Movies_4_Men
+http://mhiptv.com:8888/Shehata123/S8855865588/2842
+#EXTINF: -1 tvg-name="[UK]Sky_Movies_Modern_HD"  group-title="UK-CH",Sky_Movies_Modern_HD
+http://mhiptv.com:8888/Shehata123/S8855865588/2843
+#EXTINF: -1 tvg-name="[UK]UNIVERSAL"  group-title="UK-CH",UNIVERSAL
+http://mhiptv.com:8888/Shehata123/S8855865588/4454
+#EXTINF: -1 tvg-name="[UK]Crime_Investigation"  group-title="UK-CH",Crime_Investigation
+http://mhiptv.com:8888/Shehata123/S8855865588/2845
+#EXTINF: -1 tvg-name="[UK]History_Channel_SD"  group-title="UK-CH",History_Channel_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2846
+#EXTINF: -1 tvg-name="[UK]Food_Network"  group-title="UK-CH",Food_Network
+http://mhiptv.com:8888/Shehata123/S8855865588/2848
+#EXTINF: -1 tvg-name="[UK]Dmax"  group-title="UK-CH",Dmax
+http://mhiptv.com:8888/Shehata123/S8855865588/2862
+#EXTINF: -1 tvg-name="[UK]QUEST"  group-title="UK-CH",QUEST
+http://mhiptv.com:8888/Shehata123/S8855865588/4458
+#EXTINF: -1 tvg-name="[UK]Nat_Geo_Wild"  group-title="UK-CH",Nat_Geo_Wild
+http://mhiptv.com:8888/Shehata123/S8855865588/2837
+#EXTINF: -1 tvg-name="[UK]National_Geographic"  group-title="UK-CH",National_Geographic
+http://mhiptv.com:8888/Shehata123/S8855865588/2839
+#EXTINF: -1 tvg-name="[UK]Discovery_SD"  group-title="UK-CH",Discovery_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2857
+#EXTINF: -1 tvg-name="[UK]Discovery_History"  group-title="UK-CH",Discovery_History
+http://mhiptv.com:8888/Shehata123/S8855865588/2859
+#EXTINF: -1 tvg-name="[UK]Discovery_Turbo_SD"  group-title="UK-CH",Discovery_Turbo_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2856
+#EXTINF: -1 tvg-name="[UK]Discovery_Science_SD"  group-title="UK-CH",Discovery_Science_SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2858
+#EXTINF: -1 tvg-name="beIN_SPORTS_1_Low" group-title="BEINSPORTS", beIN_SPORTS_1_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/16
+#EXTINF: -1 tvg-name="beIN_SPORTS_2_Low" group-title="BEINSPORTS", beIN_SPORTS_2_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/17
+#EXTINF: -1 tvg-name="beIN_SPORTS_3_Low" group-title="BEINSPORTS", beIN_SPORTS_3_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/18
+#EXTINF: -1 tvg-name="beIN_SPORTS_4_Low" group-title="BEINSPORTS", beIN_SPORTS_4_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/2391
+#EXTINF: -1 tvg-name="beIN_SPORTS_5_Low" group-title="BEINSPORTS", beIN_SPORTS_5_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/19
+#EXTINF: -1 tvg-name="beIN_SPORTS_6_Low" group-title="BEINSPORTS", beIN_SPORTS_6_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/20
+#EXTINF: -1 tvg-name="beIN_SPORTS_7_Low" group-title="BEINSPORTS", beIN_SPORTS_7_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/21
+#EXTINF: -1 tvg-name="beIN_SPORTS_8_Low" group-title="BEINSPORTS", beIN_SPORTS_8_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/22
+#EXTINF: -1 tvg-name="beIN_SPORTS_9_Low" group-title="BEINSPORTS", beIN_SPORTS_9_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/23
+#EXTINF: -1 tvg-name="beIN_SPORTS_10_Low" group-title="BEINSPORTS", beIN_SPORTS_10_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/24
+#EXTINF: -1 tvg-name="beIN_SPORTS_11_Low" group-title="BEINSPORTS", beIN_SPORTS_11_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/25
+#EXTINF: -1 tvg-name="beIN_SPORTS_12_Low" group-title="BEINSPORTS", beIN_SPORTS_12_Low
+http://mhiptv.com:8888/Shehata123/S8855865588/26
+#EXTINF: -1 tvg-name="Happy Year (2021)" group-title="BEINSPORTS", Happy Year (2021)
+http://mhiptv.com:8888/Shehata123/S8855865588/28588
+#EXTINF: -1 tvg-name="beIN_SPORTS_1_512K" group-title="BEINSPORTS", beIN_SPORTS_1_512K
+http://mhiptv.com:8888/Shehata123/S8855865588/4898
+#EXTINF: -1 tvg-name="beIN_SPORTS_2_512K" group-title="BEINSPORTS", beIN_SPORTS_2_512K
+http://mhiptv.com:8888/Shehata123/S8855865588/4899
+#EXTINF: -1 tvg-name="beIN_SPORTS_3_512K" group-title="BEINSPORTS", beIN_SPORTS_3_512K
+http://mhiptv.com:8888/Shehata123/S8855865588/4900
+#EXTINF: -1 tvg-name="beIN_SPORTS_4_512K" group-title="BEINSPORTS", beIN_SPORTS_4_512K
+http://mhiptv.com:8888/Shehata123/S8855865588/4901
+#EXTINF: -1 tvg-name="beIN_SPORTS_5_512K" group-title="BEINSPORTS", beIN_SPORTS_5_512K
+http://mhiptv.com:8888/Shehata123/S8855865588/4902
+#EXTINF: -1 tvg-name="beIN_SPORTS_6_512K" group-title="BEINSPORTS", beIN_SPORTS_6_512K
+http://mhiptv.com:8888/Shehata123/S8855865588/4903
+#EXTINF: -1 tvg-name="beIN_SPORTS_7_512K" group-title="BEINSPORTS", beIN_SPORTS_7_512K
+http://mhiptv.com:8888/Shehata123/S8855865588/4904
+#EXTINF: -1 tvg-name="beIN_SPORTS_8_512K" group-title="BEINSPORTS", beIN_SPORTS_8_512K
+http://mhiptv.com:8888/Shehata123/S8855865588/4905
+#EXTINF: -1 tvg-name="beIN_SPORTS_9_512K" group-title="BEINSPORTS", beIN_SPORTS_9_512K
+http://mhiptv.com:8888/Shehata123/S8855865588/4906
+#EXTINF: -1 tvg-name="beIN_SPORTS_10_512K" group-title="BEINSPORTS", beIN_SPORTS_10_512K
+http://mhiptv.com:8888/Shehata123/S8855865588/4907
+#EXTINF: -1 tvg-name="beIN_SPORTS_1SD" group-title="BEINSPORTS", beIN_SPORTS_1SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2456
+#EXTINF: -1 tvg-name="beIN_SPORTS_2SD" group-title="BEINSPORTS", beIN_SPORTS_2SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2457
+#EXTINF: -1 tvg-name="beIN_SPORTS_3SD" group-title="BEINSPORTS", beIN_SPORTS_3SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2458
+#EXTINF: -1 tvg-name="beIN_SPORTS_4SD" group-title="BEINSPORTS", beIN_SPORTS_4SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2459
+#EXTINF: -1 tvg-name="beIN_SPORTS_5SD" group-title="BEINSPORTS", beIN_SPORTS_5SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2460
+#EXTINF: -1 tvg-name="beIN_SPORTS_6SD" group-title="BEINSPORTS", beIN_SPORTS_6SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2461
+#EXTINF: -1 tvg-name="beIN_SPORTS_7SD" group-title="BEINSPORTS", beIN_SPORTS_7SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2462
+#EXTINF: -1 tvg-name="beIN_SPORTS_8SD" group-title="BEINSPORTS", beIN_SPORTS_8SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2463
+#EXTINF: -1 tvg-name="beIN_SPORTS_9SD" group-title="BEINSPORTS", beIN_SPORTS_9SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2464
+#EXTINF: -1 tvg-name="beIN_SPORTS_10SD" group-title="BEINSPORTS", beIN_SPORTS_10SD
+http://mhiptv.com:8888/Shehata123/S8855865588/2465
+#EXTINF: -1 tvg-name="beIN_SPORTS_1_VEGA" group-title="BEINSPORTS", beIN_SPORTS_1_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3652
+#EXTINF: -1 tvg-name="beIN_SPORTS_2_VEGA" group-title="BEINSPORTS", beIN_SPORTS_2_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3651
+#EXTINF: -1 tvg-name="beIN_SPORTS_3_VEGA" group-title="BEINSPORTS", beIN_SPORTS_3_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3650
+#EXTINF: -1 tvg-name="beIN_SPORTS_4_VEGA" group-title="BEINSPORTS", beIN_SPORTS_4_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3649
+#EXTINF: -1 tvg-name="beIN_SPORTS_5_VEGA" group-title="BEINSPORTS", beIN_SPORTS_5_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3648
+#EXTINF: -1 tvg-name="beIN_SPORTS_6_VEGA" group-title="BEINSPORTS", beIN_SPORTS_6_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3647
+#EXTINF: -1 tvg-name="beIN_SPORTS_7_VEGA" group-title="BEINSPORTS", beIN_SPORTS_7_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3646
+#EXTINF: -1 tvg-name="beIN_SPORTS_8_VEGA" group-title="BEINSPORTS", beIN_SPORTS_8_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3645
+#EXTINF: -1 tvg-name="beIN_SPORTS_9_VEGA" group-title="BEINSPORTS", beIN_SPORTS_9_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3644
+#EXTINF: -1 tvg-name="beIN_SPORTS_10_VEGA" group-title="BEINSPORTS", beIN_SPORTS_10_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3653
+#EXTINF: -1 tvg-name="beIN_SPORTS_11_VEGA" group-title="BEINSPORTS", beIN_SPORTS_11_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3844
+#EXTINF: -1 tvg-name="beIN_SPORTS_12_VEGA" group-title="BEINSPORTS", beIN_SPORTS_12_VEGA
+http://mhiptv.com:8888/Shehata123/S8855865588/3843
+#EXTINF: -1 tvg-name="Libya Sport SD" group-title="BEINSPORTS", Libya Sport SD
+http://mhiptv.com:8888/Shehata123/S8855865588/17950
+#EXTINF: -1 tvg-name="beIN_SPORTS_1HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_1HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/2442
+#EXTINF: -1 tvg-name="beIN_SPORTS_2HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_2HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/2443
+#EXTINF: -1 tvg-name="beIN_SPORTS_3HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_3HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/2444
+#EXTINF: -1 tvg-name="beIN_SPORTS_4HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_4HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/2445
+#EXTINF: -1 tvg-name="beIN_SPORTS_5HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_5HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/2446
+#EXTINF: -1 tvg-name="beIN_SPORTS_6HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_6HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/2447
+#EXTINF: -1 tvg-name="beIN_SPORTS_7HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_7HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/2448
+#EXTINF: -1 tvg-name="beIN_SPORTS_8HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_8HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/2449
+#EXTINF: -1 tvg-name="beIN_SPORTS_9HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_9HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/2454
+#EXTINF: -1 tvg-name="beIN_SPORTS_10HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_10HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/2455
+#EXTINF: -1 tvg-name="beIN_SPORTS_11HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_11HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/3246
+#EXTINF: -1 tvg-name="beIN_SPORTS_12HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_12HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/3250
+#EXTINF: -1 tvg-name="beIN_SPORTS_13HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_13HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/3270
+#EXTINF: -1 tvg-name="beIN_SPORTS_14HD_1080p" group-title="BEINSPORTS", beIN_SPORTS_14HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/12319
+#EXTINF: -1 tvg-name="BEIN_SPORT_15_HD_1080p" group-title="BEINSPORTS", BEIN_SPORT_15_HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/3247
+#EXTINF: -1 tvg-name="BEIN_SPORT_16_HD_1080p" group-title="BEINSPORTS", BEIN_SPORT_16_HD_1080p
+http://mhiptv.com:8888/Shehata123/S8855865588/3248
+#EXTINF: -1 tvg-name="beIN_Sport_News" tvg-logo="https://static.iptv-epg.com/qa/beINSportsNews.qa.png" group-title="BEINSPORTS", beIN_Sport_News
+http://mhiptv.com:8888/Shehata123/S8855865588/2799
+#EXTINF: -1 tvg-name="BeIN Sport NBA HD" group-title="BEINSPORTS", BeIN Sport NBA HD
+http://mhiptv.com:8888/Shehata123/S8855865588/3249
+#EXTINF: -1 tvg-name="beIN_SPORTS_1_4K" group-title="BEINSPORTS", beIN_SPORTS_1_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3170
+#EXTINF: -1 tvg-name="beIN_SPORTS_2_4K" group-title="BEINSPORTS", beIN_SPORTS_2_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3171
+#EXTINF: -1 tvg-name="beIN_SPORTS_3_4K" group-title="BEINSPORTS", beIN_SPORTS_3_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3172
+#EXTINF: -1 tvg-name="beIN_SPORTS_4_4K" group-title="BEINSPORTS", beIN_SPORTS_4_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3173
+#EXTINF: -1 tvg-name="beIN_SPORTS_5_4K" group-title="BEINSPORTS", beIN_SPORTS_5_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3174
+#EXTINF: -1 tvg-name="beIN_SPORTS_6_4K" group-title="BEINSPORTS", beIN_SPORTS_6_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3175
+#EXTINF: -1 tvg-name="beIN_SPORTS_7_4K" group-title="BEINSPORTS", beIN_SPORTS_7_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3176
+#EXTINF: -1 tvg-name="beIN_SPORTS_8_4K" group-title="BEINSPORTS", beIN_SPORTS_8_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3177
+#EXTINF: -1 tvg-name="beIN_SPORTS_9_4K" group-title="BEINSPORTS", beIN_SPORTS_9_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3178
+#EXTINF: -1 tvg-name="beIN_SPORTS_10_4K" group-title="BEINSPORTS", beIN_SPORTS_10_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3179
+#EXTINF: -1 tvg-name="beIN_SPORTS_11_4K" group-title="BEINSPORTS", beIN_SPORTS_11_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3613
+#EXTINF: -1 tvg-name="beIN_SPORTS_12_4K" group-title="BEINSPORTS", beIN_SPORTS_12_4K
+http://mhiptv.com:8888/Shehata123/S8855865588/3614
+
+
+#EXTINF: -1 tvg-name="BeIN_SPORTS_1_HD [TR]" group-title="BEINSPORTS", BeIN_SPORTS_1_HD [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31047
+#EXTINF: -1 tvg-name="BeIN_SPORTS_2_HD [TR]" group-title="BEINSPORTS", BeIN_SPORTS_2_HD [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31048
+#EXTINF: -1 tvg-name="BeIN_SPORTS_3_HD [TR]" group-title="BEINSPORTS", BeIN_SPORTS_3_HD [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31049
+#EXTINF: -1 tvg-name="BeIN_SPORTS_4_HD [TR]" group-title="BEINSPORTS", BeIN_SPORTS_4_HD [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31050
+#EXTINF: -1 tvg-name="BeIN_SPORTS_1_SD [TR]" group-title="BEINSPORTS", BeIN_SPORTS_1_SD [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31051
+#EXTINF: -1 tvg-name="BeIN_SPORTS_2_SD [TR]" group-title="BEINSPORTS", BeIN_SPORTS_2_SD [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31052
+#EXTINF: -1 tvg-name="BeIN_SPORTS_3_SD [TR]" group-title="BEINSPORTS", BeIN_SPORTS_3_SD [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31053
+#EXTINF: -1 tvg-name="BeIN_SPORTS_4_SD [TR]" group-title="BEINSPORTS", BeIN_SPORTS_4_SD [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31054
+#EXTINF: -1 tvg-name="BeIN_SPORTS_1_Low [TR]" group-title="BEINSPORTS", BeIN_SPORTS_1_Low [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31055
+#EXTINF: -1 tvg-name="BeIN_SPORTS_2_Low [TR]" group-title="BEINSPORTS", BeIN_SPORTS_2_Low [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31056
+#EXTINF: -1 tvg-name="BeIN_SPORTS_3_Low [TR]" group-title="BEINSPORTS", BeIN_SPORTS_3_Low [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31057
+#EXTINF: -1 tvg-name="BeIN_SPORTS_4_Low [TR]" group-title="BEINSPORTS", BeIN_SPORTS_4_Low [TR]
+http://mhiptv.com:8888/Shehata123/S8855865588/31058
