@@ -808,16 +808,355 @@ https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 https://a.jsrdn.com/broad
 #EXTINF:-1 group-title="world-SPORT",wordl iptv sport
 https://a.jsrdn.com/broad
-#EXTINF:-1 group-title="UK-SPORT",UNITED KINGDOM SPORT IPTV
-https://a.jsrdn.com/broad
-#EXTINF:-1 group-title="US-SPORT",UNITED STATE SPORT IPTV
-https://a.jsrdn.com/broad
-#EXTINF:-1 group-title="Arabic SPORTS",ARABIC SPORT IPTV
-https://a.jsrdn.com/broad
-#EXTINF:-1 group-title="UK-CH",UK CH IPTV
-https://a.jsrdn.com/broad
-#EXTINF:-1 group-title="US-CH",US CH IPTV
-https://a.jsrdn.com/broad
+#EXTM3U 
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT ACTION
+http://mags.vip:2086/live/miriam/miriam123/99287.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT BLITZ
+http://mags.vip:2086/live/miriam/miriam123/90494.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT CRICKET
+http://mags.vip:2086/live/miriam/miriam123/90482.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT FOOTBALL
+http://mags.vip:2086/live/miriam/miriam123/90489.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT GOLF
+http://mags.vip:2086/live/miriam/miriam123/99288.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT GRANDSTAND
+http://mags.vip:2086/live/miriam/miriam123/90493.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT LA LIGA
+http://mags.vip:2086/live/miriam/miriam123/90490.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT MAXIMO
+http://mags.vip:2086/live/miriam/miriam123/99290.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT MOTORSPORT
+http://mags.vip:2086/live/miriam/miriam123/99289.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT PREMIER LEAGUE
+http://mags.vip:2086/live/miriam/miriam123/90491.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT PSL
+http://mags.vip:2086/live/miriam/miriam123/90492.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT RUGBY
+http://mags.vip:2086/live/miriam/miriam123/90483.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT TENNIS
+http://mags.vip:2086/live/miriam/miriam123/99291.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT VARIETY 1
+http://mags.vip:2086/live/miriam/miriam123/90488.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT VARIETY 2
+http://mags.vip:2086/live/miriam/miriam123/90487.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT VARIETY 3
+http://mags.vip:2086/live/miriam/miriam123/90486.ts
+#EXTINF: -1 group-title="AFRICA-SPORT", SUPERSPORT VARIETY 4
+http://mags.vip:2086/live/miriam/miriam123/99286.ts
+#EXTINF: -1 group-title="AR-SPORT", FOX SPORTS PREMIUM
+http://mags.vip:2086/live/miriam/miriam123/67126.ts
+#EXTINF: -1 group-title="BR-SPORT", FOX SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/92695.ts
+#EXTINF: -1 group-title="BR-SPORT", FOX SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/92696.ts
+#EXTINF: -1 group-title="BR-SPORT", SPORTV
+http://mags.vip:2086/live/miriam/miriam123/92645.ts
+#EXTINF: -1 group-title="BR-SPORT", SPORTV 1
+http://mags.vip:2086/live/miriam/miriam123/92731.ts
+#EXTINF: -1 group-title="BR-SPORT", SPORTV 2
+http://mags.vip:2086/live/miriam/miriam123/92647.ts
+#EXTINF: -1 group-title="BR-SPORT", SPORTV 3
+http://mags.vip:2086/live/miriam/miriam123/92646.ts
+#EXTINF: -1 group-title="DE-SPORT", EUROSPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92355.ts
+#EXTINF: -1 group-title="DE-SPORT", EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92356.ts
+#EXTINF: -1 group-title="DE-SPORT", EUROSPORT 2 XTRA
+http://mags.vip:2086/live/miriam/miriam123/92357.ts
+#EXTINF: -1 group-title="DE-SPORT", SKY SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92331.ts
+#EXTINF: -1 group-title="DE-SPORT", SKY SPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92332.ts
+#EXTINF: -1 group-title="DE-SPORT", SKY SPORT AUSTRIA
+http://mags.vip:2086/live/miriam/miriam123/92341.ts
+#EXTINF: -1 group-title="DE-SPORT", SKY SPORT AUSTRIA 2
+http://mags.vip:2086/live/miriam/miriam123/92342.ts
+#EXTINF: -1 group-title="DE-SPORT", SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92359.ts
+#EXTINF: -1 group-title="DE-SPORT", SPORTDIGITAL
+http://mags.vip:2086/live/miriam/miriam123/92358.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", EUROSPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92912.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92913.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", EXTREME SPORTS CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92911.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", FOX SPORTS 1 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92905.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", FOX SPORTS 2 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92906.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", FOX SPORTS 4 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92908.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", FOX SPORTS 5 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92909.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", FOX SPORTS 6 EREDIVISIE
+http://mags.vip:2086/live/miriam/miriam123/92910.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", ZIGGO SPORT
+http://mags.vip:2086/live/miriam/miriam123/92898.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", ZIGGO SPORT DOCU
+http://mags.vip:2086/live/miriam/miriam123/92904.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", ZIGGO SPORT EXTRA
+http://mags.vip:2086/live/miriam/miriam123/92903.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", ZIGGO SPORT GOLF
+http://mags.vip:2086/live/miriam/miriam123/92902.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", ZIGGO SPORT RACING
+http://mags.vip:2086/live/miriam/miriam123/92900.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", ZIGGO SPORT SELECT
+http://mags.vip:2086/live/miriam/miriam123/92899.ts
+#EXTINF: -1 group-title="DUTCH-SPORT", ZIGGO SPORT VOETBAL
+http://mags.vip:2086/live/miriam/miriam123/92901.ts
+#EXTINF: -1 group-title="FR-SPORT", BEINSPORT 1 FR
+http://mags.vip:2086/live/miriam/miriam123/92221.ts
+#EXTINF: -1 group-title="FR-SPORT", BEINSPORT 2 FR
+http://mags.vip:2086/live/miriam/miriam123/92222.ts
+#EXTINF: -1 group-title="FR-SPORT", BEINSPORT 3 FR
+http://mags.vip:2086/live/miriam/miriam123/92223.ts
+#EXTINF: -1 group-title="FR-SPORT", BEINSPORT-MAX-10
+http://mags.vip:2086/live/miriam/miriam123/92230.ts
+#EXTINF: -1 group-title="FR-SPORT", BEINSPORT-MAX-4
+http://mags.vip:2086/live/miriam/miriam123/92224.ts
+#EXTINF: -1 group-title="FR-SPORT", BEINSPORT-MAX-5
+http://mags.vip:2086/live/miriam/miriam123/92225.ts
+#EXTINF: -1 group-title="FR-SPORT", BEINSPORT-MAX-6
+http://mags.vip:2086/live/miriam/miriam123/92226.ts
+#EXTINF: -1 group-title="FR-SPORT", BEINSPORT-MAX-7
+http://mags.vip:2086/live/miriam/miriam123/92227.ts
+#EXTINF: -1 group-title="FR-SPORT", BEINSPORT-MAX-8
+http://mags.vip:2086/live/miriam/miriam123/92228.ts
+#EXTINF: -1 group-title="FR-SPORT", BEINSPORT-MAX-9
+http://mags.vip:2086/live/miriam/miriam123/92229.ts
+#EXTINF: -1 group-title="FR-SPORT", BFM SPORT
+http://mags.vip:2086/live/miriam/miriam123/92239.ts
+#EXTINF: -1 group-title="FR-SPORT", CANAL  SPORT
+http://mags.vip:2086/live/miriam/miriam123/92212.ts
+#EXTINF: -1 group-title="FR-SPORT", EUROSPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92214.ts
+#EXTINF: -1 group-title="FR-SPORT", EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92215.ts
+#EXTINF: -1 group-title="FR-SPORT", INFOSPORT
+http://mags.vip:2086/live/miriam/miriam123/92213.ts
+#EXTINF: -1 group-title="FR-SPORT", RMC SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/92216.ts
+#EXTINF: -1 group-title="FR-SPORT", RMC SPORT 2
+http://mags.vip:2086/live/miriam/miriam123/92217.ts
+#EXTINF: -1 group-title="FR-SPORT", RMC SPORT 3
+http://mags.vip:2086/live/miriam/miriam123/92218.ts
+#EXTINF: -1 group-title="FR-SPORT", RMC SPORT 4
+http://mags.vip:2086/live/miriam/miriam123/92219.ts
+#EXTINF: -1 group-title="GB-SPORT", BT SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/67062.ts
+#EXTINF: -1 group-title="GB-SPORT", BT SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/67063.ts
+#EXTINF: -1 group-title="GB-SPORT", BT SPORTS 3
+http://mags.vip:2086/live/miriam/miriam123/67075.ts
+#EXTINF: -1 group-title="GB-SPORT", BT SPORTS ESPN
+http://mags.vip:2086/live/miriam/miriam123/67076.ts
+#EXTINF: -1 group-title="GB-SPORT", BT SPORTS EXTRA 1
+http://mags.vip:2086/live/miriam/miriam123/100001.ts
+#EXTINF: -1 group-title="GB-SPORT", BT SPORTS EXTRA 2
+http://mags.vip:2086/live/miriam/miriam123/100002.ts
+#EXTINF: -1 group-title="GB-SPORT", BT SPORTS EXTRA 3
+http://mags.vip:2086/live/miriam/miriam123/100003.ts
+#EXTINF: -1 group-title="GB-SPORT", BT SPORTS EXTRA 4
+http://mags.vip:2086/live/miriam/miriam123/100004.ts
+#EXTINF: -1 group-title="GB-SPORT", BT SPORTS EXTRA 5
+http://mags.vip:2086/live/miriam/miriam123/100005.ts
+#EXTINF: -1 group-title="GB-SPORT", BT SPORTS EXTRA 6
+http://mags.vip:2086/live/miriam/miriam123/100006.ts
+#EXTINF: -1 group-title="GB-SPORT", EIR SPORT 1
+http://mags.vip:2086/live/miriam/miriam123/91786.ts
+#EXTINF: -1 group-title="GB-SPORT", EIR SPORT 2
+http://mags.vip:2086/live/miriam/miriam123/91787.ts
+#EXTINF: -1 group-title="GB-SPORT", EIR SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/36252.ts
+#EXTINF: -1 group-title="GB-SPORT", EIR SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/36253.ts
+#EXTINF: -1 group-title="GB-SPORT", EUROSPORT 1
+http://mags.vip:2086/live/miriam/miriam123/72659.ts
+#EXTINF: -1 group-title="GB-SPORT", EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/72660.ts
+#EXTINF: -1 group-title="GB-SPORT", EUROSPORT ONE
+http://mags.vip:2086/live/miriam/miriam123/99200.ts
+#EXTINF: -1 group-title="GB-SPORT", EUROSPORT TWO
+http://mags.vip:2086/live/miriam/miriam123/99201.ts
+#EXTINF: -1 group-title="GB-SPORT", FREESPORTS
+http://mags.vip:2086/live/miriam/miriam123/99228.ts
+#EXTINF: -1 group-title="GB-SPORT", PREMIER SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/91782.ts
+#EXTINF: -1 group-title="GB-SPORT", PREMIER SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/91783.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS ARENA
+http://mags.vip:2086/live/miriam/miriam123/85931.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS CRICKET
+http://mags.vip:2086/live/miriam/miriam123/51106.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS F1
+http://mags.vip:2086/live/miriam/miriam123/67056.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS FOOTBALL
+http://mags.vip:2086/live/miriam/miriam123/67057.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS GOLF
+http://mags.vip:2086/live/miriam/miriam123/67059.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS MAIN EVENT
+http://mags.vip:2086/live/miriam/miriam123/67058.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS MIX
+http://mags.vip:2086/live/miriam/miriam123/67061.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS NEWS
+http://mags.vip:2086/live/miriam/miriam123/67091.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS NFL
+http://mags.vip:2086/live/miriam/miriam123/85930.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS PREMIER LEAGUE
+http://mags.vip:2086/live/miriam/miriam123/67060.ts
+#EXTINF: -1 group-title="GB-SPORT", SKY SPORTS RACING
+http://mags.vip:2086/live/miriam/miriam123/47763.ts
+#EXTINF: -1 group-title="GB-SPORT", SPORTS TONIGHT
+http://mags.vip:2086/live/miriam/miriam123/99205.ts
+#EXTINF: -1 group-title="IT-SPORT", EUROSPORT 1
+http://mags.vip:2086/live/miriam/miriam123/94204.ts
+#EXTINF: -1 group-title="IT-SPORT", EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/94203.ts
+#EXTINF: -1 group-title="IT-SPORT", RAI SPORT
+http://mags.vip:2086/live/miriam/miriam123/94164.ts
+#EXTINF: -1 group-title="IT-SPORT", SKY EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/94142.ts
+#EXTINF: -1 group-title="IT-SPORT", SKY SPORT 251
+http://mags.vip:2086/live/miriam/miriam123/94139.ts
+#EXTINF: -1 group-title="IT-SPORT", SKY SPORT 252
+http://mags.vip:2086/live/miriam/miriam123/94138.ts
+#EXTINF: -1 group-title="IT-SPORT", SKY SPORT ARENA
+http://mags.vip:2086/live/miriam/miriam123/94134.ts
+#EXTINF: -1 group-title="IT-SPORT", SKY SPORT COLLECTION
+http://mags.vip:2086/live/miriam/miriam123/94133.ts
+#EXTINF: -1 group-title="IT-SPORT", SKY SPORT F1
+http://mags.vip:2086/live/miriam/miriam123/94132.ts
+#EXTINF: -1 group-title="IT-SPORT", SKY SPORT FOOTBALL
+http://mags.vip:2086/live/miriam/miriam123/94131.ts
+#EXTINF: -1 group-title="IT-SPORT", SKY SPORT MOTOGP
+http://mags.vip:2086/live/miriam/miriam123/94130.ts
+#EXTINF: -1 group-title="IT-SPORT", SKY SPORT NBA
+http://mags.vip:2086/live/miriam/miriam123/94129.ts
+#EXTINF: -1 group-title="IT-SPORT", SKY SPORT UNO
+http://mags.vip:2086/live/miriam/miriam123/94128.ts
+#EXTINF: -1 group-title="US-SPORT", ADVENTURE SPORTS NETWORK
+http://mags.vip:2086/live/miriam/miriam123/56018.ts
+#EXTINF: -1 group-title="US-SPORT", ALTITUDE SPORTS
+http://mags.vip:2086/live/miriam/miriam123/99512.ts
+#EXTINF: -1 group-title="US-SPORT", AT&T SPORTSNET PITTSBURGH
+http://mags.vip:2086/live/miriam/miriam123/100058.ts
+#EXTINF: -1 group-title="US-SPORT", AT&T SPORTSNET ROCKY MOUNTAINS
+http://mags.vip:2086/live/miriam/miriam123/100059.ts
+#EXTINF: -1 group-title="US-SPORT", AT&T SPORTSNET SOUTHWEST
+http://mags.vip:2086/live/miriam/miriam123/100060.ts
+#EXTINF: -1 group-title="US-SPORT", BEIN SPORTS
+http://mags.vip:2086/live/miriam/miriam123/352.ts
+#EXTINF: -1 group-title="US-SPORT", CBS SPORTS HQ
+http://mags.vip:2086/live/miriam/miriam123/6730.ts
+#EXTINF: -1 group-title="US-SPORT", CBS SPORTS NETWORK
+http://mags.vip:2086/live/miriam/miriam123/220.ts
+#EXTINF: -1 group-title="US-SPORT", CBS SPORTS NETWORK FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64144.ts
+#EXTINF: -1 group-title="US-SPORT", ELEVEN SPORTS NETWORK
+http://mags.vip:2086/live/miriam/miriam123/14899.ts
+#EXTINF: -1 group-title="US-SPORT", FANTASY SPORTS NETWORK
+http://mags.vip:2086/live/miriam/miriam123/21946.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/188.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS 1 FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64111.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/187.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS 2 FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64110.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS ARIZONA
+http://mags.vip:2086/live/miriam/miriam123/13403.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS ARIZONA PLUS
+http://mags.vip:2086/live/miriam/miriam123/99319.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS CAROLINAS
+http://mags.vip:2086/live/miriam/miriam123/98914.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS CINCINNATI
+http://mags.vip:2086/live/miriam/miriam123/100057.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS DETROIT
+http://mags.vip:2086/live/miriam/miriam123/15064.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS DETROIT PLUS
+http://mags.vip:2086/live/miriam/miriam123/99320.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS FLORIDA
+http://mags.vip:2086/live/miriam/miriam123/15119.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS MIDWEST
+http://mags.vip:2086/live/miriam/miriam123/15123.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS NEW ORLEANS
+http://mags.vip:2086/live/miriam/miriam123/98915.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS NORTH
+http://mags.vip:2086/live/miriam/miriam123/3072.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS OHIO
+http://mags.vip:2086/live/miriam/miriam123/8674.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS OKLAHOMA
+http://mags.vip:2086/live/miriam/miriam123/45587.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS PRIME TICKET
+http://mags.vip:2086/live/miriam/miriam123/15421.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS SAN DIEGO
+http://mags.vip:2086/live/miriam/miriam123/15121.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS SAN DIEGO PLUS
+http://mags.vip:2086/live/miriam/miriam123/44696.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS SAN DIEGO PLUS
+http://mags.vip:2086/live/miriam/miriam123/99318.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS SOUTH
+http://mags.vip:2086/live/miriam/miriam123/15124.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS SOUTH PLUS
+http://mags.vip:2086/live/miriam/miriam123/99321.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS SOUTHEAST
+http://mags.vip:2086/live/miriam/miriam123/14897.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS SOUTHWEST
+http://mags.vip:2086/live/miriam/miriam123/15422.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS SUN
+http://mags.vip:2086/live/miriam/miriam123/15120.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS TENNESSEE
+http://mags.vip:2086/live/miriam/miriam123/100048.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS WEST
+http://mags.vip:2086/live/miriam/miriam123/18659.ts
+#EXTINF: -1 group-title="US-SPORT", FOX SPORTS WISCONSIN
+http://mags.vip:2086/live/miriam/miriam123/15122.ts
+#EXTINF: -1 group-title="US-SPORT", LAX SPORTS NETWORK
+http://mags.vip:2086/live/miriam/miriam123/72584.ts
+#EXTINF: -1 group-title="US-SPORT", MARQUEE SPORTS NETWORK
+http://mags.vip:2086/live/miriam/miriam123/91120.ts
+#EXTINF: -1 group-title="US-SPORT", NBC SPORTS BAY AREA
+http://mags.vip:2086/live/miriam/miriam123/13529.ts
+#EXTINF: -1 group-title="US-SPORT", NBC SPORTS BOSTON
+http://mags.vip:2086/live/miriam/miriam123/13528.ts
+#EXTINF: -1 group-title="US-SPORT", NBC SPORTS CALIFORNIA
+http://mags.vip:2086/live/miriam/miriam123/13733.ts
+#EXTINF: -1 group-title="US-SPORT", NBC SPORTS CHICAGO
+http://mags.vip:2086/live/miriam/miriam123/13532.ts
+#EXTINF: -1 group-title="US-SPORT", NBC SPORTS NETWORK FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64085.ts
+#EXTINF: -1 group-title="US-SPORT", NBC SPORTS NORTHWEST
+http://mags.vip:2086/live/miriam/miriam123/13522.ts
+#EXTINF: -1 group-title="US-SPORT", NBC SPORTS PHILADELPHIA
+http://mags.vip:2086/live/miriam/miriam123/13526.ts
+#EXTINF: -1 group-title="US-SPORT", NBC SPORTS WASHINGTON
+http://mags.vip:2086/live/miriam/miriam123/13527.ts
+#EXTINF: -1 group-title="US-SPORT", NBCSN (NBC SPORTS NETWORK)
+http://mags.vip:2086/live/miriam/miriam123/149.ts
+#EXTINF: -1 group-title="US-SPORT", ROOT SPORTS NORTHWEST
+http://mags.vip:2086/live/miriam/miriam123/99511.ts
+#EXTINF: -1 group-title="US-SPORT", SNY (SPORTSNET NEW YORK)
+http://mags.vip:2086/live/miriam/miriam123/8850.ts
+#EXTINF: -1 group-title="US-SPORT", SPECTRUM SPORTSNET
+http://mags.vip:2086/live/miriam/miriam123/52331.ts
+#EXTINF: -1 group-title="US-SPORT", SPECTRUM SPORTSNET LA
+http://mags.vip:2086/live/miriam/miriam123/98918.ts
+#EXTINF: -1 group-title="US-SPORT", SPORTSMAN CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/15468.ts
+#EXTINF: -1 group-title="US-SPORT", SPORTSMAN CHANNEL FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64039.ts
+#EXTINF: -1 group-title="US-720-SPORT", CBS SPORTS NETWORK
+http://mags.vip:2086/live/miriam/miriam123/95503.ts
+#EXTINF: -1 group-title="US-720-SPORT", FOX SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/95422.ts
+#EXTINF: -1 group-title="US-720-SPORT", FOX SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/95400.ts
+#EXTINF: -1 group-title="US-720-SPORT", NBC SPORTS NETWORK
+http://mags.vip:2086/live/miriam/miriam123/95403.ts
+#EXTINF: -1 group-title="US-720-SPORT", SPORTSMAN CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/95499.ts
 
 ### LIFE STYLE #
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="ZALCODE-LIFE",MY eGG Network
