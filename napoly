@@ -922,48 +922,69 @@ https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Religi", USEEE Source
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
 
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport HD 1
-http://jo.sarhantv.xyz:8880/sarhan/898989/1
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport SD 1
-http://jo.sarhantv.xyz:8880/sarhan/898989/16
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport HD 2
-http://jo.sarhantv.xyz:8880/sarhan/898989/17
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sports SD 2
-http://jo.sarhantv.xyz:8880/sarhan/898989/18
-#EXTINF:-1 group-title="BEINSPORTS",beIN sport HD 3
-http://jo.sarhantv.xyz:8880/sarhan/898989/22
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport SD 3
-http://jo.sarhantv.xyz:8880/sarhan/898989/23
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport Hd 4
-http://jo.sarhantv.xyz:8880/sarhan/898989/24
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport SD 4
-http://jo.sarhantv.xyz:8880/sarhan/898989/25
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport HD 5
-http://jo.sarhantv.xyz:8880/sarhan/898989/26
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport SD 5
-http://jo.sarhantv.xyz:8880/sarhan/898989/27
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport HD 6
-http://jo.sarhantv.xyz:8880/sarhan/898989/28
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport ٍD 6
-http://jo.sarhantv.xyz:8880/sarhan/898989/29
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport HD 7
-http://jo.sarhantv.xyz:8880/sarhan/898989/30
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport SD 7
-http://jo.sarhantv.xyz:8880/sarhan/898989/31
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport HD 8
-http://jo.sarhantv.xyz:8880/sarhan/898989/32
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport SD 8
-http://jo.sarhantv.xyz:8880/sarhan/898989/33
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport HD 9
-http://jo.sarhantv.xyz:8880/sarhan/898989/34
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport SD 9
-http://jo.sarhantv.xyz:8880/sarhan/898989/35
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport HD 10
-http://jo.sarhantv.xyz:8880/sarhan/898989/36
-#EXTINF:-1 group-title="BEINSPORTS",beIN Sport SD 10
-http://jo.sarhantv.xyz:8880/sarhan/898989/37
-#EXTINF:-1 group-title="BEINSPORTS",beINSPORTS XTRA HD
-http://jo.sarhantv.xyz:8880/sarhan/898989/38
+#EXTINF:-1 tvg-id="HD1.Arabic.bn" tvg-name="BEIN SPORTS1 LOW" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="BEINSPORTS",BEIN SPORTS1 LOW
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/19.ts
+#EXTINF:-1 tvg-id="HD2.Arabic.bn" tvg-name="BEIN SPORTS2 LOW" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="BEINSPORTS",BEIN SPORTS2 LOW
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/20.ts
+#EXTINF:-1 tvg-id="HD3.Arabic.bn" tvg-name="BEIN SPORTS3 LOW" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="BEINSPORTS",BEIN SPORTS3 LOW
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/21.ts
+#EXTINF:-1 tvg-id="HD4.Arabic.bn" tvg-name="BEIN SPORTS4 LOW" tvg-logo="https://i.imgur.com/75qJQ8c.png" group-title="BEINSPORTS",BEIN SPORTS4 LOW
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/22.ts
+#EXTINF:-1 tvg-id="HD5.Arabic.bn" tvg-name="BEIN SPORTS5 LOW" tvg-logo="https://i.imgur.com/j6MlTDP.png" group-title="BEINSPORTS",BEIN SPORTS5 LOW
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/23.ts
+#EXTINF:-1 tvg-id="HD6.Arabic.bn" tvg-name="BEIN SPORTS6 LOW" tvg-logo="https://i.imgur.com/DhXhj29.png" group-title="BEINSPORTS",BEIN SPORTS6 LOW
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/24.ts
+#EXTINF:-1 tvg-id="HD7.Arabic.bn" tvg-name="BEIN SPORTS7 LOW" tvg-logo="https://i.imgur.com/ETJaTka.png" group-title="BEINSPORTS",BEIN SPORTS7 LOW
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/7.ts
+#EXTINF:-1 tvg-id="HD8.Arabic.bn" tvg-name="BEIN SPORTS8 LOW" tvg-logo="https://i.imgur.com/PubAzEY.png" group-title="BEINSPORTS",BEIN SPORTS8 LOW
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/8.ts
+#EXTINF:-1 tvg-id="HD9.Arabic.bn" tvg-name="BEIN SPORTS9 LOW" tvg-logo="https://i.imgur.com/zVEHDcb.png" group-title="BEINSPORTS",BEIN SPORTS9 LOW
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/9.ts
+#EXTINF:-1 tvg-id="HD10.Arabic.bn" tvg-name="BEIN SPORTS10 LOW" tvg-logo="https://i.imgur.com/kJ4qHpd.png" group-title="BEINSPORTS",BEIN SPORTS10 LOW
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/10.ts
+
+
+#EXTINF:-1 tvg-ID="HD1.Arabic.bn" tvg-name="BEIN SPORTS1 SD" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="BEINSPORTS"",BEIN SPORTS1 SD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/11.ts
+#EXTINF:-1 tvg-ID="HD2.Arabic.bn" tvg-name="BEIN SPORTS2 SD" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="BEINSPORTS"",BEIN SPORTS2 SD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/12.ts
+#EXTINF:-1 tvg-ID="HD3.Arabic.bn" tvg-name="BEIN SPORTS3 SD" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="BEINSPORTS"",BEIN SPORTS3 SD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/13.ts
+#EXTINF:-1 tvg-ID="HD4.Arabic.bn" tvg-name="BEIN SPORTS4 SD" tvg-logo="https://i.imgur.com/75qJQ8c.png" group-title="BEINSPORTS"",BEIN SPORTS4 SD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/14.ts
+#EXTINF:-1 tvg-ID="HD5.Arabic.bn" tvg-name="BEIN SPORTS5 SD" tvg-logo="https://i.imgur.com/j6MlTDP.png" group-title="BEINSPORTS"",BEIN SPORTS5 SD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/15.ts
+#EXTINF:-1 tvg-ID="HD6.Arabic.bn" tvg-name="BEIN SPORTS6 SD" tvg-logo="https://i.imgur.com/DhXhj29.png" group-title="BEINSPORTS"",BEIN SPORTS6 SD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/16.ts
+#EXTINF:-1 tvg-ID="HD7.Arabic.bn" tvg-name="BEIN SPORTS7 SD" tvg-logo="https://i.imgur.com/ETJaTka.png" group-title="BEINSPORTS"",BEIN SPORTS7 SD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/17.ts
+#EXTINF:-1 tvg-ID="HD8.Arabic.bn" tvg-name="BEIN SPORTS8 SD" tvg-logo="https://i.imgur.com/PubAzEY.png" group-title="BEINSPORTS"",BEIN SPORTS8 SD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/18.ts
+#EXTINF:-1 tvg-ID="HD9.Arabic.bn" tvg-name="BEIN SPORTS9 SD" tvg-logo="https://i.imgur.com/zVEHDcb.png" group-title="BEINSPORTS"",BEIN SPORTS9 SD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/9.ts
+#EXTINF:-1 tvg-ID="HD10.Arabic.bn" tvg-name="BEIN SPORTS10 SD" tvg-logo="https://i.imgur.com/kJ4qHpd.png" group-title="BEINSPORTS"",BEIN SPORTS10 SD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/10.ts
+
+#EXTINF:-1 tvg-id="HD1.Arabic.bn" tvg-name="BEIN SPORTS1 HD" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="BEINSPORTS"",BEIN SPORTS1 HD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/1.ts
+#EXTINF:-1 tvg-id="HD2.Arabic.bn" tvg-name="BEIN SPORTS2 HD" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="BEINSPORTS"",BEIN SPORTS2 HD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/2.ts
+#EXTINF:-1 tvg-id="HD3.Arabic.bn" tvg-name="BEIN SPORTS3 HD" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="BEINSPORTS"",BEIN SPORTS3 HD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/3.ts
+#EXTINF:-1 tvg-id="HD4.Arabic.bn" tvg-name="BEIN SPORTS4 HD" tvg-logo="https://i.imgur.com/75qJQ8c.png" group-title="BEINSPORTS"",BEIN SPORTS4 HD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/4.ts
+#EXTINF:-1 tvg-id="HD5.Arabic.bn" tvg-name="BEIN SPORTS5 HD" tvg-logo="https://i.imgur.com/j6MlTDP.png" group-title="BEINSPORTS"",BEIN SPORTS5 HD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/5.ts
+#EXTINF:-1 tvg-id="HD6.Arabic.bn" tvg-name="BEIN SPORTS6 HD" tvg-logo="https://i.imgur.com/DhXhj29.png" group-title="BEINSPORTS"",BEIN SPORTS6 HD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/6.ts
+#EXTINF:-1 tvg-id="HD7.Arabic.bn" tvg-name="BEIN SPORTS7 HD" tvg-logo="https://i.imgur.com/ETJaTka.png" group-title="BEINSPORTS"",BEIN SPORTS7 HD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/7.ts
+#EXTINF:-1 tvg-id="HD8.Arabic.bn" tvg-name="BEIN SPORTS8 HD" tvg-logo="https://i.imgur.com/PubAzEY.png" group-title="BEINSPORTS"",BEIN SPORTS8 HD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/8.ts
+#EXTINF:-1 tvg-id="HD9.Arabic.bn" tvg-name="BEIN SPORTS9 HD" tvg-logo="https://i.imgur.com/zVEHDcb.png" group-title="BEINSPORTS"",BEIN SPORTS9 HD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/9.ts
+#EXTINF:-1 tvg-id="HD10.Arabic.bn" tvg-name="BEIN SPORTS10 HD" tvg-logo="https://i.imgur.com/kJ4qHpd.png" group-title="BEINSPORTS"",BEIN SPORTS10 HD
+http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/10.ts
 
 #EXTINF:-1 group-title="world-SPORT",US: NBCSN NORTHWEST | HD
 https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/533
