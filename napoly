@@ -1260,7 +1260,38 @@ https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Religi", USEEE Source
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
-
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS (ESP)
+http://mags.vip:2086/live/miriam/miriam123/66785.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 1 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66772.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 10 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66781.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 11 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66782.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 12 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66783.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 13 (ENG)
+http://mags.vip:2086/live/miriam/miriam123/66784.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 2 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66773.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 3 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66774.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 4 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66775.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 5 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66776.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 6 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66777.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 7 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66778.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 8 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66779.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS 9 (ARABIC)
+http://mags.vip:2086/live/miriam/miriam123/66780.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS LA LIGA
+http://mags.vip:2086/live/miriam/miriam123/66786.ts
+#EXTINF:-1 group-title= "BEINSPORTS",BEIN SPORTS USA
+http://mags.vip:2086/live/miriam/miriam123/66771.ts
 #EXTINF:-1 tvg-id="HD1.Arabic.bn" tvg-name="BEIN SPORTS1 LOW" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="BEINSPORTS",BEIN SPORTS1 LOW
 http://163.172.25.83:25461/live/BEST-LIVE098/BEST-LIVE098/19.ts
 #EXTINF:-1 tvg-id="HD2.Arabic.bn" tvg-name="BEIN SPORTS2 LOW" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="BEINSPORTS",BEIN SPORTS2 LOW
