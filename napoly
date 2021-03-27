@@ -696,7 +696,7 @@ https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 
 ### ZAKLCODE 2 SPORT ##
-#EXTINF:-1 group-title="BEIN SPORTS",BEINSPORT CH
+#EXTINF:-1 group-title="BEINSPORT",BEINSPORT CH
 https://a.jsrdn.com/broad
 
 
@@ -803,81 +803,64 @@ https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/logo.png" group-title="Religi", USEEE Source
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w82
-#EXTINF:-1 tvg-id="" tvg-name="#### UK HD CHANNELS ####" tvg-logo="" group-title="BEIN SPORTS",#### UK HD CHANNELS ####
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS HD 01 EN FULL HD" tvg-logo="" group-title="BEIN SPORTS",beIN-SPORTS HD 01 EN FULL HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS HD 02 EN FULL HD" tvg-logo="" group-title="BEIN SPORTS",beIN-SPORTS HD 02 EN FULL HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS HD 03 EN FULL HD" tvg-logo="" group-title="BEIN SPORTS",beIN-SPORTS HD 03 EN FULL HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.ts
-#EXTINF:-1 tvg-id="" tvg-name="#### 1-7 HD CHANNELS ####" tvg-logo="" group-title="BEIN SPORTS",#### 1-7 HD CHANNELS ####
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD1 720p" tvg-logo="" group-title="BEIN SPORTS",BeinSports HD1 720p
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD2 720p" tvg-logo="" group-title="BEIN SPORTS",BeinSports HD2 720p
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD3 720p" tvg-logo="" group-title="BEIN SPORTS",BeinSports HD3 720p
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD4 720p" tvg-logo="" group-title="BEIN SPORTS",BeinSports HD4 720p
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD5 720p" tvg-logo="" group-title="BEIN SPORTS",BeinSports HD5 720p
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD6 720p" tvg-logo="" group-title="BEIN SPORTS",BeinSports HD6 720p
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports HD07 720p" tvg-logo="" group-title="BEIN SPORTS",BeinSports HD07 720p
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
-#EXTINF:-1 tvg-id="" tvg-name="#### FRENCH HD CHANNELS ####" tvg-logo="" group-title="BEIN SPORTS",#### FRENCH HD CHANNELS ####
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 01 FR 720p" tvg-logo="" group-title="BEIN SPORTS",beIN-SPORTS 01 FR 720p
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 02 FR 720p" tvg-logo="" group-title="BEIN SPORTS",beIN-SPORTS 02 FR 720p
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 03 FR 720p" tvg-logo="" group-title="BEIN SPORTS",beIN-SPORTS 03 FR 720p
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.ts
-#EXTINF:-1 tvg-id="" tvg-name="#### UK SD CHANNELS ####" tvg-logo="" group-title="BEIN SPORTS",#### UK SD CHANNELS ####
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1452.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 01 SD EN" tvg-logo="" group-title="BEIN SPORTS",beIN-SPORTS 01 SD EN
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 02 SD EN" tvg-logo="" group-title="BEIN SPORTS",beIN-SPORTS 02 SD EN
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1454.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS 03 SD EN" tvg-logo="" group-title="BEIN SPORTS",beIN-SPORTS 03 SD EN
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1455.ts
-#EXTINF:-1 tvg-id="" tvg-name="#### 1-7 SD CHANNELS ####" tvg-logo="" group-title="BEIN SPORTS",#### 1-7 SD CHANNELS ####
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1456.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 SD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 1 SD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1457.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 SD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 2 SD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1458.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 SD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 3 SD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1459.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 SD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 4 SD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1460.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 SD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 5 SD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1461.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 SD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 6 SD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1462.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 7 SD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2448.ts
-#EXTINF:-1 tvg-id="" tvg-name="#### 1-7 HEVC CHANNELS ####" tvg-logo="" group-title="BEIN SPORTS",#### 1-7 HEVC CHANNELS ####
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2449.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 " tvg-logo="" group-title="BEIN SPORTS",beIN Sports 1 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2450.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 " tvg-logo="" group-title="BEIN SPORTS",beIN Sports 2 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2451.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 " tvg-logo="" group-title="BEIN SPORTS",beIN Sports 3 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2452.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 " tvg-logo="" group-title="BEIN SPORTS",beIN Sports 4 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2453.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 " tvg-logo="" group-title="BEIN SPORTS",beIN Sports 5 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2454.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 " tvg-logo="" group-title="BEIN SPORTS",beIN Sports 6 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2455.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 " tvg-logo="" group-title="BEIN SPORTS",beIN Sports 7 
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2456.ts
-#EXTINF:-1 tvg-id="" tvg-name="#### XTRA CHANNELS ####" tvg-logo="" group-title="BEIN SPORTS",#### XTRA CHANNELS ####
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2457.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 01 FHD" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS XTRA 01 FHD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2459.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 02 FHD" tvg-logo="" group-title="BEIN SPORTS",beIN SPORTS XTRA 02 FHD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2460.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1_(PREMIUM)_Low" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_1_(PREMIUM)_Low
+http://eaiptv.ga:8080/masrawysat/123212343/1
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2_(PREMIUM)_Low" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_2_(PREMIUM)_Low
+http://eaiptv.ga:8080/masrawysat/123212343/2
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3_(PREMIUM)_Low" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_3_(PREMIUM)_Low
+http://eaiptv.ga:8080/masrawysat/123212343/3
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1_Low" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_1_Low
+http://eaiptv.ga:8080/masrawysat/123212343/4
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2_Low" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_2_Low
+http://eaiptv.ga:8080/masrawysat/123212343/5
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3_Low" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_3_Low
+http://eaiptv.ga:8080/masrawysat/123212343/6
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_4_Low" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_4_Low
+http://eaiptv.ga:8080/masrawysat/123212343/7
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_5_Low" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_5_Low
+http://eaiptv.ga:8080/masrawysat/123212343/8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_6_Low" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_6_Low
+http://eaiptv.ga:8080/masrawysat/123212343/9
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_7_Low" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_7_Low
+http://eaiptv.ga:8080/masrawysat/123212343/10
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1HD_(PREMIUM)_1080p" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_1HD_(PREMIUM)_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/11
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2HD_(PREMIUM)_1080p" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_2HD_(PREMIUM)_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/12
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3HD_(PREMIUM)_1080p" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_3HD_(PREMIUM)_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/13
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1HD_1080p" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_1HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/14
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2HD_1080p" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_2HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/15
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3HD_1080p" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_3HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/16
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_4HD_1080p" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_4HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/17
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_5HD_1080p" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_5HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/18
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_6HD_1080p" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_6HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/19
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_7HD_1080p" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_7HD_1080p
+http://eaiptv.ga:8080/masrawysat/123212343/20
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1HD_(PREMIUM)_H265_HQ" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_1HD_(PREMIUM)_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/21
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2HD_(PREMIUM)_H265_HQ" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_2HD_(PREMIUM)_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/22
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3HD_(PREMIUM)_H265_HQ" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_3HD_(PREMIUM)_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/23
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1_H265_HQ" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_1_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/24
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2_H265_HQ" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_2_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/25
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3_H265_HQ" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_3_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/26
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_4_H265_HQ" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_4_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/27
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_5_H265_HQ" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_5_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/28
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_6_H265_HQ" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_6_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/29
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_7_H265_HQ" tvg-logo="" group-title="BEINSPORT",BeIN_SPORTS_7_H265_HQ
+http://eaiptv.ga:8080/masrawysat/123212343/30
