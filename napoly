@@ -694,6 +694,263 @@ https://gma2.blab.email/sec.m3u8
 https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
 #EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/5HLinDI.jpg",World of Free  Sport
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
+#EXTM3U 
+#EXTINF: -1 tvg-id="NULL" tvg-name="### TR SPOR ###" group-title="EUROPE-SPORTS", ### TR SPOR ###
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/93
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: MAXSPORTS 1" tvg-logo="http://www.logo.vizontele.eu/logoslar/maxsports.jpg" group-title="EUROPE-SPORTS", TR: MAXSPORTS 1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/34433
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: MAXSPORTS 2" tvg-logo="http://www.logo.vizontele.eu/logoslar/maxsports.jpg" group-title="EUROPE-SPORTS", TR: MAXSPORTS 2
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/61351
+#EXTINF: -1 tvg-id="bein sports hd 1" tvg-name="TR: beIN SPORTS 1 TELEKOM" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 TELEKOM
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/39094
+#EXTINF: -1 tvg-id="bein sports hd 1" tvg-name="TR: beIN SPORTS 1 TURKNET" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 TURKNET
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/39095
+#EXTINF: -1 tvg-id="bein sports hd 1" tvg-name="TR: beIN SPORTS 1 VODAFONE" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 VODAFONE
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/50682
+#EXTINF: -1 tvg-id="bein sports hd 1" tvg-name="TR: beIN SPORTS 1 SUPERONLINE" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 SUPERONLINE
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/64166
+#EXTINF: -1 tvg-id="bein sports hd 1" tvg-name="TR: beIN SPORTS 1 ADSL" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 ADSL
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/50681
+#EXTINF: -1 tvg-id="bein sports hd 1" tvg-name="TR: beIN SPORTS 1 MOBIL SD" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 MOBIL SD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/91
+#EXTINF: -1 tvg-id="bein sports hd 1" tvg-name="TR: beIN SPORTS 1 SD" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 SD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/84
+#EXTINF: -1 tvg-id="bein sports hd 1" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/89
+#EXTINF: -1 tvg-id="bein sports hd 1" tvg-name="TR: beIN SPORTS 1 FHD" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/77238
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 (FEED 1) 4K Maç Zamanı" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 (FEED 1) 4K Maç Zamanı
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/32070
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 (FEED 2) Maç Zamanı" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 (FEED 2) Maç Zamanı
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/64144
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 (FEED 3) Maç Zamanı" group-title="EUROPE-SPORTS", TR: beIN SPORTS 1 (FEED 3) Maç Zamanı
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/64849
+#EXTINF: -1 tvg-id="bein sports hd 2" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://kde.ipne.be/logoslar/beinsports2.png" group-title="EUROPE-SPORTS", TR: BEIN SPORTS 2 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/31408
+#EXTINF: -1 tvg-id="bein sports hd 2" tvg-name="TR: beIN SPORTS 2 FHD" tvg-logo="http://maxxplus.eu/tvlogo/beinsports2.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 2 FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/87
+#EXTINF: -1 tvg-id="bein sports hd 3" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://maxxplus.eu/tvlogo/beinsports3.png" group-title="EUROPE-SPORTS", TR: BEIN SPORTS 3 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/31409
+#EXTINF: -1 tvg-id="bein sports hd 3" tvg-name="TR: beIN SPORTS 3 FHD" tvg-logo="http://maxxplus.eu/tvlogo/beinsports3.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 3 FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/31407
+#EXTINF: -1 tvg-id="bein sports hd 4" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="http://maxxplus.eu/tvlogo/beinsports4.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 4 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/81
+#EXTINF: -1 tvg-id="bein sports hd 4" tvg-name="TR: beIN SPORTS 4 FHD" tvg-logo="http://maxxplus.eu/tvlogo/beinsports4.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS 4 FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/85
+#EXTINF: -1 tvg-id="bein sports max 1 hd" tvg-name="TR: beIN SPORTS MAX 1 HD" tvg-logo="http://maxxplus.eu/tvlogo/bein-sports-max-1-qa-tr.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS MAX 1 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/79
+#EXTINF: -1 tvg-id="bein sports max 1 hd" tvg-name="TR: beIN SPORTS MAX 1 FHD" tvg-logo="http://maxxplus.eu/tvlogo/bein-sports-max-1-qa-tr.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS MAX 1 FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/80
+#EXTINF: -1 tvg-id="bein sports max 2 hd" tvg-name="TR: beIN SPORTS MAX 2 HD" tvg-logo="http://logo.vizontele.eu/logoslar/bein-sports-max-2-qa-tr.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS MAX 2 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/77
+#EXTINF: -1 tvg-id="bein sports max 2 hd" tvg-name="TR: beIN SPORTS MAX 2 FHD" tvg-logo="http://logo.vizontele.eu/logoslar/bein-sports-max-2-qa-tr.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS MAX 2 FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/78
+#EXTINF: -1 tvg-id="bein sports haber hd" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="http://logo.vizontele.eu/logoslar/bein-sports-haber-qa-tr.png" group-title="EUROPE-SPORTS", TR: beIN SPORTS HABER HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/76
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: Universal Spor Nostalji" group-title="EUROPE-SPORTS", TR: Universal Spor Nostalji
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/61287
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="http://logo.vizontele.eu/logoslar/tivibu.png" group-title="EUROPE-SPORTS", TR: TIVIBUSPOR 1 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/75
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="http://logo.vizontele.eu/logoslar/tivibuspor2hd.png" group-title="EUROPE-SPORTS", TR: TIVIBUSPOR 2 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/74
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="http://logo.vizontele.eu/logoslar/tivibuspor3hd.png" group-title="EUROPE-SPORTS", TR: TIVIBUSPOR 3 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/73
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: S Sport FHD" tvg-logo="http://logo.vizontele.eu/logoslar/ssporthd.png" group-title="EUROPE-SPORTS", TR: S Sport FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/68
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: S Sport HD" tvg-logo="http://logo.vizontele.eu/logoslar/ssporthd.png" group-title="EUROPE-SPORTS", TR: S Sport HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/32058
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: S Sport SD" tvg-logo="http://logo.vizontele.eu/logoslar/ssporthd.png" group-title="EUROPE-SPORTS", TR: S Sport SD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/59880
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: S Sport 2 HD" tvg-logo="http://logo.vizontele.eu/logoslar/ssporthd.png" group-title="EUROPE-SPORTS", TR: S Sport 2 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/15169
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: S SPORT+ FHD" group-title="EUROPE-SPORTS", TR: S SPORT+ FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/71045
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: SPORSMART FHD" tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="EUROPE-SPORTS", TR: SPORSMART FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/60118
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: SPORSMART (BACKUP)" tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="EUROPE-SPORTS", TR: SPORSMART (BACKUP)
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/31342
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: SPORSMART 2 FHD" tvg-logo="http://maxxplus.eu/tvlogo/smartspor2.png" group-title="EUROPE-SPORTS", TR: SPORSMART 2 FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57772
+#EXTINF: -1 tvg-id="eurosport1.tr" tvg-name="TR: Eurosport 1 HD" tvg-logo="http://maxxplus.eu/tvlogo/eurosport1hd.png" group-title="EUROPE-SPORTS", TR: Eurosport 1 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/65
+#EXTINF: -1 tvg-id="eurosport2.tr" tvg-name="TR: Eurosport 2 HD" tvg-logo="http://maxxplus.eu/tvlogo/eurosport2hd.png" group-title="EUROPE-SPORTS", TR: Eurosport 2 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/64
+#EXTINF: -1 tvg-id="A SPOR-TR" tvg-name="TR: ASPOR FHD" tvg-logo="http://maxxplus.eu/tvlogo/asporhd.png" group-title="EUROPE-SPORTS", TR: ASPOR FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/61
+#EXTINF: -1 tvg-id="A SPOR-TR" tvg-name="TR: ASPOR HD" tvg-logo="http://maxxplus.eu/tvlogo/asporhd.png" group-title="EUROPE-SPORTS", TR: ASPOR HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/60
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://maxxplus.eu/tvlogo/trtsporhd.png" group-title="EUROPE-SPORTS", TR: TRT SPOR FHD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: TRT SPOR HD" tvg-logo="http://maxxplus.eu/tvlogo/trtsporhd.png" group-title="EUROPE-SPORTS", TR: TRT SPOR HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/62
+#EXTINF: -1 tvg-id="trt spor 2 hd" tvg-name="TR: TRT SPOR 2" tvg-logo="http://logo.vizontele.eu/logoslar/trt2logo.jpg" group-title="EUROPE-SPORTS", TR: TRT SPOR 2
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/40618
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: SPORTS TV HD" tvg-logo="http://logo.vizontele.eu/logoslar/sportstv.png" group-title="EUROPE-SPORTS", TR: SPORTS TV HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/59
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: GSTV HD" tvg-logo="http://logo.vizontele.eu/logoslar/gstv.png" group-title="EUROPE-SPORTS", TR: GSTV HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/58
+#EXTINF: -1 tvg-id="fbtv.tr" tvg-name="TR: FBTV HD" tvg-logo="http://logo.vizontele.eu/logoslar/fbtv.png" group-title="EUROPE-SPORTS", TR: FBTV HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: FIGHT NETWORK" tvg-logo="http://maxxplus.eu/tvlogo/fightnetwork.png" group-title="EUROPE-SPORTS", TR: FIGHT NETWORK
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/56615
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: NBA TV HD" tvg-logo="http://logo.vizontele.eu/logoslar/nba.png" group-title="EUROPE-SPORTS", TR: NBA TV HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/67
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR: TAY TV" tvg-logo="http://logo.vizontele.eu/logoslar/tjkhd.png" group-title="EUROPE-SPORTS", TR: TAY TV
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/54
+#EXTINF: -1 tvg-name="IT] INTER TV" group-title="EUROPE-SPORTS", IT] INTER TV
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57319
+#EXTINF: -1 tvg-name="IT] JUVENTUS TV" group-title="EUROPE-SPORTS", IT] JUVENTUS TV
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57320
+#EXTINF: -1 tvg-name="IT] RAI SPORT" group-title="EUROPE-SPORTS", IT] RAI SPORT
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57278
+#EXTINF: -1 tvg-name="IT] SKY CALCIO 24" group-title="EUROPE-SPORTS", IT] SKY CALCIO 24
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57307
+#EXTINF: -1 tvg-name="IT] SKY SPORT F1" group-title="EUROPE-SPORTS", IT] SKY SPORT F1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57316
+#EXTINF: -1 tvg-name="IT] SKY SPORT FOOTBALL" group-title="EUROPE-SPORTS", IT] SKY SPORT FOOTBALL
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57315
+#EXTINF: -1 tvg-name="IT] SKY SPORT NBA" group-title="EUROPE-SPORTS", IT] SKY SPORT NBA
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57317
+#EXTINF: -1 tvg-name="IT] SKY SPORT SERIE A" group-title="EUROPE-SPORTS", IT] SKY SPORT SERIE A
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57275
+#EXTINF: -1 tvg-name="IT] SKY SPORT UNO" group-title="EUROPE-SPORTS", IT] SKY SPORT UNO
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57273
+#EXTINF: -1 tvg-name="IT] SUPER TENNIS" group-title="EUROPE-SPORTS", IT] SUPER TENNIS
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/57279
+#EXTINF: -1 tvg-name="FR] 6TER" group-title="EUROPE-SPORTS", FR] 6TER
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66082
+#EXTINF: -1 tvg-name="FR] BEIN SPORTS 1" group-title="EUROPE-SPORTS", FR] BEIN SPORTS 1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66091
+#EXTINF: -1 tvg-name="FR] BEIN SPORTS 2" group-title="EUROPE-SPORTS", FR] BEIN SPORTS 2
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66093
+#EXTINF: -1 tvg-name="FR] BEIN SPORTS 3" group-title="EUROPE-SPORTS", FR] BEIN SPORTS 3
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66094
+#EXTINF: -1 tvg-name="FR] BEIN SPORTS MAX 10" group-title="EUROPE-SPORTS", FR] BEIN SPORTS MAX 10
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66095
+#EXTINF: -1 tvg-name="FR] Bein sports MAX 4" group-title="EUROPE-SPORTS", FR] Bein sports MAX 4
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66096
+#EXTINF: -1 tvg-name="FR] BEIN SPORTS MAX 5" group-title="EUROPE-SPORTS", FR] BEIN SPORTS MAX 5
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66097
+#EXTINF: -1 tvg-name="FR] BEIN SPORTS MAX 6" group-title="EUROPE-SPORTS", FR] BEIN SPORTS MAX 6
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66098
+#EXTINF: -1 tvg-name="FR] BEIN SPORTS MAX 7" group-title="EUROPE-SPORTS", FR] BEIN SPORTS MAX 7
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66099
+#EXTINF: -1 tvg-name="FR] BEIN SPORTS MAX 8" group-title="EUROPE-SPORTS", FR] BEIN SPORTS MAX 8
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66100
+#EXTINF: -1 tvg-name="FR] BEIN SPORTS MAX 9" group-title="EUROPE-SPORTS", FR] BEIN SPORTS MAX 9
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66101
+#EXTINF: -1 tvg-name="FR] TELEFOOT STADIUM" group-title="EUROPE-SPORTS", FR] TELEFOOT STADIUM
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66244
+#EXTINF: -1 tvg-name="FR] TELEFOOT STADIUM 1" group-title="EUROPE-SPORTS", FR] TELEFOOT STADIUM 1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66245
+#EXTINF: -1 tvg-name="FR] TELEFOOT STADIUM 2" group-title="EUROPE-SPORTS", FR] TELEFOOT STADIUM 2
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66246
+#EXTINF: -1 tvg-name="FR] TELEFOOT STADIUM 3" group-title="EUROPE-SPORTS", FR] TELEFOOT STADIUM 3
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66247
+#EXTINF: -1 tvg-name="FR] TELEFOOT STADIUM 4" group-title="EUROPE-SPORTS", FR] TELEFOOT STADIUM 4
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66248
+#EXTINF: -1 tvg-name="FR] TELEFOOT STADIUM 5" group-title="EUROPE-SPORTS", FR] TELEFOOT STADIUM 5
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66249
+#EXTINF: -1 tvg-name="FR] TELEFOOT STADIUM 6" group-title="EUROPE-SPORTS", FR] TELEFOOT STADIUM 6
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66250
+#EXTINF: -1 tvg-name="FR] TELEFOOT STADIUM 7" group-title="EUROPE-SPORTS", FR] TELEFOOT STADIUM 7
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66251
+#EXTINF: -1 tvg-name="FR] RMC SPORT 1" group-title="EUROPE-SPORTS", FR] RMC SPORT 1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66207
+#EXTINF: -1 tvg-name="FR] RMC SPORT 2" group-title="EUROPE-SPORTS", FR] RMC SPORT 2
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66208
+#EXTINF: -1 tvg-name="FR] RMC SPORT 3" group-title="EUROPE-SPORTS", FR] RMC SPORT 3
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66209
+#EXTINF: -1 tvg-name="FR] RMC SPORT 4" group-title="EUROPE-SPORTS", FR] RMC SPORT 4
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66210
+#EXTINF: -1 tvg-name="PT: A BOLA TV" group-title="EUROPE-SPORTS", PT: A BOLA TV
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48303
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 1" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48266
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 1 HD" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 1 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48265
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 2" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 2
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48264
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 2 HD" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 2 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48263
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 3" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 3
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48262
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 3 HD" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 3 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48261
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 4" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 4
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48260
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 4 HD" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 4 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48259
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 5" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 5
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48258
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 5 HD" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 5 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48257
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 6" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 6
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48256
+#EXTINF: -1 tvg-name="PT: ELEVEN SPORTS 6 HD" group-title="EUROPE-SPORTS", PT: ELEVEN SPORTS 6 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48255
+#EXTINF: -1 tvg-name="PT: EUROSPORT 1" group-title="EUROPE-SPORTS", PT: EUROSPORT 1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48252
+#EXTINF: -1 tvg-name="PT: EUROSPORT 1 HD" group-title="EUROPE-SPORTS", PT: EUROSPORT 1 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48251
+#EXTINF: -1 tvg-name="PT: EUROSPORT 2" group-title="EUROPE-SPORTS", PT: EUROSPORT 2
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48250
+#EXTINF: -1 tvg-name="PT: SPORT TV" group-title="EUROPE-SPORTS", PT: SPORT TV
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48195
+#EXTINF: -1 tvg-name="PT: SPORT TV   HD" group-title="EUROPE-SPORTS", PT: SPORT TV   HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48194
+#EXTINF: -1 tvg-name="PT: SPORT TV 1" group-title="EUROPE-SPORTS", PT: SPORT TV 1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48193
+#EXTINF: -1 tvg-name="PT: SPORT TV 1 HD" group-title="EUROPE-SPORTS", PT: SPORT TV 1 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48192
+#EXTINF: -1 tvg-name="PT: SPORT TV 2" group-title="EUROPE-SPORTS", PT: SPORT TV 2
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48191
+#EXTINF: -1 tvg-name="PT: SPORT TV 2 HD" group-title="EUROPE-SPORTS", PT: SPORT TV 2 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48190
+#EXTINF: -1 tvg-name="PT: SPORT TV 3" group-title="EUROPE-SPORTS", PT: SPORT TV 3
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48189
+#EXTINF: -1 tvg-id="NULL" tvg-name="PT: SPORT TV 3 HD" group-title="EUROPE-SPORTS", PT: SPORT TV 3 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48188
+#EXTINF: -1 tvg-name="PT: SPORT TV 5" group-title="EUROPE-SPORTS", PT: SPORT TV 5
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48187
+#EXTINF: -1 tvg-name="PT: SPORT TV 5 HD" group-title="EUROPE-SPORTS", PT: SPORT TV 5 HD
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/48186
+#EXTINF: -1 tvg-name="UK] BT SPORT 1" group-title="EUROPE-SPORTS", UK] BT SPORT 1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/66397
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] BT SPORT 2" group-title="EUROPE-SPORTS", UK] BT SPORT 2
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63344
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] BT SPORT 3" group-title="EUROPE-SPORTS", UK] BT SPORT 3
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63345
+#EXTINF: -1 tvg-name="UK] BT SPORT ESPN" group-title="EUROPE-SPORTS", UK] BT SPORT ESPN
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63346
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] BT SPORT EXTRA 1" group-title="EUROPE-SPORTS", UK] BT SPORT EXTRA 1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63376
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] BT SPORT EXTRA 5" group-title="EUROPE-SPORTS", UK] BT SPORT EXTRA 5
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63377
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] Sky Sport Main Event" group-title="EUROPE-SPORTS", UK] Sky Sport Main Event
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63352
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] SKY SPORTS ACTION" group-title="EUROPE-SPORTS", UK] SKY SPORTS ACTION
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63349
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] SKY SPORTS ARENA" group-title="EUROPE-SPORTS", UK] SKY SPORTS ARENA
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63347
+#EXTINF: -1 tvg-name="UK] SKY SPORTS CRICKET" group-title="EUROPE-SPORTS", UK] SKY SPORTS CRICKET
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63348
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] SKY SPORTS F1" group-title="EUROPE-SPORTS", UK] SKY SPORTS F1
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63351
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] SKY SPORTS FOOTBALL" group-title="EUROPE-SPORTS", UK] SKY SPORTS FOOTBALL
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63422
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] SKY SPORTS GOLF" group-title="EUROPE-SPORTS", UK] SKY SPORTS GOLF
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63350
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] SKY SPORTS NFL" group-title="EUROPE-SPORTS", UK] SKY SPORTS NFL
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63451
+#EXTINF: -1 tvg-id="NULL" tvg-name="UK] Sky Sports Premier League" group-title="EUROPE-SPORTS", UK] Sky Sports Premier League
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/63353
+#EXTINF: -1 tvg-id="NULL" tvg-name="IN: Sony ESPN" group-title="EUROPE-SPORTS", IN: Sony ESPN
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/49697
+#EXTINF: -1 tvg-name="IN: Sony Max" group-title="EUROPE-SPORTS", IN: Sony Max
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/49673
+#EXTINF: -1 tvg-name="IN: Sony Max 2" group-title="EUROPE-SPORTS", IN: Sony Max 2
+http://joystream.eu:80/ErdemEsatEvin/x6aLDnt4gh9/49674
 
 ### ZAKLCODE 2 SPORT ##
 #EXTINF:-1 group-title="BEINSPORT",BEINSPORT CH
