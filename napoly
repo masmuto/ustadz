@@ -1352,8 +1352,50 @@ http://goodtv.xyz:2052/mthomas/mthomas/2599192
 #EXTINF:-1 tvg-id="" tvg-name="MY: 8TV" tvg-logo="" group-title="MALAYSIA",MY: 8TV
 http://goodtv.xyz:2052/mthomas/mthomas/2599191
 ### ZAKLCODE 2 SPORT ##
-#EXTINF:-1 group-title="BEINSPORT",BEINSPORT CH
-https://a.jsrdn.com/broad
+#EXTINF:-1 group-title="BEINSPORTS",CA (ES) beIN Sports En Espanol
+http://goodtv.xyz:2052/mthomas/mthomas/2456417
+#EXTINF:-1 group-title="BEINSPORTS",CA: Bein Sports
+http://goodtv.xyz:2052/mthomas/mthomas/2473637
+#EXTINF:-1 group-title="BEINSPORTS",LA:BEIN SPORTS N
+http://goodtv.xyz:2052/mthomas/mthomas/2605698
+#EXTINF:-1 group-title="BEINSPORTS",AR: beIN SPORT NEWS
+http://goodtv.xyz:2052/mthomas/mthomas/2572741
+#EXTINF:-1 group-title="BEINSPORTS",AR: beIN Sport NBA
+http://goodtv.xyz:2052/mthomas/mthomas/2572610
+#EXTINF:-1 group-title="BEINSPORTS",MY: beIN Sports Max 4
+http://goodtv.xyz:2052/mthomas/mthomas/2599326
+#EXTINF:-1 group-title="BEINSPORTS",MY: beIN Sports Max 3
+http://goodtv.xyz:2052/mthomas/mthomas/2599325
+#EXTINF:-1 group-title="BEINSPORTS",MY: beIN Sports Max 2
+http://goodtv.xyz:2052/mthomas/mthomas/2599324
+#EXTINF:-1 group-title="BEINSPORTS",MY: beIN Sports Max 1
+http://goodtv.xyz:2052/mthomas/mthomas/2599323
+#EXTINF:-1 group-title="BEINSPORTS",MY: beIN Sports
+http://goodtv.xyz:2052/mthomas/mthomas/2599249
+#EXTINF:-1 group-title="BEINSPORTS",Bein sports 2
+http://goodtv.xyz:2052/mthomas/mthomas/2599179
+#EXTINF:-1 group-title="BEINSPORTS",Bein sports 1
+http://goodtv.xyz:2052/mthomas/mthomas/2599178
+#EXTINF:-1 group-title="BEINSPORTS",TR: beIN Sports Haber
+http://goodtv.xyz:2052/mthomas/mthomas/2594747
+#EXTINF:-1 group-title="BEINSPORTS",TR: beIN SPORTS MAX 2
+http://goodtv.xyz:2052/mthomas/mthomas/2594746
+#EXTINF:-1 group-title="BEINSPORTS",TR: beIN SPORTS MAX 1
+http://goodtv.xyz:2052/mthomas/mthomas/2594745
+#EXTINF:-1 group-title="BEINSPORTS",TR: Bein Sport 4
+http://goodtv.xyz:2052/mthomas/mthomas/2594744
+#EXTINF:-1 group-title="BEINSPORTS",TR: Bein Sport 3
+http://goodtv.xyz:2052/mthomas/mthomas/2594743
+#EXTINF:-1 group-title="BEINSPORTS",TR: Bein Sport 2
+http://goodtv.xyz:2052/mthomas/mthomas/2594742
+#EXTINF:-1 group-title="BEINSPORTS",TR: Bein Sport 1
+http://goodtv.xyz:2052/mthomas/mthomas/2594741
+#EXTINF:-1 group-title="BEINSPORTS",ES: beIN SPORTS LaLiga
+http://goodtv.xyz:2052/mthomas/mthomas/2577805
+#EXTINF:-1 group-title="BEINSPORTS",ES: bein Sport HD VIP
+http://goodtv.xyz:2052/mthomas/mthomas/2577804
+#EXTINF:-1 group-title="BEINSPORTS",ES: beIN Sport FHD
+http://goodtv.xyz:2052/mthomas/mthomas/2577803
 
 
 ### LIFE STYLE #
@@ -1368,6 +1410,7 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(f4802587-5d0c-4181-
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/e9/e1/e6e9e1da2ea8646813db6421bec88258.png" group-title="ZALCODE-LIFE",Hi!
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/501908385294323712/uxIEi9C1_400x400.jpeg" group-title="ZALCODE-LIFE",ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
