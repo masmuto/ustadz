@@ -1189,6 +1189,154 @@ http://iptvtree.net:8080/mariconigliar0/30d5055e/273939
 http://iptvtree.net:8080/mariconigliar0/30d5055e/273607
 #EXTINF: -1 tvg-name="AL EUROSPORT 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ZAL-SPORT2", AL EUROSPORT 1 HD
 http://iptvtree.net:8080/mariconigliar0/30d5055e/273613
+
+#EXTINF: -1 tvg-name="ESPN 1" group-title="ZAL-SPORT3", ESPN 1
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/111761
+#EXTINF: -1 tvg-name="ESPN 2" group-title="ZAL-SPORT3", ESPN 2
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/111762
+#EXTINF: -1 tvg-name="ROMA TV" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/104.png" group-title="ZAL-SPORT3", ROMA TV
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/99309
+#EXTINF: -1 tvg-name="BARCA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png" group-title="ZAL-SPORT3", BARCA TV
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/88166
+#EXTINF: -1 tvg-name="INTER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Inter_Channel_logo_%282014-2017%29.jpg" group-title="ZAL-SPORT3", INTER CHANNEL
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/80050
+#EXTINF: -1 tvg-name="SPORT: MILAN CHANNEL" group-title="ZAL-SPORT3", SPORT: MILAN CHANNEL
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/46399
+#EXTINF: -1 tvg-name="SPORT: MUTV HD" group-title="ZAL-SPORT3", SPORT: MUTV HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/26759
+#EXTINF: -1 tvg-name="SPORT|: LFC TV HD" group-title="ZAL-SPORT3", SPORT|: LFC TV HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/26761
+#EXTINF: -1 tvg-name="SPORT:DE | FC Bayern" group-title="ZAL-SPORT3", SPORT:DE | FC Bayern
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29520
+#EXTINF: -1 tvg-name="SPORT: NBA HD+" group-title="ZAL-SPORT3", SPORT: NBA HD+
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/19332
+#EXTINF: -1 tvg-name="SPORT:FR | RMC SPORT 1 HD" group-title="ZAL-SPORT3", SPORT:FR | RMC SPORT 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29484
+#EXTINF: -1 tvg-name="SPORT:FR | RMC SPORT 2 HD" group-title="ZAL-SPORT3", SPORT:FR | RMC SPORT 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29485
+#EXTINF: -1 tvg-name="SPORT:FR | RMC SPORT 3 HD" group-title="ZAL-SPORT3", SPORT:FR | RMC SPORT 3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29486
+#EXTINF: -1 tvg-name="SPORT:FR | RMC SPORT 4 HD" group-title="ZAL-SPORT3", SPORT:FR | RMC SPORT 4 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29487
+#EXTINF: -1 tvg-name="SPORT:FR | RMC ACCESS SPORT 1 HD" group-title="ZAL-SPORT3", SPORT:FR | RMC ACCESS SPORT 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29488
+#EXTINF: -1 tvg-name="SPORT:FR | RMC ACCESS SPORT 2 HD" group-title="ZAL-SPORT3", SPORT:FR | RMC ACCESS SPORT 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29489
+#EXTINF: -1 tvg-name="SPORT:FR | RMC ACCESS SPORT 3 HD" group-title="ZAL-SPORT3", SPORT:FR | RMC ACCESS SPORT 3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29490
+#EXTINF: -1 tvg-name="SPORT:FR | BEIN SPORT 1 HD" group-title="ZAL-SPORT3", SPORT:FR | BEIN SPORT 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29491
+#EXTINF: -1 tvg-name="SPORT:FR | BEIN SPORT 2 HD" group-title="ZAL-SPORT3", SPORT:FR | BEIN SPORT 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29492
+#EXTINF: -1 tvg-name="SPORT:FR | BEIN SPORT 3 HD" group-title="ZAL-SPORT3", SPORT:FR | BEIN SPORT 3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29493
+#EXTINF: -1 tvg-name="SPORT:FR | BEIN SPORT MAX 10 HD" group-title="ZAL-SPORT3", SPORT:FR | BEIN SPORT MAX 10 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29494
+#EXTINF: -1 tvg-name="SPORT:FR | BEIN SPORT MAX 4 HD" group-title="ZAL-SPORT3", SPORT:FR | BEIN SPORT MAX 4 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29495
+#EXTINF: -1 tvg-name="SPORT:FR | BEIN SPORT MAX 5 HD ." group-title="ZAL-SPORT3", SPORT:FR | BEIN SPORT MAX 5 HD .
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29496
+#EXTINF: -1 tvg-name="SPORT:FR | BEIN SPORT MAX 6 HD" group-title="ZAL-SPORT3", SPORT:FR | BEIN SPORT MAX 6 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29497
+#EXTINF: -1 tvg-name="SPORT:FR | BEIN SPORT MAX 7 HD" group-title="ZAL-SPORT3", SPORT:FR | BEIN SPORT MAX 7 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29498
+#EXTINF: -1 tvg-name="SPORT:FR | BEIN SPORT MAX 8 HD" group-title="ZAL-SPORT3", SPORT:FR | BEIN SPORT MAX 8 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29499
+#EXTINF: -1 tvg-name="SPORT:FR | BEIN SPORT MAX 9 HD" group-title="ZAL-SPORT3", SPORT:FR | BEIN SPORT MAX 9 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29500
+#EXTINF: -1 tvg-name="SPORT:FR | BFM SPORT HD" group-title="ZAL-SPORT3", SPORT:FR | BFM SPORT HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29501
+#EXTINF: -1 tvg-name="SPORT:FR | EQUIDIA HD" group-title="ZAL-SPORT3", SPORT:FR | EQUIDIA HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29502
+#EXTINF: -1 tvg-name="SPORT:FR | EQUIDIA LIVE HD" group-title="ZAL-SPORT3", SPORT:FR | EQUIDIA LIVE HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29503
+#EXTINF: -1 tvg-name="SPORT:FR | EUROSPORT 1HD" group-title="ZAL-SPORT3", SPORT:FR | EUROSPORT 1HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29504
+#EXTINF: -1 tvg-name="SPORT:FR | EUROSPORT 2 HD" group-title="ZAL-SPORT3", SPORT:FR | EUROSPORT 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29505
+#EXTINF: -1 tvg-name="SPORT:FR | EXTREME SPORTS HD" group-title="ZAL-SPORT3", SPORT:FR | EXTREME SPORTS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29506
+#EXTINF: -1 tvg-name="SPORT:FR | FOOT 24 HD" group-title="ZAL-SPORT3", SPORT:FR | FOOT 24 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29507
+#EXTINF: -1 tvg-name="SPORT:FR | GOLF  HD" group-title="ZAL-SPORT3", SPORT:FR | GOLF  HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29508
+#EXTINF: -1 tvg-name="SPORT:FR | GOLF CHANNEL HD" group-title="ZAL-SPORT3", SPORT:FR | GOLF CHANNEL HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29509
+#EXTINF: -1 tvg-name="SPORT:FR | INFOSPORT  HD" group-title="ZAL-SPORT3", SPORT:FR | INFOSPORT  HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29510
+#EXTINF: -1 tvg-name="SPORT:FR | L EQUIPE21 HD" group-title="ZAL-SPORT3", SPORT:FR | L EQUIPE21 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29511
+#EXTINF: -1 tvg-name="SPORT:FR | MOTORSPORT TV HD" group-title="ZAL-SPORT3", SPORT:FR | MOTORSPORT TV HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29512
+#EXTINF: -1 tvg-name="SPORT:FR | AB MOTEUR HD" group-title="ZAL-SPORT3", SPORT:FR | AB MOTEUR HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29513
+#EXTINF: -1 tvg-name="SPORT:FR²| RMC Sport 1" group-title="ZAL-SPORT3", SPORT:FR²| RMC Sport 1
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29514
+#EXTINF: -1 tvg-name="SPORT:FR²| RMC Sport 2" group-title="ZAL-SPORT3", SPORT:FR²| RMC Sport 2
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29515
+#EXTINF: -1 tvg-name="SPORT:FR²| RMC Sport 3" group-title="ZAL-SPORT3", SPORT:FR²| RMC Sport 3
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29516
+#EXTINF: -1 tvg-name="SPORT:DE | EUROSPORT 1 HD" group-title="ZAL-SPORT3", SPORT:DE | EUROSPORT 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29517
+#EXTINF: -1 tvg-name="SPORT:DE | EUROSPORT 2 HD" group-title="ZAL-SPORT3", SPORT:DE | EUROSPORT 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29518
+#EXTINF: -1 tvg-name="SPORT:DE | Eurosport 2 HD Xtra" group-title="ZAL-SPORT3", SPORT:DE | Eurosport 2 HD Xtra
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29519
+#EXTINF: -1 tvg-name="SPORT:DE | MOTORVISION" group-title="ZAL-SPORT3", SPORT:DE | MOTORVISION
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29521
+#EXTINF: -1 tvg-name="SPORT:DE | SKY BUNDESLIGA 10 FHD" group-title="ZAL-SPORT3", SPORT:DE | SKY BUNDESLIGA 10 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29523
+#EXTINF: -1 tvg-name="SPORT:DE | SKY BUNDESLIGA 2 FHD" group-title="ZAL-SPORT3", SPORT:DE | SKY BUNDESLIGA 2 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29524
+#EXTINF: -1 tvg-name="SPORT:DE | SKY BUNDESLIGA 3 FHD" group-title="ZAL-SPORT3", SPORT:DE | SKY BUNDESLIGA 3 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29525
+#EXTINF: -1 tvg-name="SPORT:DE | SKY BUNDESLIGA 4 FHD" group-title="ZAL-SPORT3", SPORT:DE | SKY BUNDESLIGA 4 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29526
+#EXTINF: -1 tvg-name="SPORT:DE | SKY BUNDESLIGA 5 FHD" group-title="ZAL-SPORT3", SPORT:DE | SKY BUNDESLIGA 5 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29527
+#EXTINF: -1 tvg-name="SPORT:DE | SKY BUNDESLIGA 6 FHD" group-title="ZAL-SPORT3", SPORT:DE | SKY BUNDESLIGA 6 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29528
+#EXTINF: -1 tvg-name="SPORT:DE | SKY BUNDESLIGA 7 FHD" group-title="ZAL-SPORT3", SPORT:DE | SKY BUNDESLIGA 7 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29529
+#EXTINF: -1 tvg-name="SPORT:DE | SKY BUNDESLIGA 8 FHD" group-title="ZAL-SPORT3", SPORT:DE | SKY BUNDESLIGA 8 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29530
+#EXTINF: -1 tvg-name="SPORT:DE | SKY BUNDESLIGA 9 FHD" group-title="ZAL-SPORT3", SPORT:DE | SKY BUNDESLIGA 9 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29531
+#EXTINF: -1 tvg-name="SPORT:DE | SKY SPORT 1 HD" group-title="ZAL-SPORT3", SPORT:DE | SKY SPORT 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29532
+#EXTINF: -1 tvg-name="SPORT:DE | SKY SPORT 10 HD" group-title="ZAL-SPORT3", SPORT:DE | SKY SPORT 10 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29533
+#EXTINF: -1 tvg-name="SPORT:DE | SKY SPORT 2 HD" group-title="ZAL-SPORT3", SPORT:DE | SKY SPORT 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29534
+#EXTINF: -1 tvg-name="SPORT:DE | SKY SPORT 3 HD" group-title="ZAL-SPORT3", SPORT:DE | SKY SPORT 3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29535
+#EXTINF: -1 tvg-name="SPORT:DE | SKY SPORT 8 HD" group-title="ZAL-SPORT3", SPORT:DE | SKY SPORT 8 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29536
+#EXTINF: -1 tvg-name="SPORT:DE | SKY SPORT 9 HD" group-title="ZAL-SPORT3", SPORT:DE | SKY SPORT 9 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29537
+#EXTINF: -1 tvg-name="SPORT:DE | Sky Sport Austria HD" group-title="ZAL-SPORT3", SPORT:DE | Sky Sport Austria HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29538
+#EXTINF: -1 tvg-name="SPORT:DE | SKY SPORT NEWS HD" group-title="ZAL-SPORT3", SPORT:DE | SKY SPORT NEWS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29539
+#EXTINF: -1 tvg-name="SPORT:DE | SPORT 1  HD" group-title="ZAL-SPORT3", SPORT:DE | SPORT 1  HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29540
+#EXTINF: -1 tvg-name="SPORT:DE | Teleclub Sport 1 HD" group-title="ZAL-SPORT3", SPORT:DE | Teleclub Sport 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29542
+#EXTINF: -1 tvg-name="SPORT:DE | Teleclub Sport 2 HD" group-title="ZAL-SPORT3", SPORT:DE | Teleclub Sport 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/29543
+#EXTINF: -1 tvg-name="|UK| Eurosport 1 HD" group-title="ZAL-SPORT3", |UK| Eurosport 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/26742
+#EXTINF: -1 tvg-name="|UK| Eurosport 2 HD" group-title="ZAL-SPORT3", |UK| Eurosport 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/26743
+#EXTINF: -1 tvg-name="EUROSPORT FHD" group-title="ZAL-SPORT3", EUROSPORT FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/26549
+#EXTINF: -1 tvg-name="USAᶫᵒ: ESPN 2 | HD" group-title="ZAL-SPORT3", USAᶫᵒ: ESPN 2 | HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28686
+#EXTINF: -1 tvg-name="FR | EUROSPORT 1 FHD" tvg-logo="http://nomorecable.xyz:80/image/chn?id=1130" group-title="ZAL-SPORT3", FR | EUROSPORT 1 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/37394
+#EXTINF: -1 tvg-name="FR | EUROSPORT 2 FHD" tvg-logo="http://nomorecable.xyz:80/image/chn?id=1131" group-title="ZAL-SPORT3", FR | EUROSPORT 2 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/37395
+
 ###malay##
 #EXTM3U 
 #EXTINF: -1 tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ZAL-KNOW", ID: ANIMAL PLANET
