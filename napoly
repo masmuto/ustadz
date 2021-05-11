@@ -197,129 +197,131 @@ http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 
 
 ### ZALCODE SPORT ###
+#EXTINF:-1 tvg-id="" tvg-name="BTESPM" tvg-logo="" group-title="ZALCODE-SPORT-1",BT ESPN
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/7
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="ZALCODE-SPORT-1",WWE
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 1" tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN Sports 1
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/10
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 2" tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN Sports 2
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/11
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 3" tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN Sports 3
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/12
+#EXTINF:-1 tvg-id="" tvg-name="BEIN XTRA" tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN XTRA
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/13
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports English 1" tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN Sports English 1
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/15
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="" group-title="ZALCODE-SPORT-1",NBCSN
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/16
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 4" tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN Sports 4
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/17
+#EXTINF:-1 tvg-id="" tvg-name="Sky sports news " tvg-logo="" group-title="ZALCODE-SPORT-1",Sky sports news 
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/22
+#EXTINF:-1 tvg-id="" tvg-name="HALOW  sports " tvg-logo="" group-title="ZALCODE-SPORT-1",HALOW  sports 
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/23
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports  USA " tvg-logo="" group-title="ZALCODE-SPORT-1",Bein Sports  USA 
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/21
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 5" tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN Sports 5
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/28
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 6" tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN Sports 6
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/29
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 7" tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN Sports 7
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/30
+#EXTINF:-1 tvg-id="" tvg-name="ELTA 1" tvg-logo="" group-title="ZALCODE-SPORT-1",ELTA 1
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/31
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports HD" tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN Sports HD
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/33
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 1" tvg-logo="" group-title="ZALCODE-SPORT-1",SUPERSPORT 1
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/54
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 4" tvg-logo="" group-title="ZALCODE-SPORT-1",SUPERSPORT 4
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/55
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 5" tvg-logo="" group-title="ZALCODE-SPORT-1",SUPERSPORT 5
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/56
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 3" tvg-logo="" group-title="ZALCODE-SPORT-1",SUPERSPORT 3
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/57
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 2" tvg-logo="" group-title="ZALCODE-SPORT-1",SUPERSPORT 2
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/58
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 3 A" tvg-logo="" group-title="ZALCODE-SPORT-1",SUPERSPORT 3 A
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/59
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 6" tvg-logo="" group-title="ZALCODE-SPORT-1",SUPERSPORT 6
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/60
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 7" tvg-logo="" group-title="ZALCODE-SPORT-1",SUPERSPORT 7
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/61
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 8" tvg-logo="" group-title="ZALCODE-SPORT-1",SUPERSPORT 8
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/62
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports SD 6" tvg-logo="" group-title="ZALCODE-SPORT-1",Bein Sports SD 6
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/66
+#EXTINF:-1 tvg-id="" tvg-name="SITV Sports " tvg-logo="" group-title="ZALCODE-SPORT-1",SITV Sports 
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/77
+#EXTINF:-1 tvg-id="" tvg-name="Sports tv1 " tvg-logo="" group-title="ZALCODE-SPORT-1",Sports tv1 
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/78
+#EXTINF:-1 tvg-id="" tvg-name="Sports tv2 " tvg-logo="" group-title="ZALCODE-SPORT-1",Sports tv2 
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/79
+#EXTINF:-1 tvg-id="" tvg-name="Testing " tvg-logo="" group-title="ZALCODE-SPORT-1",Testing 
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/81
+#EXTINF:-1 tvg-id="" tvg-name="Ten sports 2" tvg-logo="" group-title="ZALCODE-SPORT-1",Ten sports 2
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/100
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports 1 France " tvg-logo="" group-title="ZALCODE-SPORT-1",BEIN Sports 1 France 
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/98
+#EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="https://i.postimg.cc/yNLxc3q6/611-cinemax-1.png" group-title="ZALCODE-MOVIE-1",Cinemax FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7062
+#EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movie FHD" tvg-logo="https://i.postimg.cc/C13tZyVj/fox-action-movies-logo.png" group-title="ZALCODE-MOVIE-1",Fox Action Movie FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7063
+#EXTINF:-1 tvg-id="foxmovies.id" tvg-name="Fox Movies HD" tvg-logo="https://i.postimg.cc/gJ6Xvyvy/images-27.jpg" group-title="ZALCODE-MOVIE-1",Fox Movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7064
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://4.bp.blogspot.com/-hSjgR2X3558/W7Q7SFzKEbI/AAAAAAAAmVg/UZn5xowoPlgTenyfZjxsUJuve5z3wuzGQCLcBGAs/s1600/galaxy-premium-tv-channel-logo.jpg" group-title="ZALCODE-MOVIE-1",Galaxy Premium
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7065
+#EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="https://i.postimg.cc/0jkv8P26/hits-movies-logo.png" group-title="ZALCODE-MOVIE-1",Hits Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7066
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="https://i.postimg.cc/vmtSG91z/hbo-logo-1.jpg" group-title="ZALCODE-MOVIE-1",HBO FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
+#EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="https://i.postimg.cc/0jTCY2Mj/download-27.jpg" group-title="ZALCODE-MOVIE-1",HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
+#EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="https://i.postimg.cc/HLYFcB1K/images-13.png" group-title="ZALCODE-MOVIE-1",HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7069
+#EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="https://i.postimg.cc/FFyqZMFq/images-14.png" group-title="ZALCODE-MOVIE-1",HBO Family FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
+#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://i.postimg.cc/nzvd3mx7/Screen-RED-logo.jpg" group-title="ZALCODE-MOVIE-1",Red By HBO HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7071
+#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="https://i.postimg.cc/yNRnNRk5/Warner2018-LA-1.png" group-title="ZALCODE-MOVIE-1",Warner TV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
+#EXTINF:-1 tvg-id="tvnmovies.id" tvg-name="tVN movies HD" tvg-logo="https://i.postimg.cc/9XLB4GHn/download-16.png" group-title="ZALCODE-MOVIE-1",tVN movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7074
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="National Geographic HD" tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1" group-title="ZALCODE-KNOW-1",National Geographic HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
+#EXTINF:-1 tvg-id="nationalgeographicwild.id" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.postimg.cc/mgghrFPY/6c9ec01d4a9a69672540d0dc29551f22-1.jpg" group-title="ZALCODE-KNOW-1",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
+#EXTINF:-1 tvg-id="nationalgeographicpeople.id" tvg-name="Nat Geo People HD" tvg-logo="https://i.postimg.cc/4ddYFHg4/image.jpg" group-title="ZALCODE-KNOW-1",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
+#EXTINF:-1 tvg-id="history.id" tvg-name="History FHD" tvg-logo="https://i.postimg.cc/ryjhrvhS/1200px-History-Logo-svg.png" group-title="ZALCODE-KNOW-1",History FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
+#EXTINF:-1 tvg-id="discoverychannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://i.postimg.cc/tg10S9cQ/Discovery-Channel-2000.png" group-title="ZALCODE-KNOW-1",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
+#EXTINF:-1 tvg-id="animalplanet.id" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/8ccn54V8/dcq246c-675c32c8-5900-4a87-8070-ac1c5b8d66c2.png" group-title="ZALCODE-KNOW-1",Animal Planet
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7077
+#EXTINF:-1 tvg-id="hgtv.id" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/xd7QnXm1/HGTV-logo-1.png" group-title="ZALCODE-KNOW-1",HGTV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
+#EXTINF:-1 tvg-id="ID: CINEMA WORLD HD" tvg-name="Cinema World" tvg-logo="https://i.postimg.cc/1Xcz48Bp/download-28.jpg" group-title="ZALCODE-MOVIE-1",Cinema World
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7219
+#EXTINF:-1 tvg-id="thrill.id" tvg-name="Thrill" tvg-logo="https://i.postimg.cc/hPkCKhwC/Thrill-logo.jpg" group-title="ZALCODE-MOVIE-1",Thrill
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7220
+#EXTINF:-1 tvg-id="ID: AXN HD" tvg-name="AXN" tvg-logo="https://i.postimg.cc/76XKMVKh/Cb-Sp-RQ2-WEAEEr-Tn-jpg-large.jpg" group-title="ZALCODE-MOVIE-1",AXN
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7223
+#EXTINF:-1 tvg-id="foxcrime.id" tvg-name="Fox Crime" tvg-logo="https://i.postimg.cc/J495Jnb9/23-236589-fox-crime-hd-png-download.jpg" group-title="ZALCODE-MOVIE-1",Fox Crime
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7225
+#EXTINF:-1 tvg-id="fox.id" tvg-name="FOX" tvg-logo="https://i.postimg.cc/HsSgzqS0/1200px-FOX-wordmark-orange-svg.png" group-title="ZALCODE-MOVIE-1",FOX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7227
+#EXTINF:-1 tvg-id="ID: FOX LIFE" tvg-name="Fox Life" tvg-logo="https://i.postimg.cc/fySBn0cf/Fox-Life-pt-logo.png" group-title="ZALCODE-MOVIE-1",Fox Life
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
+#EXTINF:-1 tvg-id="kix.id" tvg-name="KiX" tvg-logo="https://i.postimg.cc/JhPLtS9d/1200px-KIX-logo-svg.png" group-title="ZALCODE-MOVIE-1",KiX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7229
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies." tvg-logo="https://i.postimg.cc/bwFrd64g/download-29.jpg" group-title="ZALCODE-MOVIE-1",Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7222
+#EXTINF:-1 tvg-id="bbcearth.id" tvg-name="BBC Earth" tvg-logo="https://i.postimg.cc/JnTztw2Q/BBC-Earth.png" group-title="ZALCODE-KNOW-1",BBC Earth
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7233
+#EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="https://i.postimg.cc/zX0jX012/CMC-English-full-color-black-text-2.jpg" group-title="ZALCODE-MOVIE-1",Celestial Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7235
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="ZALCODE-SPORT",Fox Sports 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="ZALCODE-SPORT",Fox Sports 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="ZALCODE-SPORT",Fox Sports 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 1
-https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 2
-https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 3
-https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 4
-https://www.livedoomovies.com/02_PremierHD4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 5
-https://www.livedoomovies.com/02_PremierHD5_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 1 HD
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 2 HD
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BB5v9PXAxbo/XWf228eo8bI/AAAAAAAAIaw/My5_uEHqtBYq-jOme6bVbZfUxOpVE_U9QCLcBGAs/s640/truevision.png" group-title="ZALCODE-SPORT", TrueVision 3 HD
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="ZALCODE-SPORT",Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="ZALCODE-SPORT",Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="ZALCODE-SPORT",Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="ZALCODE-SPORT",Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/bb/bbf8aa8cfd0411f1af63449751373933.jpeg" group-title="ZALCODE-SPORT",Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="ZALCODE-SPORT",BT Sport1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="ZALCODE-SPORT",BT Sport2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="ZALCODE-SPORT",True Sport 1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
- 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="ZALCODE-SPORT",True Sport 2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
- 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1072.png" group-title="ZALCODE-SPORT",True Sport 3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
- 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1073.png" group-title="ZALCODE-SPORT",True Sport 4
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
- 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1074.png" group-title="ZALCODE-SPORT",True Sport 5
-https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
- 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1075.png" group-title="ZALCODE-SPORT",True Sport 6
-https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
- 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1076.png" group-title="ZALCODE-SPORT",True Sport 7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",EUROSPORTS" 1
-http://5.135.92.133:52841/out/u/509_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",EUROSPORTS" 1
-http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",EURO SPORTS" 2
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-
-#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",sony ten 1
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",sony ten 3
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",sony max
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="ZALCODE-SPORT",sony max"
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="ZALCODE-SPORT",TennisHD
-https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ZALCODE-SPORT",NBA HD
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ZALCODE-SPORT",NFL Network
-https://www.livedoomovies.com/02_NFLNetwork_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ZALCODE-SPORT",Golf HD
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ZALCODE-SPORT",T Sport
-https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/KDHJryj.png",DUBAI SPORTS 1 FHD
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/KDHJryj.png",DUBAI SPORTS 2 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://i.imgur.com/KDHJryj.png",DUBAI SPORTS 3 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
-
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?checkedby
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
-#EXTINF:-1 group-title="ZALCODE-SPORT" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 4
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="ZALCODE-SPORT",Alkass_1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="ZALCODE-SPORT",Alkass_2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="ZALCODE-SPORT",Alkass_3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="ZALCODE-SPORT",Alkass_4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="ZALCODE-SPORT",Alkass_5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-##beinsort##
 #EXTM3U
 #EXTINF:-1 group-title="ZAL-BEIN SPORTS" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_NEWS_1_HD.png",BEIN SPORTS  News HD
 http://xtra.xcs521.cz:8080/00:1A:79:16:FB:59/ziajdjjfdifjd64646/1884
