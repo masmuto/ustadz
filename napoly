@@ -4,11 +4,11 @@
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="TV Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/6QYtM4KX/RCTI.png" group-title="TV Nasional",RCTI+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QYtM4KX/RCTI.png" group-title="TV Nasional",RCTI+
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV Nasional", Global TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV Nasional", Global TV
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF: 1, tvg-logo="https://i.ibb.co/vQZbBCg/MENCEID-S1.png group-title=LOCAL, MNC TV+
+#EXTINF: 1 tvg-logo="https://i.ibb.co/vQZbBCg/MENCEID-S1.png group-title=LOCAL, MNC TV+
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/inews.png" group-title="TV Nasional", INEWS
 https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
@@ -1046,46 +1046,9 @@ http://bonev2.xyz/playlist/usee-galaxy-new-bonetv.m3u8
 http://bonev2.xyz/playlist/usee-galaxypremium-new-bonetv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="UseeMovies", IMC 
 http://bonev2.xyz/playlist/usee-imc-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cCdpgL9/animax.png" group-title=UseeKids,ANIMAX
-http://45.126.83.51/dr9445/h/h144/01.m3u8
-https://radenroro.net/RHS_september/homempd.php?channel=animax
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VHZ5Wr0/aniplus.png" group-title=UseeKids,ANIPLUS
-https://radenroro.net/RHS_september/homempd.php?channel=aniplus
-#EXTINF:-1 tvg-id= tvg-logo="https://i.imgur.com/9EDVkDJ.png?1" group-title=UseeKids,DISNEY CHANELL
-https://nonton.site:8443/6894864475/7163819284/306
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zxskrRW/disneyjunior.png" group-title=UseeKids,DISNEY JUNIOR
-https://nonton.site:8443/6894864475/7163819284/213
-#EXTINF:-1" group-title=UseeKids tvg-logo="https://i.postimg.cc/nhdz6n2h/Disney-XD.png, Disney XD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W6K5K00/cnlogo.png" group-title=UseeKids, Cartoon Network
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6757
-https://radenroro.net/RHS_september/homempd.php?channel=cartoonnetwork
-#EXTINF:-1 tvg-ID= tvg-name= tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title=UseeKids,DUCK TV
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/144753
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sH7sMKY/babyfirstlogo.png" group-title=UseeKids,BabyFirst
-https://radenroro.net/RHS_september/homempd.php?channel=babyfirst
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M8xBrts/nickelodeon-logo.png" group-title=UseeKids, Nickelodeon
-https://radenroro.net/RHS_september/homempd.php?channel=nickelodeon
-#EXTINF: -1 tvg-id=NIC.IN tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title=UseeKids, Nick Jr
-https://radenroro.net/RHS_september/homempd.php?channel=nickjr
-#EXTINF:-1 tvg-id= tvg-logo="https://i.imgur.com/9u5HOkL.png" group-title=UseeKids,Boomerang
-https://radenroro.net/RHS_september/homempd.php?channel=boomerang
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvkYP261/jimjam.jpg" group-title=UseeKids, Jim Jam
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4FVF0bg/horeelogo.png" group-title=UseeKids, Horee
-http://radenroro.net/RHS_september/maling.php?channel=vidio-7052
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHtsG8b/duniaanaklogo.png" group-title=UseeKids, Dunia Anak
-https://radenroro.net/RHS_september/homempd.php?channel=duniaanak
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title=UseeKids, Spacetoon
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/151075
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KbNK2Hn/davincilogo.png" group-title=UseeKids, Davinci Learning
-https://radenroro.net/RHS_september/homempd.php?channel=davinci
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WxtT6X8/dramworkslogo.png" group-title=UseeKids, Dreamworks
-https://radenroro.net/RHS_september/homempd.php?channel=dreamworks
-#EXTINF:-1" group-title=UseeKids tvg-logo="http://202.74.236.189/~uzbwkzam/img/mkidz.png,My Kids
-http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
-#EXTINF: -1 tvg-id=CBE.UK tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title=UseeKids, CBeebies
-http://51.52.156.22:8888/http/003
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/7PWHKMHn/Zoomookidslogo.png" group-title=UseeKids,ZooMoo
-http://radenroro.net/RHS_september/maling.php?channel=vidio-6533
-
+#EXTM3U 
+#EXTINF: -1 tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="VIP-INDO", ID: Warner TV
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157594
+#EXTINF: -1 tvg-id="beinsports1.qa" tvg-name="AR beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/f89e6a493f43c8eaa4dec4cab054a580.png" group-title="Best of Sports", AR beIN Sports 1 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/386
