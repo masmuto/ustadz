@@ -108,6 +108,50 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="VIDIO",vidio nasional
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",RCTI
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",SCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Indosiar
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",NET TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",MNCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",TRANSTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",GTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Kompas TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Metro TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Metro TV [Backup]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",O Channel
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Jak TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Jek TV
+http://122.248.43.138:1935/ch14/myStream/chunklist_w1542065869.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Citra Drama
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Citra Muslim
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Citra Bioskop
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",TV Edukasi
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Berita Satu
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",Berita Satu [Backup]
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="VIDIO" tvg-logo="",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
  
