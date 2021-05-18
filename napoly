@@ -1046,6 +1046,74 @@ http://bonev2.xyz/playlist/usee-galaxy-new-bonetv.m3u8
 http://bonev2.xyz/playlist/usee-galaxypremium-new-bonetv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="UseeMovies", IMC 
 http://bonev2.xyz/playlist/usee-imc-new-bonetv.m3u8
+#EXTINF:-1 tvg-id="1755b8a7893946c28ba819932a935220" tvg-name="Animax" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animax_v1.png" group-title="Kids",Animax
+http://mantul.biz.id:8888/gibran/gibran/129
+#EXTINF:-1 tvg-id="6c9066b191b5aa811ad7d0d3967b0209" tvg-name="Aniplus" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="Kids",Aniplus
+http://mantul.biz.id:8888/gibran/gibran/265
+#EXTINF:-1 tvg-id="850632a076b915194ea9f96619186053" tvg-name="Baby First TV" tvg-logo="http://www.transvision.co.id/images/channel/baby_first.png" group-title="Kids",Baby First TV
+http://mantul.biz.id:8888/gibran/gibran/85
+#EXTINF:-1 tvg-id="" tvg-name="Baby Songs Channel" tvg-logo="" group-title="Kids",Baby Songs Channel
+http://mantul.biz.id:8888/gibran/gibran/1141
+#EXTINF:-1 tvg-id="9aad1f26536a1671686e668b79ea9e91" tvg-name="Baby Tv" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png" group-title="Kids",Baby Tv
+http://mantul.biz.id:8888/gibran/gibran/4697
+#EXTINF:-1 tvg-id="" tvg-name="besmart" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_112.png" group-title="Kids",besmart
+http://mantul.biz.id:8888/gibran/gibran/6548
+#EXTINF:-1 tvg-id="d342802776827cb630868ce280091a72" tvg-name="CA: Disney XD" tvg-logo="https://www.wdtvpress.com/disneyxd/wp-content/uploads/sites/8/2017/04/2015_06_391x210px300dpi_DEFAULTSHOWIMAGE_DXD_hero_logo_RGB.png" group-title="Kids",CA: Disney XD
+http://mantul.biz.id:8888/gibran/gibran/3809
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network En" tvg-logo="http://www.transvision.co.id/images/channel/cn.png" group-title="Kids",Cartoon Network En
+http://mantul.biz.id:8888/gibran/gibran/1081
+#EXTINF:-1 tvg-id="2de02b1debc434ab2bc325e6b225af37" tvg-name="Cartoon Network ID" tvg-logo="http://www.transvision.co.id/images/channel/cn.png" group-title="Kids",Cartoon Network ID
+http://mantul.biz.id:8888/gibran/gibran/248
+#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://www.licenseglobal.com/sites/licenseglobal.com/files/cbeebies.png" group-title="Kids",CBeebies
+http://mantul.biz.id:8888/gibran/gibran/707
+#EXTINF:-1 tvg-id="9e725d16affe05cad7e304074f139628" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney Channel
+http://mantul.biz.id:8888/gibran/gibran/196
+#EXTINF:-1 tvg-id="9e725d16affe05cad7e304074f139628" tvg-name="Disney Channel EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney Channel EN
+http://mantul.biz.id:8888/gibran/gibran/4632
+#EXTINF:-1 tvg-id="908202efee04e9981db846f0dcf64c6a" tvg-name="Disney Jr En" tvg-logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png" group-title="Kids",Disney Jr En
+http://mantul.biz.id:8888/gibran/gibran/1093
+#EXTINF:-1 tvg-id="908202efee04e9981db846f0dcf64c6a" tvg-name="Disney Jr Id" tvg-logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png" group-title="Kids",Disney Jr Id
+http://mantul.biz.id:8888/gibran/gibran/698
+#EXTINF:-1 tvg-id="" tvg-name="Dreamwork" tvg-logo="https://pbs.twimg.com/media/DM6OD7DWsAIho9l.png" group-title="Kids",Dreamwork
+http://mantul.biz.id:8888/gibran/gibran/224
+#EXTINF:-1 tvg-id="" tvg-name="EBS Kids" tvg-logo="https://www.enewstoday.co.kr/news/photo/202004/1380562_441752_2549.png" group-title="Kids",EBS Kids
+http://mantul.biz.id:8888/gibran/gibran/1134
+#EXTINF:-1 tvg-id="" tvg-name="Etv Kids" tvg-logo="" group-title="Kids",Etv Kids
+http://mantul.biz.id:8888/gibran/gibran/11343
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee!" tvg-logo="https://1.bp.blogspot.com/-DTU4jIv0wYg/XtWinXRNCHI/AAAAAAAApzE/UpTVVxHnaXwEuqzpDxb7BIyakkSq2XGiwCLcBGAsYHQ/s1600/hip-hip-horee-tv-channel-logo.png" group-title="Kids",Hip Hip Horee!
+http://mantul.biz.id:8888/gibran/gibran/1140
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Kids",Horee
+http://mantul.biz.id:8888/gibran/gibran/263
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="Kids",KIDS TV
+http://mantul.biz.id:8888/gibran/gibran/10699
+#EXTINF:-1 tvg-id="cf09d2d9403abbf2da99d7c0c32a159b" tvg-name="Lingua" tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="Kids",Lingua
+http://mantul.biz.id:8888/gibran/gibran/6569
+#EXTINF:-1 tvg-id="b2de8125513ae0fbd06dbdb630adfee1" tvg-name="My Kidz" tvg-logo="https://1.bp.blogspot.com/-nbyTqhTwcjw/WJNDTzqA29I/AAAAAAAAAcs/xqCbtBbJyMIoSD-AJFnXpMOG_R8h-IahQCLcB/s1600/my-kids.png" group-title="Kids",My Kidz
+http://mantul.biz.id:8888/gibran/gibran/2219
+#EXTINF:-1 tvg-id="899fa33fe5e704d34d51a588735f9262" tvg-name="MY: Astro Ceria" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="Kids",MY: Astro Ceria
+http://mantul.biz.id:8888/gibran/gibran/1209
+#EXTINF:-1 tvg-id="1448645d135fd8ff3fb2839a4affcc9d" tvg-name="MY: Astro Ta-Daa!" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="Kids",MY: Astro Ta-Daa!
+http://mantul.biz.id:8888/gibran/gibran/11744
+#EXTINF:-1 tvg-id="ab2aa3301fb5f818d7c45899acad8bf0" tvg-name="MY: Astro Xiao Tai Yang" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Xiao_Tai_Yang_v1.png" group-title="Kids",MY: Astro Xiao Tai Yang
+http://mantul.biz.id:8888/gibran/gibran/5001
+#EXTINF:-1 tvg-id="20bcbc5eb5b4ecded70bdaa652477d9c" tvg-name="Nick Jr En" tvg-logo="http://www.transvision.co.id/images/channel/nick_jr.png" group-title="Kids",Nick Jr En
+http://mantul.biz.id:8888/gibran/gibran/22
+#EXTINF:-1 tvg-id="20bcbc5eb5b4ecded70bdaa652477d9c" tvg-name="Nick Jr ID" tvg-logo="http://www.transvision.co.id/images/channel/nick_jr.png" group-title="Kids",Nick Jr ID
+http://mantul.biz.id:8888/gibran/gibran/1197
+#EXTINF:-1 tvg-id="35ae9fdceb11ccfbc9551a45c2ee2177" tvg-name="Nickelodeon" tvg-logo="http://www.transvision.co.id/images/channel/nick.png" group-title="Kids",Nickelodeon
+http://mantul.biz.id:8888/gibran/gibran/67
+#EXTINF:-1 tvg-id="" tvg-name="UK: NICK JR" tvg-logo="http://www.transvision.co.id/images/channel/nick_jr.png" group-title="Kids",UK: NICK JR
+http://mantul.biz.id:8888/gibran/gibran/8671
+#EXTINF:-1 tvg-id="" tvg-name="UK: NICKELODEON" tvg-logo="http://www.transvision.co.id/images/channel/nick.png" group-title="Kids",UK: NICKELODEON
+http://mantul.biz.id:8888/gibran/gibran/5772
+#EXTINF:-1 tvg-id="d342802776827cb630868ce280091a72" tvg-name="UK: NIcktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nicktoons_2014_logo.svg/1280px-Nicktoons_2014_logo.svg.png" group-title="Kids",UK: NIcktoons
+http://mantul.biz.id:8888/gibran/gibran/4860
+#EXTINF:-1 tvg-id="" tvg-name="UK: TINY POP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Tiny_Pop_2011_logo.png/revision/latest/scale-to-width-down/340?cb=20160218164101" group-title="Kids",UK: TINY POP
+http://mantul.biz.id:8888/gibran/gibran/8670
+#EXTINF:-1 tvg-id="" tvg-name="US: Universal Kids" tvg-logo="https://www.shopuniversalkids.com/skin/frontend/snowcommerce/ukids/images/ukids-logo.png" group-title="Kids",US: Universal Kids
+http://mantul.biz.id:8888/gibran/gibran/1052
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="https://static1.squarespace.com/static/5313acf2e4b0ff95a87283a8/t/5de5d18c8d3bc029402d167a/1580885249914/" group-title="Kids",ZooMoo
+http://mantul.biz.id:8888/gibran/gibran/145
 
 #EXTM3U 
 #EXTINF: -1 tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="VIP-INDO", ID: Warner TV
