@@ -943,7 +943,7 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_big1.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.d67d8ab4f4c10bf22aa353e27879133c.Coday" tvg-name"[CODAY] beIN Sport 1 _USEETV",beIN Sport 1 _USEE
-https://mkctv.my.id/jusenak/useetv.m3u8?id=bein1
+https://nonton.site:8443/provision/pp/728
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_big1.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.1679091c5a880faf6fb5e6087eb1b2dc.Coday" tvg-name"[CODAY] beIN Sport 2 _USEETV",beIN Sport 2 _USEE
 http://bonev2.xyz/playlist/usee-beib2-new-bonetv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesport_big.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.98f13708210194c475687be6106a3b84.Coday" tvg-name"[CODAY] UseeSports _USEETV",UseeSports _USEE
