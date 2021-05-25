@@ -941,223 +941,24 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 
 ### OTHER SOURCE##
 #EXTM3U 
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_big1.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.d67d8ab4f4c10bf22aa353e27879133c.Coday" tvg-name"[CODAY] beIN Sport 1 _USEETV",beIN Sport 1 _USEE
-https://nonton.site:8443/provision/pp/728
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_big1.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.1679091c5a880faf6fb5e6087eb1b2dc.Coday" tvg-name"[CODAY] beIN Sport 2 _USEETV",beIN Sport 2 _USEE
-http://bonev2.xyz/playlist/usee-beib2-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesport_big.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.98f13708210194c475687be6106a3b84.Coday" tvg-name"[CODAY] UseeSports _USEETV",UseeSports _USEE
-http://bonev2.xyz/playlist/usee-useesport-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="UseeSPORTS"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEE
-http://bonev2.xyz/playlist/usee-useesports2-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="UseeSPORTS"  tvg-id="Riyan.4e732ced3463d06de0ca9a15b6153677.Coday" tvg-name"[CODAY] Champion TV 1 _USEETV",Champion TV 1 _USEE
-http://bonev2.xyz/playlist/usee-champion1-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_big.png" group-title="UseeSPORTS"  tvg-id="Riyan.f7177163c833dff4b38fc8d2872f1ec6.Coday" tvg-name"[CODAY] Champion TV 2 _USEETV",Champion TV 2 _USEE
-http://bonev2.xyz/playlist/usee-champion2-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1 _USEETV",Fox Sport 1 _USEE
-http://bonev2.xyz/playlist/usee-foxsport1-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.c0c7c76d30bd3dcaefc96f40275bdc0a.Coday" tvg-name"[CODAY] Fox Sport 2 _USEETV",Fox Sport 2 _USEE
-http://bonev2.xyz/playlist/usee-foxsport2-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.c51ce410c124a10e0db5e4b97fc2af39.Coday" tvg-name"[CODAY] Fox Sport 3 _USEETV",Fox Sport 3 _USEE
-http://bonev2.xyz/playlist/usee-foxsport3-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_golf_big1.png?v=2.0.0.14" group-title="UseeSPORTS"  tvg-id="Riyan.f457c545a9ded88f18ecee47145a72c0.Coday" tvg-name"[CODAY] Golf _USEETV",Golf+ _USEE
-http://bonev2.xyz/playlist/usee-golfplus-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nba_big1.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.6f4922f45568161a8cdf4ad2299f6d23.Coday" tvg-name"[CODAY] NBA _USEETV",NBA _USEE
-http://bonev2.xyz/playlist/usee-nba-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_egg_big1.png?v=2.0.0.13" group-title="UseeSPORTS"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] egg network _USEETV",egg network _USEE
-http://bonev2.xyz/playlist/usee-egg-new-bonetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85gfZ13X/antv.png" group-title="INDONESIA",ANTV [Dens]
+http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsSgj80d/AHSAN-TV.png" group-title="RELIGI",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLzDtZMC/9XM.png" group-title="MUSIK ASIK",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax by HBO" tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="HBO And FOX",CINEMAX
+https://www.dropbox.com/s/dl/707ppozbumm1iq6/carawaktv_cinemax.m3u8
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREA",KBS WORLD 
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==kbsworld&b=14&c=kbsworld
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/851vFF5J/atv.png" group-title="HIBURAN INDO",ATV [Nin]
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://i.postimg.cc/HLzc1ZkF/logo-axn-big.png" group-title="HIBURAN",AXN 
+http://210.210.155.35/session/111e4104-b09e-11ea-b1f3-c81f66f89318/uq2663/h/h141/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Lfqxhc/AKARAM-KIDS.png" group-title="KIDS",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="UseeLOKAL",TRANS 7 (Usee)
-http://bonev2.xyz/playlist/usee-trans7-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="UseeLOKAL",TRANS TV (Usee)
-http://bonev2.xyz/playlist/usee-transtv-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="UseeLOKAL",Indosiar (Usee)
-http://bonev2.xyz/playlist/usee-indosiar-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="UseeLOKAL",SCTV
-http://bonev2.xyz/playlist/usee-sctv-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="UseeLOKAL",Metro TV
-http://bonev2.xyz/playlist/usee-metrotv-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="UseeLOKAL",NET TV
-http://bonev2.xyz/playlist/usee-net-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="UseeLOKAL",Rajawali TV 
-http://bonev2.xyz/playlist/usee-rtv-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="beritasatu" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="UseeLOKAL",Berita Satu 
-http://bonev2.xyz/playlist/usee-beritasatu-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="UseeLOKAL",Kompas tv
-http://bonev2.xyz/playlist/usee-kompastv-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="jitv" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="UseeLOKAL",JITV
-http://bonev2.xyz/playlist/usee-jitv-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="insert" tvg-name="Insert" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="UseeLOKAL",Insert 
-http://bonev2.xyz/playlist/usee-insert-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="antara" tvg-name="ANTARA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="UseeLOKAL",ANTARA TV 
-http://bonev2.xyz/playlist/usee-antara-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="useeinfo" tvg-name="Ruang Terampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="UseeLOKAL",Ruang Terampil 
-http://bonev2.xyz/playlist/usee-useeinfo-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="useephoto" tvg-name="Usee Photo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="UseeLOKAL",Usee Photo 
-http://bonev2.xyz/playlist/usee-useephoto-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="useeprime" tvg-name="Usee Prime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="UseeLOKAL",Usee Prime
-http://bonev2.xyz/playlist/usee-useeprime-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="balitv" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="UseeLOKAL",BALI TV
-http://bonev2.xyz/playlist/usee-balitv-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="jaktv" tvg-name="JAK TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="UseeLOKAL",JAK TV 
-http://bonev2.xyz/playlist/usee-jaktv-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="jtv" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="UseeLOKAL",JTV 
-http://bonev2.xyz/playlist/usee-jtv-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="tvedukasi" tvg-name="TV Edukasi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="UseeLOKAL",TV Edukasi 
-http://bonev2.xyz/playlist/usee-tvedukasi-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="UseeLOKAL",TVRI
-http://bonev2.xyz/playlist/usee-tvri-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="daaitv" tvg-name="DAAI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="UseeLOKAL",DAAI Tv
-http://bonev2.xyz/playlist/usee-daaitv-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="rrinet" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="UseeLOKAL",RRI NET
-http://bonev2.xyz/playlist/usee-rrinet-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="UseeLOKAL",ANTV 
-http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="UseeLOKAL",TV ONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="UseeEntertainment", Dunia Lain 
-http://bonev2.xyz/playlist/usee-dunialain-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="citradrama" tvg-name="tes" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="UseeEntertainment", Citra Drama
-http://bonev2.xyz/playlist/usee-cdrama-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="UseeEntertainment", Warner 
-http://bonev2.xyz/playlist/usee-warner-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="UseeEntertainment", Blue ant entertainmet
-http://bonev2.xyz/playlist/usee-blueant-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="UseeEntertainment", Blue ant extreme
-http://bonev2.xyz/playlist/usee-blueantextreme-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="UseeEntertainment", AXN 
-http://bonev2.xyz/playlist/usee-axn-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="UseeEntertainment", Chinese Drama 
-http://bonev2.xyz/playlist/usee-chinesedrama-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="UseeEntertainment", Kix 
-http://bonev2.xyz/playlist/usee-kix-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="UseeEntertainment", Waku Waku Japan 
-http://bonev2.xyz/playlist/usee-wakuwaku-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="UseeEntertainment", K+ 
-http://bonev2.xyz/playlist/usee-kplus-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="UseeEntertainment", Sony GEM TV
-http://bonev2.xyz/playlist/usee-sgem-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="UseeEntertainment", Sony One 
-http://bonev2.xyz/playlist/usee-sone-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="UseeEntertainment", Outdoor CHANNEL 
-http://bonev2.xyz/playlist/usee-outdoor-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="UseeEntertainment", Aniplus 
-http://bonev2.xyz/playlist/usee-aniplus-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="UseeEntertainment", Animax 
-http://bonev2.xyz/playlist/usee-animax-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="UseeEntertainment", KBS World 
-http://bonev2.xyz/playlist/usee-kbsworld-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="UseeEntertainment", ABC Australia 
-http://bonev2.xyz/playlist/usee-abcaustralia-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="UseeEntertainment", Lifetime 
-http://bonev2.xyz/playlist/usee-lifetime-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="UseeEntertainment", Ctiasia
-http://bonev2.xyz/playlist/usee-ctiasia-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="UseeEntertainment", CCTV4 
-http://bonev2.xyz/playlist/usee-cctv4-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="UseeEntertainment", NHK World Japan 
-http://bonev2.xyz/playlist/usee-nhkworld-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="UseeEntertainment", Arirang 
-http://bonev2.xyz/playlist/usee-arirang-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="UseeEntertainment", TV5Monde 
-http://bonev2.xyz/playlist/usee-tv5monde-new-bonetv.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="UseeMovies", Bioskop Indonesia 
-http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="UseeMovies", ZBioskop 
-http://bonev2.xyz/playlist/usee-zbioskop-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="UseeMovies", TVN 
-http://bonev2.xyz/playlist/usee-tvn-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="UseeMovies", TVN MOVIES
-http://bonev2.xyz/playlist/usee-tvnmovies-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="UseeMovies", Thrill 
-http://bonev2.xyz/playlist/usee-thrill-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="UseeMovies", Celestial Movie 
-http://bonev2.xyz/playlist/usee-celestialmovie-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="UseeMovies", Cinema World 
-http://bonev2.xyz/playlist/usee-cinemaworld-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="UseeMovies", Flik 
-http://bonev2.xyz/playlist/usee-flik-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="UseeMovies", Galaxy
-http://bonev2.xyz/playlist/usee-galaxy-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="UseeMovies", Galaxy Premium 
-http://bonev2.xyz/playlist/usee-galaxypremium-new-bonetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="UseeMovies", IMC 
-http://bonev2.xyz/playlist/usee-imc-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="1755b8a7893946c28ba819932a935220" tvg-name="Animax" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animax_v1.png" group-title="Kids",Animax
-http://mantul.biz.id:8888/gibran/gibran/129
-#EXTINF:-1 tvg-id="6c9066b191b5aa811ad7d0d3967b0209" tvg-name="Aniplus" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="Kids",Aniplus
-http://mantul.biz.id:8888/gibran/gibran/265
-#EXTINF:-1 tvg-id="850632a076b915194ea9f96619186053" tvg-name="Baby First TV" tvg-logo="http://www.transvision.co.id/images/channel/baby_first.png" group-title="Kids",Baby First TV
-http://mantul.biz.id:8888/gibran/gibran/85
-#EXTINF:-1 tvg-id="" tvg-name="Baby Songs Channel" tvg-logo="" group-title="Kids",Baby Songs Channel
-http://mantul.biz.id:8888/gibran/gibran/1141
-#EXTINF:-1 tvg-id="9aad1f26536a1671686e668b79ea9e91" tvg-name="Baby Tv" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png" group-title="Kids",Baby Tv
-http://mantul.biz.id:8888/gibran/gibran/4697
-#EXTINF:-1 tvg-id="" tvg-name="besmart" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_112.png" group-title="Kids",besmart
-http://mantul.biz.id:8888/gibran/gibran/6548
-#EXTINF:-1 tvg-id="d342802776827cb630868ce280091a72" tvg-name="CA: Disney XD" tvg-logo="https://www.wdtvpress.com/disneyxd/wp-content/uploads/sites/8/2017/04/2015_06_391x210px300dpi_DEFAULTSHOWIMAGE_DXD_hero_logo_RGB.png" group-title="Kids",CA: Disney XD
-http://mantul.biz.id:8888/gibran/gibran/3809
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network En" tvg-logo="http://www.transvision.co.id/images/channel/cn.png" group-title="Kids",Cartoon Network En
-http://mantul.biz.id:8888/gibran/gibran/1081
-#EXTINF:-1 tvg-id="2de02b1debc434ab2bc325e6b225af37" tvg-name="Cartoon Network ID" tvg-logo="http://www.transvision.co.id/images/channel/cn.png" group-title="Kids",Cartoon Network ID
-http://mantul.biz.id:8888/gibran/gibran/248
-#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://www.licenseglobal.com/sites/licenseglobal.com/files/cbeebies.png" group-title="Kids",CBeebies
-http://mantul.biz.id:8888/gibran/gibran/707
-#EXTINF:-1 tvg-id="9e725d16affe05cad7e304074f139628" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney Channel
-http://mantul.biz.id:8888/gibran/gibran/196
-#EXTINF:-1 tvg-id="9e725d16affe05cad7e304074f139628" tvg-name="Disney Channel EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney Channel EN
-http://mantul.biz.id:8888/gibran/gibran/4632
-#EXTINF:-1 tvg-id="908202efee04e9981db846f0dcf64c6a" tvg-name="Disney Jr En" tvg-logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png" group-title="Kids",Disney Jr En
-http://mantul.biz.id:8888/gibran/gibran/1093
-#EXTINF:-1 tvg-id="908202efee04e9981db846f0dcf64c6a" tvg-name="Disney Jr Id" tvg-logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png" group-title="Kids",Disney Jr Id
-http://mantul.biz.id:8888/gibran/gibran/698
-#EXTINF:-1 tvg-id="" tvg-name="Dreamwork" tvg-logo="https://pbs.twimg.com/media/DM6OD7DWsAIho9l.png" group-title="Kids",Dreamwork
-http://mantul.biz.id:8888/gibran/gibran/224
-#EXTINF:-1 tvg-id="" tvg-name="EBS Kids" tvg-logo="https://www.enewstoday.co.kr/news/photo/202004/1380562_441752_2549.png" group-title="Kids",EBS Kids
-http://mantul.biz.id:8888/gibran/gibran/1134
-#EXTINF:-1 tvg-id="" tvg-name="Etv Kids" tvg-logo="" group-title="Kids",Etv Kids
-http://mantul.biz.id:8888/gibran/gibran/11343
-#EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee!" tvg-logo="https://1.bp.blogspot.com/-DTU4jIv0wYg/XtWinXRNCHI/AAAAAAAApzE/UpTVVxHnaXwEuqzpDxb7BIyakkSq2XGiwCLcBGAsYHQ/s1600/hip-hip-horee-tv-channel-logo.png" group-title="Kids",Hip Hip Horee!
-http://mantul.biz.id:8888/gibran/gibran/1140
-#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Kids",Horee
-http://mantul.biz.id:8888/gibran/gibran/263
-#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="Kids",KIDS TV
-http://mantul.biz.id:8888/gibran/gibran/10699
-#EXTINF:-1 tvg-id="cf09d2d9403abbf2da99d7c0c32a159b" tvg-name="Lingua" tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="Kids",Lingua
-http://mantul.biz.id:8888/gibran/gibran/6569
-#EXTINF:-1 tvg-id="b2de8125513ae0fbd06dbdb630adfee1" tvg-name="My Kidz" tvg-logo="https://1.bp.blogspot.com/-nbyTqhTwcjw/WJNDTzqA29I/AAAAAAAAAcs/xqCbtBbJyMIoSD-AJFnXpMOG_R8h-IahQCLcB/s1600/my-kids.png" group-title="Kids",My Kidz
-http://mantul.biz.id:8888/gibran/gibran/2219
-#EXTINF:-1 tvg-id="899fa33fe5e704d34d51a588735f9262" tvg-name="MY: Astro Ceria" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="Kids",MY: Astro Ceria
-http://mantul.biz.id:8888/gibran/gibran/1209
-#EXTINF:-1 tvg-id="1448645d135fd8ff3fb2839a4affcc9d" tvg-name="MY: Astro Ta-Daa!" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="Kids",MY: Astro Ta-Daa!
-http://mantul.biz.id:8888/gibran/gibran/11744
-#EXTINF:-1 tvg-id="ab2aa3301fb5f818d7c45899acad8bf0" tvg-name="MY: Astro Xiao Tai Yang" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Xiao_Tai_Yang_v1.png" group-title="Kids",MY: Astro Xiao Tai Yang
-http://mantul.biz.id:8888/gibran/gibran/5001
-#EXTINF:-1 tvg-id="20bcbc5eb5b4ecded70bdaa652477d9c" tvg-name="Nick Jr En" tvg-logo="http://www.transvision.co.id/images/channel/nick_jr.png" group-title="Kids",Nick Jr En
-http://mantul.biz.id:8888/gibran/gibran/22
-#EXTINF:-1 tvg-id="20bcbc5eb5b4ecded70bdaa652477d9c" tvg-name="Nick Jr ID" tvg-logo="http://www.transvision.co.id/images/channel/nick_jr.png" group-title="Kids",Nick Jr ID
-http://mantul.biz.id:8888/gibran/gibran/1197
-#EXTINF:-1 tvg-id="35ae9fdceb11ccfbc9551a45c2ee2177" tvg-name="Nickelodeon" tvg-logo="http://www.transvision.co.id/images/channel/nick.png" group-title="Kids",Nickelodeon
-http://mantul.biz.id:8888/gibran/gibran/67
-#EXTINF:-1 tvg-id="" tvg-name="UK: NICK JR" tvg-logo="http://www.transvision.co.id/images/channel/nick_jr.png" group-title="Kids",UK: NICK JR
-http://mantul.biz.id:8888/gibran/gibran/8671
-#EXTINF:-1 tvg-id="" tvg-name="UK: NICKELODEON" tvg-logo="http://www.transvision.co.id/images/channel/nick.png" group-title="Kids",UK: NICKELODEON
-http://mantul.biz.id:8888/gibran/gibran/5772
-#EXTINF:-1 tvg-id="d342802776827cb630868ce280091a72" tvg-name="UK: NIcktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nicktoons_2014_logo.svg/1280px-Nicktoons_2014_logo.svg.png" group-title="Kids",UK: NIcktoons
-http://mantul.biz.id:8888/gibran/gibran/4860
-#EXTINF:-1 tvg-id="" tvg-name="UK: TINY POP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Tiny_Pop_2011_logo.png/revision/latest/scale-to-width-down/340?cb=20160218164101" group-title="Kids",UK: TINY POP
-http://mantul.biz.id:8888/gibran/gibran/8670
-#EXTINF:-1 tvg-id="" tvg-name="US: Universal Kids" tvg-logo="https://www.shopuniversalkids.com/skin/frontend/snowcommerce/ukids/images/ukids-logo.png" group-title="Kids",US: Universal Kids
-http://mantul.biz.id:8888/gibran/gibran/1052
-#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="https://static1.squarespace.com/static/5313acf2e4b0ff95a87283a8/t/5de5d18c8d3bc029402d167a/1580885249914/" group-title="Kids",ZooMoo
-http://mantul.biz.id:8888/gibran/gibran/145
 
 #EXTM3U 
 #EXTINF: -1 tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="VIP-INDO", ID: Warner TV
